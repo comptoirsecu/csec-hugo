@@ -1,0 +1,15 @@
+{
+  "name": "csec-hugo",
+  "version": "1.0.0",
+  "description": "ComptoirSécu website using Hugo and Semantic-ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Le Comptoir Sécu",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
