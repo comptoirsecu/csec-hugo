@@ -8,8 +8,24 @@
   },
   "author": "Le Comptoir Sécu",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "foundation-sites": "^6.3.1"
+  },
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "babel-preset-es2015": "^6.24.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-babel": "^6.1.2",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^3.0.0",
+    "gulp-htmlhint": "^0.3.1",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-shorthand": "^1.1.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-uncss": "^1.0.6",
+    "node-sass": "^4.5.3"
   }
 }
