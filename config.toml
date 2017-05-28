@@ -1,3 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "http:///"
 languageCode = "en-us"
 title = "My New Hugo Site"
+
+MetaDataFormat = "yaml"

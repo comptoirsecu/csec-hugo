@@ -2,6 +2,7 @@ var gulp = require('gulp');
 var plugins = require('gulp-load-plugins')();
 var dest_css = "static/css";
 var sass_src = "src/scss/app.scss";
+var runSequence = require('run-sequence');
 var javascript_src = ['src/js/enabled/foundation.core.js', 'src/js/enabled/*.js'];
 var dest_javascript = "static/js";
 var sassPaths = [
@@ -9,6 +10,8 @@ var sassPaths = [
   'src/scss/normalize-scss/sass',
   'src/scss/sassy-lists/stylesheets'
 ];
+var exec = require('child_process').exec;
+
 
 gulp.task('sass:dev', function() {
   return gulp.src(sass_src)
@@ -71,9 +74,21 @@ gulp.task('html:prod', function() {
 
 gulp.task('clean', function() {
   return gulp.src('public')
-  .pipe(plugins.clean())
+  .pipe(plugins.clean());
 });
 
 gulp.task('default', ['sass:dev'], function() {
   gulp.watch(['src/scss/**/*.scss'], ['sass:dev']);
+});
+
+gulp.task('hugo', function (cb) {
+  exec('hugo', function (err, stdout, stderr) {
+    console.log(stdout);
+    console.log(stderr);
+    cb(err);
+  });
+});
+
+gulp.task('build', function(callback) {
+  runSequence('clean', ['sass:prod', 'javascript:prod'], 'hugo', 'html:prod', callback);
 });
