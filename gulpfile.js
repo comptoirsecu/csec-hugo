@@ -36,18 +36,16 @@ gulp.task('sass:prod', function() {
     .pipe(plugins.autoprefixer({
       browsers: ['last 2 versions', 'ie >= 9']
     }))
-    .pipe(plugins.shorthand())
-    .pipe(plugins.csso())
     .pipe(gulp.dest(dest_css));
 });
 
 
-gulp.task('uncss', function() {
+gulp.task('css:prod', function() {
   return gulp.src('public/css/app.css')
-  .pipe(plugins.uncss({
-          html: ['public/**/*.html']
-      }))
-  .pipe(gulp.dest('public/css/app.css'))
+  .pipe(plugins.purifycss(['./public/**/*.js', './public/**/*.html']))
+  .pipe(plugins.shorthand())
+  .pipe(plugins.csso())
+  .pipe(gulp.dest('public/css/'))
 });
 
 
@@ -99,5 +97,5 @@ gulp.task('default', ['sass:dev', 'javascript:dev'], function() {
 });
 
 gulp.task('build', function(callback) {
-  runSequence('clean', ['sass:prod', 'javascript:prod'], 'hugo', 'html:prod', callback);
+  runSequence('clean', ['sass:prod', 'javascript:prod'], 'hugo', 'html:prod', 'css:prod', callback);
 });
