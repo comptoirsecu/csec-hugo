@@ -19,7 +19,6 @@ tags:
   - ssi
   - usecase
 ---
-Bonjour à tous,
 
 Pour ce 41ème épisode, nous avons voulu échanger sur les sujets du SIEM et du SOC: que font-ils et quels sont les différences ? Comment les mettre en place ? Est-ce utile pour son organisation ?
 

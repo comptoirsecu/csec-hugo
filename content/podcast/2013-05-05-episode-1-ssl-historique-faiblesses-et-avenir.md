@@ -25,7 +25,6 @@ music:
     - schematicwizard_generique
     - slim_curandera
 ---
-Bonjour à tous,
 
 Voici le premier épisode du comptoir sécu tant attendu. Au thème de cette
 émission : des news sur l'actualité du mois d'Avril et un dossier sur le SSL et

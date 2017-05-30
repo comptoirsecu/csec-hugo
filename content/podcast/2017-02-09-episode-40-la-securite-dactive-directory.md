@@ -19,7 +19,6 @@ tags:
   - ANSSI
   - podcast
 ---
-Bonjour à tous,
 
 Pour ce 40ème épisode, nous avons décidé de faire un dossier sur un sujet que l'on parle peu mais qui est central au sein du système d'information: l'Active Directory.
 

@@ -27,7 +27,6 @@ drinks:
 
 guests:
 ---
-Bonjour à toutes et tous !
 
 Un petit peu de retard ce mois ci, on va donc décaler notre passage en bimensuel au mois d'Octobre.
 
