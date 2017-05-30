@@ -1,7 +1,7 @@
 <article class="card" style="height: 100%;">
-    <a href="{{ .Permalink }}"><img src="{{with .Params.image }}{{ . }}{{ else }}images/default.jpg{{end}}" />
+    <a href="{{ .Permalink }}"><img src="{{with .Params.image }}{{ . }}{{ else }}images/default.jpg{{end}}" /></a>
   <header class="card-divider">
-    <h5>{{ .Title }}<h5></a>
+    <h5><a href="{{ .Permalink }}">{{ .Title }}</a><h5>
     {{ if ne .Section "sechebdo" }}
     <h6 class="subheader">{{ .Params.subheadline }}<h6>
     {{ end }}
