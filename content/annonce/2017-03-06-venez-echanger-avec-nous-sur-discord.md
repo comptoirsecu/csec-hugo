@@ -6,7 +6,7 @@ author: morgan
 date: 2017-03-06
 
 aliases: /2017/03/venez-echanger-avec-nous-sur-discord/
-image: /images/2017/03/discord-672x372.png
+image:  /images/2017/03/discord.png
 categories:
   - Blog
   - Annonce

@@ -13,7 +13,7 @@ podcast:
     Je vous cache pas que c'est un essai, n'hésitez pas à me dire dans les commentaires ce que vous en pensez. Je me dis que ça va peut-être un peu trop vite niveau information à assimiler.
 
     A bientôt pour d'autres émissions/podcasts!"
-image: /images/2017/01/SEClair-01-Les-ransomwares-672x372.png
+image:  /images/2017/01/SEClair-01-Les-ransomwares.png
 categories:
   - SEClair
 tags:

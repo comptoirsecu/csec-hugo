@@ -8,7 +8,7 @@ date: 2017-02-09
 aliases: /2017/02/episode-40-la-securite-dactive-directory/
 podcast:
   feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP40.2017-02-09.ACTIVE_DIRECTORY.mp3
-image: /images/2017/02/AD-672x340.png
+image:  /images/2017/02/AD.png
 categories:
   - Podcast
   - Emission
