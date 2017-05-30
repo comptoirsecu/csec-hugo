@@ -4,9 +4,10 @@ title: '[SECHebdo] Mai 2017 - 2'
 subheadline: "Intel AMT, MacronLeaks, Kryptonite, SS7, John Oliver, MsMpEng"
 author: justin
 date: 2017-05-09
+video: https://www.youtube.com/embed/pJvi6gJYCVY
+
 aliases: /2017/05/sechebdo-mai-2017-2-intel-amt-macronleaks-kryptonite-ss7-john-oliver-msmpeng/
 image:  /images/2017/05/sechebdo-2017-05-09-vignette.jpg
-youtubeurl:
 podcast:
     feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.SECHebdo.2017-05-09.mp3
     description: "SECHebdo est une revue de l'actualité cybersécurité réalisé en live sur Youtube, généralement le mardi soir."
@@ -23,11 +24,7 @@ tags:
 ---
 Bonjour à tous!
 
-Nous venons de tourner le second SECHebdo du mois de mai 2017 sur Youtube. Comme d'habitude, si vous avez raté l'enregistrement, vous pouvez le retrouver sur notre chaîne Youtube:
-
-{{< video "https://www.youtube.com/embed/pJvi6gJYCVY" >}}
-
-Ou bien au format podcast audio:
+Nous venons de tourner le second SECHebdo du mois de mai 2017 sur Youtube. Comme d'habitude, si vous avez raté l'enregistrement, vous pouvez le retrouver sur notre chaîne Youtube ou bien au format podcast audio:
 
 {{< podigee >}}
 

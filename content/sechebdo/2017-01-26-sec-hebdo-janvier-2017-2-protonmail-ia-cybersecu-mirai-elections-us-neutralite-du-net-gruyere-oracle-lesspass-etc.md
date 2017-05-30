@@ -4,6 +4,7 @@ title: '[SEC Hebdo] Janvier 2017 - 2'
 subheadline: "Protonmail, IA cybersécu, Mirai, Elections US, Neutralité du net, Gruyère Oracle, Lesspass, etc."
 author: morgan
 date: 2017-01-26
+video: https://www.youtube.com/embed/3CVMKBpkcs4
 
 aliases: /2017/01/sec-hebdo-janvier-2017-2-protonmail-ia-cybersecu-mirai-elections-us-neutralite-du-net-gruyere-oracle-lesspass-etc/
 podcast:
@@ -22,13 +23,7 @@ Bonjour à tous!
 
 C'était la surprise de la soirée, certains ont été très réactif et ont pu y assister alors que nous n'avions rien annoncé, le SEC Hebdo était en Live et en présence de Loïs et Justin!
 
-Ne vous en faites pas pour ceux qui auraient raté l'évènement, le playback est disponnible sur Youtube:
-
-
-{{< video "https://www.youtube.com/embed/3CVMKBpkcs4" >}}
-
-
-Version podcast:
+Ne vous en faites pas pour ceux qui auraient raté l'évènement, le playback est disponnible sur Youtube ou en version podcast:
 
 {{< podigee >}}
 

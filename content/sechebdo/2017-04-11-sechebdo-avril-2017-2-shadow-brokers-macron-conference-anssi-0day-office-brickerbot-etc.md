@@ -4,6 +4,8 @@ title: '[SECHebdo] Avril 2017 - 2'
 subheadline: "Shadow Brokers, Macron, Conférence ANSSI, 0Day Office, Brickerbot, etc."
 author: lois
 date: 2017-04-11
+video: https://www.youtube.com/embed/kN4oimOWA9o
+
 aliases: /2017/04/sechebdo-avril-2017-2-shadow-brokers-macron-conference-anssi-0day-office-brickerbot-etc/
 image:  /images/2017/05/sechebdo-2017-04-11-vignette.jpg
 podcast:
@@ -32,11 +34,7 @@ tags:
 
 Bonjour à tous!
 
-Nous venons de tourner le second SECHebdo du mois d'avril 2017 sur Youtube. Comme d'habitude, si vous avez raté l'enregistrement, vous pouvez le retrouver sur notre chaîne Youtube:
-
-{{< video "https://www.youtube.com/embed/kN4oimOWA9o" >}}
-
-Ou bien au format podcast audio:
+Nous venons de tourner le second SECHebdo du mois d'avril 2017 sur Youtube. Comme d'habitude, si vous avez raté l'enregistrement, vous pouvez le retrouver sur notre chaîne Youtube ou bien au format podcast audio:
 
 {{< podigee >}}
 

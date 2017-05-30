@@ -4,6 +4,8 @@ title: "[SECHebdo] Mai 2017 - 1"
 subheadline: "2FA, EvilGinx, Justicier Hajime, Rançon Netflix, BGPMon, NomX, Shadow Brokers, Shodan, etc."
 author: lois
 date: 2017-05-04
+video: https://www.youtube.com/embed/QJYbFlBPmDE
+
 aliases: /2017/05/sechebdo-mai-2017-1-2fa-evilginx-justicier-hajime-rancon-netflix-bgpmon-nomx-shadow-brokers-shodan-etc/
 image:  /images/2017/05/sechebdo-2017-05-01.jpg
 podcast:
@@ -33,11 +35,7 @@ tags:
 ---
 Bonjour à tous!
 
-Nous venons de tourner le premier SECHebdo du mois de mai 2017 sur Youtube. Comme d'habitude, si vous avez raté l'enregistrement, vous pouvez le retrouver sur notre chaîne Youtube:
-
-{{< video "https://www.youtube.com/embed/QJYbFlBPmDE" >}}
-
-Ou bien au format podcast audio:
+Nous venons de tourner le premier SECHebdo du mois de mai 2017 sur Youtube. Comme d'habitude, si vous avez raté l'enregistrement, vous pouvez le retrouver sur notre chaîne Youtube ou bien au format podcast audio:
 
 {{< podigee >}}
 

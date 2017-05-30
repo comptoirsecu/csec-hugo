@@ -4,6 +4,7 @@ title: '[SecHebdo] Mars 2017 - 4'
 subheadline: "Double Agent, Malware PLC Siemens, Leak Yahoo, Tavis & Lastpass, Pwn2Own, Dark Matter, etc."
 author: lois
 date: 2017-03-29
+video: https://www.youtube.com/embed/0doY-9thArc
 
 aliases: /2017/03/sechebdo-mars-2017-4-double-agent-pwn2own-dark-matter-tavis-1-lastpass-etc/
 podcast:
@@ -31,12 +32,7 @@ tags:
 ---
 Bonjour à tous!
 
-Nous venons de tourner le quatrième SECHebdo du mois de mars 2017 sur Youtube. Comme d'habitude, si vous avez raté l'enregistrement, vous pouvez le retrouver sur notre chaîne Youtube:
-
-{{< video "https://www.youtube.com/embed/0doY-9thArc" >}}
-
-
-Ou bien au format podcast audio:
+Nous venons de tourner le quatrième SECHebdo du mois de mars 2017 sur Youtube. Comme d'habitude, si vous avez raté l'enregistrement, vous pouvez le retrouver sur notre chaîne Youtube ou bien au format podcast audio:
 
 {{< podigee >}}
 

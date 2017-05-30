@@ -8,7 +8,7 @@
         <h2>{{ .Title }}<h2>
         <h3 class="subheader">{{ .Params.subheadline }}<h3>
       </header>
-      {{ if eq .Section "video" }}
+      {{ if or (eq .Section "video") (eq .Section "sechebdo") }}
         <div class="responsive-embed widescreen">
           <iframe width="560" height="315" src="{{ .Params.Video }}" frameborder="0" allowfullscreen></iframe>
         </div>

@@ -22,6 +22,7 @@ tags:
   - trufflehog
   - whatsapp
   - wordpress
+video: https://www.youtube.com/embed/78kgDmpSwN8
 ---
 Bonjour à tous,
 
@@ -32,8 +33,6 @@ Alors nouvelle pas vraiment, pour faire simple c'est une résurrection des revue
 Je ne sais pas encore si je ferais du réel hebdomadaire ou du bimensuel, comme d'habitude j'ai totalement sous estimé le temps que me prend le montage, aussi simple soit-il pour un épisode de type Vlog comme les SECHebdo.
 
 Cet épisode est un peu long majoritairement à cause de l'actu sur Whatsapp qui demandait pas mal d'explications, je vise des émissions de moins de 20 minutes pour les prochains.
-
-{{< video "https://www.youtube.com/embed/78kgDmpSwN8" >}}
 
 N'hésitez pas à me dire ce que vous en pensez. Si je constate que les critiques ne sont pas très positives je metterais peut-ëtre cette catégorie à la trappe au profis des SECompris et SEClair.
 
