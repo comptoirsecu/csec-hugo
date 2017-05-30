@@ -8,7 +8,7 @@ date: 2017-02-13
 aliases: /2017/02/seclair-02-leffacement-securise/
 podcast:
   feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS35.2017-02-13.SEClair_Effacement_Securise.mp3
-image: /images/2017/02/SEClair-02-Effacement-securise-vignette-lowres-v2-672x372.jpg
+image:  /images/2017/02/SEClair-02-Effacement-securise-vignette-lowres-v2.jpg
 categories:
   - SEClair
 tags:
@@ -21,6 +21,7 @@ tags:
   - SEClair
   - secure erase
   - ssd
+video: https://www.youtube.com/embed/8CCYQpvmu3s
 ---
 Bonjour à tous,
 
@@ -28,8 +29,6 @@ SEClair est de retour! Cette fois-ci sur l'effacement sécurisé.
 
 Alors à votre avis combien de passe de formatage sur votre disque pour qu'il ne soit plus possible de récupérer des données dessus? 1? 3? 5? 7? 21? Vous le saurez en écoutant cet épisode ;).
 <!--more-->
-
-{{< video "https://www.youtube.com/embed/8CCYQpvmu3s" >}}
 
 Pour les allergiques au format vidéo, la bande son est disponible en podcast:
 

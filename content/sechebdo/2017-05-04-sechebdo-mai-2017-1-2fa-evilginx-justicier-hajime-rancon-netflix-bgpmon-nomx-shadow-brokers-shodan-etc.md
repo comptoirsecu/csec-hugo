@@ -5,7 +5,7 @@ subheadline: "2FA, EvilGinx, Justicier Hajime, Rançon Netflix, BGPMon, NomX, Sh
 author: lois
 date: 2017-05-04
 aliases: /2017/05/sechebdo-mai-2017-1-2fa-evilginx-justicier-hajime-rancon-netflix-bgpmon-nomx-shadow-brokers-shodan-etc/
-image: /images/2017/05/sechebdo-2017-05-01-672x372.jpg
+image:  /images/2017/05/sechebdo-2017-05-01.jpg
 podcast:
     feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.SECHebdo.2017-05-03.mp3
     description: "SECHebdo est une revue de l'actualité cybersécurité réalisé en live sur Youtube, généralement le mardi soir."

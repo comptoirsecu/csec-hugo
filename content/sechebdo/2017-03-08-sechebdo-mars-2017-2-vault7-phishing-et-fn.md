@@ -8,7 +8,7 @@ date: 2017-03-08
 aliases: /2017/03/sechebdo-mars-2017-2-vault7-phishing-et-fn/
 podcast:
   feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS39.2017-03-08.SECHebdo_Mar_2017-2.mp3
-image: /images/2017/03/sechebdo-2017-03-08-vignette-672x372.jpg
+image:  /images/2017/03/sechebdo-2017-03-08-vignette.jpg
 categories:
   - Podcast
   - SECHebdo

@@ -8,7 +8,7 @@ date: 2017-03-29
 aliases: /2017/03/sechebdo-mars-2017-4-double-agent-pwn2own-dark-matter-tavis-1-lastpass-etc/
 podcast:
     feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS41.2017-03-28.SECHebdo_Mar_2017-4.mp3
-image: /images/2017/03/sechebdo-2017-03-28-vignette-672x372.jpg
+image:  /images/2017/03/sechebdo-2017-03-28-vignette.jpg
 categories:
   - Podcast
   - SECHebdo

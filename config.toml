@@ -35,13 +35,13 @@ copyright = "2017 Le Comptoir Sécu"
           parent = "podcast"
           weight = 31
           identifier = "emission"
-          url = "/podcast/emission/"
+          url = "/categories/emission/"
       [[menu.left]]
           name = "Hors Séries"
           parent = "podcast"
           weight = 32
           identifier = "hors-serie"
-          url = "/podcast/hors-serie/"
+          url = "/categories/hors-serie/"
   [[menu.left]]
       name= "Vidéos"
       pre = "fa-video-camera"
@@ -53,19 +53,19 @@ copyright = "2017 Le Comptoir Sécu"
           parent = "video"
           weight = 41
           identifier = "secompris"
-          url = "/video/secompris/"
+          url = "/categories/secompris/"
       [[menu.left]]
           name= "SEClair"
           parent = "video"
           weight = 42
           identifier = "seclair"
-          url = "/video/seclair/"
+          url = "/categories/seclair/"
       [[menu.left]]
           name= "PoC"
           parent = "video"
           weight = 43
           identifier = "poc"
-          url = "/video/poc/"
+          url = "/categories/poc/"
       [[menu.left]]
           name= "Point Sécu"
           parent = "video"

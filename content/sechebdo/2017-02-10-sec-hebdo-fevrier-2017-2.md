@@ -7,7 +7,7 @@ date: 2017-02-10
 podcast:
   feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS34.2017-02-09.SECHebdo_Fev_2017-2.mp3
 aliases: /2017/02/sec-hebdo-fevrier-2017-2/
-image: /images/2017/02/sechebdo-fev2-672x372.jpg
+image:  /images/2017/02/sechebdo-fev2.jpg
 categories:
   - Podcast
   - SECHebdo

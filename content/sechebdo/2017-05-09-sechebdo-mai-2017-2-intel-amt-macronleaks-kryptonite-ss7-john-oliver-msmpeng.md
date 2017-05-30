@@ -5,7 +5,7 @@ subheadline: "Intel AMT, MacronLeaks, Kryptonite, SS7, John Oliver, MsMpEng"
 author: justin
 date: 2017-05-09
 aliases: /2017/05/sechebdo-mai-2017-2-intel-amt-macronleaks-kryptonite-ss7-john-oliver-msmpeng/
-image: /images/2017/05/sechebdo-2017-05-09-vignette-672x372.jpg
+image:  /images/2017/05/sechebdo-2017-05-09-vignette.jpg
 youtubeurl:
 podcast:
     feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.SECHebdo.2017-05-09.mp3

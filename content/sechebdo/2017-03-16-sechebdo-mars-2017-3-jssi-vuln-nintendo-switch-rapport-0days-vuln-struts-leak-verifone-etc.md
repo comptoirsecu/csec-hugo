@@ -8,7 +8,7 @@ date: 2017-03-16
 aliases: /2017/03/sechebdo-mars-2017-3-jssi-vuln-nintendo-switch-rapport-0days-vuln-struts-leak-verifone-etc/
 podcast:
   feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS40.2017-03-14.SECHebdo_Mar_2017-3.mp3
-image: /images/2017/03/sechebdo-2017-03-14-vignette-672x372.jpg
+image:  /images/2017/03/sechebdo-2017-03-14-vignette.jpg
 categories:
   - Podcast
   - SECHebdo

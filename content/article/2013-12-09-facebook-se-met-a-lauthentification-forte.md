@@ -4,7 +4,7 @@ date: 2013-12-09T09:30:51+00:00
 author: morgan
 date: 2013-12-09
 aliases: /2013/12/facebook-se-met-a-lauthentification-forte/
-image: /images/2014/01/url12-672x372.jpg
+image:  /images/2014/01/url12.jpg
 categories:
   - Articles
 tags:

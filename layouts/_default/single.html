@@ -8,7 +8,13 @@
         <h2>{{ .Title }}<h2>
         <h3 class="subheader">{{ .Params.subheadline }}<h3>
       </header>
+      {{ if eq .Section "video" }}
+        <div class="responsive-embed widescreen">
+          <iframe width="560" height="315" src="{{ .Params.Video }}" frameborder="0" allowfullscreen></iframe>
+        </div>
+      {{ else }}
       <img src="{{with .Params.image }}{{ . }}{{ else }}images/default.jpg{{end}}" />
+      {{ end }}
       <main class="card-section">
         {{ .Content }}
       </main>

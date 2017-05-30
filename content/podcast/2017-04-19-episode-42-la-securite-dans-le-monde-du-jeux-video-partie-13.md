@@ -6,7 +6,7 @@ author: lois
 date: 2017-04-19
 
 aliases: /2017/04/episode-42-la-securite-dans-le-monde-du-jeux-video-partie-13/
-image: /images/2017/04/10850-672x372.jpg
+image:  /images/2017/04/10850.jpg
 podcast:
   feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP42.2017-04-18.JEUX_VIDEO-1.mp3
 categories:

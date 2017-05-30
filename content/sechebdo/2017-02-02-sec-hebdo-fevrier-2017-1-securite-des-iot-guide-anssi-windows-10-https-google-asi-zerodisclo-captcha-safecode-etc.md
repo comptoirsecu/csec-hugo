@@ -8,7 +8,7 @@ date: 2017-02-02
 aliases: /2017/02/sec-hebdo-fevrier-2017-1-securite-des-iot-guide-anssi-windows-10-https-google-asi-zerodisclo-captcha-safecode-etc/
 podcast:
   feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS33.2017-02-02.SECHebdo_Fev_2017-1.mp3
-image: /images/2017/02/2017-02-02-vignette-672x372.jpg
+image:  /images/2017/02/2017-02-02-vignette.jpg
 categories:
   - Podcast
   - SECHebdo

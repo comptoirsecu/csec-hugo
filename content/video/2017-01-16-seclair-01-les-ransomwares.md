@@ -23,6 +23,7 @@ tags:
   - SEClair
   - virus
   - Youtube
+video: https://www.youtube.com/embed/3tA1x3LhXy0
 ---
 Bonjour à tous!
 
@@ -35,8 +36,6 @@ Je vous cache pas que c'est un essai, n'hésitez pas à me dire dans les comment
 L'objectif pour le moment est d'avoir des SEClair en complément, et non en remplacement, des SECompris. En effet certains sujets ne peuvent clairement pas se boucler en moins de 10 minutes. Désolé pour les personnes ayant du mal avec les formats long mais je ne pourrais pas toujours y couper .
 
 Une fois n'est pas coutûme, j'avais défini un script et je m'y suis majoritairement tenu, donc cadeau pour ceux que ça intéresse, je vous le met en bas de ce billet!
-
-{{< video "https://www.youtube.com/embed/3tA1x3LhXy0" >}}
 
 Comme pour SECompris, je mets la bande sonore en podcast pour les allergiques de YouTube. Ce n'est pas une copie parfaite, j'ai extrait le son avant d'injecter les extraits vidéos, ça devrait être moins perturbant.
 
