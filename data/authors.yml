@@ -1,0 +1,51 @@
+# Author details
+#
+# 1. Edit information below
+# 2. Change site author in config.yml
+# 3. Change default post/page authors in config.yml
+#
+# Resource http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
+comptoirsecu:
+  name: "L'équipe du Comptoir Sécu"
+  siterole: "Fondateurs de l'association Le Comptoir Sécu"
+  uri: http://www.comptoirsecu.fr/
+  email: contact@comptoirsecu.fr
+  twitter: "@comptoirsecu"
+
+justin:
+    siterole: >
+        Co-fondateur et président de l'association Le Comptoir Sécu
+    email: justin@comptoirsecu.fr
+    name: Justin Ganivet
+    twitter: izura
+    uri: 'https://www.youtube.com/channel/UCe-0FAoHZyDLPMLHnYAuXsw/videos'
+
+lois:
+    siterole: >
+        Co-fondateur et secrétaire de l'association Le Comptoir Sécu
+    email: lois@comptoirsecu.fr
+    name: Loïs Samain
+    twitter: lsamain
+    uri: https://www.linkedin.com/in/lsamain/
+
+morgan:
+    siterole: >
+        Co-fondateur et vice-président de l'association Le Comptoir Sécu
+    email: morgan@comptoirsecu.fr
+    name: Morgan Hotonnier
+    twitter: morganhotonnier
+    uri: https://www.linkedin.com/in/morganhotonnier/
+
+youenn:
+    siterole: >
+        Sondier et trésorier de l'association Le Comptoir Sécu
+    email: youenn@comptoirsecu.fr
+    name: Youenn Piolet
+    twitter: schematicwizard
+    uri: 'http://ypiolet.fr'
+
+simon:
+    siterole: >
+        Ancien membre du Comptoir
+    name: Simon
+    uri: 'https://www.linkedin.com/in/simonlacoste/'

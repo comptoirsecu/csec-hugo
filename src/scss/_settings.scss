@@ -1,6 +1,6 @@
 //  Foundation for Sites Settings
 //  -----------------------------
-//  TEMPLATE NE PAS TOUCHER UTILISEZ CELUI DANS LE REP SCSS
+//
 //  Table of Contents:
 //
 //   1. Global
@@ -43,6 +43,14 @@
 
 @import 'util/util';
 
+/// My color palette
+
+$ultraviolet: #19055A;
+$violet: #3E0894;
+$lila: #5E42A6;
+$blue: #4729FF;
+$pink: #C55BFB;
+
 // 1. Global
 // ---------
 
@@ -50,9 +58,9 @@ $global-font-size: 100%;
 $global-width: rem-calc(1200);
 $global-lineheight: 1.5;
 $foundation-palette: (
-  primary: #1779ba,
-  secondary: #767676,
-  success: #3adb76,
+  primary: $pink,
+  secondary: $violet,
+  success: $lila,
   warning: #ffae00,
   alert: #cc4b37,
 );
@@ -61,15 +69,15 @@ $medium-gray: #cacaca;
 $dark-gray: #8a8a8a;
 $black: #0a0a0a;
 $white: #fefefe;
-$body-background: $white;
-$body-font-color: $black;
+$body-background: $ultraviolet;
+$body-font-color: $white;
 $body-font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;
 $body-antialiased: true;
 $global-margin: 1rem;
 $global-padding: 1rem;
 $global-weight-normal: normal;
 $global-weight-bold: bold;
-$global-radius: 0;
+$global-radius: 0.2em;
 $global-text-direction: ltr;
 $global-flexbox: false;
 $print-transparent-backgrounds: true;
@@ -108,7 +116,7 @@ $header-font-family: $body-font-family;
 $header-font-weight: $global-weight-normal;
 $header-font-style: normal;
 $font-family-monospace: Consolas, 'Liberation Mono', Courier, monospace;
-$header-color: inherit;
+$header-color: $white;
 $header-lineheight: 1.4;
 $header-margin-bottom: 0.5rem;
 $header-styles: (
@@ -272,9 +280,9 @@ $buttongroup-radius-on-each: true;
 // 13. Callout
 // -----------
 
-$callout-background: $white;
-$callout-background-fade: 85%;
-$callout-border: 1px solid rgba($black, 0.25);
+$callout-background: $violet;
+$callout-background-fade: 10%;
+$callout-border: 0px solid rgba($black, 0.25);
 $callout-margin: 0 0 1rem 0;
 $callout-padding: 1rem;
 $callout-font-color: $body-font-color;
@@ -286,10 +294,10 @@ $callout-link-tint: 30%;
 // --------
 
 $card-background: $white;
-$card-font-color: $body-font-color;
-$card-divider-background: $light-gray;
-$card-border: 1px solid $light-gray;
-$card-shadow: none;
+$card-font-color: $ultraviolet;
+$card-divider-background: $black;
+$card-border: 0px solid $light-gray;
+$card-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 $card-border-radius: $global-radius;
 $card-padding: $global-padding;
 $card-margin: $global-margin;
@@ -346,7 +354,7 @@ $dropdownmenu-arrow-color: $anchor-color;
 $dropdownmenu-arrow-size: 6px;
 $dropdownmenu-min-width: 200px;
 $dropdownmenu-background: $white;
-$dropdownmenu-border: 1px solid $medium-gray;
+$dropdownmenu-border: 0px solid $medium-gray;
 
 // 19. Forms
 // ---------
@@ -588,7 +596,7 @@ $thumbnail-radius: $global-radius;
 // 35. Title Bar
 // -------------
 
-$titlebar-background: $black;
+$titlebar-background: $ultraviolet;
 $titlebar-color: $white;
 $titlebar-padding: 0.5rem;
 $titlebar-text-font-weight: bold;
@@ -613,8 +621,8 @@ $tooltip-radius: $global-radius;
 // -----------
 
 $topbar-padding: 0.5rem;
-$topbar-background: $light-gray;
-$topbar-submenu-background: $topbar-background;
+$topbar-background: $black;
+$topbar-submenu-background: $ultraviolet;
 $topbar-title-spacing: 0.5rem 1rem 0.5rem 0;
 $topbar-input-width: 200px;
 $topbar-unstack-breakpoint: medium;

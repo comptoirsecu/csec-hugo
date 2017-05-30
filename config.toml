@@ -1,5 +1,86 @@
-baseURL = "http:///"
-languageCode = "en-us"
-title = "My New Hugo Site"
-
+baseURL = "https://csec.infosecgur.us"
+languageCode = "fr-FR"
+title = "Le Comptoir Sécu"
 MetaDataFormat = "yaml"
+DefaultContentLanguage = "fr"
+copyright = "2017 Le Comptoir Sécu"
+
+[menu]
+  [[menu.left]]
+      name= "Blog"
+      pre = "fa-pencil"
+      weight = 20
+      identifier = "blog"
+      url = "/article/"
+      [[menu.left]]
+          name= "Annonces"
+          parent = "blog"
+          weight = 21
+          identifier = "annonce"
+          url = "/annonce/"
+      [[menu.left]]
+          name= "Articles"
+          parent = "blog"
+          weight = 22
+          identifier = "article"
+          url = "/article/"
+  [[menu.left]]
+      name = "Podcasts"
+      pre = "fa-microphone"
+      weight = 30
+      identifier = "podcast"
+      url = "/podcast/"
+      [[menu.left]]
+          name = "Émissions"
+          parent = "podcast"
+          weight = 31
+          identifier = "emission"
+          url = "/podcast/emission/"
+      [[menu.left]]
+          name = "Hors Séries"
+          parent = "podcast"
+          weight = 32
+          identifier = "hors-serie"
+          url = "/podcast/hors-serie/"
+  [[menu.left]]
+      name= "Vidéos"
+      pre = "fa-video-camera"
+      weight = 40
+      identifier = "video"
+      url = "/video/"
+      [[menu.left]]
+          name= "SECompris"
+          parent = "video"
+          weight = 41
+          identifier = "secompris"
+          url = "/video/secompris/"
+      [[menu.left]]
+          name= "SEClair"
+          parent = "video"
+          weight = 42
+          identifier = "seclair"
+          url = "/video/seclair/"
+      [[menu.left]]
+          name= "PoC"
+          parent = "video"
+          weight = 43
+          identifier = "poc"
+          url = "/video/poc/"
+      [[menu.left]]
+          name= "Point Sécu"
+          parent = "video"
+          weight = 43
+          identifier = "point-secu"
+          url = "https://www.youtube.com/channel/UCe-0FAoHZyDLPMLHnYAuXsw"
+  [[menu.left]]
+      name= "SecHebdos"
+      pre = "fa-newspaper-o"
+      weight = 50
+      identifier = "sechebdo"
+      url = "/sechebdo/"
+  [[menu.footer]]
+      name= "À propos"
+      pre = "fa-info-circle"
+      weight = 60
+      identifier = "apropos"
+      url = "/apropos/"

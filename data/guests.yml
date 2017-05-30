@@ -1,0 +1,43 @@
+justin:
+    description: >
+        Co-fondateur et président de l'association Le Comptoir Sécu
+    display_name: Justin
+    email: justin@comptoirsecu.fr
+    name: Justin Ganivet
+    twitter: izura
+    url: 'https://www.youtube.com/channel/UCe-0FAoHZyDLPMLHnYAuXsw/videos'
+
+lois:
+    description: >
+        Co-fondateur et secrétaire de l'association Le Comptoir Sécu
+    display_name: Loïs
+    email: lois@comptoirsecu.fr
+    name: Loïs Samain
+    twitter: lsamain
+
+morgan:
+    description: >
+        Co-fondateur et vice-président de l'association Le Comptoir Sécu
+    display_name: Morgan
+    email: morgan@comptoirsecu.fr
+    name: Morgan Hotonnier
+    twitter: morganhotonnier
+
+youenn:
+    description: >
+        Sondier et trésorier de l'association Le Comptoir Sécu
+    display_name: Youenn
+    email: youenn@comptoirsecu.fr
+    name: Youenn Piolet
+    twitter: schematicwizard
+    url: 'http://ypiolet.fr'
+
+simon:
+    description: >
+        Ancien membre du Comptoir
+    display_name: Simon
+
+romain_dnssec:
+    description: >
+        Spécialiste de la sécurité du DNS
+    display_name: Romain

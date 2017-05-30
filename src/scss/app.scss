@@ -1,4 +1,6 @@
-@import 'foundation/settings/settings';
+@import 'settings';
 @import 'foundation/foundation';
 
-@include foundation-comptoirsecu();
+@include foundation-comptoirsecu(true);
+@import 'font-awesome/font-awesome';
+@import 'custom';

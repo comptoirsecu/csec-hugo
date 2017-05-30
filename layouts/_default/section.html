@@ -1,0 +1,16 @@
+{{ partial "header.html" . }}
+
+<div class="row align-center t1">
+  <div class="small-12 medium-10 large-8 column">
+    <h2 class="text-center">Nos {{ .Title }}</h2>
+    <div class="row small-up-1 large-up-2 align-center">
+      {{ range .Data.Pages }}
+      <div class="column column-block">
+       {{ .Render "card" }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+{{ partialCached "footer.html" . }}

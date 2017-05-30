@@ -1,0 +1,18 @@
+<article class="card" style="height: 100%;">
+    <a href="{{ .Permalink }}"><img src="{{with .Params.image }}{{ . }}{{ else }}images/default.jpg{{end}}" />
+  <header class="card-divider">
+    <h5>{{ .Title }}<h5></a>
+    {{ if ne .Section "sechebdo" }}
+    <h6 class="subheader">{{ .Params.subheadline }}<h6>
+    {{ end }}
+  </header>
+
+  <main class="card-section">
+    {{ if ne .Section "sechebdo" }}
+      {{ .Summary }}
+    {{ else }}
+      <p>{{ .Params.Subheadline }}</p>
+    {{ end }}
+  </main>
+
+</article>

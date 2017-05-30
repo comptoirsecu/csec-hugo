@@ -1,0 +1,20 @@
+{{ partial "header.html" . }}
+
+
+<div class="row align-center t1">
+  <section class=" small-12 medium-10 large-8 column">
+    <article class="card">
+      <header class="card-divider">
+        <h2>{{ .Title }}<h2>
+        <h3 class="subheader">{{ .Params.subheadline }}<h3>
+      </header>
+      <img src="{{with .Params.image }}{{ . }}{{ else }}images/default.jpg{{end}}" />
+      <main class="card-section">
+        {{ .Content }}
+      </main>
+
+    </article>
+  </section>
+</div>
+
+{{ partialCached "footer.html" . }}

@@ -1,0 +1,55 @@
+corsendonk_Blonde:
+    name: Corsendonk Blonde
+    type: Bière
+    subtype: Brune
+    country: Belgique
+    degree: 6,5
+
+corsendonk_Brune:
+    name: Corsendonk Brune
+    type: Bière
+    subtype: Brune
+    country: Belgique
+    degree: 6,5
+
+delirium_nocturnum:
+    name: Délirium Nocturnum
+    type: Bière
+    subtype: Brune
+    country: Belgique
+    degree: 8,5
+
+martini_Rouge:
+    name: Martini Rouge
+    type: vermouth
+    subtype: Rouge
+    country: Italie
+    degree: 15
+
+grimbergen_poire:
+    name: Grimbergen Poire
+    type: Bière
+    subtype: Blonde
+    country: Belgique
+    degree: 6
+    
+whisky_lascaw:
+    name: Lascaw
+    type: Whisky
+    subtype: Single malt Scotch
+    country: Périgord
+    degree: 40
+
+whisky_cardhu:
+    name: Cardhu
+    type: Whisky
+    subtype: Single malt Scotch
+    country: Périgord
+    degree: 40
+
+virgin_bloodymary:
+    name: Virgin Bloody Mary
+    type: Cocktail
+    subtype: Sans Alcool
+    country: France
+    degree: 0

@@ -1,0 +1,45 @@
+
+  <div class="title-bar" data-responsive-toggle="responsive-menu" data-hide-for="medium">
+    <button class="menu-icon" type="button" data-toggle="responsive-menu"></button> <strong>Menu</strong>
+  </div>
+  <div class="top-bar"  id="responsive-menu">
+    <div class="top-bar-title">
+      <strong><i class="fa fa-beer show-for-medium"></i> <a href="/">Comptoir Sécu</a></strong>
+    </div>
+      <nav class="top-bar-left">
+        <ul class="vertical medium-horizontal menu" data-responsive-menu="drilldown medium-dropdown">
+          {{ $currentPage := . }}
+          {{ range .Site.Menus.left}}
+          <li>
+            <a href="{{ .URL }}"><i class="fa {{ .Pre }} show-for-large"></i> {{ .Name }}</a>
+            {{ if .HasChildren }}
+            <ul class="vertical menu">
+              {{ range .Children }}
+              <li>
+                <a href="{{ .URL }}">{{ .Name }}</a>
+              </li>
+              {{ end }}
+           </ul>
+           {{ end }}
+          </li>
+          {{ end }}
+          <li class="hide-for-medium">
+            <a href="/recherche/"><i class="fa fa-search"></i></a>
+          </li>
+        </ul>
+      </nav> <!-- end menu right -->
+      <nav class="top-bar-right show-for-medium">
+        <ul class="menu" data-dropdown-menu>
+          <li>
+            <a href="/recherche/"><i class="fa fa-search"></i><span class="show-for-large"> Recherche</span></a>
+          </li>
+        </ul>
+      </nav> <!-- end menu left -->
+  </div> <!-- end top bar -->
+
+  <div class="hero-section">
+    <div class="hero-section-text">
+      <h1><i class="logo"></i><strong>Le Comptoir Sécu</strong></h1>
+      <h5>Parlons cybersécurité...autour d'un verre!</h5>
+    </div>
+  </div>

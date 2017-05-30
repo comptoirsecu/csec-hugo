@@ -3,7 +3,7 @@ var plugins = require('gulp-load-plugins')();
 var dest_css = "static/css";
 var sass_src = "src/scss/app.scss";
 var runSequence = require('run-sequence');
-var javascript_src = ['src/js/enabled/foundation.core.js', 'src/js/enabled/*.js'];
+var javascript_src = ['src/js/enabled/foundation.core.js', 'src/js/enabled/foundation.util.*.js', 'src/js/enabled/*.js'];
 var dest_javascript = "static/js";
 var sassPaths = [
   'src/scss/foundation',
@@ -77,9 +77,7 @@ gulp.task('clean', function() {
   .pipe(plugins.clean());
 });
 
-gulp.task('default', ['sass:dev'], function() {
-  gulp.watch(['src/scss/**/*.scss'], ['sass:dev']);
-});
+
 
 gulp.task('hugo', function (cb) {
   exec('hugo', function (err, stdout, stderr) {
@@ -87,6 +85,11 @@ gulp.task('hugo', function (cb) {
     console.log(stderr);
     cb(err);
   });
+});
+
+gulp.task('default', ['sass:dev', 'javascript:dev'], function() {
+  gulp.watch(['src/scss/**/*.scss'], ['sass:dev']);
+  gulp.watch(['src/js/enabled/**/*.js'], ['javascript:dev']);
 });
 
 gulp.task('build', function(callback) {

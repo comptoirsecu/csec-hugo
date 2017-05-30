@@ -1,0 +1,71 @@
+.vcentered {
+  position: relative;
+  top: 50%;
+}
+
+$hero-height: 40vh;
+
+.hero-section {
+  background: url('/images/hero-1.jpg') 50% no-repeat;
+  background-size: cover;
+  height: $hero-height;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  padding-left: 3em;
+
+  .hero-section-text {
+    color: $white;
+    text-shadow: 1px 1px 2px $black;
+  }
+
+  .logo {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    margin-right: 0.3em;
+    background-size: 1em 1em;
+    background-image: url('/images/logo-white.png');
+  }
+}
+
+.menu a {
+  color: $white;
+}
+
+.top-bar-title a {
+  color: $white;
+}
+
+.card-divider {
+  a {
+    color: $white;
+  }
+  color: $pink;
+}
+
+.t1
+{
+  margin-top: 1rem;
+}
+
+.t2
+{
+  margin-top: 2rem;
+}
+
+.t3
+{
+  margin-top: 3rem;
+}
+
+.t4
+{
+  margin-top: 4rem;
+}
+
+.t5
+{
+  margin-top: 5rem;
+}
