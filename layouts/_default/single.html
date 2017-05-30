@@ -1,7 +1,14 @@
 {{ partial "header.html" . }}
 
 
-<div class="row align-center t1">
+<div class="row align-middle t1">
+  <div class="show-for-medium medium-1 align-justify align-middle column">
+    {{if .PrevInSection}}
+      <h1><a href="{{.PrevInSection.Permalink}}"><i class="fa fa-arrow-left"></i></a></h1>
+    {{end}}
+  </div>
+
+
   <section class=" small-12 medium-10 large-10 column">
     <article class="card">
       <header class="card-divider">
@@ -21,6 +28,23 @@
 
     </article>
   </section>
+  <div class="show-for-medium medium-1 align-justify column">
+    {{if .NextInSection }}
+      <h1><a href="{{.NextInSection.Permalink}}"><i class="fa fa-arrow-right"></i></a></h1>
+    {{end}}
+  </div>
+</div>
+<div class="row align-justify">
+  <div class="hide-for-medium small-6 column">
+    {{if .PrevInSection}}
+      <center><a href="{{.PrevInSection.Permalink}}" class="button"><i class="fa fa-arrow-left"></i></a></center>
+    {{end}}
+  </div>
+  <div class="hide-for-medium small-6 column">
+    {{if .NextInSection}}
+      <center><a href="{{.NextInSection.Permalink}}" class="button text-center"><i class="fa fa-arrow-right"></i></a></center>
+    {{end}}
+  </div>
 </div>
 
 {{ partialCached "footer.html" . }}
