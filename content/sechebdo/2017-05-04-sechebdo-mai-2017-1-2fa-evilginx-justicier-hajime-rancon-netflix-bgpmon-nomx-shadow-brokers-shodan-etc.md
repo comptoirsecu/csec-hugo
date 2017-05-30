@@ -52,9 +52,9 @@ A bientôt pour d'autres émissions/podcasts!
       * <http://www.csoonline.com/article/3192535/security/russian-hackers-use-oauth-fake-google-apps-to-phish-users.html>
       * <https://breakdev.org/evilginx-advanced-phishing-with-two-factor-authentication-bypass/>
   * Détournement du trafic IP de différentes sociétés dans le domaine financier (16:05)
-      * <a href=https://www.bleepingcomputer.com/news/security/https-certificate-issuance-becomes-more-secure-thanks-to-new-caa-standard/">https://www.bleepingcomputer.com/news/security/https-certificate-issuance-becomes-more-secure-thanks-to-new-caa-standard/</a>
-      * <a href=https://bgpstream.com/event/80327">https://bgpstream.com/event/80327</a>
-      * <a href=https://www.ssi.gouv.fr/uploads/IMG/pdf/guide\_configuration\_BGP.pdf">https://www.ssi.gouv.fr/uploads/IMG/pdf/guide\_configuration\_BGP.pdf</a>
+      * <https://www.bleepingcomputer.com/news/security/https-certificate-issuance-becomes-more-secure-thanks-to-new-caa-standard/
+      * <https://bgpstream.com/event/80327>
+      * <https://www.ssi.gouv.fr/uploads/IMG/pdf/guide_configuration_BGP.pdf>
   * Après Bricketbot, voici Hajime : la guerre fait rage dans les IoT (25:30)
       * <https://nakedsecurity.sophos.com/2017/04/20/the-iot-malware-that-plays-cat-and-mouse-with-mirai/>
       * <http://www.strawpoll.me/12886977>
