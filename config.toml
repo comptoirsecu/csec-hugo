@@ -4,6 +4,13 @@ title = "Le Comptoir Sécu"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "fr"
 copyright = "2017 Le Comptoir Sécu"
+[permalinks]
+podcast = "/podcast/:title/"
+sechebdo = "/sechebdo/:title/"
+annonce = "/annonce/:title/"
+article = "/article/:title/"
+video = "/video/:title/"
+paginate = 10
 
 [menu]
   [[menu.left]]

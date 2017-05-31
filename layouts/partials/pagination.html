@@ -1,0 +1,15 @@
+<div class="pagination">
+  <nav role="pagination" class="post-list-pagination">
+      {{ if .Paginator.HasPrev }}
+      <a href="{{.Paginator.Prev.URL}}" class="button hollow">
+        <i class="fa fa-angle-double-left"></i>&nbsp;Précédent
+      </a>
+      {{ end }}
+    <span class="post-list-pagination-item post-list-pagination-item-current">Page {{.Paginator.PageNumber}} sur {{.Paginator.TotalPages}}</span>
+    {{ if .Paginator.HasNext }}
+      <a href="{{.Paginator.Next.URL}}" class="button hollow">
+        Suivant&nbsp;<i class="fa fa-angle-double-right"></i>
+      </a>
+    {{ end }}
+  </nav>
+</div>

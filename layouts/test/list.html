@@ -5,7 +5,7 @@
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Foundation | Welcome</title>
-  <link rel="stylesheet" href="css/app.css">
+  <link rel="stylesheet" href="/css/app.css">
 
 </head>
 <body>
@@ -32,6 +32,9 @@
   </div>
 
   <br>
+  <div class="column row">
+
+  </div>
   <div class="row">
     <div class="medium-7 large-6 columns">
       <h1>Close Your Eyes and Open Your Mind</h1>
@@ -72,7 +75,14 @@
     <div class="column">
       <div class="callout">
         <p>Pegasi B</p>
-        <p><img src="https://placehold.it/400x370&text=Pegasi B" alt="image of a planet called Pegasi B"></p>
+        <p>
+          <img src="https://placehold.it/900x200&text=original"
+           srcset="https://placehold.it/300x200&text=small 300w,
+                   https://placehold.it/600x200&text=medium 600w,
+                   https://placehold.it/900x200&text=large 900w,
+                   https://placehold.it/1900x200&text=xlarge 1900w"
+                   sizes="(max-width: 640px) 90vw, (max-width: 1024px) 40vw, 20vw"
+           alt=""></p>
         <p class="lead">Copernican Revolution caused an uproar</p>
         <p class="subheader">Find Earth-like planets life outside the Solar System</p>
       </div>
@@ -176,9 +186,9 @@
     </div>
   </footer>
   <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
-  <script src="js/app.js"></script>
+  <script src="/js/app.js"></script>
   <script>
-  $(document).foundation();
+    $(document).foundation();
   </script>
 </body>
 </html>
