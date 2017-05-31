@@ -10,7 +10,8 @@ sechebdo = "/sechebdo/:title/"
 annonce = "/annonce/:title/"
 article = "/article/:title/"
 video = "/video/:title/"
-paginate = 10
+Paginate = 12
+
 
 [menu]
   [[menu.left]]

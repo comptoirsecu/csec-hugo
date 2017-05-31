@@ -1,15 +1,23 @@
-<div class="pagination">
-  <nav role="pagination" class="post-list-pagination">
-      {{ if .Paginator.HasPrev }}
-      <a href="{{.Paginator.Prev.URL}}" class="button hollow">
-        <i class="fa fa-angle-double-left"></i>&nbsp;Précédent
-      </a>
-      {{ end }}
-    <span class="post-list-pagination-item post-list-pagination-item-current">Page {{.Paginator.PageNumber}} sur {{.Paginator.TotalPages}}</span>
-    {{ if .Paginator.HasNext }}
-      <a href="{{.Paginator.Next.URL}}" class="button hollow">
-        Suivant&nbsp;<i class="fa fa-angle-double-right"></i>
-      </a>
+{{ if gt .Paginator.TotalPages 1 }}
+<div class="row align-center">
+  <ul class="pagination text-center" role="navigation">
+    {{ if .Paginator.HasPrev }}
+    <li class="pagination-previous"><a href="{{ .Paginator.Prev.URL }}">Précédent</a></li>
+    {{ else }}
+    <li class="pagination-previous disabled">Précédent</li>
     {{ end }}
-  </nav>
+    {{ range .Paginator.Pagers }}
+      {{ if eq .PageNumber $.Paginator.PageNumber }}
+    <li class="current"><a hrf="{{ .URL }}">{{ .PageNumber }}</a></li>
+      {{ else }}
+    <li><a href="{{ .URL }}">{{ .PageNumber }}</a></li>
+      {{ end }}
+    {{ end }}
+    {{ if .Paginator.HasNext }}
+    <li class="pagination-next"><a href="{{ .Paginator.Next.URL }}">Suivant</a></li>
+    {{ else }}
+    <li class="pagination-next disabled">Suivant</li>
+    {{ end }}
+  </ul>
 </div>
+{{ end }}

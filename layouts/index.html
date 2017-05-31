@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
 
 <div class="row align-center">
-  <section class="large-9 medium-10 small-12 columns">
+  <section class="large-10 medium-12 small-12 columns">
       {{ range first 1 (where .Data.Pages "Section" "annonce") }}
           {{ .Render "callout" }}
       {{ end }}

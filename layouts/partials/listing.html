@@ -1,12 +1,14 @@
 <div class="row align-center t1">
-  <div class="small-12 medium-10 large-10 column">
+  <div class="small-12 medium-12 large-10 column">
     <h2 class="text-center">Nos {{ .Title }}</h2>
-    <div class="row small-up-1 large-up-2 align-center">
-      {{ range .Paginator.Pages }}
+    {{ partial "pagination.html" . }}
+    <div class="row small-up-1 medium-up-2 large-up-3 align-center">
+      {{ range (.Paginator 12).Pages }}
       <div class="column column-block">
        {{ .Render "card" }}
       </div>
       {{ end }}
     </div>
+    {{ partial "pagination.html" . }}
   </div>
 </div>
