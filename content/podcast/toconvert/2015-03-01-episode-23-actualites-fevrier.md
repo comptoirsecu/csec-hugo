@@ -13,6 +13,7 @@ views: 6604
 image: /images/2015/03/3372-thumb-1500x575.png
 categories:
   - Podcast
+  - Emission
 tags:
   - Anonymous
   - Cyber

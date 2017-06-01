@@ -11,6 +11,7 @@ podcast:
   feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP07.2013-11-13.RSSI.mp3
 categories:
   - Podcast
+  - Emission
 tags:
   - bull
   - EGE

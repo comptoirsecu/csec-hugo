@@ -13,6 +13,7 @@ views: 6872
 image: /images/2014/01/tor_browser_logo_by_j_bob-d5gjqrq.jpg
 categories:
   - Podcast
+  - Emission
 tags:
   - Alt-coin
   - ANSSI

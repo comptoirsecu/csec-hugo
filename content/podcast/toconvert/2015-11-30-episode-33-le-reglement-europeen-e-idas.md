@@ -12,6 +12,7 @@ views: 3000
 image: /images/2015/11/eIDAS.png
 categories:
   - Podcast
+  - Emission
 tags:
   - ANSSI
   - eidas

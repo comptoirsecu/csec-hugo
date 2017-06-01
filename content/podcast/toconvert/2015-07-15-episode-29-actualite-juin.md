@@ -12,6 +12,7 @@ views: 3650
 image: /images/2015/07/hacked-team.jpg
 categories:
   - Podcast
+  - Emission
 tags:
   - Amazon S2N
   - Animal Farm

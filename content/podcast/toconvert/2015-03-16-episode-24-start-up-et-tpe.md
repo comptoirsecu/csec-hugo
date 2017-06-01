@@ -13,6 +13,7 @@ views: 5927
 image: /images/2015/03/start-up-seed-funding-fonds-investissement-levee-©-Gorilla-Fotolia.com_.jpg
 categories:
   - Podcast
+  - Emission
 tags:
   - analyse de risque
   - ebios

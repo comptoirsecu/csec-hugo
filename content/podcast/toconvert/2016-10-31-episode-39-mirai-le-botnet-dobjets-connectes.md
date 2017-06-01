@@ -12,6 +12,7 @@ views: 2540
 image: /images/2016/10/mirai.png
 categories:
   - Podcast
+  - Emission
 tags:
   - Botnet
   - ddos

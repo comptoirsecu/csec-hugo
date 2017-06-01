@@ -12,6 +12,7 @@ views: 8044
 image: /images/2016/05/mots-de-passe.jpg
 categories:
   - Podcast
+  - Emission
 tags:
   - hashage
   - hydraze

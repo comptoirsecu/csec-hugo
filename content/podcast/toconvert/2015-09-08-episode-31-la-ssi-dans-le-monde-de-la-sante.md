@@ -12,6 +12,7 @@ podcast:
 image: /images/2015/09/pgssi-s.jpg
 categories:
   - Podcast
+  - Emission
 tags:
   - ARS
   - HADS

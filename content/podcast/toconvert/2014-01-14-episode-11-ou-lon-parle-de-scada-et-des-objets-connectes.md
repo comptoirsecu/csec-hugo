@@ -12,6 +12,7 @@ podcast:
 image: /images/2014/01/5307999284_4e7cc2766a_o.jpg
 categories:
   - Podcast
+  - Emission
 tags:
   - automate
   - Botnet

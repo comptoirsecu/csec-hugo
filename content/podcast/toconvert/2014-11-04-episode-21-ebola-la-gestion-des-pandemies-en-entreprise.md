@@ -12,6 +12,7 @@ podcast:
 image: /images/2014/11/o-EBOLA-VIRUS-facebook.jpg
 categories:
   - Podcast
+  - Emission
 tags:
   - crise
   - cru

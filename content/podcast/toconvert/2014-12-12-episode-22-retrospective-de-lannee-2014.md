@@ -13,6 +13,7 @@ views: 7705
 image: /images/2014/12/tech-trends-20141.jpg
 categories:
   - Podcast
+  - Emission
 tags:
   - "2014"
   - attaques

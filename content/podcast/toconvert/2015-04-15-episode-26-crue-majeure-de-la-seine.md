@@ -12,6 +12,7 @@ podcast:
 image: /images/2015/04/ND_141_-_PARIS_-_La_Grande_Crue_de_la_Seine_-_Rétablissement_de_la_circulation_par_passerelles_au_Quai_de_Passy_inondé.jpg
 categories:
   - Podcast
+  - Emission
 tags:
   - "Continuité d'activié"
   - Crue

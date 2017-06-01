@@ -12,6 +12,7 @@ views: 3983
 image: /images/2016/07/anonymat.jpg
 categories:
   - Podcast
+  - Emission
 tags:
   - anonymat
   - cookies

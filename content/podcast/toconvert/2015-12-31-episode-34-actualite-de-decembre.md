@@ -12,6 +12,7 @@ views: 2088
 image: /images/2015/12/decembre-final.png
 categories:
   - Podcast
+  - Emission
 tags:
   - Bitcoin
   - dhs

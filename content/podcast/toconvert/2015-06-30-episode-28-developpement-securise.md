@@ -12,6 +12,7 @@ views: 5440
 image: /images/2015/06/ed87467131fcadd9a103440dc51500b6_large.jpeg
 categories:
   - Podcast
+  - Emission
 tags:
   - developpement sécurisé
   - podcast

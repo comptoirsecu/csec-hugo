@@ -12,6 +12,7 @@ views: 3284
 image: /images/2016/05/botnet.png
 categories:
   - Podcast
+  - Emission
 tags:
   - Bitcoin
   - Botnet

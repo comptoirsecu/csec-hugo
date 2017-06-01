@@ -11,6 +11,7 @@ views: 3470
 image: /images/2015/08/arjel-final.png
 categories:
   - Podcast
+  - Emission
 tags:
   - arjel
   - jeux en ligne

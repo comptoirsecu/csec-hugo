@@ -12,6 +12,7 @@ views: 3044
 image: /images/2013/12/TEASER.EP09.jpg
 categories:
   - Podcast
+  - Emission
 tags:
   - Bitcoin
   - Facebook

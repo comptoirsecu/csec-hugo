@@ -12,6 +12,7 @@ views: 5187
 image: /images/2015/06/Ransomware_FBI.jpeg
 categories:
   - Podcast
+  - Emission
 tags:
   - corée du nord
   - kim

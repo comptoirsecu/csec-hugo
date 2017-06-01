@@ -12,6 +12,7 @@ views: 15663
 image: /images/2014/04/suze.jpg
 categories:
   - Podcast
+  - Emission
 tags:
   - Bitcoin
   - BYOD

@@ -12,6 +12,7 @@ podcast:
 image: /images/2014/05/hackers001.jpg
 categories:
   - Podcast
+  - Emission
 tags:
   - Angelina Jolie
   - comics

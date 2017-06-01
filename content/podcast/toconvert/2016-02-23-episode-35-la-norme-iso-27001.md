@@ -12,6 +12,7 @@ views: 2509
 image: /images/2016/02/ISO-27001.png
 categories:
   - Podcast
+  - Emission
 tags:
   - amélioration continue
   - iso 27001

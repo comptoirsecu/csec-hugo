@@ -12,6 +12,7 @@ views: 2449
 image: /images/2015/11/photo-original.jpg
 categories:
   - Podcast
+  - Emission
 tags:
   - actualité
   - cyber-detroussage

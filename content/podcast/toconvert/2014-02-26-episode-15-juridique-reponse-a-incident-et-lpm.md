@@ -12,6 +12,7 @@ podcast:
 image: /images/2014/02/Nike_libation_Apollo_Louvre_Ma965.jpg
 categories:
   - Podcast
+  - Emission
 tags:
   - Blackphone
   - Bluetouff

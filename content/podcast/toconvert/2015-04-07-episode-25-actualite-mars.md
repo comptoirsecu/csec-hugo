@@ -12,6 +12,7 @@ podcast:
 image: /images/2015/04/sony-northkorea-hack.jpg
 categories:
   - Podcast
+  - Emission
 tags:
   - actualité
   - Apple

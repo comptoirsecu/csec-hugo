@@ -12,6 +12,7 @@ podcast:
 image: /images/2014/05/46602302.jpg
 categories:
   - Podcast
+  - Emission
 tags:
   - Hearthbleed
   - OpenSSL

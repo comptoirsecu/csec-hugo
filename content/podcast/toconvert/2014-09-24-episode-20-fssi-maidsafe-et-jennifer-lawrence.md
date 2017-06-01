@@ -12,6 +12,7 @@ podcast:
 image: /images/2014/09/015.jpg
 categories:
   - Podcast
+  - Emission
 tags:
   - '#Acronyme'
   - ANSSI

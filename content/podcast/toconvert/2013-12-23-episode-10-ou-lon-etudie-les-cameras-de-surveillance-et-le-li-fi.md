@@ -12,6 +12,7 @@ views: 5898
 image: /images/2013/12/TEASER.EP101.jpg
 categories:
   - Podcast
+  - Emission
 tags:
   - badbios
   - Camera
