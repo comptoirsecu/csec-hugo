@@ -1,6 +1,6 @@
 ---
-id: 1422
-title: '[SECHebdo] Mars 2017 - 3'
+
+title: "[SECHebdo] Mars 2017 - 3"
 subheadline: "JSSI, Vuln. Nintendo Switch, Rapport 0Days, Vuln. Struts, Leak Verifone, etc."
 author: lois
 date: 2017-03-16
@@ -25,7 +25,7 @@ tags:
   - vault7
   - Verifone
 ---
-Bonjour à tous!
+
 
 Nous venons de tourner le troisième SEC Hebdo du mois de mars 2017 en Live ! Comme d'habitude, si vous avez raté l'enregistrement, vous pouvez le retrouver sur notre chaîne Youtube ou bien au format podcast audio:
 

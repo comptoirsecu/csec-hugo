@@ -1,7 +1,7 @@
 ---
-id: 1412
-title: '[SECHebdo] Mars 2017 - 2'
-subheadline: "Vault7, &laquo;&nbsp;Spam&nbsp;&raquo; City, Satan Ransomware, FNLeaks, Guerilla Paching, vote électronique, etc."
+
+title: "[SECHebdo] Mars 2017 - 2"
+subheadline: "Vault7, 'Spam' City, Satan Ransomware, FNLeaks, Guerilla Paching, vote électronique, etc."
 author: justin
 date: 2017-03-08
 video: https://www.youtube.com/embed/fPRLnEHgpS0
@@ -20,7 +20,7 @@ tags:
   - SECHebdo
   - wikileaks
 ---
-Bonjour à tous!
+
 
 Nous venons de tourner le deuxième  SEC Hebdo du mois de mars 2017 en Live ! Comme d'habitude, si vous avez raté l'enregistrement, vous pouvez le retrouver sur notre chaîne Youtube ou bien au format podcast audio:
 

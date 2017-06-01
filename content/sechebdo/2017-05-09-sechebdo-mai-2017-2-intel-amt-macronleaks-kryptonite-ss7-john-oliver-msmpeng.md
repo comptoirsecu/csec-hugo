@@ -1,6 +1,6 @@
 ---
-id: 1482
-title: '[SECHebdo] Mai 2017 - 2'
+
+title: "[SECHebdo] Mai 2017 - 2"
 subheadline: "Intel AMT, MacronLeaks, Kryptonite, SS7, John Oliver, MsMpEng"
 author: justin
 date: 2017-05-09
@@ -22,7 +22,7 @@ tags:
  - SS7
  - Intel
 ---
-Bonjour à tous!
+
 
 Nous venons de tourner le second SECHebdo du mois de mai 2017 sur Youtube. Comme d'habitude, si vous avez raté l'enregistrement, vous pouvez le retrouver sur notre chaîne Youtube ou bien au format podcast audio:
 

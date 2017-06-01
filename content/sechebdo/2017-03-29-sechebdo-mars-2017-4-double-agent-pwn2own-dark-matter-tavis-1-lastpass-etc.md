@@ -1,6 +1,6 @@
 ---
-id: 1444
-title: '[SecHebdo] Mars 2017 - 4'
+
+title: "[SecHebdo] Mars 2017 - 4"
 subheadline: "Double Agent, Malware PLC Siemens, Leak Yahoo, Tavis & Lastpass, Pwn2Own, Dark Matter, etc."
 author: lois
 date: 2017-03-29
@@ -30,7 +30,7 @@ tags:
   - Vault 7
   - Yahoo!
 ---
-Bonjour à tous!
+
 
 Nous venons de tourner le quatrième SECHebdo du mois de mars 2017 sur Youtube. Comme d'habitude, si vous avez raté l'enregistrement, vous pouvez le retrouver sur notre chaîne Youtube ou bien au format podcast audio:
 
@@ -63,7 +63,7 @@ A bientôt pour d'autres émissions/podcasts!
       * <https://pastebin.com/kKm4Vwkx>
   * Deux évasions de machines virtuelles pour célébrer la 10eme edition de Pwn2Own (45:09)
       * <http://www.csoonline.com/article/3182817/security/pwn2own-hacking-contest-ends-with-two-virtual-machine-escapes.html>
-  * Troll: Gilbert Collard VS la DGSI&#8230; euh Siri (51:29)
+  * Troll: Gilbert Collard VS la DGSI... euh Siri (51:29)
       * <http://www.numerama.com/politique/244264-quand-gilbert-collard-se-croit-sur-ecoute-car-il-ne-sait-pas-ce-quest-un-assistant-vocal.html>
   * Découverte de la semaine: Clair (53:16)
       * <https://github.com/coreos/clair>

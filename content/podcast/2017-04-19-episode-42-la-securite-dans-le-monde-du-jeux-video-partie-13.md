@@ -1,6 +1,6 @@
 ---
-id: 1456
-title: '[Épisode 42] La sécurité dans le monde du jeux vidéo'
+
+title: "[Épisode 42] La sécurité dans le monde du jeux vidéo"
 subheadline: "Partie 1/3"
 author: lois
 date: 2017-04-19
@@ -53,4 +53,4 @@ Notre discord pour échanger : <https://discord.comptoirsecu.fr>
 
 Les interludes musicales de l'épisode :
 
-  * <a href="https://www.fabriclondon.com/store/save-fabric.html" target="_blank">Album de protestation contre la fermeture de la Fabric à Londres</a>
+  * [Album de protestation contre la fermeture de la Fabric à Londres](https://www.fabriclondon.com/store/save-fabric.html)

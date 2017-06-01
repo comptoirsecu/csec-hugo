@@ -1,6 +1,6 @@
 ---
-id: 1467
-title: '[SECHebdo] Avril 2017 - 2'
+
+title: "[SECHebdo] Avril 2017 - 2"
 subheadline: "Shadow Brokers, Macron, Conférence ANSSI, 0Day Office, Brickerbot, etc."
 author: lois
 date: 2017-04-11
@@ -32,7 +32,7 @@ tags:
   - SwitHack
 ---
 
-Bonjour à tous!
+
 
 Nous venons de tourner le second SECHebdo du mois d'avril 2017 sur Youtube. Comme d'habitude, si vous avez raté l'enregistrement, vous pouvez le retrouver sur notre chaîne Youtube ou bien au format podcast audio:
 
@@ -44,7 +44,7 @@ A bientôt pour d'autres émissions/podcasts!
 
 ### Liste des news:
 
-  * Retour d'un auditeur, SwitHak, sur la conférence de l'ANSSI &laquo;&nbsp;Construire la paix et la sécurité internationales de la société numérique&nbsp;&raquo; (1:50)
+  * Retour d'un auditeur, SwitHak, sur la conférence de l'ANSSI "Construire la paix et la sécurité internationales de la société numérique" (1:50)
       * <https://twitter.com/swithak>
       * <https://hackademics.fr/forum/orientation-%C3%A9tudes-s%C3%A9curit%C3%A9-informatique/conf%C3%A9rences-s%C3%A9curit%C3%A9-informatique/72596-retex-construire-la-paix-et-la-s%C3%A9curit%C3%A9-internationales-de-la-soci%C3%A9t%C3%A9-num%C3%A9rique>
   * Certificate Authority Authorization (23:11)

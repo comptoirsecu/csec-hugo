@@ -1,5 +1,5 @@
 ---
-id: 1472
+
 title: "[SECHebdo] Mai 2017 - 1"
 subheadline: "2FA, EvilGinx, Justicier Hajime, Rançon Netflix, BGPMon, NomX, Shadow Brokers, Shodan, etc."
 author: lois
@@ -33,7 +33,7 @@ tags:
   - The Dark Overlord
   - Trafic IP
 ---
-Bonjour à tous!
+
 
 Nous venons de tourner le premier SECHebdo du mois de mai 2017 sur Youtube. Comme d'habitude, si vous avez raté l'enregistrement, vous pouvez le retrouver sur notre chaîne Youtube ou bien au format podcast audio:
 

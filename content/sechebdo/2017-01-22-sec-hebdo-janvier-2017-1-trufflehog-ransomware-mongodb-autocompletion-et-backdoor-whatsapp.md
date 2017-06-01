@@ -1,6 +1,6 @@
 ---
-id: 1341
-title: '[SEC Hebdo] Janvier 2017 - 1'
+
+title: "[SEC Hebdo] Janvier 2017 - 1"
 subheadline: "Trufflehog, Ransomware MongoDB, Autocomplétion et Backdoor whatsapp"
 author: morgan
 date: 2017-01-22
@@ -24,7 +24,7 @@ tags:
   - wordpress
 video: https://www.youtube.com/embed/78kgDmpSwN8
 ---
-Bonjour à tous,
+
 
 Et oui, encore une nouvelle série, mais ce sera très certainement la dernière, les prochains épisode seront des SECompris, des SEClair ou des SECHebdo ;).
 
@@ -54,14 +54,14 @@ Sources de la vidéo:
   * **Mise à jour de sécurité WordPress**
       * <https://www.undernews.fr/reseau-securite/wordpress-4-7-1-8-vulnerabilites-corrigees.html>
       * <https://wordpress.org/news/2017/01/wordpress-4-7-1-security-and-maintenance-release/>
-  * **Un nouveau &laquo;&nbsp;ransomware&nbsp;&raquo; exploite le défaut de sécurisation de MongoDB**
+  * **Un nouveau "ransomware" exploite le défaut de sécurisation de MongoDB**
       * <http://www.csoonline.com/article/3154190/security/exposed-mongodb-installs-being-erased-held-for-ransom.html#tk.cso-infsb>
       * <https://nakedsecurity.sophos.com/2017/01/11/thousands-of-mongodb-databases-compromised-and-held-to-ransom/>
-  * **Vulnérabilité whatsapp, &laquo;&nbsp;it\*s not a backdoor, it\*s a feature!&nbsp;&raquo;**
+  * **Vulnérabilité whatsapp, "it\*s not a backdoor, it\*s a feature!"**
       * <https://www.theguardian.com/technology/2017/jan/13/whatsapp-backdoor-allows-snooping-on-encrypted-messages>
       * <https://www.theguardian.com/technology/2017/jan/16/whatsapp-vulnerability-facebook>
       * <http://arstechnica.com/security/2017/01/whatsapp-and-friends-take-umbrage-at-report-its-crypto-is-backdoored/>
       * <https://medium.com/@pepelephew/a-look-at-how-private-messengers-handle-key-changes-5fd4334b809a#.ueig7mq1z>
       * <https://whispersystems.org/blog/there-is-no-whatsapp-backdoor/>
 
-&nbsp;
+

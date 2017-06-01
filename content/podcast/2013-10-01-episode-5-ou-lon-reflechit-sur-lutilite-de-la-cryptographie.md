@@ -35,7 +35,7 @@ Pour le premier épisode du mois, vous pourrez retrouver:
 
   * La rubrique news (1:58)
   * Interlude musicale (20:27)
-  * Un débat sur : &laquo;&nbsp;Peut-on avoir encore confiance dans la cryptographie &laquo;&nbsp;(23:56)
+  * Un débat sur : "Peut-on avoir encore confiance dans la cryptographie "(23:56)
   * Une interview d'un étudiant (55:51)
 
 Chaque mois, en alternance avec le What's Next, nous allons interviewer un étudiant ou un jeune diplômé pour connaitre son rapport à la sécurité informatique. Cette semaine, vous retrouverez Romain Guichard.

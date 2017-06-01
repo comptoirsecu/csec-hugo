@@ -1,5 +1,5 @@
 ---
-title: '[Episode HS] Nuit du Hack 2k14 et Pas Sage En Seine 2014'
+title: "[Episode HS] Nuit du Hack 2k14 et Pas Sage En Seine 2014"
 date: 2014-07-10T00:46:41+00:00
 author: justin
 aliases: /2014/07/episode-hs-1-nuit-du-hack-2k14-et-pas-sage-en-seine-2014/
@@ -44,7 +44,7 @@ C'était notre première conférence et nos débuts sur la prise de son en ext�
 
 1:17:45: Debrief à chaud
 
-1:36:56: Pause musicale avec [<span style="color: #333333;">SLDGHMR &#8211; D.I.Y.</span>](https://soundcloud.com/sldghmr/sldghmr-d-i-y)
+1:36:56: Pause musicale avec [<span >SLDGHMR – D.I.Y.</span>](https://soundcloud.com/sldghmr/sldghmr-d-i-y)
 
 1:39:12: Retour sur Pas Sage en Seine
 

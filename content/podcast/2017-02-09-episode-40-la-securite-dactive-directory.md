@@ -1,5 +1,5 @@
 ---
-id: 1361
+
 title: "[Épisode 40] La sécurité d'Active Directory"
 subheadline: "Si l'AD est compromis, c'est Game Over"
 author: lois
@@ -40,8 +40,8 @@ Bonne écoute à vous !
 
 {{< podigee >}}
 
-Lien direct de l'épisode: <a href="http://podcast.comptoirsecu.fr/CSEC.EP40.2017-02-09.ACTIVE_DIRECTORY.mp3" target="_blank">ici</a>
+Lien direct de l'épisode: [ici](http://podcast.comptoirsecu.fr/CSEC.EP40.2017-02-09.ACTIVE_DIRECTORY.mp3)
 
 Les interludes musicales de l'épisode :
 
-  * <a href="https://snowghosts.bandcamp.com/album/husk" target="_blank">Snow Ghosts &#8211; Undertow et The Fleet</a>
+  * [Snow Ghosts – Undertow et The Fleet](https://snowghosts.bandcamp.com/album/husk)

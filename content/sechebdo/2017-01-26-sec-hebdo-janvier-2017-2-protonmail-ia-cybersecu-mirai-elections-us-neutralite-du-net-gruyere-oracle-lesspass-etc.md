@@ -1,6 +1,6 @@
 ---
-id: 1349
-title: '[SEC Hebdo] Janvier 2017 - 2'
+
+title: "[SEC Hebdo] Janvier 2017 - 2"
 subheadline: "Protonmail, IA cybersécu, Mirai, Elections US, Neutralité du net, Gruyère Oracle, Lesspass, etc."
 author: morgan
 date: 2017-01-26
@@ -19,7 +19,7 @@ tags:
   - SECHebdo
 ---
 
-Bonjour à tous!
+
 
 C'était la surprise de la soirée, certains ont été très réactif et ont pu y assister alors que nous n'avions rien annoncé, le SEC Hebdo était en Live et en présence de Loïs et Justin!
 

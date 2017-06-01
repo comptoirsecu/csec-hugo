@@ -1,6 +1,6 @@
 ---
-id: 1371
-title: '[SEC Hebdo] Février 2017 - 2'
+
+title: "[SEC Hebdo] Février 2017 - 2"
 subheadline: "Nile Phish, Casino & PRNG, WordPress, SMB, Darkweb & BugBounty, PaceMaker espion, etc."
 author: lois
 date: 2017-02-10
@@ -27,7 +27,7 @@ tags:
   - smb
   - wordpress
 ---
-Bonjour à tous!
+
 
 Nous venons de tourner le second SEC Hebdo du mois de février 2017 en Live! Comme d'habitude, si vous avez raté l'enregistrement, vous pouvez le retrouver sur notre chaîne Youtube ou bien au format podcast audio:
 

@@ -1,6 +1,6 @@
 ---
-id: 1400
-title: '[SEC Hebdo] Mars 2017 - 1'
+
+title: "[SEC Hebdo] Mars 2017 - 1"
 subheadline: "CloudBleed, SHAttered, Let’s Encrypt & Phishing, LED-it Go, Sécurité des gestionnaires de mots de passe, etc."
 author: lois
 date: 2017-03-02
@@ -27,7 +27,7 @@ tags:
   - WIN32
   - Yahoo!
 ---
-Bonjour à tous!
+
 
 Nous venons de tourner le premier SEC Hebdo du mois de mars 2017 en Live ! Comme d'habitude, si vous avez raté l'enregistrement, vous pouvez le retrouver sur notre chaîne Youtube.
 
@@ -51,7 +51,7 @@ A bientôt pour d'autres émissions/podcasts!
       * <https://arxiv.org/ftp/arxiv/papers/1702/1702.06715.pdf>
   * Microsoft va bientôt permettre de bloquer l'installation des applications Win32
       * <https://www.bleepingcomputer.com/news/microsoft/upcoming-windows-10-feature-will-block-installation-of-win32-apps/>
-  * L'équipe Project Zero de Google continue de publier des nouvelles vulnérabilités Microsoft et y rajoute &#8230; un POC
+  * L'équipe Project Zero de Google continue de publier des nouvelles vulnérabilités Microsoft et y rajoute ... un POC
       * <http://thehackernews.com/2017/02/google-microsoft-edge-bug.html>
   * Générer des nombres aléatoires pour la sécurité des objets connectés via une puce dédiée
       * <http://www.silicon.fr/securiser-iot-puce-dediee-169501.html>

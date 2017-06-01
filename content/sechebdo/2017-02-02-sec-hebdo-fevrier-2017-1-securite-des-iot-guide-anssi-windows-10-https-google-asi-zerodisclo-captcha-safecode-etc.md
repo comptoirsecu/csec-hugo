@@ -1,6 +1,6 @@
 ---
-id: 1354
-title: '[SEC Hebdo] Février 2017 - 1'
+
+title: "[SEC Hebdo] Février 2017 - 1"
 subheadline: "Sécurité des IoT, Guide ANSSI Windows 10, HTTPS, Google ASI, ZeroDisclo, Captcha, SafeCode, etc."
 author: morgan
 date: 2017-02-02
@@ -24,7 +24,7 @@ tags:
   - sec hebdo
   - ZeroDisclo
 ---
-Bonjour à tous!
+
 
 Nous venons de tourner le 1er SEC Hebdo de février 2017 en Live! Comme d'habitude pour ceux ayant raté l'enregistrement peuvent le retrouver sur Youtube ou bien au format podcast audio:
 
@@ -48,9 +48,9 @@ A bientôt pour d'autres émissions/podcasts!
       * <http://thehackernews.com/2017/02/insider-threat-darkweb-trading.html>
   * La police arrete un cybercriminel susceptible d'avoir attaqué la hacking team
       * <http://thehackernews.com/2017/01/phineas-fisher-hacking-team.html>
-  * <p class="article-title h1">
+  * 
       Internet des objets : des fabricants poursuivis en raison des failles de sécurité des objets connectés
-    </p>
+    
 
       * <https://www.droit-technologie.org/actualites/internet-objets-fabricants-mis-pression-augmenter-securite-objets-connectes/>
   * Google force les développeurs à patcher les vulnérabilités de leurs applications Android

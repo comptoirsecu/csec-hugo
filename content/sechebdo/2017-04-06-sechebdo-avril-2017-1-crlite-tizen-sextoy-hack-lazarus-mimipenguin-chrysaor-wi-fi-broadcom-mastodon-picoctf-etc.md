@@ -1,6 +1,6 @@
 ---
-id: 1451
-title: '[SECHebdo] Avril 2017 - 1'
+
+title: "[SECHebdo] Avril 2017 - 1"
 subheadline: "CRLite, Tizen, Hack de sextoys, Lazarus, Mimipenguin, Chrysaor, Wi-Fi Broadcom, Mastodon, PicoCTF, etc."
 author: lois
 date: 2017-04-06
@@ -30,7 +30,7 @@ tags:
   - Tizen
   - Wi-fi
 ---
-Bonjour à tous!
+
 
 Nous venons de tourner le premier SECHebdo du mois d'avril 2017 sur Youtube. Comme d'habitude, si vous avez raté l'enregistrement, vous pouvez le retrouver sur notre chaîne Youtube ou bien au format podcast audio:
 

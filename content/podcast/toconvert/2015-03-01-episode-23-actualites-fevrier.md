@@ -1,0 +1,135 @@
+---
+
+title: "[Episode 23] Actualités Février"
+date: 2015-03-01T20:28:44+00:00
+author: justin
+
+
+aliases: /2015/03/episode-23-actualites-fevrier/
+podcast:
+  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP23.2015-03-01.ACTU_FEV2015.mp3
+views: 6604
+
+image: /images/2015/03/3372-thumb-1500x575.png
+categories:
+  - Podcast
+tags:
+  - Anonymous
+  - Cyber
+  - cyberthreat
+  - darkleaks
+  - fulldisclosure
+  - gemalto
+  - gemplus
+  - Google
+  - podcast
+  - SCADA
+  - superfish
+---
+
+
+Après les événements du FIC de ce début d'année, nous reprenons du service avec cette fois-ci, un épisode spécial sur l'actualité de Février 2015.
+
+Nous pensons faire un deuxième flux RSS pour poster l'intégralité de nos interviews des conférences. Dites nous dans les commentaires si ça vous intéresse !
+
+## Au programme
+
+  * Superfish (**01:56**)
+  * Gemalto(**11:14)**
+  * Darkleaks (**22:28**)
+  * Projet Zero (**29:59**)
+  * Cyber Threat Intelligence Integration Center (**37:00**)
+  * Anonymous Hack une pompe à essence (**46:36**)
+  * outro avec [Crazy Daylight – Feel Right (Crazy Daylight Refunk)](https://soundcloud.com/crazy-daylight/feel-right-crazy-daylight-refunkdl-it-like-it-aint-no-thang) (**54:52**)
+
+
+
+
+
+  {{< podigee >}}
+
+
+
+
+Bonne écoute !
+
+## Liens et références
+
+### Superfish:
+
+
+  <a href="http://www.nextinpact.com/news/93164-laffaire-superfish-revele-probleme-securite-plus-vaste-avec-certificats.htm">http://www.nextinpact.com/news/93164-laffaire-superfish-revele-probleme-securite-plus-vaste-avec-certificats.htm</a>
+
+
+
+  <a href="https://nakedsecurity.sophos.com/2015/02/20/the-lenovo-superfish-controversy-what-you-need-to-know/">https://nakedsecurity.sophos.com/2015/02/20/the-lenovo-superfish-controversy-what-you-need-to-know/</a>
+
+
+
+  <a href="https://nakedsecurity.sophos.com/2015/02/20/how-to-get-rid-of-the-lenovo-superfish-adware">https://nakedsecurity.sophos.com/2015/02/20/how-to-get-rid-of-the-lenovo-superfish-adware</a>
+
+
+### Gemalto :
+
+
+  Révélation de The Intercept : [https://firstlook.org/ theintercept/2015/02/19/great-sim-heist/](https://firstlook.org/theintercept/2015/02/19/great-sim-heist/)
+
+
+
+  Episode du Rendez vous avec X sur l'affaire GemPlus (émission du 10 Novembre 2012) :<a href="%20http://www.franceinter.fr/emission-rendez-vous-avec-x-l-affaire-gemplus"> http://www.franceinter.fr/emission-rendez-vous-avec-x-l-affaire-gemplus</a>
+
+
+### Darkleaks:
+
+<https://medium.com/@ZozanCudi/darkleaks-information-blackmarket-1ee5ac28c892>
+
+### Google met de l'eau dans son vin sur les 0day disclosure:
+
+
+  <a href="https://nakedsecurity.sophos.com/2015/02/16/googles-project-zero-backs-off-a-bit-will-now-give-up-to-14-days-grace/">https://nakedsecurity.sophos.com/2015/02/16/googles-project-zero-backs-off-a-bit-will-now-give-up-to-14-days-grace/</a>
+
+
+
+  <a href="http://googleprojectzero.blogspot.fr/2014/07/announcing-project-zero.html">http://googleprojectzero.blogspot.fr/2014/07/announcing-project-zero.html</a>
+
+
+
+
+
+
+  <h3>
+    Cyber Threat Intelligence Integration Center :
+  </h3>
+
+
+
+      Décret présidentiel : [http://www.whitehouse.gov/the-press-office/2015/02/12/fact-sheet-executive-order-promoting-private-sector-cybersecurity-inform](http://www.whitehouse.gov/the-press-office/2015/02/12/fact-sheet-executive-order-promoting-private-sector-cybersecurity-inform)
+
+
+
+      Discours d'Obama à Stanford pendant le Cybersecurity and Consumer Protection Summit : [http://www.whitehouse.gov/the-press-office/2015/02/13/remarks-president-cybersecurity-and-consumer-protection-summit](http://www.whitehouse.gov/the-press-office/2015/02/13/remarks-president-cybersecurity-and-consumer-protection-summit)
+
+
+
+      Pour aller plus loin ... [http://www.brookings.edu/blogs/techtank/posts/2015/02/19-cyber-security-center-bejlich](http://www.brookings.edu/blogs/techtank/posts/2015/02/19-cyber-security-center-bejlich)
+
+
+
+
+
+
+
+
+
+      <h3>
+        Anonymous hack une pompe à essence:
+      </h3>
+
+
+        <a href="http://www.theregister.co.uk/2015/02/11/anonymous_hacks_fuel_station_monitoring_system/">http://www.theregister.co.uk/2015/02/11/anonymous_hacks_fuel_station_monitoring_system/</a>
+
+
+
+
+
+Lien pour le podcast : [ici](http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP23.2015-03-01.ACTU_FEV2015.mp3)

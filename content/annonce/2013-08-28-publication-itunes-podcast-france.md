@@ -1,5 +1,5 @@
 ---
-title: Publication Itunes Podcast France
+title: "Publication Itunes Podcast France"
 
 author: lois
 date: 2013-08-28
@@ -7,10 +7,9 @@ date: 2013-08-28
 aliases: /images/2013/08/publication-itunes-podcast-france/
 
 categories:
-  - Podcast
   - Annonce
 ---
-Bonjour tout le monde !
+
 
 Nous sommes enfin publié sur **iTunes**, l'adresse est disponible ici: <https://itunes.apple.com/fr/podcast/le-comptoir-secu/id691497996>
 

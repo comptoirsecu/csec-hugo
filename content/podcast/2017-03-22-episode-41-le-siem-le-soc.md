@@ -1,6 +1,6 @@
 ---
-id: 1432
-title: '[Épisode 41] Le SIEM & le SOC'
+
+title: "[Épisode 41] Le SIEM & le SOC"
 
 author: lois
 date: 2017-03-22
@@ -26,9 +26,9 @@ Pour ce 41ème épisode, nous avons voulu échanger sur les sujets du SIEM et du
 
 Pour cela, nous avons fait appel à trois invités, ayant chacun un angle différent sur le sujet :
 
-  * <a href="https://twitter.com/bfuzeau" target="_blank">Benoit Fuzeau</a>, RSSI de la Casden Banque Populaire
-  * <a href="https://twitter.com/cguiriec" target="_blank">Clément Guiriec</a>, responsable des Services Managés d'INTRINSEC (le SOC, le CERT et la cellule de Threat Intelligence)
-  * <a href="https://twitter.com/fredericsaulet" target="_blank">Frédéric Saulet</a>, en charge des opérations de l'Europe du Sud pour LogPoint, éditeur de SIEM
+  * [Benoit Fuzeau](https://twitter.com/bfuzeau), RSSI de la Casden Banque Populaire
+  * [Clément Guiriec](https://twitter.com/cguiriec), responsable des Services Managés d'INTRINSEC (le SOC, le CERT et la cellule de Threat Intelligence)
+  * [Frédéric Saulet](https://twitter.com/fredericsaulet), en charge des opérations de l'Europe du Sud pour LogPoint, éditeur de SIEM
 
 Bonne écoute à vous !
 
@@ -39,8 +39,8 @@ Notre discord pour échanger : <http://discord.comptoirsecu.fr>
 {{< podigee >}}
 
 
-Lien direct de l'épisode: <a href="http://podcast.comptoirsecu.fr/CSEC.EP41.2017-03-21.SOC_SIEM.mp3" target="_blank">ici</a>
+Lien direct de l'épisode: [ici](http://podcast.comptoirsecu.fr/CSEC.EP41.2017-03-21.SOC_SIEM.mp3)
 
 Les interludes musicales de l'épisode :
 
-  * <a href="http://www.knowermusic.com/" target="_blank">The Govt. Knows &#8211; Knower</a> avec le <a href="https://www.youtube.com/watch?v=4zH9Zca1vRM" target="_blank">clip</a> à voir absolument 🙂
+  * [clip](http://www.knowermusic.com/" >The Govt. Knows – Knower</a> avec le <a href="https://www.youtube.com/watch?v=4zH9Zca1vRM) à voir absolument 🙂

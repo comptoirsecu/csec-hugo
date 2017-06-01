@@ -9,7 +9,7 @@
 
   <main class="card-section">
     {{ if ne .Section "sechebdo" }}
-      {{ .Summary }}
+      <p>{{ .Summary | truncate 150 }}</p>
     {{ else }}
       <p>{{ .Params.Subheadline }}</p>
     {{ end }}

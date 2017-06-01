@@ -1,5 +1,5 @@
 ---
-id: 1380
+
 title: "[SEClair #02] L'effacement sécurisé"
 subheadline: "Parce qu'il y en a marre de voir conseiller des effacements à 7 passes"
 author: morgan
@@ -23,7 +23,7 @@ tags:
   - ssd
 video: https://www.youtube.com/embed/8CCYQpvmu3s
 ---
-Bonjour à tous,
+
 
 SEClair est de retour! Cette fois-ci sur l'effacement sécurisé.
 
@@ -38,7 +38,7 @@ A bientôt pour d'autres émissions/podcasts!
 
 ## **Script:**
 
-&nbsp;
+
 
 ### Introduction
 
@@ -48,7 +48,7 @@ En d'autre terme, comment s'assurer qu'on ne puisse pas récupérer mes données
 
 Oui parce que j'en aie marre des articles qui conseillent de faire 3, 7, 21 voire 35 passes de formatage ! Donc messieurs les paranos, rangez vos casques en papier alu et écoutez attentivement la suite :).
 
-&nbsp;
+
 
 Revendre des disques dur tout seul ça arrive pas souvent mais un PC ou un téléphone d'occasion c'est déjà plus fréquent. Les particuliers ne veulent pas que l'on retrouve leurs mots de passe ou leurs photos coquines. Les entreprises ne veulent pas qu'on puisse récupérer des données confidentielles métiers et autres secrets industriels en fouillant leurs poubelles.
 
@@ -56,7 +56,7 @@ Revendre des disques dur tout seul ça arrive pas souvent mais un PC ou un tél�
 
 Déjà il faut rappeler une chose importante : La plupart du temps vous n'effacez pas vraiment vos données quand vous pensez l'avoir fait.
 
-En effet, Supprimer un fichier via la fonction &laquo;&nbsp;supprimer&nbsp;&raquo; de Windows/Mac ou autre OS ne supprime pas réellement le fichier. Effacer tout un disque via le &laquo;&nbsp;formatage rapide&nbsp;&raquo; n'efface pas réellement le disque non plus.
+En effet, Supprimer un fichier via la fonction "supprimer" de Windows/Mac ou autre OS ne supprime pas réellement le fichier. Effacer tout un disque via le "formatage rapide" n'efface pas réellement le disque non plus.
 
 Si vous ne me croyez pas essayez la chose suivante :
 
@@ -70,7 +70,7 @@ Sorcellerie ? Mais non, pour faire court, un disque peut être vue comme un bouq
 
 Si je vous demande de trouver un chapitre précis vous pouvez vous amusez à parcourir les pages une à une jusqu’ à tomber dessus mais ça va être long. Si vous êtes un peu malin vous allez utiliser la table des matières qui va référencer la page ou commence le chapitre. Bah le système de fichier sur votre disque dur c'est pareil, il y a une espèce de grosse table des matières qui référence les fichiers et leur localisation.
 
-Quand vous effacer un fichier, vous effacer juste la référence dans la table des matières. Le chapitre est toujours dans le bouquin, il n'est juste plus référencé. Quand vous faites un formatage &laquo;&nbsp;rapide&nbsp;&raquo;, vous effacer juste toute la table des matières. Les pages qui contenaient le chapitre/fichiers sont maintenant déclarées comme &laquo;&nbsp;vide&nbsp;&raquo;
+Quand vous effacer un fichier, vous effacer juste la référence dans la table des matières. Le chapitre est toujours dans le bouquin, il n'est juste plus référencé. Quand vous faites un formatage "rapide", vous effacer juste toute la table des matières. Les pages qui contenaient le chapitre/fichiers sont maintenant déclarées comme "vide"
 
 Et un jour, quand vous allez créer ou télécharger un fichier, et qu’il faudra de la place pour le stocker. Votre disque dur choisira cet emplacement qui a la bonne taille et écrira par-dessus. Avec un bouquin ça serait illisible, faudrait d'abord effacer, mais sur un disque ça marche, ça remplace ;).
 
@@ -86,7 +86,7 @@ Mais, si on a tout réécrit une fois, on peut plus rien récupérer, pourquoi i
 
 ### La magie du magnétisme
 
-&#8230;Parce qu'il y a un monsieur qui s'appelle Peter Gutmann et qui, il y a 20 ans, a fait des recherches sur le sujet. A savoir : Est-il possible de savoir quelle donnée il y avait avant la réécriture ?
+...Parce qu'il y a un monsieur qui s'appelle Peter Gutmann et qui, il y a 20 ans, a fait des recherches sur le sujet. A savoir : Est-il possible de savoir quelle donnée il y avait avant la réécriture ?
 
 Le monsieur explique dans son papier qu'il est possible de récupérer le bit qui était stocké avant réécriture. Et cela même après plusieurs réécritures.
 
@@ -112,7 +112,7 @@ Signal précédent déduis :  +11     +11     -9      -11     +9    
 
 Signal numérique précédent : 1     1       0       0       1       1</pre>
 
-&nbsp;
+
 
 2ème passe
 
@@ -134,37 +134,37 @@ De plus le papier se base sur une technologique de disque dur qu'on utilise plus
 
 [Overwriting Hard Drive Data: The Great Wiping Controversy](https://www.vidarholen.net/~vidar/overwriting_hard_drive_data.pdf) (Craig Wright, Dave Kleiman, Shyaam Sundhar R.S.)
 
-&nbsp;
 
-Attention ça veut dire une chance sur deux de récupérer un BIT, par un document. En récupérer plusieurs d'affilé est statistiquement encore plus dure. Genre récupérer un octet entier ça serait plus proche de 3%, alors un document de plusieurs kilooctets voire mégaoctets, soit des milliers ou des millions d'octet&#8230;
+
+Attention ça veut dire une chance sur deux de récupérer un BIT, par un document. En récupérer plusieurs d'affilé est statistiquement encore plus dure. Genre récupérer un octet entier ça serait plus proche de 3%, alors un document de plusieurs kilooctets voire mégaoctets, soit des milliers ou des millions d'octet...
 
 Autant dire mission impossible.
 
-En plus maintenant les disques durs récent sont beaucoup, beaucoup, beaucoup plus denses et plus complexe. Je me souviens fièrement de mon premier disque de 3 Go&#8230;maintenant 1To c'est le standard et du 3To n'est pas bien plus cher. Aucune chance de récupérer quelque chose d'exploitable.
+En plus maintenant les disques durs récent sont beaucoup, beaucoup, beaucoup plus denses et plus complexe. Je me souviens fièrement de mon premier disque de 3 Go...maintenant 1To c'est le standard et du 3To n'est pas bien plus cher. Aucune chance de récupérer quelque chose d'exploitable.
 
-&nbsp;
+
 
 Bref oublier les méthodes Gutmann complètement tarées à 35 passes. Oubliez même les méthodes à 7 passes ou 3 passes. En vrai, une passe suffi, de 0 ou d'aléatoire entre 0 et 1.On ne pourra rien récupérer en désossant votre disque dur pour l'analyser au microscope. Encore moins avec des logiciels comme Recuva ou Photorec.
 
-&nbsp;
 
-Voilà c'est fini merci d'avoir suivi &#8230;
+
+Voilà c'est fini merci d'avoir suivi ...
 
 NON
 
-&#8230;quoi non ?
+...quoi non ?
 
 Et les SSD dans tout ça hein ? \*trollface\*
 
 ### Cas particulier: Les disques SSD
 
-&nbsp;
+
 
 …Oui c'est vrai, les disque SSD sont différent. Ils ne sont pas basés sur non pas sur un support magnétique mais sur de la mémoire Flash. C'est un peu des grosses clé USB.
 
 Ce système de stockage se base sur la capture d'un état électrique dans ce qu'on appelle des semi-conducteur, et qui conserve l'état même si on éteint le PC. Bref, ça a plein d'avantage, notamment de rapidité d'accès à la donnée etc., mais la durée de vie des composants qui stock le bit 0 ou 1 est plus faible que sur un disque dur.
 
-&nbsp;
+
 
 Du coup il y a tout plein de techniques utilisées pour optimiser la durée de vie du disque. L'OS choisi plus ou il met la donnée physiquement, le SSD le fait pour lui en s'arrangeant pour que tout le disque soit utilisé de manière homogène. Il y a du stockage en rab contrer la perte de cellule sans affecter la capacité du disque.
 
@@ -172,7 +172,7 @@ Tout ça pour dire qu'on peut plus tout bêtement réécrire des 0 sur un docume
 
 Parce qu’on n’est pas sûr que le disque va effectivement les écrire sur le document qu'on cherchait à effacer. Par chance, les constructeurs y ont pensé et ont implémenté des fonctionnalité d'effacement sécurisées. Pour les utiliser il faut généralement se servir d'outils fournis par les constructeurs des SSD en question.
 
-Bien entendu c'est franchement déconseillé de faire un effacement sécurisé de tout le SSD tous les 4 matin si vous voulez qu'il tienne un moment&#8230;
+Bien entendu c'est franchement déconseillé de faire un effacement sécurisé de tout le SSD tous les 4 matin si vous voulez qu'il tienne un moment...
 
 Comment faire alors ? Et bien ça dépend du besoin.
 

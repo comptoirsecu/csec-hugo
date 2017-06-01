@@ -1,6 +1,6 @@
 ---
-id: 1393
-title: '[SEC Hebdo] Février 2017 – 4'
+
+title: "[SEC Hebdo] Février 2017 – 4"
 subheadline: "LogicLocker, PornHub, IoT & occasion, Speake (a) r, Google Zero, Libsodium, Infidelité & Uber, etc."
 author: lois
 date: 2017-02-23
@@ -25,7 +25,7 @@ tags:
   - Speaker (a) r
   - Uber
 ---
-Bonjour à tous!
+
 
 Nous venons de tourner le quatrième SEC Hebdo du mois de février 2017 en Live! Comme d'habitude, si vous avez raté l'enregistrement, vous pouvez le retrouver sur notre chaîne Youtube ou bien au format podcast audio:
 
