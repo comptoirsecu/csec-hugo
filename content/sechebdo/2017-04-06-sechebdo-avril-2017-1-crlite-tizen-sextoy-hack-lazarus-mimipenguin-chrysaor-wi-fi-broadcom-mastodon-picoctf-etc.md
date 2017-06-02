@@ -8,7 +8,7 @@ video: https://www.youtube.com/embed/n-yEw7qZYUU
 
 aliases: /2017/04/sechebdo-avril-2017-1-crlite-tizen-sextoy-hack-lazarus-mimipenguin-chrysaor-wi-fi-broadcom-mastodon-picoctf-etc/
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS42.2017-04-05.SECHebdo_Avril_2017-1.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS42.2017-04-05.SECHebdo_Avril_2017-1.mp3
 image:  /images/2017/04/sechebdo-2017-Avril-1.jpg
 categories:
   - Podcast

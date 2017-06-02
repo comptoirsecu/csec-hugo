@@ -11,18 +11,18 @@
 
 
               <picture>
-                <!-- webp images -->
+                <!-- webp images
                 <source type="image/webp" srcset="
                         /images/covers/2017-06-01-mytest-medium.webp 640w,
                         /images/covers/2017-06-01-mytest-large.webp 1050w"
-                        sizes="(max-width: 640px) 95vw, (max-width: 1024px) 40vw, 300px"
-                alt="">
+                        sizes="(max-width: 640px) 98vw, (max-width: 1024px) 48vw, 305px"
+                alt=""> -->
                 <!-- jpeg images -->
                   <source
-                   srcset="/images/covers/test-small.jpg 320w,
-                           /images/covers/test-medium.jpg 640w,
-                           /images/covers/test-large.jpg 1050w"
-                           sizes="(max-width: 640px) 95vw, (max-width: 1024px) 45vw, 25vw"
+                   srcset="{{ substr "/images/covers/test.jpg" 0 -4 }}-small.jpg 320w,
+                           {{ substr "/images/covers/test.jpg" 0 -4 }}-medium.jpg 640w,
+                           {{ substr "/images/covers/test.jpg" 0 -4 }}-large.jpg 1050w"
+                           sizes="(max-width: 640px) 96vw, (max-width: 1024px) 46vw, 25vw"
                    alt="">
                    <img src="/images/covers/test.jpg">
               </picture>

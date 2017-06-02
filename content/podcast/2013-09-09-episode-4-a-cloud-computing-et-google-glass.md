@@ -7,7 +7,7 @@ date: 2013-09-09
 aliases: /2013/09/episode-4-a-cloud-computing-et-google-glass/
 
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP04.2013-09-09.CLOUD_ET_GOOGLEGLASS.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP04.2013-09-09.CLOUD_ET_GOOGLEGLASS.mp3
 
 categories:
   - Podcast

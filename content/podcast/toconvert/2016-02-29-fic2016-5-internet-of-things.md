@@ -7,7 +7,7 @@ author: justin
 
 aliases: /2016/02/fic2016-5-internet-of-things/
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS13.2016-01-26.FIC2016.Internet_Of_Things.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS13.2016-01-26.FIC2016.Internet_Of_Things.mp3
 views: 2182
 image: /images/2016/02/Capture.png
 categories:
@@ -34,4 +34,4 @@ Pour ce dernier épisode de notre série consacré au #FIC2016, nous avons reçu
 
 
 
-Lien direct pour le podcast: [ici](http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS13.2016-01-26.FIC2016.Internet_Of_Things.mp3)
+Lien direct pour le podcast: [ici](https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS13.2016-01-26.FIC2016.Internet_Of_Things.mp3)

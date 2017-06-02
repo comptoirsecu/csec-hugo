@@ -8,7 +8,7 @@ author: justin
 aliases: /2014/09/episode-hs-shellshock/
 views: 5179
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS02.2014-09-30.SHELLSHOCK.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS02.2014-09-30.SHELLSHOCK.mp3
 image: /images/2014/09/SS_Logo_edited-1.jpg
 categories:
   - Podcast
@@ -80,6 +80,6 @@ Bonne écoute !
 
 
 
-Le lien pour télécharger le podcast directement est [ici](http://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_HS2_ShellShock.mp3)
+Le lien pour télécharger le podcast directement est [ici](https://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_HS2_ShellShock.mp3)
 
 Crédit photo: [ici](http://newsplusnotes.blogspot.fr/2012/03/shell-shock-goodie-giveaway-winners.html)

@@ -8,7 +8,7 @@ author: youenn
 aliases: /2014/02/episode-15-juridique-reponse-a-incident-et-lpm/
 views: 5598
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP15.2014-02-25.REPONSE_A_INCIDENTS.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP15.2014-02-25.REPONSE_A_INCIDENTS.mp3
 image: /images/2014/02/Nike_libation_Apollo_Louvre_Ma965.jpg
 categories:
   - Podcast
@@ -104,4 +104,4 @@ Barbara Louis-Sidney, juriste
 
 <http://www.senat.fr/dossier-legislatif/pjl12-822.html>
 
-Lien direct pour le podcast : [ici](http://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_15_Reponse_a_incidents.mp3)
+Lien direct pour le podcast : [ici](https://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_15_Reponse_a_incidents.mp3)

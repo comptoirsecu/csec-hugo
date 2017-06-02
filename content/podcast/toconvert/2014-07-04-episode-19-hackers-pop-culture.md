@@ -8,7 +8,7 @@ author: justin
 aliases: /2014/07/episode-19-hackers-pop-culture/
 views: 4711
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP19.2014-07-02.HACKERS_CULTURE_POP.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP19.2014-07-02.HACKERS_CULTURE_POP.mp3
 image: /images/2014/05/hackers001.jpg
 categories:
   - Podcast
@@ -117,4 +117,4 @@ La liste des œuvres chroniquées:
   * [Mass Effect](http://fr.wikipedia.org/wiki/Mass_Effect)
   * [Vampire la mascarade](http://fr.wikipedia.org/wiki/Vampire_:_la_Mascarade)
 
-Et sinon, le lien direct pour le podcast: [ici](http://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_19_Hackers_CulturePop.mp3)
+Et sinon, le lien direct pour le podcast: [ici](https://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_19_Hackers_CulturePop.mp3)

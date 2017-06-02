@@ -7,7 +7,7 @@ author: morgan
 
 aliases: /2016/09/ndh2016-1-securite-et-vie-prive-sous-windows-10/
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS23.2016-07-02.NDH2k16_Windows10.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS23.2016-07-02.NDH2k16_Windows10.mp3
 views: 923
 image: /images/2016/09/ndh2k16-2.jpg
 categories:

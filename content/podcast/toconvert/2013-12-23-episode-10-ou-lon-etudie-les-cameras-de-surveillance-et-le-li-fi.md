@@ -7,7 +7,7 @@ author: justin
 
 aliases: /2013/12/episode-10-ou-lon-etudie-les-cameras-de-surveillance-et-le-li-fi/
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP10.2013-12-22.CAMERA.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP10.2013-12-22.CAMERA.mp3
 views: 5898
 image: /images/2013/12/TEASER.EP101.jpg
 categories:
@@ -209,4 +209,4 @@ Bonne écoute à toutes et tous et Joyeux Noël !
 
 
 
-    Le lien direct du podcast: <a href="http://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_10_Camera.mp3">ici</a>
+    Le lien direct du podcast: <a href="https://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_10_Camera.mp3">ici</a>

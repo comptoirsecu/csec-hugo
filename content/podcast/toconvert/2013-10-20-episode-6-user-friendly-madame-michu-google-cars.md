@@ -5,7 +5,7 @@ date: 2013-10-20T21:16:10+00:00
 author: justin
 
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP06.2013-10-20.USER_FRIENDLY.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP06.2013-10-20.USER_FRIENDLY.mp3
 aliases: /2013/10/episode-6-user-friendly-madame-michu-google-cars/
 views: 1946
 
@@ -100,4 +100,4 @@ Mouvement de transparence de RSA
 
 
 
-Lien direct vers le podcast: [ici](http://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_06_User_Friendly.mp3)
+Lien direct vers le podcast: [ici](https://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_06_User_Friendly.mp3)

@@ -7,7 +7,7 @@ author: justin
 
 aliases: /2016/03/sequana-crue-de-seine-jour-6-la-crise-dans-la-duree/
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS18.2016-03-14.CRUE2016_06.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS18.2016-03-14.CRUE2016_06.mp3
 views: 2074
 image: /images/2016/03/Crue-Seine-3-cop-slasher-fun1.jpg
 categories:

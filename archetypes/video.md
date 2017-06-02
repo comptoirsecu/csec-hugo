@@ -4,7 +4,7 @@ subheadline: ""
 author:
 
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/filename.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/filename.mp3
 image:  /images/yyyy/mm/image.jpg
 categories:
   - SEClair

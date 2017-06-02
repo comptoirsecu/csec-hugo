@@ -7,7 +7,7 @@ author: morgan
 
 aliases: /2016/10/episode-39-mirai-le-botnet-dobjets-connectes/
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP39.2016-10-31.MIRAI.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP39.2016-10-31.MIRAI.mp3
 views: 2540
 image: /images/2016/10/mirai.png
 categories:

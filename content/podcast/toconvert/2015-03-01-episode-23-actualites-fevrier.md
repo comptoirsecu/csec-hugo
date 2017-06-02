@@ -7,7 +7,7 @@ author: justin
 
 aliases: /2015/03/episode-23-actualites-fevrier/
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP23.2015-03-01.ACTU_FEV2015.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP23.2015-03-01.ACTU_FEV2015.mp3
 views: 6604
 
 image: /images/2015/03/3372-thumb-1500x575.png
@@ -133,4 +133,4 @@ Bonne écoute !
 
 
 
-Lien pour le podcast : [ici](http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP23.2015-03-01.ACTU_FEV2015.mp3)
+Lien pour le podcast : [ici](https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP23.2015-03-01.ACTU_FEV2015.mp3)

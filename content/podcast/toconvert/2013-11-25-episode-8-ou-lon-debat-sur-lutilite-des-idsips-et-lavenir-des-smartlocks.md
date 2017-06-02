@@ -8,7 +8,7 @@ author: justin
 aliases: /2013/11/episode-8-ou-lon-debat-sur-lutilite-des-idsips-et-lavenir-des-smartlocks/
 views: 2108
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP08.2013-11-22.IDS.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP08.2013-11-22.IDS.mp3
 image: /images/2013/11/SMARTLOCK.jpg
 categories:
   - Podcast
@@ -203,4 +203,4 @@ _N'hésitez pas à nous donner vos retours sur l'émission par commentaires ou p
 
 
 
-    Le lien direct du podcast: <a href="http://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_08_IDS.mp3">ici</a>
+    Le lien direct du podcast: <a href="https://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_08_IDS.mp3">ici</a>

@@ -8,7 +8,7 @@ author: justin
 aliases: /2016/03/sequana-crue-de-seine-jour-1-mise-en-condition/
 views: 5252
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS14.2016-03-07.CRUE2016_01.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS14.2016-03-07.CRUE2016_01.mp3
 image: /images/2016/03/crue-de-la-seine-1910b1.jpg
 categories:
   - Podcast

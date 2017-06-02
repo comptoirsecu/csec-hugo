@@ -3,4 +3,6 @@ public/
 node_modules/
 static/css/app.css
 static/js/app.js
+static/images/covers/
+src/images/covers/
 *~

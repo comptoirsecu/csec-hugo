@@ -24,13 +24,13 @@ gulp.task('covers:prod', function() {
         quality: 60,
         rename: {
           extname: '.jpg',
-          prefix: new Date().toISOString().split('T')[0] + '-'
+          //prefix: new Date().toISOString().split('T')[0] + '-'
         }
     },{
       width: 320,
       height: 180,
       rename: {
-        prefix: new Date().toISOString().split('T')[0] + '-',
+        //prefix: new Date().toISOString().split('T')[0] + '-',
         suffix: '-small',
         extname: '.jpg',
       },
@@ -44,7 +44,7 @@ gulp.task('covers:prod', function() {
       width: 640,
       height: 360,
       rename: {
-        prefix: new Date().toISOString().split('T')[0] + '-',
+        //prefix: new Date().toISOString().split('T')[0] + '-',
         suffix: '-medium',
         extname: '.jpg',
       },
@@ -54,7 +54,7 @@ gulp.task('covers:prod', function() {
       width: 1050,
       height: 591,
       rename: {
-        prefix: new Date().toISOString().split('T')[0] + '-',
+        //prefix: new Date().toISOString().split('T')[0] + '-',
         suffix: '-large',
         extname: '.jpg',
       },
@@ -64,7 +64,7 @@ gulp.task('covers:prod', function() {
       width: 640,
       height: 360,
       rename: {
-        prefix: new Date().toISOString().split('T')[0] + '-',
+        //prefix: new Date().toISOString().split('T')[0] + '-',
         suffix: '-medium',
         extname: '.webp',
       },
@@ -73,7 +73,7 @@ gulp.task('covers:prod', function() {
       width: 1050,
       height: 591,
       rename: {
-        prefix: new Date().toISOString().split('T')[0] + '-',
+        //prefix: new Date().toISOString().split('T')[0] + '-',
         suffix: '-large',
         extname: '.webp',
       },

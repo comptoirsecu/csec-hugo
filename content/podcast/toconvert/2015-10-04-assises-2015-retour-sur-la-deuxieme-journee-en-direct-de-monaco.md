@@ -7,7 +7,7 @@ author: lois
 
 aliases: /2015/10/assises-2015-retour-sur-la-deuxieme-journee-en-direct-de-monaco/
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS07.2015-10-04.ASSISES2015_JOUR2.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS07.2015-10-04.ASSISES2015_JOUR2.mp3
 views: 2036
 image: /images/2015/10/assies-com1.png
 categories:

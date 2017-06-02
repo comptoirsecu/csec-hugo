@@ -7,7 +7,7 @@ author: morgan
 
 aliases: /2016/10/assises-2016-retour-global-avec-nolimitsecu/
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS28.2016-10-12.Assises_2016_NoLimitSecu.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS28.2016-10-12.Assises_2016_NoLimitSecu.mp3
 views: 1363
 image: /images/2016/10/assises2016.png
 categories:

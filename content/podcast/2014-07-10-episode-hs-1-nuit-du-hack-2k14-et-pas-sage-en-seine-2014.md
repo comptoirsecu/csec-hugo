@@ -4,7 +4,7 @@ date: 2014-07-10T00:46:41+00:00
 author: justin
 aliases: /2014/07/episode-hs-1-nuit-du-hack-2k14-et-pas-sage-en-seine-2014/
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS01.2014-07-10.NDH.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS01.2014-07-10.NDH.mp3
 image: /images/2014/07/P1000055-1.jpg
 categories:
   - Podcast
@@ -60,4 +60,4 @@ Les video de Pas Sage en Seine: [ici](http://numaparis.ubicast.tv/channels/#pas-
 
 [La Nuit du Hack](http://www.nuitduhack.com/)
 
-Le lien du podcast en direct: [ici](http://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_HS1_NDH.mp3)
+Le lien du podcast en direct: [ici](https://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_HS1_NDH.mp3)

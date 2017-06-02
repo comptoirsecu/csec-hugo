@@ -7,7 +7,7 @@ author: justin
 
 aliases: /2016/03/sequana-crue-de-seine-jour-4-rh-family-first-teletravail/
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS17.2016-03-10.CRUE2016_04.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS17.2016-03-10.CRUE2016_04.mp3
 views: 2235
 image: /images/2016/03/Crue-de-la-Seine-9-fevrier-1.jpg
 categories:

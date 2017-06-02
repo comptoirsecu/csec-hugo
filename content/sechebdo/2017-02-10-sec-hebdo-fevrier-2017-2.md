@@ -7,7 +7,7 @@ date: 2017-02-10
 video: https://www.youtube.com/embed/8UzOtXaYR9w
 
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS34.2017-02-09.SECHebdo_Fev_2017-2.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS34.2017-02-09.SECHebdo_Fev_2017-2.mp3
 aliases: /2017/02/sec-hebdo-fevrier-2017-2/
 image:  /images/2017/02/sechebdo-fev2.jpg
 categories:

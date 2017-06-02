@@ -8,7 +8,7 @@ author: justin
 aliases: /2014/09/episode-20-fssi-maidsafe-et-jennifer-lawrence/
 views: 4364
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP20.2014-09-24.FSSI.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP20.2014-09-24.FSSI.mp3
 image: /images/2014/09/015.jpg
 categories:
   - Podcast
@@ -96,6 +96,6 @@ Home Depot [Lien1](http://krebsonsecurity.com/2014/09/home-depot-56m-cards-impac
 
 [Podradio Awards 2014](http://podradio.fr/news/post/49)
 
-Lien direct du podcast [ici](http://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_20_FSSI.mp3)
+Lien direct du podcast [ici](https://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_20_FSSI.mp3)
 
 Crédit photo : <http://www.theunfappening.com/>

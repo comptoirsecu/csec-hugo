@@ -7,7 +7,7 @@ author: justin
 
 aliases: /2016/02/fic2016-3-nolimitsecu/
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS11.2016-01-25.FIC2016.NoLimit_S%c3%a9cu.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS11.2016-01-25.FIC2016.NoLimit_S%c3%a9cu.mp3
 views: 1439
 image: /images/2016/02/Capture.png
 categories:
@@ -31,4 +31,4 @@ Pour la fin de cette première journée du FIC2016 nous avons reçu nos confrèr
 
 
 
-Lien direct pour le podcast: [ici](http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS11.2016-01-25.FIC2016.NoLimit_S%c3%a9cu.mp3)
+Lien direct pour le podcast: [ici](https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS11.2016-01-25.FIC2016.NoLimit_S%c3%a9cu.mp3)

@@ -7,7 +7,7 @@ author: justin
 
 aliases: /2015/07/episode-29-actualite-juin/
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP29.2015-07-15.ACTU_JUIN.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP29.2015-07-15.ACTU_JUIN.mp3
 views: 3650
 image: /images/2015/07/hacked-team.jpg
 categories:
@@ -62,4 +62,4 @@ Bonne écoute !
   * [SCPP](http://www.undernews.fr/warez-telechargement/incitation-au-piratage-un-magazine-francais-condamne-a-10-000-e-damende.html)
   * [Animal Farm](http://www.undernews.fr/reseau-securite/dino-un-autre-logiciel-espion-francais-decouvert.html)
 
-Lien direct pour le podcast: [ici](http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP29.2015-07-15.ACTU_JUIN.mp3)
+Lien direct pour le podcast: [ici](https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP29.2015-07-15.ACTU_JUIN.mp3)

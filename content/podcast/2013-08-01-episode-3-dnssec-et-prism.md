@@ -7,7 +7,7 @@ date: 2013-08-01
 aliases: /2013/08/episode-3-dnssec-et-prism/
 
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP03.2013-07-30.DNS_ET_PRISM.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP03.2013-07-30.DNS_ET_PRISM.mp3
 
 categories:
   - Podcast

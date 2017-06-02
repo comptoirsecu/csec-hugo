@@ -7,7 +7,7 @@ author: justin
 
 aliases: /2014/04/episode-17-bring-your-own-suze/
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP17.2014-04-15.BYOS.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP17.2014-04-15.BYOS.mp3
 views: 15663
 image: /images/2014/04/suze.jpg
 categories:
@@ -97,4 +97,4 @@ Scandale du backup whatsapp [Lien1](http://nakedsecurity.sophos.com/2014/03/19/w
 
 
 
-Lien direct pour le podcast [ici](http://media.blubrry.com/comptoirsecu/p/comptoirsecu.fr/Episode/ComptoirSecu_Episode_17_BYOS.mp3)
+Lien direct pour le podcast [ici](https://media.blubrry.com/comptoirsecu/p/comptoirsecu.fr/Episode/ComptoirSecu_Episode_17_BYOS.mp3)

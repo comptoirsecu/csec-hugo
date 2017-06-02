@@ -8,7 +8,7 @@ author: justin
 aliases: /2014/11/episode-21-ebola-la-gestion-des-pandemies-en-entreprise/
 views: 6066
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP21.2014-11-03.PANDEMIE_EBOLA.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP21.2014-11-03.PANDEMIE_EBOLA.mp3
 image: /images/2014/11/o-EBOLA-VIRUS-facebook.jpg
 categories:
   - Podcast
@@ -60,4 +60,4 @@ Bonne écoute et n'oubliez pas, réservez votre 10 décembre pour notre enregist
 
 [Le guide du bon sens numérique d'Axa](http://www.axaprevention.fr/documents/fichiers_pdf/axa_guide_bsn.pdf)
 
-Lien pour le podcast [ici](http://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_21_Pandemie_Ebola.mp3)
+Lien pour le podcast [ici](https://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_21_Pandemie_Ebola.mp3)

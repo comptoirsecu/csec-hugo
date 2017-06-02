@@ -7,7 +7,7 @@ author: justin
 
 aliases: /2016/03/sequana-crue-de-seine-jour-3-mettre-a-labri-lessentiel/
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS16.2016-03-09.CRUE2016_03.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS16.2016-03-09.CRUE2016_03.mp3
 views: 1870
 image: /images/2016/03/227663-11ok_1293467634.jpg
 categories:

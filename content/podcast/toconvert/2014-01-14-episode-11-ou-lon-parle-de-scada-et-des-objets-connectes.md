@@ -8,7 +8,7 @@ author: justin
 aliases: /2014/01/episode-11-ou-lon-parle-de-scada-et-des-objets-connectes/
 views: 2903
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP11.2014-01-13.SCADA.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP11.2014-01-13.SCADA.mp3
 image: /images/2014/01/5307999284_4e7cc2766a_o.jpg
 categories:
   - Podcast
@@ -194,4 +194,4 @@ Botnet de caisses enregistreuses : [http://magazine.qualys.fr/menaces-alertes/b
 
 
 
-    Le lien direct pour le podcast <a href="http://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_11_Scada.mp3">ici</a>
+    Le lien direct pour le podcast <a href="https://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_11_Scada.mp3">ici</a>

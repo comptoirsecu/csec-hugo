@@ -8,7 +8,7 @@ author: justin
 aliases: /2013/11/episode-7-ou-lon-parle-du-role-du-rssi/
 views: 2991
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP07.2013-11-13.RSSI.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP07.2013-11-13.RSSI.mp3
 categories:
   - Podcast
   - Emission
@@ -137,4 +137,4 @@ Adobe hacké et mozilla qui sort son lecteur flash
 
 
 
-  Lien direct: <a href="http://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_07_RSSI.mp3">ici</a>
+  Lien direct: <a href="https://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_07_RSSI.mp3">ici</a>

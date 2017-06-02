@@ -7,7 +7,7 @@ date: 2017-02-23
 video: https://www.youtube.com/embed/aGahC_-VCyQ
 
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS37.2017-02-22.SECHebdo_Fev_2017-4.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS37.2017-02-22.SECHebdo_Fev_2017-4.mp3
 aliases: /2017/02/sec-hebdo-fevrier-2017-4-logiclocker-pornhub-iot-occasion-speake-a-r-google-zero-libsodium-infidelite-uber-etc/
 image:  /images/2017/02/fev-4.jpg
 categories:

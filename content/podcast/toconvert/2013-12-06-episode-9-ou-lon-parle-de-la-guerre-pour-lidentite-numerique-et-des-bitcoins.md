@@ -7,7 +7,7 @@ author: justin
 
 aliases: /2013/12/episode-9-ou-lon-parle-de-la-guerre-pour-lidentite-numerique-et-des-bitcoins/
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP09.2013-12-05.IDENTITE_NUMERIQUE.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP09.2013-12-05.IDENTITE_NUMERIQUE.mp3
 views: 3044
 image: /images/2013/12/TEASER.EP09.jpg
 categories:
@@ -204,4 +204,4 @@ Bonne écoute à toutes et tous !
 
 
 
-    Le lien direct du podcast:<a href="http://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_09_Identite_Numerique.mp3"> ici<br /> </a>
+    Le lien direct du podcast:<a href="https://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_09_Identite_Numerique.mp3"> ici<br /> </a>

@@ -8,7 +8,7 @@ author: justin
 aliases: /2014/05/episode-18-la-continuite-dactivite/
 views: 3854
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP18.2014-05-10.PCA.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP18.2014-05-10.PCA.mp3
 image: /images/2014/05/46602302.jpg
 categories:
   - Podcast
@@ -108,4 +108,4 @@ Fausse application antivirus sur le playstore [Lien1](http://nakedsecurity.sopho
 
 
 
-Le lien du podcast: [ici](http://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_18_PCA.mp3)
+Le lien du podcast: [ici](https://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_18_PCA.mp3)

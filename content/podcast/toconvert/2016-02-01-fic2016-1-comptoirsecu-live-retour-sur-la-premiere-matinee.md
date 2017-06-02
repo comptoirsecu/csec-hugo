@@ -7,7 +7,7 @@ author: justin
 
 aliases: /2016/02/fic2016-1-comptoirsecu-live-retour-sur-la-premiere-matinee/
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS09.2016-01-25.FIC2016.Premi%c3%a8re_Matin%c3%a9e.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS09.2016-01-25.FIC2016.Premi%c3%a8re_Matin%c3%a9e.mp3
 views: 1325
 image: /images/2016/02/Capture.png
 categories:
@@ -30,4 +30,4 @@ Dans cette épisode nous revenons sur la première matinée du FIC.
 
 
 
-Lien direct pour le podcast: [ici](http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS09.2016-01-25.FIC2016.Premi%c3%a8re_Matin%c3%a9e.mp3)
+Lien direct pour le podcast: [ici](https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS09.2016-01-25.FIC2016.Premi%c3%a8re_Matin%c3%a9e.mp3)

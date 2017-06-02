@@ -7,7 +7,7 @@ author: lois
 
 aliases: /2014/12/episode-22-retrospective-de-lannee-2014/
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP22.2014-11-03.RETROSPECTIVE_2014.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP22.2014-11-03.RETROSPECTIVE_2014.mp3
 views: 7705
 
 image: /images/2014/12/tech-trends-20141.jpg
@@ -54,4 +54,4 @@ Nous avons eu la chance de pouvoir enregistrer cette épisode en public à [La 
 
 Bonne écoute !
 
-Lien pour le podcast : [ici](http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP22.2014-11-03.RETROSPECTIVE_2014.mp3]
+Lien pour le podcast : [ici](https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP22.2014-11-03.RETROSPECTIVE_2014.mp3]

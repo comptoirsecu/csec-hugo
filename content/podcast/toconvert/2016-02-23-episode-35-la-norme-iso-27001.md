@@ -7,7 +7,7 @@ author: lois
 
 aliases: /2016/02/episode-35-la-norme-iso-27001/
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP35.2016-02-21.ISO_27001.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP35.2016-02-21.ISO_27001.mp3
 views: 2509
 image: /images/2016/02/ISO-27001.png
 categories:

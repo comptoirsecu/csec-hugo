@@ -7,7 +7,7 @@ author: justin
 
 aliases: /2015/11/episode-32-actualite-octobre/
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP32.2015-11-03.ACTU_OCTOBRE.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP32.2015-11-03.ACTU_OCTOBRE.mp3
 views: 2449
 image: /images/2015/11/photo-original.jpg
 categories:

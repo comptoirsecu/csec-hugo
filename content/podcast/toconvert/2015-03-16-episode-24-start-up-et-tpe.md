@@ -7,7 +7,7 @@ author: justin
 
 aliases: /2015/03/episode-24-start-up-et-tpe/
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP24.2015-03-15.STARTUP_TPE.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP24.2015-03-15.STARTUP_TPE.mp3
 views: 5927
 
 image: /images/2015/03/start-up-seed-funding-fonds-investissement-levee-©-Gorilla-Fotolia.com_.jpg
@@ -54,4 +54,4 @@ Bonne écoute à vous !
 
 
 
-Lien pour le podcast [ici](http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP24.2015-03-15.STARTUP_TPE.mp3) ou alors sur Podcloud [ici](https://podcloud.fr/podcast/le-comptoir-secu?5507e5ae6e7334397f6a0100)
+Lien pour le podcast [ici](https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP24.2015-03-15.STARTUP_TPE.mp3) ou alors sur Podcloud [ici](https://podcloud.fr/podcast/le-comptoir-secu?5507e5ae6e7334397f6a0100)

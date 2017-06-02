@@ -7,7 +7,7 @@ author: lois
 
 aliases: /2016/07/episode-38-lanonymat/
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP38.2016-07-11.ANONYMAT.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP38.2016-07-11.ANONYMAT.mp3
 views: 3983
 image: /images/2016/07/anonymat.jpg
 categories:

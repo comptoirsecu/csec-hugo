@@ -8,7 +8,7 @@ author: justin
 aliases: /2015/04/episode-26-crue-majeure-de-la-seine/
 views: 7623
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP26.2015-04-06.CRUES_MAJEURES.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP26.2015-04-06.CRUES_MAJEURES.mp3
 image: /images/2015/04/ND_141_-_PARIS_-_La_Grande_Crue_de_la_Seine_-_Rétablissement_de_la_circulation_par_passerelles_au_Quai_de_Passy_inondé.jpg
 categories:
   - Podcast
@@ -105,4 +105,4 @@ Bonne écoute !
   * [Cluprate – Yin](https://culprate.bandcamp.com/album/deliverance)
   * Musique de fin avec  [Receptor – Kurchatov](https://pro.beatport.com/track/kurchatov-original-mix/866507)
 
-Lien direct pour le podcast: [ici](http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP26.2015-04-06.CRUES_MAJEURES.mp3)
+Lien direct pour le podcast: [ici](https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP26.2015-04-06.CRUES_MAJEURES.mp3)

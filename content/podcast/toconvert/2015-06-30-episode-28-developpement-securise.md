@@ -7,7 +7,7 @@ author: justin
 
 aliases: /2015/06/episode-28-developpement-securise/
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP28.2015-06-29.DEVELOPPEMENT_SECURISE.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP28.2015-06-29.DEVELOPPEMENT_SECURISE.mp3
 views: 5440
 image: /images/2015/06/ed87467131fcadd9a103440dc51500b6_large.jpeg
 categories:
@@ -37,4 +37,4 @@ Pour écouter le flux des episodes HS/interview c'est par ici : <http://le-comp
 
 
 
-voici le lien direct pour le podcast [ici](http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP28.2015-06-29.DEVELOPPEMENT_SECURISE.mp3)
+voici le lien direct pour le podcast [ici](https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP28.2015-06-29.DEVELOPPEMENT_SECURISE.mp3)

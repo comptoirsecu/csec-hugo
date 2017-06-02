@@ -7,7 +7,7 @@ author: morgan
 
 aliases: /2016/09/ndh2016-3-securite-du-protocole-zigbee-avec-renaud-lifchitz/
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS25.2016-07-02.NDH2k16_Renaud_Lifchitz.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS25.2016-07-02.NDH2k16_Renaud_Lifchitz.mp3
 views: 1478
 image: /images/2016/09/ndh2k16.jpg
 categories:

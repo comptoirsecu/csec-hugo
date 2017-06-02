@@ -7,7 +7,7 @@ author: justin
 
 aliases: /2016/02/fic2016-4-korben-et-bug-bounty/
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS12.2016-01-26.FIC2016.Korben.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS12.2016-01-26.FIC2016.Korben.mp3
 views: 1709
 image: /images/2016/02/Capture.png
 categories:
@@ -38,4 +38,4 @@ Pour cette deuxième journée du Forum International de la cybercriminalité nou
 
 
 
-Lien direct pour le podcast: [ici](http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS12.2016-01-26.FIC2016.Korben.mp3)
+Lien direct pour le podcast: [ici](https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS12.2016-01-26.FIC2016.Korben.mp3)

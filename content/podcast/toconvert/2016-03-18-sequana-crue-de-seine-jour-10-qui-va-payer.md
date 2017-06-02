@@ -8,7 +8,7 @@ author: justin
 aliases: /2016/03/sequana-crue-de-seine-jour-10-qui-va-payer/
 views: 2122
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS22.2016-03-18.CRUE2016_10.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS22.2016-03-18.CRUE2016_10.mp3
 image: /images/2016/03/091b8c28faad30adffa51a7cce405.jpg
 categories:
   - Podcast

@@ -7,7 +7,7 @@ author: lois
 
 aliases: /2016/05/episode-37-les-botnets/
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP37.2016-05-23.BOTNETS.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP37.2016-05-23.BOTNETS.mp3
 views: 3284
 image: /images/2016/05/botnet.png
 categories:

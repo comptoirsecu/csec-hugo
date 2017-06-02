@@ -7,7 +7,7 @@ author: justin
 
 aliases: /2015/06/episode-27-actualite-mai/
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP27.2015-06-05.ACTU_MAI.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP27.2015-06-05.ACTU_MAI.mp3
 views: 5187
 image: /images/2015/06/Ransomware_FBI.jpeg
 categories:

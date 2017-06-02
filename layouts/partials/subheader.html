@@ -1,11 +1,15 @@
 
-  <div class="title-bar" data-responsive-toggle="responsive-menu" data-hide-for="medium">
-    <button class="menu-icon" type="button" data-toggle="responsive-menu"></button> <strong>Menu</strong>
+  <div class="top-bar foundation-5-top-bar">
+    <div class="top-bar-title">
+      <i class="fa fa-beer show-for-medium"></i>
+      <span data-responsive-toggle="responsive-menu" data-hide-for="medium">
+        <button class="menu-icon" type="button" data-toggle="responsive-menu"></button>
+      </span>
+      <strong><a href="/"> Comptoir Sécu</a></strong>
+    </div>
   </div>
   <div class="top-bar"  id="responsive-menu">
-    <div class="top-bar-title">
-      <strong><i class="fa fa-beer show-for-medium"></i> <a href="/">Comptoir Sécu</a></strong>
-    </div>
+
       <nav class="top-bar-left">
         <ul class="vertical medium-horizontal menu" data-responsive-menu="drilldown medium-dropdown">
           {{ $currentPage := . }}

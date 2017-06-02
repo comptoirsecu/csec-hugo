@@ -7,7 +7,7 @@ author: lois
 
 aliases: /2016/05/episode-36-les-mots-de-passe/
 podcast:
-  feed: http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP36.2016-05-02.MOTS_DE_PASSE.mp3
+  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP36.2016-05-02.MOTS_DE_PASSE.mp3
 views: 8044
 image: /images/2016/05/mots-de-passe.jpg
 categories:
