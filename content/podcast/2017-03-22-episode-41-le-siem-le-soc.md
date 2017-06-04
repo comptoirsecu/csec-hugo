@@ -2,13 +2,13 @@
 
 title: "[Épisode 41] Le SIEM & le SOC"
 
-author: lois
-date: 2017-03-22
+publisher: lois
+date: 2017-03-22T00:00:00+00:00
 
 aliases: /2017/03/episode-41-le-siem-le-soc/
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP41.2017-03-21.SOC_SIEM.mp3
-image:  /images/2017/03/SOC.png
+image: /images/covers/2017-03-SOC.jpg
 categories:
   - Podcast
   - Emission

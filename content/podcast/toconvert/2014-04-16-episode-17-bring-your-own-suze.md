@@ -2,14 +2,14 @@
 
 title: "[Episode 17] Bring Your Own Suze"
 date: 2014-04-16T11:44:51+00:00
-author: justin
+publisher: justin
 
 
 aliases: /2014/04/episode-17-bring-your-own-suze/
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP17.2014-04-15.BYOS.mp3
 views: 15663
-image: /images/2014/04/suze.jpg
+image: /images/covers/2014-04-suze.jpg
 categories:
   - Podcast
   - Emission

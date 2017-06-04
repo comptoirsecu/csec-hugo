@@ -2,14 +2,14 @@
 
 title: "[SEC Hebdo] Février 2017 – 4"
 subheadline: "LogicLocker, PornHub, IoT & occasion, Speake (a) r, Google Zero, Libsodium, Infidelité & Uber, etc."
-author: lois
-date: 2017-02-23
+publisher: lois
+date: 2017-02-23T00:00:00+00:00
 video: https://www.youtube.com/embed/aGahC_-VCyQ
 
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS37.2017-02-22.SECHebdo_Fev_2017-4.mp3
 aliases: /2017/02/sec-hebdo-fevrier-2017-4-logiclocker-pornhub-iot-occasion-speake-a-r-google-zero-libsodium-infidelite-uber-etc/
-image:  /images/2017/02/fev-4.jpg
+image: /images/covers/2017-02-fev-4.jpg
 categories:
   - Podcast
   - SECHebdo

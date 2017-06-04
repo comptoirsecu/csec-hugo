@@ -2,12 +2,12 @@
 
 title: "Tri-PIN : Une solution ingénieuse contre le shoulder surfing ?"
 date: 2014-01-28T09:30:06+00:00
-author: morgan
+publisher: morgan
 
 
 aliases: /2014/01/tri-pin-une-solution-ingenieuse-contre-le-shoulder-surfing/
 views: 1317
-image: /images/2014/01/tri-pin.png
+image: /images/covers/2014-01-tri-pin.jpg
 categories:
   - Article
 tags:

@@ -2,14 +2,14 @@
 
 title: "[SEC Hebdo] Février 2017 - 1"
 subheadline: "Sécurité des IoT, Guide ANSSI Windows 10, HTTPS, Google ASI, ZeroDisclo, Captcha, SafeCode, etc."
-author: morgan
-date: 2017-02-02
+publisher: morgan
+date: 2017-02-02T00:00:00+00:00
 video: https://www.youtube.com/embed/6Tzb-Shm2QI
 
 aliases: /2017/02/sec-hebdo-fevrier-2017-1-securite-des-iot-guide-anssi-windows-10-https-google-asi-zerodisclo-captcha-safecode-etc/
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS33.2017-02-02.SECHebdo_Fev_2017-1.mp3
-image:  /images/2017/02/2017-02-02-vignette.jpg
+image: /images/covers/2017-02-2017-02-02-vignette.jpg
 categories:
   - Podcast
   - SECHebdo

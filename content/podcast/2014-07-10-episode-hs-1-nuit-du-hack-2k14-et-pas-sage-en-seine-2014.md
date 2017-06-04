@@ -1,11 +1,11 @@
 ---
 title: "[Episode HS] Nuit du Hack 2k14 et Pas Sage En Seine 2014"
 date: 2014-07-10T00:46:41+00:00
-author: justin
+publisher: justin
 aliases: /2014/07/episode-hs-1-nuit-du-hack-2k14-et-pas-sage-en-seine-2014/
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS01.2014-07-10.NDH.mp3
-image: /images/2014/07/P1000055-1.jpg
+image: /images/covers/2014-07-P1000055-1.jpg
 categories:
   - Podcast
   - Hors-Serie

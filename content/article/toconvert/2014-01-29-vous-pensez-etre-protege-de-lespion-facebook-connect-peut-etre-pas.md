@@ -2,13 +2,13 @@
 
 title: "Vous pensez être protégé de l'espion Facebook connect ? Peut-être pas.."
 date: 2014-01-29T09:35:00+00:00
-author: morgan
+publisher: morgan
 excerpt: "Facebook connect permet à l'entreprise tiers de tout savoir sur vous.. Mais aussi sur vos amis !"
 
 
 aliases: /2014/01/vous-pensez-etre-protege-de-lespion-facebook-connect-peut-etre-pas/
 views: 1087
-image: /images/2014/01/big-brother-facebook-stripped.jpg
+image: /images/covers/2014-01-big-brother-facebook-stripped.jpg
 categories:
   - Article
 tags:

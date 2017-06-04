@@ -2,7 +2,7 @@
 
 title: "[Episode 22] Notre rétrospective de l'année 2014"
 date: 2014-12-12T11:52:26+00:00
-author: lois
+publisher: lois
 
 
 aliases: /2014/12/episode-22-retrospective-de-lannee-2014/
@@ -10,7 +10,7 @@ podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP22.2014-11-03.RETROSPECTIVE_2014.mp3
 views: 7705
 
-image: /images/2014/12/tech-trends-20141.jpg
+image: /images/covers/2014-12-tech-trends-20141.jpg
 categories:
   - Podcast
   - Emission

@@ -1,8 +1,8 @@
 ---
 title: "[Épisode 3] DNSSEC et PRISM"
 subheadline: "Présentation du protocole DNSSEC par un expert"
-author: lois
-date: 2013-08-01
+publisher: lois
+date: 2013-08-01T00:00:00+00:00
 
 aliases: /2013/08/episode-3-dnssec-et-prism/
 
@@ -18,13 +18,18 @@ tags:
   - dnssec
   - Prism
 
-music:
+songs:
   - bleep_dippingtoes
   - kunio_lsistrikesback
 
 drinks:
   - grimbergen_poire
 
+authors:
+  - lois
+  - youenn
+  - morgan
+  - justin
 guests:
   - romain_dnssec
 ---

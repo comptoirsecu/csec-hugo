@@ -2,14 +2,14 @@
 
 title: "[Episode 8] Où l'on débat sur l'utilité des IDS/IPS et l'avenir des smartlocks"
 date: 2013-11-25T08:53:01+00:00
-author: justin
+publisher: justin
 
 
 aliases: /2013/11/episode-8-ou-lon-debat-sur-lutilite-des-idsips-et-lavenir-des-smartlocks/
 views: 2108
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP08.2013-11-22.IDS.mp3
-image: /images/2013/11/SMARTLOCK.jpg
+image: /images/covers/2013-11-SMARTLOCK.jpg
 categories:
   - Podcast
   - Emission

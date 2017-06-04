@@ -2,12 +2,12 @@
 
 title: "Achats en ligne : Risques associées et comment s’en prémunir"
 date: 2014-01-25T09:30:14+00:00
-author: morgan
+publisher: morgan
 
 
 aliases: /2014/01/achats-en-ligne-risques-associees-et-comment-sen-premunir/
 views: 1090
-image: /images/2014/01/Credit-Card-Fraud.jpg
+image: /images/covers/2014-01-Credit-Card-Fraud.jpg
 categories:
   - Article
 tags:

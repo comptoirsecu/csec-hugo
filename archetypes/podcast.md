@@ -1,7 +1,7 @@
 ---
 title: ""
 subheadline: ""
-author:
+publisher:
 
 image:  /images/2017/MM/IMAGE.jpg
 podcast:

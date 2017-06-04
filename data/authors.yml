@@ -6,46 +6,55 @@
 #
 # Resource http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 comptoirsecu:
-  name: "L'équipe du Comptoir Sécu"
-  siterole: "Fondateurs de l'association Le Comptoir Sécu"
+  name: "Équipe Comptoir Sécu"
+  description: "Fondateurs de l'association Le Comptoir Sécu"
   uri: http://www.comptoirsecu.fr/
   email: contact@comptoirsecu.fr
   twitter: "@comptoirsecu"
+  image: comptoirsecu.jpg
+  youtube: UCF-ljS9G2ABgsN7P83WDFhQ
 
 justin:
-    siterole: >
+    description: >
         Co-fondateur et président de l'association Le Comptoir Sécu
     email: justin@comptoirsecu.fr
     name: Justin Ganivet
-    twitter: izura
-    uri: 'https://www.youtube.com/channel/UCe-0FAoHZyDLPMLHnYAuXsw/videos'
+    twitter: "@izura"
+    youtube: 'UCe-0FAoHZyDLPMLHnYAuXsw'
+    image: justin-ganivet.jpg
+    linkedin: https://www.linkedin.com/company-beta/3578276/
 
 lois:
-    siterole: >
+    description: >
         Co-fondateur et secrétaire de l'association Le Comptoir Sécu
     email: lois@comptoirsecu.fr
     name: Loïs Samain
-    twitter: lsamain
-    uri: https://www.linkedin.com/in/lsamain/
+    twitter: "@lsamain"
+    linkedin: https://www.linkedin.com/in/lsamain
+    image: lois-samain.jpg
 
 morgan:
-    siterole: >
+    description: >
         Co-fondateur et vice-président de l'association Le Comptoir Sécu
     email: morgan@comptoirsecu.fr
     name: Morgan Hotonnier
-    twitter: morganhotonnier
-    uri: https://www.linkedin.com/in/morganhotonnier/
+    twitter: "@morganhotonnier"
+    linkedin: https://www.linkedin.com/in/morganhotonnier
+    image: morgan-hotonnier.jpg
+
 
 youenn:
-    siterole: >
+    description: >
         Sondier et trésorier de l'association Le Comptoir Sécu
     email: youenn@comptoirsecu.fr
     name: Youenn Piolet
-    twitter: schematicwizard
+    twitter: "@schematicwizard"
     uri: 'http://ypiolet.fr'
+    image: youenn-piolet.jpg
 
 simon:
-    siterole: >
+    description: >
         Ancien membre du Comptoir
-    name: Simon
-    uri: 'https://www.linkedin.com/in/simonlacoste/'
+    name: Simon Lacoste
+    linkedin: 'simonlacoste'
+    image: simon-lacoste.jpg

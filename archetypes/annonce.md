@@ -1,6 +1,6 @@
 ---
 title:
-author: comptoirsecu
+publisher: comptoirsecu
 image:  /images/2014/MM/FILE.jpg
 categories:
  - annonce

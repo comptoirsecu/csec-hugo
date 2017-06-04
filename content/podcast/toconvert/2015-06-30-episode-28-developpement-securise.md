@@ -2,14 +2,14 @@
 
 title: "[Episode 28] Développement sécurisé"
 date: 2015-06-30T21:22:14+00:00
-author: justin
+publisher: justin
 
 
 aliases: /2015/06/episode-28-developpement-securise/
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP28.2015-06-29.DEVELOPPEMENT_SECURISE.mp3
 views: 5440
-image: /images/2015/06/ed87467131fcadd9a103440dc51500b6_large.jpeg
+image: /images/covers/2015-06-ed87467131fcadd9a103440dc51500b6_large.jpg
 categories:
   - Podcast
   - Emission

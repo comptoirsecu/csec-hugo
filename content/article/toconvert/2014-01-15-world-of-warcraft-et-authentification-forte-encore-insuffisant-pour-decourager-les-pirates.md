@@ -2,12 +2,12 @@
 
 title: "World of Warcraft et authentification forte : encore insuffisant pour décourager les pirates"
 date: 2014-01-15T13:30:50+00:00
-author: morgan
+publisher: morgan
 
 
 aliases: /2014/01/world-of-warcraft-et-authentification-forte-encore-insuffisant-pour-decourager-les-pirates/
 views: 877
-image: /images/2014/01/battle.net-authenticator.jpg
+image: /images/covers/2014-01-battle.net-authenticator.jpg
 categories:
   - Article
 tags:

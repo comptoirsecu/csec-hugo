@@ -2,12 +2,12 @@
 
 title: "Les mots de passe selon la gendarmerie nationale"
 date: 2014-02-05T09:25:21+00:00
-author: morgan
+publisher: morgan
 
 
 aliases: /2014/02/les-mots-de-passe-selon-la-gendarmerie-nationale/
 views: 2220
-image: /images/2014/02/password-gendarmerie.jpg
+image: /images/covers/2014-02-password-gendarmerie.jpg
 categories:
   - Article
 tags:

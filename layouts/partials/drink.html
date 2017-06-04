@@ -1,0 +1,41 @@
+<!-- User card example #1 -->
+<div class="card-user-container">
+  <!--card's image-->
+  <div class="card-user-avatar">
+    <img src="/images/thumbnails/{{ if .value.image }}{{ .value.image }}{{ else }}drink-default.jpg{{ end }}" alt="" class="user-image">
+  </div>
+
+  <!--user info name, bio and location-->
+  <div class="card-user-bio">
+    <h4>{{ .value.name }}</h4>
+    <p>{{ .value.siterole }}</p>
+  </div>
+
+  <!--card's socail icons-->
+  <div class="card-user-social">
+    <ul class="menu">
+      {{ with .value.type }}{{ . }}{{ end }}
+      {{ with .value.subtype}}({{ . }}){{ end}}
+      {{ with .value.degree }}, {{ . }}°{{ end }}
+      {{ with .value.linkedin }}
+      <a href="{{ . }}"><li class="fa fa-linkedin-square"></li></a>
+      {{ end }}
+      {{ with .value.country }}
+      <br />
+      <li class="fa fa-globe"></li>{{ . }}
+      {{ end }}
+      {{ with .value.uri }}
+      <a href="{{ . }}"><li class="fa fa-link"></li></a>
+      {{ end }}
+      {{ with .value.email }}
+      <a href="mailto:{{ . }}"><li class="fa fa-envelope"></li></a>
+      {{ end }}
+    </ul>
+  </div>
+
+  <!--card's follow button-->
+  <div class="card-user-button">
+    <div class="stat"><a href="/drinks/{{.key}}">{{ (index .site.Taxonomies.drinks .key).Count }}</a></div>
+    <p>Dégustations</p>
+  </div>
+</div>

@@ -2,12 +2,12 @@
 
 title: "Le comptoir vous attend aux Assises de la Sécurité 2016"
 date: 2016-10-05T15:49:02+00:00
-author: morgan
+publisher: morgan
 
 
 aliases: /2016/10/le-comptoir-vous-attend-aux-assises-de-la-securite-2016/
 views: 639
-image: /images/2016/10/assises2016.png
+image: /images/covers/2016-10-assises2016.jpg
 categories:
   - Annonce
 tags:

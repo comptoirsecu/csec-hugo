@@ -2,12 +2,12 @@
 
 title: "Vulnérabilité critique découverte dans Flash, ça faisait longtemps... non je plaisante !"
 date: 2014-02-06T09:25:13+00:00
-author: morgan
+publisher: morgan
 
 
 aliases: /2014/02/vulnerabilite-critique-decouverte-dans-flash-ca-faisait-longtemps-non-je-plaisante/
 views: 685
-image: /images/2014/02/adobe-flash-player-hacked.jpg
+image: /images/covers/2014-02-adobe-flash-player-hacked.jpg
 categories:
   - Article
 tags:

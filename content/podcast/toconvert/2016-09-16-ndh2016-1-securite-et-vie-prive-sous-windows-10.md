@@ -2,14 +2,14 @@
 
 title: "[NDH2016] 1 – Sécurité et vie privé sous Windows 10"
 date: 2016-09-16T18:55:43+00:00
-author: morgan
+publisher: morgan
 
 
 aliases: /2016/09/ndh2016-1-securite-et-vie-prive-sous-windows-10/
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS23.2016-07-02.NDH2k16_Windows10.mp3
 views: 923
-image: /images/2016/09/ndh2k16-2.jpg
+image: /images/covers/2016-09-ndh2k16-2.jpg
 categories:
   - Podcast
   - Hors-Serie

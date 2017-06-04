@@ -2,14 +2,14 @@
 
 title: "[Episode 32] Actualité Octobre"
 date: 2015-11-05T12:11:52+00:00
-author: justin
+publisher: justin
 
 
 aliases: /2015/11/episode-32-actualite-octobre/
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP32.2015-11-03.ACTU_OCTOBRE.mp3
 views: 2449
-image: /images/2015/11/photo-original.jpg
+image: /images/covers/2015-11-photo-original.jpg
 categories:
   - Podcast
   - Emission

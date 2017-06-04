@@ -2,12 +2,12 @@
 
 title: "La fin du bitcoin ?"
 date: 2014-03-04T10:00:05+00:00
-author: justin
+publisher: justin
 
 
 aliases: /2014/03/la-fin-du-bitcoin/
 views: 742
-image: /images/2014/03/11297241203_b629d9183e_o.jpg
+image: /images/covers/2014-03-11297241203_b629d9183e_o.jpg
 categories:
   - Article
 tags:

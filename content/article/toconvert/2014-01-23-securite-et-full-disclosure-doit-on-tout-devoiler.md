@@ -2,12 +2,12 @@
 
 title: "Sécurité et full disclosure, doit-on tout dévoiler ?"
 date: 2014-01-23T20:30:58+00:00
-author: morgan
+publisher: morgan
 
 
 aliases: /2014/01/securite-et-full-disclosure-doit-on-tout-devoiler/
 views: 1029
-image: /images/2014/01/snapchat.jpg
+image: /images/covers/2014-01-snapchat.jpg
 categories:
   - Article
 tags:

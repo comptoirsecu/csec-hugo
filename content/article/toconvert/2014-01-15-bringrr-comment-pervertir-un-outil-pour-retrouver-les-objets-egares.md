@@ -2,12 +2,12 @@
 
 title: "Bringrr, comment pervertir un outil pour retrouver les objets égarés ?"
 date: 2014-01-15T09:31:49+00:00
-author: morgan
+publisher: morgan
 
 
 aliases: /2014/01/bringrr-comment-pervertir-un-outil-pour-retrouver-les-objets-egares/
 views: 787
-image: /images/2014/01/bringrr2.png
+image: /images/covers/2014-01-bringrr2.jpg
 categories:
   - Article
 tags:

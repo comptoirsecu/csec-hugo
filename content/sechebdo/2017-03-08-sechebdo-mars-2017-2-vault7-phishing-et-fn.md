@@ -2,14 +2,14 @@
 
 title: "[SECHebdo] Mars 2017 - 2"
 subheadline: "Vault7, 'Spam' City, Satan Ransomware, FNLeaks, Guerilla Paching, vote électronique, etc."
-author: justin
-date: 2017-03-08
+publisher: justin
+date: 2017-03-08T00:00:00+00:00
 video: https://www.youtube.com/embed/fPRLnEHgpS0
 
 aliases: /2017/03/sechebdo-mars-2017-2-vault7-phishing-et-fn/
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS39.2017-03-08.SECHebdo_Mar_2017-2.mp3
-image:  /images/2017/03/sechebdo-2017-03-08-vignette.jpg
+image: /images/covers/2017-03-sechebdo-2017-03-08-vignette.jpg
 categories:
   - Podcast
   - SECHebdo

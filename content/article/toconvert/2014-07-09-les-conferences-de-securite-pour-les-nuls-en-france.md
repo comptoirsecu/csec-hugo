@@ -2,12 +2,12 @@
 
 title: "Les conférences de Sécurité pour les Nuls (en France)"
 date: 2014-07-09T18:30:29+00:00
-author: lois
+publisher: lois
 
 
 aliases: /2014/07/les-conferences-de-securite-pour-les-nuls-en-france/
 views: 5380
-image: /images/2014/07/hackito-ergo-sum-2012-8518.jpg
+image: /images/covers/2014-07-hackito-ergo-sum-2012-8518.jpg
 categories:
   - Article
 tags:

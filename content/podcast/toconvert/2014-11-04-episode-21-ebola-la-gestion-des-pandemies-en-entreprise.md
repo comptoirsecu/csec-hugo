@@ -2,14 +2,14 @@
 
 title: "[Episode 21] Ébola, la gestion des pandémies en entreprise"
 date: 2014-11-04T00:25:27+00:00
-author: justin
+publisher: justin
 
 
 aliases: /2014/11/episode-21-ebola-la-gestion-des-pandemies-en-entreprise/
 views: 6066
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP21.2014-11-03.PANDEMIE_EBOLA.mp3
-image: /images/2014/11/o-EBOLA-VIRUS-facebook.jpg
+image: /images/covers/2014-11-o-EBOLA-VIRUS-facebook.jpg
 categories:
   - Podcast
   - Emission
@@ -26,6 +26,9 @@ tags:
   - peste
   - podcast
   - PRA
+
+guests:
+  - vincent_balouet
 ---
 
 

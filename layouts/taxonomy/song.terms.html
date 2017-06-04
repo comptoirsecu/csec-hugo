@@ -1,0 +1,17 @@
+{{ partial "header.html" . }}
+
+<div class="row align-center t1">
+  <div class="small-12 medium-12 large-10 column">
+    <h2 class="text-center">Nos interludes musicales</h2>
+    <div class="row small-up-1 medium-up-2 large-up-3 align-center">
+      {{ range $key, $value := .Site.Data.songs }}
+      <div class="column column-block">
+       {{ partial "song.html" (dict "key" $key "value" $value "site" $.Site) }}
+      </div>
+      {{ end }}
+    </div>
+    {{ partial "pagination.html" . }}
+  </div>
+</div>
+
+{{ partialCached "footer.html" . }}

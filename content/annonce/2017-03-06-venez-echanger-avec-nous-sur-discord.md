@@ -2,11 +2,11 @@
 
 title: "Venez échanger avec nous sur Discord!"
 
-author: morgan
-date: 2017-03-06
+publisher: morgan
+date: 2017-03-06T00:00:00+00:00
 
 aliases: /2017/03/venez-echanger-avec-nous-sur-discord/
-image:  /images/2017/03/discord.png
+image: /images/covers/2017-03-discord.jpg
 categories:
   - Annonce
 tags:

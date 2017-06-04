@@ -2,12 +2,12 @@
 
 title: "Les français sont-ils vraiment prêts à abandonner leur vie privée ?"
 date: 2014-02-26T09:25:38+00:00
-author: morgan
+publisher: morgan
 
 
 aliases: /2014/02/les-francais-sont-ils-vraiment-prets-a-abandonner-leur-vie-privee/
 views: 2417
-image: /images/2014/02/benjamin-franklin-portrait.jpg
+image: /images/covers/2014-02-benjamin-franklin-portrait.jpg
 categories:
   - Article
 tags:

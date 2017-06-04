@@ -2,7 +2,7 @@
 
 title: "[Episode 23] Actualités Février"
 date: 2015-03-01T20:28:44+00:00
-author: justin
+publisher: justin
 
 
 aliases: /2015/03/episode-23-actualites-fevrier/
@@ -10,7 +10,7 @@ podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP23.2015-03-01.ACTU_FEV2015.mp3
 views: 6604
 
-image: /images/2015/03/3372-thumb-1500x575.png
+image: /images/covers/2015-03-3372-thumb-1500x575.jpg
 categories:
   - Podcast
   - Emission

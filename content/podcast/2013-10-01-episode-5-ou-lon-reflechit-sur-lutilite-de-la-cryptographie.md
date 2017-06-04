@@ -1,8 +1,8 @@
 ---
 title: "[Épisode 5] Où l'on réfléchit sur l'utilité de la cryptographie"
-author: lois
+publisher: lois
 
-date: 2013-10-01
+date: 2013-10-01T00:00:00+00:00
 aliases: /2013/10/episode-5-ou-lon-reflechit-sur-lutilite-de-la-cryptographie/
 
 podcast:
@@ -18,7 +18,7 @@ tags:
   - NSA
   - PRISM
 
-music:
+songs:
   - 2080_mymegadrive
 
 drinks:

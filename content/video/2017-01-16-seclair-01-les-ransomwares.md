@@ -2,8 +2,8 @@
 
 title: "[SEClair #01] Les Ransomwares"
 subheadline: "Vous allez regretter d'avoir oublié de backup!"
-author: morgan
-date: 2017-01-16
+publisher: morgan
+date: 2017-01-16T00:00:00+00:00
 
 aliases: /2017/01/seclair-01-les-ransomwares/
 podcast:
@@ -13,7 +13,7 @@ podcast:
     Je vous cache pas que c'est un essai, n'hésitez pas à me dire dans les commentaires ce que vous en pensez. Je me dis que ça va peut-être un peu trop vite niveau information à assimiler.
 
     A bientôt pour d'autres émissions/podcasts!"
-image:  /images/2017/01/SEClair-01-Les-ransomwares.png
+image: /images/covers/2017-01-SEClair-01-Les-ransomwares.jpg
 categories:
   - SEClair
 tags:

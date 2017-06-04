@@ -2,12 +2,12 @@
 
 title: "[FIC2015] Programme du ComptoirSecu"
 date: 2015-01-19T20:56:57+00:00
-author: lois
+publisher: lois
 
 
 aliases: /2015/01/fic2015-programme-du-comptoirsecu/
 views: 5573
-image: /images/2015/01/logo_FIC2015_HD.jpg
+image: /images/covers/2015-01-logo_FIC2015_HD.jpg
 categories:
   - Annonce
 tags:

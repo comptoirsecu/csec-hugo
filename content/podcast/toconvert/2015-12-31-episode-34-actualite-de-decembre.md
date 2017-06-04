@@ -2,14 +2,14 @@
 
 title: "[EPISODE 34] Actualité de Décembre"
 date: 2015-12-31T21:55:52+00:00
-author: lois
+publisher: lois
 
 
 aliases: /2015/12/episode-34-actualite-de-decembre/
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP34.2015-12-29.ACTU_DECEMBRE.mp3
 views: 2088
-image: /images/2015/12/decembre-final.png
+image: /images/covers/2015-12-decembre-final.jpg
 categories:
   - Podcast
   - Emission

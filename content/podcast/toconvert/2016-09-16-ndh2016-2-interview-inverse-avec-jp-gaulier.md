@@ -2,14 +2,14 @@
 
 title: "[NDH2016] 2 – Interview inversé avec JP Gaulier"
 date: 2016-09-16T19:16:37+00:00
-author: morgan
+publisher: morgan
 
 
 aliases: /2016/09/ndh2016-2-interview-inverse-avec-jp-gaulier/
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS24.2016-07-02.NDH2k16_Jpgaulier.mp3
 views: 871
-image: /images/2016/09/ndh2k16.jpg
+image: /images/covers/2016-09-ndh2k16.jpg
 categories:
   - Podcast
   - Hors-Serie

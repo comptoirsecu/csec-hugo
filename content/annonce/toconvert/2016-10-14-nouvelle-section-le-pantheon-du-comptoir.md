@@ -2,12 +2,12 @@
 
 title: "Nouvelle section : Le Panthéon du Comptoir"
 date: 2016-10-14T22:36:11+00:00
-author: morgan
+publisher: morgan
 
 
 aliases: /2016/10/nouvelle-section-le-pantheon-du-comptoir/
 views: 907
-image: /images/2016/10/pantheon.jpg
+image: /images/covers/2016-10-pantheon.jpg
 categories:
   - Annonce
 tags:

@@ -2,14 +2,14 @@
 
 title: "[Episode 25] Actualité Mars"
 date: 2015-04-07T13:13:37+00:00
-author: justin
+publisher: justin
 
 
 aliases: /2015/04/episode-25-actualite-mars/
 views: 5824
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP25.2015-04-06.ACTU_MARS2015.mp3
-image: /images/2015/04/sony-northkorea-hack.jpg
+image: /images/covers/2015-04-sony-northkorea-hack.jpg
 categories:
   - Podcast
   - Emission

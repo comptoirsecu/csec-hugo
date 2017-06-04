@@ -2,7 +2,7 @@
 
 title: "[Episode 12] Où l'on parle des Darknets et des Alt-Coins"
 date: 2014-01-27T09:30:59+00:00
-author: justin
+publisher: justin
 
 
 aliases: /2014/01/episode-12-ou-lon-parle-des-darknets-et-des-alt-coins/
@@ -10,7 +10,7 @@ podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP12.2014-01-24.DARKNETS.mp3
 views: 6872
 
-image: /images/2014/01/tor_browser_logo_by_j_bob-d5gjqrq.jpg
+image: /images/covers/2014-01-tor_browser_logo_by_j_bob-d5gjqrq.jpg
 categories:
   - Podcast
   - Emission

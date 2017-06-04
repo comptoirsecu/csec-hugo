@@ -2,14 +2,14 @@
 
 title: "[NDH2016] Retour général avec NoLimitSécu"
 date: 2016-09-16T19:36:51+00:00
-author: morgan
+publisher: morgan
 
 
 aliases: /2016/09/ndh2016-retour-general-avec-nolimitsecu/
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS27.2016-07-02.NDH2k16_NoLimitSecu.mp3
 views: 1164
-image: /images/2016/09/ndh2k16.jpg
+image: /images/covers/2016-09-ndh2k16.jpg
 categories:
   - Podcast
   - Hors-Serie

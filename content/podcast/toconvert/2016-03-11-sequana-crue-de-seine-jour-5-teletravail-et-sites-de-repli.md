@@ -2,14 +2,14 @@
 
 title: "[Sequana] Crue de Seine – Jour 5 – Télétravail et sites de repli"
 date: 2016-03-11T09:32:27+00:00
-author: justin
+publisher: justin
 
 
 aliases: /2016/03/sequana-crue-de-seine-jour-5-teletravail-et-sites-de-repli/
 views: 3624
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS18.2016-03-11.CRUE2016_05.mp3
-image: /images/2016/03/Crue-Seine-1-cop-Slasher-fun.jpg
+image: /images/covers/2016-03-Crue-Seine-1-cop-Slasher-fun.jpg
 categories:
   - Podcast
   - Hors-Serie
@@ -28,6 +28,10 @@ tags:
   - Seine
   - sequana
   - télétravail
+
+guests:
+  - vincent_balouet
+
 ---
 
 

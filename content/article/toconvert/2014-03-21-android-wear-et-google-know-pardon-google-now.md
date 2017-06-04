@@ -2,12 +2,12 @@
 
 title: "Android Wear et Google Know...pardon, Google Now"
 date: 2014-03-21T14:15:05+00:00
-author: morgan
+publisher: morgan
 
 
 aliases: /2014/03/android-wear-et-google-know-pardon-google-now/
 views: 3086
-image: /images/2014/03/moto-titre.png
+image: /images/covers/2014-03-moto-titre.jpg
 categories:
   - Article
 tags:

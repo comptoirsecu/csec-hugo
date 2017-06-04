@@ -2,14 +2,14 @@
 
 title: "[Sequana] Crue de Seine – Jour 3 –  Mettre à l’abri l’essentiel"
 date: 2016-03-09T09:00:58+00:00
-author: justin
+publisher: justin
 
 
 aliases: /2016/03/sequana-crue-de-seine-jour-3-mettre-a-labri-lessentiel/
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS16.2016-03-09.CRUE2016_03.mp3
 views: 1870
-image: /images/2016/03/227663-11ok_1293467634.jpg
+image: /images/covers/2016-03-227663-11ok_1293467634.jpg
 categories:
   - Podcast
   - Hors-Serie
@@ -26,6 +26,10 @@ tags:
   - sécurité
   - Seine
   - sequana
+
+guests:
+  - vincent_balouet
+
 ---
 
 

@@ -2,14 +2,14 @@
 
 title: "[Episode 38] L'Anonymat"
 date: 2016-07-12T14:54:55+00:00
-author: lois
+publisher: lois
 
 
 aliases: /2016/07/episode-38-lanonymat/
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP38.2016-07-11.ANONYMAT.mp3
 views: 3983
-image: /images/2016/07/anonymat.jpg
+image: /images/covers/2016-07-anonymat.jpg
 categories:
   - Podcast
   - Emission

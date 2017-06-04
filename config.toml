@@ -4,14 +4,25 @@ title = "Le Comptoir Sécu"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "fr"
 copyright = "2017 Le Comptoir Sécu"
+paginate = 12
+
 [permalinks]
 podcast = "/podcast/:title/"
 sechebdo = "/sechebdo/:title/"
 annonce = "/annonce/:title/"
 article = "/article/:title/"
 video = "/video/:title/"
-Paginate = 12
 
+
+
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+author = "authors"
+drink = "drinks"
+song = "songs"
+guest = "guests"
 
 [menu]
   [[menu.left]]
@@ -86,6 +97,41 @@ Paginate = 12
       weight = 50
       identifier = "sechebdo"
       url = "/sechebdo/"
+  [[menu.left]]
+      name= "Registres"
+      pre = "fa-book"
+      weight = 60
+      identifier = "registre"
+      [[menu.left]]
+          name= "Membres"
+          parent = "registre"
+          weight = 61
+          identifier = "membres"
+          url="/authors/"
+      [[menu.left]]
+          name= "Invités"
+          parent = "registre"
+          weight = 62
+          identifier = "invites"
+          url="/guests/"
+      [[menu.left]]
+          name= "Boissons"
+          parent = "registre"
+          weight = 63
+          identifier = "boissons"
+          url="/drinks/"
+      [[menu.left]]
+          name= "Musiques"
+          parent = "registre"
+          weight = 64
+          identifier = "musiques"
+          url="/songs/"
+  [[menu.right]]
+      name= "Recherche"
+      pre = "fa-search"
+      weight = 70
+      url = "/recherche/"
+      identifier = "search"
   [[menu.footer]]
       name= "À propos"
       pre = "fa-info-circle"

@@ -2,14 +2,14 @@
 
 title: "[Episode 11] Où l'on parle de SCADA et des objets connectés"
 date: 2014-01-14T10:00:13+00:00
-author: justin
+publisher: justin
 
 
 aliases: /2014/01/episode-11-ou-lon-parle-de-scada-et-des-objets-connectes/
 views: 2903
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP11.2014-01-13.SCADA.mp3
-image: /images/2014/01/5307999284_4e7cc2766a_o.jpg
+image: /images/covers/2014-01-5307999284_4e7cc2766a_o.jpg
 categories:
   - Podcast
   - Emission

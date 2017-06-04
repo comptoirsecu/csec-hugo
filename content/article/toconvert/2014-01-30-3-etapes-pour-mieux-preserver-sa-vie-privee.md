@@ -2,12 +2,12 @@
 
 title: "3 étapes pour mieux préserver sa vie privée"
 date: 2014-01-30T09:30:41+00:00
-author: morgan
+publisher: morgan
 
 
 aliases: /2014/01/3-etapes-pour-mieux-preserver-sa-vie-privee/
 views: 726
-image: /images/2014/01/privacy-small.jpg
+image: /images/covers/2014-01-privacy-small.jpg
 categories:
   - Article
 tags:

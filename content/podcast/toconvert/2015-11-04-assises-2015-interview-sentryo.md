@@ -2,7 +2,7 @@
 
 title: "[Assises 2015] Interview Sentryo"
 date: 2015-11-04T10:27:00+00:00
-author: justin
+publisher: justin
 
 
 aliases: /2015/11/assises-2015-interview-sentryo/

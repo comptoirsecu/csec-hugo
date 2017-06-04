@@ -2,14 +2,14 @@
 
 title: "[FIC2016] 5 – Internet Of Things"
 date: 2016-02-29T08:33:21+00:00
-author: justin
+publisher: justin
 
 
 aliases: /2016/02/fic2016-5-internet-of-things/
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS13.2016-01-26.FIC2016.Internet_Of_Things.mp3
 views: 2182
-image: /images/2016/02/Capture.png
+image: /images/covers/2016-02-Capture.jpg
 categories:
   - Podcast
   - Hors-Serie

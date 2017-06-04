@@ -2,12 +2,12 @@
 
 title: "Windows 7 pro survivra"
 date: 2014-02-25T09:46:19+00:00
-author: justin
+publisher: justin
 
 
 aliases: /2014/02/windows-7-pro-survivra/
 views: 485
-image: /images/2014/02/7520cfad6515831edc43b3183c98c968_large.jpeg
+image: /images/covers/2014-02-7520cfad6515831edc43b3183c98c968_large.jpg
 categories:
   - Article
 tags:

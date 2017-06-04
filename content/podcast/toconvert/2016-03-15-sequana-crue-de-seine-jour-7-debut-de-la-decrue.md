@@ -2,7 +2,7 @@
 
 title: "[Sequana] Crue de Seine – Jour 7 – Début de la décrue"
 date: 2016-03-15T09:00:05+00:00
-author: justin
+publisher: justin
 
 
 aliases: /2016/03/sequana-crue-de-seine-jour-7-debut-de-la-decrue/
@@ -10,7 +10,7 @@ podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS19.2016-03-15.CRUE2016_07.mp3
 
 views: 1816
-image: /images/2016/03/jet-seine-1.jpg
+image: /images/covers/2016-03-jet-seine-1.jpg
 categories:
   - Podcast
   - Hors-Serie
@@ -27,6 +27,10 @@ tags:
   - sécurité
   - Seine
   - sequana
+
+guests:
+  - vincent_balouet
+
 ---
 
 

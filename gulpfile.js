@@ -5,10 +5,15 @@ var sass_src = "src/scss/app.scss";
 var runSequence = require('run-sequence');
 var javascript_src = ['src/js/enabled/foundation.core.js', 'src/js/enabled/foundation.util.*.js', 'src/js/enabled/*.js'];
 var javascript_dest = "static/js";
-var covers_src = "src/images/covers/*.{png,jpg}";
-var covers_dest = "static/images/covers/";
-var pics_src = "src/images/misc/*.{png,jpg,gif}";
-var pics_dest = "static/images/misc/";
+var img = {
+  cover: {   src: "src/images/covers/*.{png,jpg,jpeg,gif}",
+            dst: "static/images/covers/" },
+  misc: {   src: "src/images/misc/*.{png,jpg,jpeg,gif}",
+            dst: "static/images/misc/" },
+  thumbnail: {   src: "src/images/thumbnails/*.{png,jpg,jpeg,gif}",
+            dst: "static/images/thumbnails/" },
+  };
+
 var sassPaths = [
   'src/scss/foundation',
   'src/scss/normalize-scss/sass',
@@ -17,18 +22,83 @@ var sassPaths = [
 var exec = require('child_process').exec;
 
 
-gulp.task('covers:prod', function() {
-  return gulp.src(covers_src)
+
+gulp.task('sass:dev', function() {
+  return gulp.src(sass_src)
+    .pipe(plugins.sass({
+      includePaths: sassPaths,
+      outputStyle: 'nested' // if css 'compressed' **file size**
+    })
+      .on('error', plugins.sass.logError))
+    .pipe(plugins.autoprefixer({
+      browsers: ['last 2 versions', 'ie >= 9']
+    }))
+    .pipe(gulp.dest(css_dest));
+});
+
+gulp.task('sass:prod', function() {
+  return gulp.src(sass_src)
+    .pipe(plugins.sass({
+      includePaths: sassPaths,
+      outputStyle: 'compressed' // if css 'compressed' **file size**
+    })
+      .on('error', plugins.sass.logError))
+    .pipe(plugins.autoprefixer({
+      browsers: ['last 2 versions', 'ie >= 9']
+    }))
+    .pipe(gulp.dest(css_dest));
+});
+
+gulp.task('img:misc', function() {
+  return gulp.src(img.misc.src)
+  .pipe(plugins.responsive({'*': [
+      { quality: 50, width: 400, rename:
+          { extname: '.jpg', suffix: '-small'} },
+      { quality: 50, width: 200, rename:
+          { extname: '.jpg'} }]},
+  {
+    withMetadata: false,
+    embed: true,
+    background: "#fff",
+    errorOnEnlargement: false,
+    errorOnUnusedConfig: false,
+  }))
+  .pipe(gulp.dest(img.misc.dst));
+});
+
+gulp.task('img:thumbnails', function() {
+  return gulp.src(img.thumbnail.src)
+  .pipe(plugins.responsive({'*': [
+      { quality: 50, width: 400, height: 400, rename:
+          { extname: '.jpg', suffix: '-small'} },
+      { quality: 50, width: 200, height: 200, rename:
+          { extname: '.jpg'} }]},
+  {
+    withMetadata: false,
+    crop: true,
+    background: "#fff",
+    errorOnEnlargement: false,
+    errorOnUnusedConfig: false,
+  }))
+  .pipe(gulp.dest(img.thumbnail.dst));
+});
+
+
+
+gulp.task('img:covers', function() {
+  return gulp.src(img.cover.src)
   .pipe(plugins.responsive({
     '*': [{
         quality: 60,
+        width: 1920,
+        height: 1080,
         rename: {
           extname: '.jpg',
           //prefix: new Date().toISOString().split('T')[0] + '-'
         }
     },{
-      width: 320,
-      height: 180,
+      width: 384,
+      height: 216,
       rename: {
         //prefix: new Date().toISOString().split('T')[0] + '-',
         suffix: '-small',
@@ -51,8 +121,8 @@ gulp.task('covers:prod', function() {
       progressive: true,
       quality: 60,
     }, {
-      width: 1050,
-      height: 591,
+      width: 1024,
+      height: 576,
       rename: {
         //prefix: new Date().toISOString().split('T')[0] + '-',
         suffix: '-large',
@@ -70,8 +140,8 @@ gulp.task('covers:prod', function() {
       },
       quality: 50,
     }, {
-      width: 1050,
-      height: 591,
+      width: 1024,
+      //height: 379, //576,
       rename: {
         //prefix: new Date().toISOString().split('T')[0] + '-',
         suffix: '-large',
@@ -83,12 +153,13 @@ gulp.task('covers:prod', function() {
     // Global configuration for all images
     // Strip all metadata
     withMetadata: false,
-    embed: true,
+    crop: true,
     background: "#000",
     // Do not emit the error when image is enlarged.
     errorOnEnlargement: false,
+    errorOnUnusedConfig: false,
   }))
-  .pipe(gulp.dest(covers_dest));
+  .pipe(gulp.dest(img.cover.dst));
 });
 
 gulp.task('sass:dev', function() {

@@ -2,12 +2,12 @@
 
 title: "Sécurité Bitcoin #1 : Introduction"
 date: 2014-01-09T09:30:54+00:00
-author: morgan
+publisher: morgan
 
 
 aliases: /2014/01/securite-bitcoin-1-introduction/
 views: 3196
-image: /images/2014/01/bitcoin-piggy-bank-2.jpg
+image: /images/covers/2014-01-bitcoin-piggy-bank-2.jpg
 categories:
   - Article
 tags:

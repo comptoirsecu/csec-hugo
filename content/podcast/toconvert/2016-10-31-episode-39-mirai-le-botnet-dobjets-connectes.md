@@ -2,14 +2,14 @@
 
 title: "[Épisode 39] Mirai, le botnet d'objets connectés"
 date: 2016-10-31T22:42:42+00:00
-author: morgan
+publisher: morgan
 
 
 aliases: /2016/10/episode-39-mirai-le-botnet-dobjets-connectes/
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP39.2016-10-31.MIRAI.mp3
 views: 2540
-image: /images/2016/10/mirai.png
+image: /images/covers/2016-10-mirai.jpg
 categories:
   - Podcast
   - Emission

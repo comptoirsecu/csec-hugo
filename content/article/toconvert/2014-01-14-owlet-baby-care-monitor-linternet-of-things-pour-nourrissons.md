@@ -2,12 +2,12 @@
 
 title: "Owlet Baby care Monitor : L'Internet of Things pour nourrissons"
 date: 2014-01-14T11:30:48+00:00
-author: morgan
+publisher: morgan
 
 
 aliases: /2014/01/owlet-baby-care-monitor-linternet-of-things-pour-nourrissons/
 views: 811
-image: /images/2014/01/owlet-Poster-ads5-2.jpg
+image: /images/covers/2014-01-owlet-Poster-ads5-2.jpg
 categories:
   - Article
 tags:

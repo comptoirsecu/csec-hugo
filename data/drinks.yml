@@ -1,16 +1,18 @@
-corsendonk_Blonde:
+corsendonk_blonde:
     name: Corsendonk Blonde
     type: Bière
     subtype: Brune
     country: Belgique
     degree: 6,5
+    image: corsendonk-blonde.jpg
 
-corsendonk_Brune:
+corsendonk_brune:
     name: Corsendonk Brune
     type: Bière
     subtype: Brune
     country: Belgique
     degree: 6,5
+    image: corsendonk-brune.jpg
 
 delirium_nocturnum:
     name: Délirium Nocturnum
@@ -18,13 +20,15 @@ delirium_nocturnum:
     subtype: Brune
     country: Belgique
     degree: 8,5
+    image: delirium-nocturnum.jpg
 
-martini_Rouge:
+martini_rouge:
     name: Martini Rouge
-    type: vermouth
+    type: Vermouth
     subtype: Rouge
     country: Italie
     degree: 15
+    image: martini-rouge.jpg
 
 grimbergen_poire:
     name: Grimbergen Poire
@@ -32,13 +36,15 @@ grimbergen_poire:
     subtype: Blonde
     country: Belgique
     degree: 6
-    
+    image: grimbergen-poire.jpg
+
 whisky_lascaw:
     name: Lascaw
     type: Whisky
     subtype: Single malt Scotch
     country: Périgord
     degree: 40
+    image: whisky-lascaw.jpg
 
 whisky_cardhu:
     name: Cardhu
@@ -46,6 +52,7 @@ whisky_cardhu:
     subtype: Single malt Scotch
     country: Périgord
     degree: 40
+    image: whiskey-cardhu.jpg
 
 virgin_bloodymary:
     name: Virgin Bloody Mary
@@ -53,3 +60,4 @@ virgin_bloodymary:
     subtype: Sans Alcool
     country: France
     degree: 0
+    image: virgin-bloodymary.jpg

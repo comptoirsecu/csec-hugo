@@ -2,12 +2,12 @@
 
 title: "Pwn2Own 2014 : Les résultats sont toujours aussi catastrophiques"
 date: 2014-04-01T08:25:48+00:00
-author: morgan
+publisher: morgan
 
 
 aliases: /2014/04/pwn2own-2014-les-resultats-sont-toujours-aussi-catastrophiques/
 views: 1039
-image: /images/2014/03/pwn2own.png
+image: /images/covers/2014-03-pwn2own.jpg
 categories:
   - Article
 tags:

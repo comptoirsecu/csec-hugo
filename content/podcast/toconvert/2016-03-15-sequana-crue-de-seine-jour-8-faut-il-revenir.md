@@ -2,14 +2,14 @@
 
 title: "[Sequana] Crue de Seine – Jour 8 –  Faut il revenir ?"
 date: 2016-03-15T09:00:50+00:00
-author: justin
+publisher: justin
 
 
 aliases: /2016/03/sequana-crue-de-seine-jour-8-faut-il-revenir/
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS20.2016-03-16.CRUE2016_08.mp3
 views: 1841
-image: /images/2016/03/paris_inondation.jpg
+image: /images/covers/2016-03-paris_inondation.jpg
 categories:
   - Podcast
   - Hors-Serie
@@ -26,6 +26,10 @@ tags:
   - sécurité
   - Seine
   - sequana
+
+guests:
+  - vincent_balouet
+
 ---
 
 

@@ -2,14 +2,14 @@
 
 title: "[Episode 18] La continuité d'activité"
 date: 2014-05-11T23:21:43+00:00
-author: justin
+publisher: justin
 
 
 aliases: /2014/05/episode-18-la-continuite-dactivite/
 views: 3854
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP18.2014-05-10.PCA.mp3
-image: /images/2014/05/46602302.jpg
+image: /images/covers/2014-05-46602302.jpg
 categories:
   - Podcast
   - Emission

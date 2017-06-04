@@ -2,14 +2,14 @@
 
 title: "[SECHebdo] Avril 2017 - 1"
 subheadline: "CRLite, Tizen, Hack de sextoys, Lazarus, Mimipenguin, Chrysaor, Wi-Fi Broadcom, Mastodon, PicoCTF, etc."
-author: lois
-date: 2017-04-06
+publisher: lois
+date: 2017-04-06T00:00:00+00:00
 video: https://www.youtube.com/embed/n-yEw7qZYUU
 
 aliases: /2017/04/sechebdo-avril-2017-1-crlite-tizen-sextoy-hack-lazarus-mimipenguin-chrysaor-wi-fi-broadcom-mastodon-picoctf-etc/
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS42.2017-04-05.SECHebdo_Avril_2017-1.mp3
-image:  /images/2017/04/sechebdo-2017-Avril-1.jpg
+image: /images/covers/2017-04-sechebdo-2017-Avril-1.jpg
 categories:
   - Podcast
   - SECHebdo

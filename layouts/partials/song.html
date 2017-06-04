@@ -1,0 +1,35 @@
+<!-- User card example #1 -->
+<div class="card-user-container">
+  <!--card's image-->
+  <div class="card-user-avatar">
+    <img src="/images/thumbnails/{{ if .value.image }}{{ .value.image }}{{ else }}song-default.jpg{{ end }}" alt="" class="user-image">
+  </div>
+
+  <!--user info name, bio and location-->
+  <div class="card-user-bio">
+    <h4>{{ .value.song }}</h4>
+    <p class="label">{{ .value.artist }}</p>
+    {{ with .value.description }}
+    <p>{{ . }}</p>
+    {{ end }}
+  </div>
+
+  <!--card's socail icons-->
+  <div class="card-user-social">
+    <ul class="menu">
+      {{ with .value.uri }}
+      <a href="{{ . }}"><li class="fa fa-music"></li> écouter</a>
+      {{ end }}
+      {{ with .value.country }}
+      <br />
+      <li class="fa fa-globe"></li>{{ . }}
+      {{ end }}
+    </ul>
+  </div>
+
+  <!--card's follow button-->
+  <div class="card-user-button">
+    <div class="stat"><a href="/songs/{{.key}}">{{ (index .site.Taxonomies.songs .key).Count }}</a></div>
+    <p>Interludes</p>
+  </div>
+</div>

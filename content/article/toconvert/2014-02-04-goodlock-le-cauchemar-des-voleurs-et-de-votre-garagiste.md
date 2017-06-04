@@ -2,12 +2,12 @@
 
 title: "Goodlock : Le cauchemar des voleurs... et de votre garagiste"
 date: 2014-02-04T01:10:17+00:00
-author: morgan
+publisher: morgan
 
 
 aliases: /2014/02/goodlock-le-cauchemar-des-voleurs-et-de-votre-garagiste/
 views: 712
-image: /images/2014/02/goodlock-thief.png
+image: /images/covers/2014-02-goodlock-thief.jpg
 categories:
   - Article
 tags:

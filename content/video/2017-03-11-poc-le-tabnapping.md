@@ -1,9 +1,9 @@
 ---
-author: morgan
+publisher: morgan
 categories:
 - PoC
 date: 2017-05-30T19:10:15+02:00
-image: /images/2017/03/poc-tabnapping.jpg
+image: /images/covers/2017-03-poc-tabnapping.jpg
 subheadline: "Attention, un onglet peut en cacher un autre!"
 tags:
 - TODO

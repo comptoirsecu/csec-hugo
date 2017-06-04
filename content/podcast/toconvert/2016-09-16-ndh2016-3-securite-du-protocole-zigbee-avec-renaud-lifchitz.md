@@ -2,14 +2,14 @@
 
 title: "[NDH2016] 3 – Sécurité du protocole Zigbee avec Renaud Lifchitz"
 date: 2016-09-16T19:26:26+00:00
-author: morgan
+publisher: morgan
 
 
 aliases: /2016/09/ndh2016-3-securite-du-protocole-zigbee-avec-renaud-lifchitz/
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS25.2016-07-02.NDH2k16_Renaud_Lifchitz.mp3
 views: 1478
-image: /images/2016/09/ndh2k16.jpg
+image: /images/covers/2016-09-ndh2k16.jpg
 categories:
   - Podcast
   - Hors-Serie

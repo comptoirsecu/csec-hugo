@@ -2,12 +2,12 @@
 
 title: "Have I Been Pwned : Cachez-moi ce leak que je ne saurais voir."
 date: 2014-01-24T09:30:38+00:00
-author: morgan
+publisher: morgan
 
 
 aliases: /2014/01/have-i-been-pwned-cachez-moi-ce-leak-que-je-ne-saurais-voir/
 views: 1044
-image: /images/2014/01/passwordscloud.png
+image: /images/covers/2014-01-passwordscloud.jpg
 categories:
   - Article
 tags:

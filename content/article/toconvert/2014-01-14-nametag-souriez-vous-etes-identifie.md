@@ -2,12 +2,12 @@
 
 title: "NameTag : Souriez, vous êtes identifié !"
 date: 2014-01-14T17:30:16+00:00
-author: morgan
+publisher: morgan
 
 
 aliases: /2014/01/nametag-souriez-vous-etes-identifie/
 views: 797
-image: /images/2014/01/maxresdefault.jpg
+image: /images/covers/2014-01-maxresdefault.jpg
 categories:
   - Article
 tags:

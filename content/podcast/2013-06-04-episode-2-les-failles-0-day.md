@@ -1,7 +1,7 @@
 ---
 title: "[Épisode 2] Les failles 0 day"
-author: justin
-date: 2013-06-04
+publisher: justin
+date: 2013-06-04T00:00:00+00:00
 
 aliases: /2013/06/podcast-episode-2-les-failles-0-day/
 
@@ -18,7 +18,7 @@ tags:
   - Xbox One
   - APT1
 
-music:
+songs:
   - schematicwizard_chiptronic
   - greatwhitebuffalo_likelystory
 

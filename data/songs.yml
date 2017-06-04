@@ -1,0 +1,51 @@
+schematicwizard_generique:
+    artist: Schematic Wizard (Youenn)
+    song: Generique Comptoir Sécu
+    uri: http://www.schematicwizard.bandcamp.com
+    description: Création Originale pour le Comptoir Sécu
+    country: France
+
+schematicwizard_chiptronic:
+    artist: Schematic Wizard (Youenn)
+    song: Chiptronic Symphony
+    uri: https://soundcloud.com/schematic-wizard/chiptronic-symphony-live
+    image: schematic-wizard_schematic-wizard.jpg
+    country: France
+
+greatwhitebuffalo_likelystory:
+    artist: Great White Buffalo
+    song: Likely Story
+    uri: https://www.jamendo.com/track/1031200/likely-story
+    image: greatwhitebuffalo-likelystory.jpg
+
+slim_curandera:
+    artist: Slim
+    song: Curandera
+    uri: https://www.jamendo.com/track/22274/curandera
+    description: Aussi connue comme étant la musique de la hotline de Free.
+    image: slim-curandera.jpg
+
+bleep_dippingtoes:
+    artist: Bleep
+    song: Dipping Toes
+    uri: http://www.comfortstand.com/catalog/042/index.html
+    image: bleep-dippingtoes.jpg
+
+
+kunio_lsistrikesback:
+    artist: Kunio
+    song: LSI Strikes Back
+    description: (Short Demo)
+    uri: https://soundcloud.com/masuo-yamamoto/lsi-strikes-back
+
+clozee_howfast:
+    artist: CloZee
+    song: How Fast
+    uri: https://clozee.bandcamp.com/track/how-fast
+    image: clozee-howfast.jpg
+
+2080_mymegadrive:
+    artist: 2080
+    song: My Megadrive
+    uri: https://soundcloud.com/2080/my-megadrive-3
+    image: 2080-mymegadrive.jpg

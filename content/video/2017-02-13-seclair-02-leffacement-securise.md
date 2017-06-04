@@ -2,13 +2,13 @@
 
 title: "[SEClair #02] L'effacement sécurisé"
 subheadline: "Parce qu'il y en a marre de voir conseiller des effacements à 7 passes"
-author: morgan
-date: 2017-02-13
+publisher: morgan
+date: 2017-02-13T00:00:00+00:00
 
 aliases: /2017/02/seclair-02-leffacement-securise/
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS35.2017-02-13.SEClair_Effacement_Securise.mp3
-image:  /images/2017/02/SEClair-02-Effacement-securise-vignette-lowres-v2.jpg
+image: /images/covers/2017-02-SEClair-02-Effacement-securise-vignette-lowres-v2.jpg
 categories:
   - SEClair
 tags:

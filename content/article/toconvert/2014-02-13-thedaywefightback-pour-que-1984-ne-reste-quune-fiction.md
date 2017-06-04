@@ -2,12 +2,12 @@
 
 title: "#TheDayWeFightBack, Pour que 1984 ne reste qu'une fiction"
 date: 2014-02-13T09:25:13+00:00
-author: morgan
+publisher: morgan
 
 
 aliases: /2014/02/thedaywefightback-pour-que-1984-ne-reste-quune-fiction/
 views: 904
-image: /images/2014/02/thedaywefightback.png
+image: /images/covers/2014-02-thedaywefightback.jpg
 categories:
   - Article
 tags:

@@ -2,14 +2,14 @@
 
 title: "[Episode 9] Où l'on parle de la guerre pour l'identité numérique et de l'avenir des bitcoins"
 date: 2013-12-06T09:00:22+00:00
-author: justin
+publisher: justin
 
 
 aliases: /2013/12/episode-9-ou-lon-parle-de-la-guerre-pour-lidentite-numerique-et-des-bitcoins/
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP09.2013-12-05.IDENTITE_NUMERIQUE.mp3
 views: 3044
-image: /images/2013/12/TEASER.EP09.jpg
+image: /images/covers/2013-12-TEASER.EP09.jpg
 categories:
   - Podcast
   - Emission

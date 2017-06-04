@@ -2,14 +2,14 @@
 
 title: "[Episode 36] Les mots de passe"
 date: 2016-05-02T19:26:21+00:00
-author: lois
+publisher: lois
 
 
 aliases: /2016/05/episode-36-les-mots-de-passe/
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP36.2016-05-02.MOTS_DE_PASSE.mp3
 views: 8044
-image: /images/2016/05/mots-de-passe.jpg
+image: /images/covers/2016-05-mots-de-passe.jpg
 categories:
   - Podcast
   - Emission

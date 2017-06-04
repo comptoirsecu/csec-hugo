@@ -2,14 +2,14 @@
 
 title: "[Episode 33] Le réglement européen eIDAS"
 date: 2015-11-30T08:30:34+00:00
-author: lois
+publisher: lois
 
 
 aliases: /2015/11/episode-33-le-reglement-europeen-e-idas/
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP33.2015-11-30.EIDAS.mp3
 views: 3000
-image: /images/2015/11/eIDAS.png
+image: /images/covers/2015-11-eIDAS.jpg
 categories:
   - Podcast
   - Emission

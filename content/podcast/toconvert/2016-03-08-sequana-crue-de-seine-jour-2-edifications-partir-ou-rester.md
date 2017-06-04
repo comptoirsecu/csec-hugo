@@ -2,14 +2,14 @@
 
 title: "[Sequana] Crue de Seine – Jour 2 –  Édifications, partir ou rester ?"
 date: 2016-03-08T09:00:42+00:00
-author: justin
+publisher: justin
 
 
 aliases: /2016/03/sequana-crue-de-seine-jour-2-edifications-partir-ou-rester/
 views: 2027
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS15.2016-03-08.CRUE2016_02.mp3
-image: /images/2016/03/les-berges-de-la-seine-a-paris_4030743.jpg
+image: /images/covers/2016-03-les-berges-de-la-seine-a-paris_4030743.jpg
 categories:
   - Podcast
   - Hors-Serie
@@ -26,6 +26,9 @@ tags:
   - sécurité
   - Seine
   - sequana
+guests:
+  - vincent_balouet
+
 ---
 
 

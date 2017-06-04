@@ -2,14 +2,14 @@
 
 title: "[Assises 2015] Retour sur la deuxième journée en direct de Monaco"
 date: 2015-10-04T18:06:45+00:00
-author: lois
+publisher: lois
 
 
 aliases: /2015/10/assises-2015-retour-sur-la-deuxieme-journee-en-direct-de-monaco/
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS07.2015-10-04.ASSISES2015_JOUR2.mp3
 views: 2036
-image: /images/2015/10/assies-com1.png
+image: /images/covers/2015-10-assies-com1.jpg
 categories:
   - Podcast
   - Hors-Serie

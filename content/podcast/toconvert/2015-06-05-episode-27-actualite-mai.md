@@ -2,14 +2,14 @@
 
 title: "[Episode 27] Actualité Mai"
 date: 2015-06-05T09:43:11+00:00
-author: justin
+publisher: justin
 
 
 aliases: /2015/06/episode-27-actualite-mai/
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP27.2015-06-05.ACTU_MAI.mp3
 views: 5187
-image: /images/2015/06/Ransomware_FBI.jpeg
+image: /images/covers/2015-06-Ransomware_FBI.jpg
 categories:
   - Podcast
   - Emission

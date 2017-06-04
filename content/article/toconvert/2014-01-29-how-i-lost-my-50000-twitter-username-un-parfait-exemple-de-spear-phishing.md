@@ -2,12 +2,12 @@
 
 title: "How I lost my 50,000$ Twitter username : Un parfait exemple de social engineering"
 date: 2014-01-29T12:25:13+00:00
-author: morgan
+publisher: morgan
 
 
 aliases: /2014/01/how-i-lost-my-50000-twitter-username-un-parfait-exemple-de-spear-phishing/
 views: 683
-image: /images/2014/01/twitter-hack2.png
+image: /images/covers/2014-01-twitter-hack2.jpg
 categories:
   - Article
 tags:

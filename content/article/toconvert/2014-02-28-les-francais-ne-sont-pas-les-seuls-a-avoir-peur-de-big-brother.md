@@ -2,12 +2,12 @@
 
 title: "Les français ne sont pas les seuls à avoir peur de Big Brother"
 date: 2014-02-28T11:11:25+00:00
-author: morgan
+publisher: morgan
 
 
 aliases: /2014/02/les-francais-ne-sont-pas-les-seuls-a-avoir-peur-de-big-brother/
 views: 842
-image: /images/2014/02/telegram-pic.jpg
+image: /images/covers/2014-02-telegram-pic.jpg
 categories:
   - Article
 tags:

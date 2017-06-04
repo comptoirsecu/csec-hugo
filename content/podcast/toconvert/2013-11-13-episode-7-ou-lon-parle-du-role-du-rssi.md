@@ -2,7 +2,7 @@
 
 title: "[Episode 7] Où l'on parle du rôle du RSSI"
 date: 2013-11-13T09:50:40+00:00
-author: justin
+publisher: justin
 
 
 aliases: /2013/11/episode-7-ou-lon-parle-du-role-du-rssi/

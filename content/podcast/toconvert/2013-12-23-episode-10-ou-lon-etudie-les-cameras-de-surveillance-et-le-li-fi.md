@@ -2,14 +2,14 @@
 
 title: "[Episode 10] Où l'on étudie les caméras de surveillance et le Li-Fi"
 date: 2013-12-23T08:30:43+00:00
-author: justin
+publisher: justin
 
 
 aliases: /2013/12/episode-10-ou-lon-etudie-les-cameras-de-surveillance-et-le-li-fi/
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP10.2013-12-22.CAMERA.mp3
 views: 5898
-image: /images/2013/12/TEASER.EP101.jpg
+image: /images/covers/2013-12-TEASER.EP101.jpg
 categories:
   - Podcast
   - Emission

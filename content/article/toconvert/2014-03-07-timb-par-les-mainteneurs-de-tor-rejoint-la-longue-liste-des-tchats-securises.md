@@ -2,12 +2,12 @@
 
 title: "TIMB, par les mainteneurs de TOR, rejoint la longue liste des tchats sécurisés"
 date: 2014-03-07T09:25:11+00:00
-author: morgan
+publisher: morgan
 
 
 aliases: /2014/03/timb-par-les-mainteneurs-de-tor-rejoint-la-longue-liste-des-tchats-securises/
 views: 1115
-image: /images/2014/03/timb2.png
+image: /images/covers/2014-03-timb2.jpg
 categories:
   - Article
 tags:

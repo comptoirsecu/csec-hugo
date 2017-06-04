@@ -2,14 +2,14 @@
 
 title: "[Episode 26] Crue Majeure de la Seine"
 date: 2015-04-15T17:23:05+00:00
-author: justin
+publisher: justin
 
 
 aliases: /2015/04/episode-26-crue-majeure-de-la-seine/
 views: 7623
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP26.2015-04-06.CRUES_MAJEURES.mp3
-image: /images/2015/04/ND_141_-_PARIS_-_La_Grande_Crue_de_la_Seine_-_Rétablissement_de_la_circulation_par_passerelles_au_Quai_de_Passy_inondé.jpg
+image: /images/covers/2015-04-ND_141_-_PARIS_-_La_Grande_Crue_de_la_Seine_-_Rétablissement_de_la_circulation_par_passerelles_au_Quai_de_Passy_inondé.jpg
 categories:
   - Podcast
   - Emission
@@ -20,6 +20,10 @@ tags:
   - PCA
   - podcast
   - Seine
+
+guests:
+  - vincent_balouet
+
 ---
 
 
