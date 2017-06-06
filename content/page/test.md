@@ -5,7 +5,7 @@ title: "Test - a supprimer"
 image responsive:
 
 
-<strong>test</strong>
+**test**
 
 <picture>
   <!-- jpeg images -->

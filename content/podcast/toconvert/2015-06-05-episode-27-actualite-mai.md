@@ -155,11 +155,11 @@ Hola le VPN qui te backdoor :
 
 
 
-  <a href="http://targetedattacks.trendmicro.com/fra/">http://targetedattacks.trendmicro.com/fra/</a>
+  <http://targetedattacks.trendmicro.com/fra/>
 
 
 
-  <a href="http://www.undernews.fr/reseau-securite/trend-micro-lance-un-jeu-de-simulation-dedie-aux-attaques-ciblees-en-entreprises.html">http://www.undernews.fr/reseau-securite/trend-micro-lance-un-jeu-de-simulation-dedie-aux-attaques-ciblees-en-entreprises.html</a>
+  <http://www.undernews.fr/reseau-securite/trend-micro-lance-un-jeu-de-simulation-dedie-aux-attaques-ciblees-en-entreprises.html>
 
 
 
@@ -170,11 +170,11 @@ Hola le VPN qui te backdoor :
 
 
 
-  <a href="http://www.bitdefender.fr/blog/Ransomwares-mieux-vaut-perdre-ses-donnees-ou-son-argent-Partie-1-1585.html">http://www.bitdefender.fr/blog/Ransomwares-mieux-vaut-perdre-ses-donnees-ou-son-argent-Partie-1-1585.html </a>
+  <http://www.bitdefender.fr/blog/Ransomwares-mieux-vaut-perdre-ses-donnees-ou-son-argent-Partie-1-1585.html>
 
 
 
-  <a href="http://www.undernews.fr/malwares-virus-antivirus/ransomware-removal-kit-outil-gratuit-de-dechiffrement-de-ransomwares.html">http://www.undernews.fr/malwares-virus-antivirus/ransomware-removal-kit-outil-gratuit-de-dechiffrement-de-ransomwares.html</a>
+  <http://www.undernews.fr/malwares-virus-antivirus/ransomware-removal-kit-outil-gratuit-de-dechiffrement-de-ransomwares.html>
 
 
 
@@ -185,11 +185,11 @@ Hola le VPN qui te backdoor :
 
 
 
-  <a href="https://www.schneier.com/blog/archives/2015/06/us_also_tried_s.html">https://www.schneier.com/blog/archives/2015/06/us_also_tried_s.html</a>
+  <https://www.schneier.com/blog/archives/2015/06/us_also_tried_s.html>
 
 
 
-  <a href="http://www.reuters.com/article/2015/05/29/us-usa-northkorea-stuxnet-idUSKBN0OE2DM20150529">http://www.reuters.com/article/2015/05/29/us-usa-northkorea-stuxnet-idUSKBN0OE2DM20150529</a>
+  <http://www.reuters.com/article/2015/05/29/us-usa-northkorea-stuxnet-idUSKBN0OE2DM20150529>
 
 
 
@@ -200,11 +200,11 @@ Hola le VPN qui te backdoor :
 
 
 
-  <a href="http://www.undernews.fr/lois-justice/silk-road-ross-ulbricht-condamne-a-la-prison-a-vie.html">http://www.undernews.fr/lois-justice/silk-road-ross-ulbricht-condamne-a-la-prison-a-vie.html</a>
+  <http://www.undernews.fr/lois-justice/silk-road-ross-ulbricht-condamne-a-la-prison-a-vie.html>
 
 
 
 
 
 
-  Pour écouter directement le podcast c'est par <a href="http://podcast.comptoirsecu.fr/CSEC.EP27.2015-06-05.ACTU_MAI.mp3">ici</a>
+  Pour écouter directement le podcast c'est par <http://podcast.comptoirsecu.fr/CSEC.EP27.2015-06-05.ACTU_MAI.mp3>

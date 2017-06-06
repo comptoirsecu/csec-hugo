@@ -26,7 +26,7 @@ Pour les absents du salon, nous serons diffusés en live sur Dailymotion: [le l
 Pour ces 2 jours de salon, on vous a fait un programme :
 
 
-  <span ><strong>Mardi</strong></span>
+  <span >**Mardi**</span>
 
 
 
@@ -34,7 +34,7 @@ Pour ces 2 jours de salon, on vous a fait un programme :
 
 
 
-   <span ><strong>Mercredi </strong></span>
+   <span >**Mercredi **</span>
 
 
 

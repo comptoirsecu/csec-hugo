@@ -38,9 +38,8 @@ Au programme:
 
 
 
-## Liens et références:
+### Liens et références:
 
-**//News**
 
 **Morgan:**
 
@@ -61,20 +60,20 @@ Au programme:
 
   - [http://www.pcinpact.com/news/82498-nsa-rsa-security-recommande-prudence-avec-ses-propres-produits.htm?utm_source=PCi_RSS_Feed&utm_medium=news&utm_campaign=pcinpact](http://www.pcinpact.com/news/82498-nsa-rsa-security-recommande-prudence-avec-ses-propres-produits.htm?utm_source=PCi_RSS_Feed&utm_medium=news&utm_campaign=pcinpact)
 
-**Justin: **
+**Justin:**
 
 - <https://www.schneier.com/blog/archives/2013/09/iphone_fingerpr.html>
 - <http://www.lesechos.fr/entreprises-secteurs/tech-medias/actu/0203001017350-donnees-privees-que-fait-apple-de-nos-empreintes-digitales-604478.php>
 - <http://www.20minutes.fr/high-tech/apple/1222323-20130912-le-risque-coupe-doigt-debloquer-iphone-faible>
 - <http://securityaffairs.co/wordpress/17440/cyber-crime/cybercrime-abuses-facebook-paid-advertisements.html>
 
-**//Débat**
+#### //Débat
 
 - [http://blogs.computerworld.com/android/22806/google-knows-nearly-every-wi-fi-password-world](http://blogs.computerworld.com/android/22806/google-knows-nearly-every-wi-fi-password-world)
 - [http://reflets.info/cplussur-acte-2-100-securise-seriously/](http://reflets.info/cplussur-acte-2-100-securise-seriously/)
 - [http://ro.ecu.edu.au/cgi/viewcontent.cgi?article=7286&context=ecuworks](http://ro.ecu.edu.au/cgi/viewcontent.cgi?article=7286&context=ecuworks)
 
-**//What’s Next**
+#### //What’s Next
 
 - [http://www.thecarconnection.com/news/1086886_forget-fingerprint-scanning-new-anti-theft-system-identifies-drivers-brain-waves](http://www.thecarconnection.com/news/1086886_forget-fingerprint-scanning-new-anti-theft-system-identifies-drivers-brain-waves)
 - <http://www.forbes.com/sites/andygreenberg/2013/07/24/hackers-reveal-nasty-new-car-attacks-with-me-behind-the-wheel-video/>
@@ -82,9 +81,6 @@ Au programme:
 - [http://techcrunch.com/2013/08/25/uberauto/](http://techcrunch.com/2013/08/25/uberauto/)
 - [http://magazine.qualys.fr/menaces-alertes/piratage-gps-spoofing/](http://magazine.qualys.fr/menaces-alertes/piratage-gps-spoofing/)
 
-**//Musique**
+#### //Musique
 
 - [ DJ-PIE – Desert Twerk](http://dj-pie.bandcamp.com/album/south-razzle)
-
-
-[Lien direct vers le podcast](https://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_06_User_Friendly.mp3)

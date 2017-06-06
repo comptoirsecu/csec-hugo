@@ -148,7 +148,7 @@ A bientôt pour d'autres émissions/podcasts!
 
 
 
-    <strong>Phase 1 : Reconnaissance.</strong> Le virus scan les répertoires les plus intéressant à chiffrer, genre mes documents, le bureau, le répertoire backup etc.
+    **Phase 1 : Reconnaissance.** Le virus scan les répertoires les plus intéressant à chiffrer, genre mes documents, le bureau, le répertoire backup etc.
 
 
 
@@ -164,7 +164,7 @@ A bientôt pour d'autres émissions/podcasts!
 
 
 
-    <strong>Phase 2 : On chiffre</strong> tout ça, et vite ! Avant c'était souvent des algos de chiffrement maison. Par maison, faut comprendre pourris.
+    **Phase 2 : On chiffre** tout ça, et vite ! Avant c'était souvent des algos de chiffrement maison. Par maison, faut comprendre pourris.
 
 
 
@@ -172,7 +172,7 @@ A bientôt pour d'autres émissions/podcasts!
 
 
 
-    <strong>Phase 3 : On vous file la note de rançon</strong>
+    **Phase 3 : On vous file la note de rançon**
 
 
 
@@ -204,15 +204,15 @@ A bientôt pour d'autres émissions/podcasts!
 
 
 
-    <strong>A : On Install un Antivirus</strong>, avec le scan en temps réel
+    **A : On Install un Antivirus**, avec le scan en temps réel
 
 
 
-    <strong>B : On Baintien à jour</strong>, son système, son antivirus, ses programmes et plugins courants genre Chrome, Firefox, Flash, PDF, Office.
+    **B : On Baintien à jour**, son système, son antivirus, ses programmes et plugins courants genre Chrome, Firefox, Flash, PDF, Office.
 
 
 
-    <strong>C : Le Comportement</strong> : On évite d'aller sur les sites de porn louche, de cracking de jeu ou logiciel, de téléchargement illégaux, etc.… ou si on y va on se protège et on la joue méfiant.
+    **C : Le Comportement** : On évite d'aller sur les sites de porn louche, de cracking de jeu ou logiciel, de téléchargement illégaux, etc.… ou si on y va on se protège et on la joue méfiant.
 
 
 
@@ -224,7 +224,7 @@ A bientôt pour d'autres émissions/podcasts!
 
 
 
-    <strong>1 : L'heuristique</strong>, ou analyse comportementale, si un programme se comporte comme un ransomware, on bloque tout et on demande à l'utilisateur si c'est normal.
+    **1 : L'heuristique**, ou analyse comportementale, si un programme se comporte comme un ransomware, on bloque tout et on demande à l'utilisateur si c'est normal.
 
 
 
@@ -236,7 +236,7 @@ A bientôt pour d'autres émissions/podcasts!
 
 
 
-    <strong>2 : Le pot de miel</strong>, on place un peu partout sur le système de faux fichiers qui ont l'air alléchant pour le virus, et on attend qu'un programme essaye d'y toucher.
+    **2 : Le pot de miel**, on place un peu partout sur le système de faux fichiers qui ont l'air alléchant pour le virus, et on attend qu'un programme essaye d'y toucher.
 
 
 
@@ -244,7 +244,7 @@ A bientôt pour d'autres émissions/podcasts!
 
 
 
-    <strong>3 : Les sauvegardes</strong>, parce que le meilleur moyen de pas avoir à payer la rançon c'est encore de pouvoir restaurer ses fichiers tout seul.
+    **3 : Les sauvegardes**, parce que le meilleur moyen de pas avoir à payer la rançon c'est encore de pouvoir restaurer ses fichiers tout seul.
 
 
 

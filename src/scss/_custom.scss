@@ -19,6 +19,13 @@ $card-user-container-background: $white;
 $card-user-container-color: $black;
 $card-user-container-image-size: rem-calc(190);
 
+$article-header-color: $black;
+
+article main h2, article main h3, article main h4, article main h5, article main h6
+{
+  color: $article-header-color;
+}
+
 .hero-section {
   background: url('/images/hero-1.jpg') 50% no-repeat;
   background-size: cover;

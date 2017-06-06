@@ -69,7 +69,7 @@ Bonne écoute !
 
 
 
-    Pour se localiser: <a href="http://www.georisques.gouv.fr/">Géorisque</a>s
+    Pour se localiser: <http://www.georisques.gouv.fr/>s
 
 
 

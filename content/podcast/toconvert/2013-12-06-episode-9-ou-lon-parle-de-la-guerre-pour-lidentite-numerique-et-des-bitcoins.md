@@ -46,162 +46,44 @@ Bonne écoute à toutes et tous !
 {{< podigee >}}
 
 
+### Liens et références:
 
-
-
-
-
-**Liens et références:**
-
-**//News**
+#### //News
 
 **Justin:**
 
+- La SEA hack Obama
+  - <http://securityaffairs.co/wordpress/19187/cyber-crime/sea-vs-obama.html>
+  - <http://www.symantec.com/connect/de/blogs/syrian-electronic-army-hacks-obama-campaign-staff-emails>
+- SilkRoad est de retour
+  - <http://securityaffairs.co/wordpress/19532/cyber-crime/silk-road-black-market-reloaded.html>
+- Le projet de VinceSafe
+  - <http://vincesafe.fr/2013/10/29/smartphones-reseaux-prevenons-les-risques/>
 
+**Loïs:**
 
+- Le coût de la cybercriminalité a augmenté de 78 % en quatre ans et les délais nécessaires pour faire face aux attaques ont plus que doublés
+  - <http://www.globalsecuritymag.fr/HP-le-cout-de-la-cybercriminalite,20131029,40704.html>
+- Après D-Link, voici Tenda
+  - <http://www.devttys0.com/2013/10/from-china-with-love/>
 
+**Morgan:**
 
+- La Saga Russe
+  - <http://www.latimes.com/world/worldnow/la-fg-wn-russia-g20-summit-gifts-spy-devices-20131029,0,1499023.story#axzz2jBLWtd8n>
+  - <http://www.theregister.co.uk/2013/10/29/dont_brew_that_cuppa_your_kettle_could_be_a_spambot/>
+  - <http://gizmodo.com/to-avoid-cyber-espionage-russias-switching-back-to-ty-745269384>
+- Cryptolocker
+  - <http://krebsonsecurity.com/2013/11/cryptolocker-crew-ratchets-up-the-ransom/>
 
-    La SEA hack Obama
 
+#### //What's Next
 
+- Pour suivre le cours du bitcoin
+  - <http://bitcoin.clarkmoody.com/>
+  - <http://www.lexsi-leblog.fr/cert/bitcoin-et-regulation-des-monnaies-virtuelles.html>
 
-    <a href="http://securityaffairs.co/wordpress/19187/cyber-crime/sea-vs-obama.html">http://securityaffairs.co/wordpress/19187/cyber-crime/sea-vs-obama.html</a>
+#### //Musique
 
-
-
-    <a href="http://www.symantec.com/connect/de/blogs/syrian-electronic-army-hacks-obama-campaign-staff-emails">http://www.symantec.com/connect/de/blogs/syrian-electronic-army-hacks-obama-campaign-staff-emails</a>
-
-
-
-
-
-
-    SilkRoad est de retour
-
-
-
-    <a href="http://securityaffairs.co/wordpress/19532/cyber-crime/silk-road-black-market-reloaded.html">http://securityaffairs.co/wordpress/19532/cyber-crime/silk-road-black-market-reloaded.html</a>
-
-
-
-
-
-
-    Le projet de VinceSafe
-
-
-
-    <a href="http://vincesafe.fr/2013/10/29/smartphones-reseaux-prevenons-les-risques/">http://vincesafe.fr/2013/10/29/smartphones-reseaux-prevenons-les-risques/</a>
-
-
-
-
-
-
-    <strong>Loïs:</strong>
-
-
-
-
-
-
-    Le coût de la cybercriminalité a augmenté de 78 % en quatre ans et les délais nécessaires pour faire face aux attaques ont plus que doublés
-
-
-
-    <a href="http://www.globalsecuritymag.fr/HP-le-cout-de-la-cybercriminalite,20131029,40704.html">http://www.globalsecuritymag.fr/HP-le-cout-de-la-cybercriminalite,20131029,40704.html</a>
-
-
-
-
-
-
-    Après D-Link, voici Tenda
-
-
-
-    <a href="http://www.devttys0.com/2013/10/from-china-with-love/">http://www.devttys0.com/2013/10/from-china-with-love/</a>
-
-
-
-
-
-
-
-      <b>Morgan:</b>
-
-
-
-       La Saga Russe
-
-
-
-      <a href="http://www.latimes.com/world/worldnow/la-fg-wn-russia-g20-summit-gifts-spy-devices-20131029,0,1499023.story#axzz2jBLWtd8n">http://www.latimes.com/world/worldnow/la-fg-wn-russia-g20-summit-gifts-spy-devices-20131029,0,1499023.story#axzz2jBLWtd8n</a>
-
-
-
-      <a href="http://www.theregister.co.uk/2013/10/29/dont_brew_that_cuppa_your_kettle_could_be_a_spambot/">http://www.theregister.co.uk/2013/10/29/dont_brew_that_cuppa_your_kettle_could_be_a_spambot/</a>
-
-
-
-      <a href="http://gizmodo.com/to-avoid-cyber-espionage-russias-switching-back-to-ty-745269384">http://gizmodo.com/to-avoid-cyber-espionage-russias-switching-back-to-ty-745269384</a>
-
-
-
-
-
-
-      Cryptolocker
-
-
-
-      <a href="http://krebsonsecurity.com/2013/11/cryptolocker-crew-ratchets-up-the-ransom/">http://krebsonsecurity.com/2013/11/cryptolocker-crew-ratchets-up-the-ransom/</a>
-
-
-
-
-
-
-
-
-
-
-    <strong>//What's Next</strong>
-
-
-
-     Pour suivre le cours du bitcoin
-
-
-
-    <a href="http://bitcoin.clarkmoody.com/">http://bitcoin.clarkmoody.com/</a>
-
-
-
-    <a href="http://www.lexsi-leblog.fr/cert/bitcoin-et-regulation-des-monnaies-virtuelles.html">http://www.lexsi-leblog.fr/cert/bitcoin-et-regulation-des-monnaies-virtuelles.html</a>
-
-
-
-
-
-
-
-
-
-    <strong>//Musique</strong>
-
-
-
-    <a href="https://soundcloud.com/lematos/star-modele-le-matos-remix">Star Modele (Le Matos remix intrumental)</a>
-
-
-
-    <a href="https://soundcloud.com/cube-5/blipblop-memories">!Cube – Blipblop Memories</a>
-
-
-
-
-
-
-    Le lien direct du podcast:<a href="https://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_09_Identite_Numerique.mp3"> ici<br /> </a>
+- [Star Modele (Le Matos remix intrumental)](https://soundcloud.com/lematos/star-modele-le-matos-remix)
+- [Cube – Blipblop Memories](https://soundcloud.com/cube-5/blipblop-memories)

@@ -28,9 +28,9 @@ Il est beau, il est encore tout chaud, il est sorti tout juste à temps pour vou
 
 <!--more-->
 
-Comme je l'explique dans la vidéo, cet épisode devrait même théoriquement être le numéro 2, car SECompris est une émission ressuscitée, elle existait auparavant sous la forme de billets de blog. Une flemmingite aiguë  m'avait alors empêchée de continuer la série, la laissant disparaître dans les tréfonds du site. Pour les nostalgiques, le billet en question traitait des <a href="https://www.comptoirsecu.fr/2014/03/secompris-1-les-one-time-passwords-ou-tokens/">One Time Password (OTP)</a>.
+Comme je l'explique dans la vidéo, cet épisode devrait même théoriquement être le numéro 2, car SECompris est une émission ressuscitée, elle existait auparavant sous la forme de billets de blog. Une flemmingite aiguë  m'avait alors empêchée de continuer la série, la laissant disparaître dans les tréfonds du site. Pour les nostalgiques, le billet en question traitait des <https://www.comptoirsecu.fr/2014/03/secompris-1-les-one-time-passwords-ou-tokens/>.
 
-Oui j'ai bien dis "comme je l'explique dans la vidéo", car ce  nouveau contenu sera avant tout un contenu Youtube. Les épisodes seront donc postés sur <a href="https://www.youtube.com/channel/UCF-ljS9G2ABgsN7P83WDFhQ">notre chaine youtube</a>.
+Oui j'ai bien dis "comme je l'explique dans la vidéo", car ce  nouveau contenu sera avant tout un contenu Youtube. Les épisodes seront donc postés sur <https://www.youtube.com/channel/UCF-ljS9G2ABgsN7P83WDFhQ>.
 
 Bien qu'il soit préférable de visionner la vidéo, je ferais mon possible pour poster également la bande son sur le comptoir. Il n'y aura juste pas de fond musical histoire de coller aux podcasts traditionnels. Pour les allergiques de Youtube, pas de panique donc, vous pouvez continuer à nous suivre uniquement en audio si c'est votre souhait :).
 

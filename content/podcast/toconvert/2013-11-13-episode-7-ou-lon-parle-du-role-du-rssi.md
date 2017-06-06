@@ -39,102 +39,39 @@ Bonne écoute !
 {{< podigee >}}
 
 
+### Liens et références:
 
-
-
-
-**Liens et références:**
-
-**//News**
+#### //News
 
 **Morgan:**
 
-Chargeur Skorpio
+- [Chargeur Skorpio](http://www.welivesecurity.com/2013/10/06/skorpion-smartphone-charger-lights-up-if-your-phone-contains-malware/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+eset%2Fblog+%28ESET+Blog%3A+We+Live+Security%29)
 
-[http://www.welivesecurity.com/2013/10/06/skorpion-smartphone-charger-lights-up-if-your-phone-contains-malware/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+eset%2Fblog+%28ESET+Blog%3A+We+Live+Security%29](http://www.welivesecurity.com/2013/10/06/skorpion-smartphone-charger-lights-up-if-your-phone-contains-malware/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+eset%2Fblog+%28ESET+Blog%3A+We+Live+Security%29)
+- [Adobe hacké et mozilla qui sort son lecteur flash](http://techcrunch.com/2013/10/03/adobe-gets-hacked-product-source-code-and-data-for-2-9m-customers-likely-accessed/)
+  - [http://krebsonsecurity.com/2013/10/adobe-to-announce-source-code-customer-data-breach/](http://krebsonsecurity.com/2013/10/adobe-to-announce-source-code-customer-data-breach/)
+  - [http://www.numerama.com/magazine/27156-mozilla-veut-son-propre-lecteur-flash-dans-firefox.html](http://www.numerama.com/magazine/27156-mozilla-veut-son-propre-lecteur-flash-dans-firefox.html)
 
-Adobe hacké et mozilla qui sort son lecteur flash
 
-[http://techcrunch.com/2013/10/03/adobe-gets-hacked-product-source-code-and-data-for-2-9m-customers-likely-accessed/](http://techcrunch.com/2013/10/03/adobe-gets-hacked-product-source-code-and-data-for-2-9m-customers-likely-accessed/)
 
+**Justin:**
 
-  [http://krebsonsecurity.com/2013/10/adobe-to-announce-source-code-customer-data-breach/](http://krebsonsecurity.com/2013/10/adobe-to-announce-source-code-customer-data-breach/)
+- [La nouvelle annonce de John McAfee](http://news.cnet.com/8301-1009_3-57605233-83/john-mcafees-$100-d-central-aims-to-outsmart-the-nsa)
+- [Silkroad a fermé](http://www.theverge.com/2013/10/17/4850256/silk-roads-main-competitor-shuts-down-indefinitely-black-market-reloaded)
+  - <(http://krebsonsecurity.com/2013/10/feds-take-down-online-fraud-bazaar-silk-road-arrest-alleged-mastermind/>
+  - <http://securityaffairs.co/wordpress/18299/cyber-crime/silk-road-online-drug-marketplace-sized-fbi.html>
+  - <http://www.fr.reddit.com/r/SilkRoad/comments/1nnk31/silkroad_shutdown_fallout_discussion_2/>
 
 
 
-  [http://www.numerama.com/magazine/27156-mozilla-veut-son-propre-lecteur-flash-dans-firefox.html](http://www.numerama.com/magazine/27156-mozilla-veut-son-propre-lecteur-flash-dans-firefox.html)
+**Loïs:**
 
+- [Anonymous](http://www.cigionline.org/publications/2013/9/anonymous-context-politics-and-power-behind-mask)
+- [D-Link](http://cyberarms.wordpress.com/2013/10/15/numerous-d-link-routers-have-backdoor-in-firmware/)
+  - <http://blog.erratasec.com/2013/10/that-dlink-bug-masscan.html#.UmK6eFBF224>
 
 
-  <strong>Justin:</strong>
 
+#### //Musique
 
-
-  La nouvelle annonce de John McAfee
-
-
-
-  <a href="http://news.cnet.com/8301-1009_3-57605233-83/john-mcafees-$100-d-central-aims-to-outsmart-the-nsa">http://news.cnet.com/8301-1009_3-57605233-83/john-mcafees-$100-d-central-aims-to-outsmart-the-nsa</a>
-
-
-
-  Silkroad a fermé
-
-
-
-  [http://www.theverge.com/2013/10/17/4850256/silk-roads-main-competitor-shuts-down-indefinitely-black-market-reloaded](http://www.theverge.com/2013/10/17/4850256/silk-roads-main-competitor-shuts-down-indefinitely-black-market-reloaded)
-
-
-
-  [http://krebsonsecurity.com/2013/10/feds-take-down-online-fraud-bazaar-silk-road-arrest-alleged-mastermind/](http://krebsonsecurity.com/2013/10/feds-take-down-online-fraud-bazaar-silk-road-arrest-alleged-mastermind/)
-
-
-
-  <a href="http://securityaffairs.co/wordpress/18299/cyber-crime/silk-road-online-drug-marketplace-sized-fbi.html">http://securityaffairs.co/wordpress/18299/cyber-crime/silk-road-online-drug-marketplace-sized-fbi.html</a>
-
-
-
-  <a href="http://www.fr.reddit.com/r/SilkRoad/comments/1nnk31/silkroad_shutdown_fallout_discussion_2/">http://www.fr.reddit.com/r/SilkRoad/comments/1nnk31/silkroad_shutdown_fallout_discussion_2/</a>
-
-
-
-  <strong>Loïs:</strong>
-
-
-
-  Anonymous
-
-
-
-  <a href="http://www.cigionline.org/publications/2013/9/anonymous-context-politics-and-power-behind-mask">http://www.cigionline.org/publications/2013/9/anonymous-context-politics-and-power-behind-mask</a>
-
-
-
-  D-Link
-
-
-
-  <a href="http://cyberarms.wordpress.com/2013/10/15/numerous-d-link-routers-have-backdoor-in-firmware/">http://cyberarms.wordpress.com/2013/10/15/numerous-d-link-routers-have-backdoor-in-firmware/</a>
-
-
-
-  <a href="http://blog.erratasec.com/2013/10/that-dlink-bug-masscan.html#.UmK6eFBF224">http://blog.erratasec.com/2013/10/that-dlink-bug-masscan.html#.UmK6eFBF224</a>
-
-
-
-  <strong>//Musique</strong>
-
-
-
-  <a href="https://soundcloud.com/daed/sentient">Daed – Sentient</a>
-
-
-
-  <a href="https://soundcloud.com/secuem/yoon-nur-secuem-remix">Yoon – Nur (Secuem Remix)</a>
-
-
-
-
-
-
-  Lien direct: <a href="https://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_07_RSSI.mp3">ici</a>
+- [Daed – Sentient](https://soundcloud.com/daed/sentient)
+- [Yoon – Nur (Secuem Remix)](https://soundcloud.com/secuem/yoon-nur-secuem-remix)

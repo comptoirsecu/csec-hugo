@@ -59,15 +59,15 @@ Bonne écoute !
 ### Superfish:
 
 
-  <a href="http://www.nextinpact.com/news/93164-laffaire-superfish-revele-probleme-securite-plus-vaste-avec-certificats.htm">http://www.nextinpact.com/news/93164-laffaire-superfish-revele-probleme-securite-plus-vaste-avec-certificats.htm</a>
+  <http://www.nextinpact.com/news/93164-laffaire-superfish-revele-probleme-securite-plus-vaste-avec-certificats.htm>
 
 
 
-  <a href="https://nakedsecurity.sophos.com/2015/02/20/the-lenovo-superfish-controversy-what-you-need-to-know/">https://nakedsecurity.sophos.com/2015/02/20/the-lenovo-superfish-controversy-what-you-need-to-know/</a>
+  <https://nakedsecurity.sophos.com/2015/02/20/the-lenovo-superfish-controversy-what-you-need-to-know/>
 
 
 
-  <a href="https://nakedsecurity.sophos.com/2015/02/20/how-to-get-rid-of-the-lenovo-superfish-adware">https://nakedsecurity.sophos.com/2015/02/20/how-to-get-rid-of-the-lenovo-superfish-adware</a>
+  <https://nakedsecurity.sophos.com/2015/02/20/how-to-get-rid-of-the-lenovo-superfish-adware>
 
 
 ### Gemalto :
@@ -77,7 +77,7 @@ Bonne écoute !
 
 
 
-  Episode du Rendez vous avec X sur l'affaire GemPlus (émission du 10 Novembre 2012) :<a href="%20http://www.franceinter.fr/emission-rendez-vous-avec-x-l-affaire-gemplus"> http://www.franceinter.fr/emission-rendez-vous-avec-x-l-affaire-gemplus</a>
+  Episode du Rendez vous avec X sur l'affaire GemPlus (émission du 10 Novembre 2012) :<%20http://www.franceinter.fr/emission-rendez-vous-avec-x-l-affaire-gemplus>
 
 
 ### Darkleaks:
@@ -87,11 +87,11 @@ Bonne écoute !
 ### Google met de l'eau dans son vin sur les 0day disclosure:
 
 
-  <a href="https://nakedsecurity.sophos.com/2015/02/16/googles-project-zero-backs-off-a-bit-will-now-give-up-to-14-days-grace/">https://nakedsecurity.sophos.com/2015/02/16/googles-project-zero-backs-off-a-bit-will-now-give-up-to-14-days-grace/</a>
+  <https://nakedsecurity.sophos.com/2015/02/16/googles-project-zero-backs-off-a-bit-will-now-give-up-to-14-days-grace/>
 
 
 
-  <a href="http://googleprojectzero.blogspot.fr/2014/07/announcing-project-zero.html">http://googleprojectzero.blogspot.fr/2014/07/announcing-project-zero.html</a>
+  <http://googleprojectzero.blogspot.fr/2014/07/announcing-project-zero.html>
 
 
 
@@ -127,7 +127,7 @@ Bonne écoute !
       </h3>
 
 
-        <a href="http://www.theregister.co.uk/2015/02/11/anonymous_hacks_fuel_station_monitoring_system/">http://www.theregister.co.uk/2015/02/11/anonymous_hacks_fuel_station_monitoring_system/</a>
+        <http://www.theregister.co.uk/2015/02/11/anonymous_hacks_fuel_station_monitoring_system/>
 
 
 
