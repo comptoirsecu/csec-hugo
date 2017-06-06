@@ -1,9 +1,23 @@
-.vcentered {
-  position: relative;
-  top: 50%;
-}
+$card-section-color: $ultraviolet;
+$card-divider-color: $pink;
+$card-divider-link-color: $white;
+
+$metadata-background-color: $light-gray;
+$metadata-color: $dark-gray;
+$metadata-link-color: $violet;
 
 $hero-height: 35vh;
+$hero-section-text: $white;
+$hero-background-image: '/images/logo-white.png';
+
+$menu-link-color: $white;
+$top-bar-title-link-color: $white;
+
+$card-user-container-margin-bottom: 1rem;
+$card-user-container-radius: $global-radius;
+$card-user-container-background: $white;
+$card-user-container-color: $black;
+$card-user-container-image-size: rem-calc(190);
 
 .hero-section {
   background: url('/images/hero-1.jpg') 50% no-repeat;
@@ -16,7 +30,7 @@ $hero-height: 35vh;
   padding-left: 5%;
 
   .hero-section-text {
-    color: $white;
+    color: $hero-section-text;
     text-shadow: 1px 1px 2px $black;
   }
 
@@ -26,52 +40,35 @@ $hero-height: 35vh;
     height: 1em;
     margin-right: 0.3em;
     background-size: 1em 1em;
-    background-image: url('/images/logo-white.png');
+    background-image: url($hero-background-image);
   }
 }
 
 .menu a {
-  color: $white;
+  color: $menu-link-color;
 }
 
 .top-bar-title a {
-  color: $white;
+  color: $top-bar-title-link-color;
 }
 
 .card-divider {
   a {
-    color: $white;
+    color: $card-divider-link-color;
   }
-  color: $pink;
+  color: $card-divider-color;
 }
 
-.t1
-{
-  margin-top: 1em;
-}
+.t1 { margin-top: 1em; }
+.t2 { margin-top: 2em; }
+.t3 { margin-top: 3em; }
+.t4 { margin-top: 4em; }
+.t5 { margin-top: 5em; }
 
-.t2
-{
-  margin-top: 2em;
-}
 
-.t3
-{
-  margin-top: 3em;
-}
-
-.t4
-{
-  margin-top: 4em;
-}
-
-.t5
-{
-  margin-top: 5em;
-}
 
 .card-section {
-  color: $ultraviolet;
+  color: $card-section-color;
 }
 
 #article-content
@@ -81,10 +78,10 @@ $hero-height: 35vh;
 
 #metadatas
 {
-  background-color: $light-gray;
-  color: $dark-gray;
+  background-color: $metadata-background-color;
+  color: $metadata-color;
   a {
-    color: $violet;
+    color: $metadata-link-color;
   }
   .label a { color: $white; }
 }
@@ -92,16 +89,11 @@ $hero-height: 35vh;
 /**
   Cards utilisés dans les registres
 **/
-$card-user-container-margin-bottom: 1rem;
-$card-user-container-radius: $global-radius;
-$card-user-container-background: $white;
-$card-user-container-color: $black;
-$card-user-container-image-size: rem-calc(190);
 
 .card-user-container {
   margin-bottom: $card-user-container-margin-bottom;
   background-color: $card-user-container-background;
-  color: $black;
+  color: $card-user-container-color;
   overflow: hidden;
   padding: 0;
   border-radius: $card-user-container-radius;
