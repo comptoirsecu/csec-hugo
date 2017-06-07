@@ -48,11 +48,11 @@
 
 /// My color palette
 
-$ultraviolet: #19055A;
-$violet: #3E0894;
-$lila: #5E42A6;
+$ultraviolet: #2C3E50;//#19055A;
+$violet: #E74C3C;//#3E0894;
+$lila: #E74C3C;//#5E42A6;
 $blue: #4729FF;
-$pink: #C55BFB;
+$pink: #3498DB;//#C55BFB;
 
 // 1. Global
 // ---------
@@ -63,7 +63,7 @@ $global-lineheight: 1.5;
 $foundation-palette: (
   primary: $pink,
   secondary: $violet,
-  success: $lila,
+  success: #ECF0F1,//#3adb76,
   warning: #ffae00,
   alert: #cc4b37,
 );
@@ -71,7 +71,7 @@ $light-gray: #e6e6e6;
 $medium-gray: #cacaca;
 $dark-gray: #8a8a8a;
 $black: #0a0a0a;
-$white: #fefefe;
+$white: #ECF0F1;
 $body-background: $ultraviolet;
 $body-font-color: $white;
 $body-font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;
@@ -283,7 +283,7 @@ $buttongroup-radius-on-each: true;
 // 13. Callout
 // -----------
 
-$callout-background: $violet;
+$callout-background: $white;
 $callout-background-fade: 10%;
 $callout-border: 0px solid rgba($black, 0.25);
 $callout-margin: 0 0 1rem 0;
@@ -623,7 +623,7 @@ $tooltip-radius: $global-radius;
 // 37. Top Bar
 // -----------
 
-$topbar-padding: 0.5rem;
+$topbar-padding: 0.0rem;
 $topbar-background: $black;
 $topbar-submenu-background: $ultraviolet;
 $topbar-title-spacing: 0.5rem 1rem 0.5rem 0;

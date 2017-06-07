@@ -2,13 +2,14 @@ $card-section-color: $ultraviolet;
 $card-divider-color: $pink;
 $card-divider-link-color: $white;
 
-$metadata-background-color: $light-gray;
+$metadata-background-color: #d7dadb;
 $metadata-color: $dark-gray;
 $metadata-link-color: $violet;
 
 $hero-height: 35vh;
 $hero-section-text: $white;
-$hero-background-image: '/images/logo-white.png';
+$hero-logo-image: '/images/logo-white.png';
+$hero-background-image: '/images/hero-blue.jpg';
 
 $menu-link-color: $white;
 $top-bar-title-link-color: $white;
@@ -17,6 +18,7 @@ $card-user-container-margin-bottom: 1rem;
 $card-user-container-radius: $global-radius;
 $card-user-container-background: $white;
 $card-user-container-color: $black;
+$card-user-header-color: $violet;
 $card-user-container-image-size: rem-calc(190);
 
 $article-header-color: $black;
@@ -27,7 +29,7 @@ article main h2, article main h3, article main h4, article main h5, article main
 }
 
 .hero-section {
-  background: url('/images/hero-1.jpg') 50% no-repeat;
+  background: url($hero-background-image) 50% no-repeat;
   background-size: cover;
   height: $hero-height;
   text-align: left;
@@ -47,7 +49,7 @@ article main h2, article main h3, article main h4, article main h5, article main
     height: 1em;
     margin-right: 0.3em;
     background-size: 1em 1em;
-    background-image: url($hero-background-image);
+    background-image: url($hero-logo-image);
   }
 }
 
@@ -123,8 +125,8 @@ article main h2, article main h3, article main h4, article main h5, article main
   .card-user-bio {
     padding: 1rem;
     text-align: center;
-    h4 {
-      color: $black;
+    h4, h4 a {
+      color: $card-user-header-color;
     }
     a {
       color: $black;
@@ -167,5 +169,18 @@ article main h2, article main h3, article main h4, article main h5, article main
   .card-user-button {
     text-align: center;
     padding: 1rem;
+  }
+}
+
+#annonce {
+  h1, h2, h3, h4, h5, h6 {
+    color: $violet;
+  }
+  a {
+    color: $violet;
+  }
+
+  .label.secondary {
+    color: $white;
   }
 }
