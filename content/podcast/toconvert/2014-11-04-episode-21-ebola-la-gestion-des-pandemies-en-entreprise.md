@@ -38,19 +38,14 @@ Nous essayons de faire des épisodes plus court dorénavant, c'est pour cela que
 
 ### Au programme
 
-  * Début du dossier<span >(2:24)</span>
-  * Pause musicale avec [Datasette – Music Fourteen](http://datassette.bandcamp.com/track/minus-fourteen) <span >(23:55)</span>
+  * Début du dossier**(2:24)**
+  * Pause musicale avec [Datasette – Music Fourteen](http://datassette.bandcamp.com/track/minus-fourteen) **(23:55)**
   * Suite du dossier **(26:01)**
   * Outro **(55:55)**
-  * Musique de fin avec [<span  data->Ella Fitzgerald </span><i ></i> -Stella By Starlight](http://www.discogs.com/Ella-Fitzgerald-Clap-Hands-Here-Comes-Charlie/master/324954) <span >(57:09)</span>
+  * Musique de fin avec [Ella Fitzgerald - Stella By Starlight](http://www.discogs.com/Ella-Fitzgerald-Clap-Hands-Here-Comes-Charlie/master/324954) **(57:09)**
 
 
   {{< podigee >}}
-
-
-
-
-
 
 
 Bonne écoute et n'oubliez pas, réservez votre 10 décembre pour notre enregistrement à : [La Tireuse – 18 rue Laplace 75005 Paris](http://latireuse.fr/) !
@@ -59,8 +54,5 @@ Bonne écoute et n'oubliez pas, réservez votre 10 décembre pour notre enregist
 
 ### //Liens et références
 
-[Plan Pandemie 2011](http://www.sante.gouv.fr/plan-national-de-prevention-et-de-lutte-pandemie-grippale-2011.html)
-
-[Le guide du bon sens numérique d'Axa](http://www.axaprevention.fr/documents/fichiers_pdf/axa_guide_bsn.pdf)
-
-Lien pour le podcast [ici](https://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_21_Pandemie_Ebola.mp3)
+- [Plan Pandemie 2011](http://www.sante.gouv.fr/plan-national-de-prevention-et-de-lutte-pandemie-grippale-2011.html)
+- [Le guide du bon sens numérique d'Axa](http://www.axaprevention.fr/documents/fichiers_pdf/axa_guide_bsn.pdf)

@@ -28,36 +28,21 @@ C'était notre première conférence et nos débuts sur la prise de son en ext�
 
 ## //Timeline
 
-03:00: [NDH Kids](http://www.nuitduhack.com/ndh-kids)
-
-4:50: Benjamin Bayart([@bayartb](https://twitter.com/bayartb))
-
-29:17: EN & Jayson E. Street ([@jaysonstreet](https://twitter.com/jaysonstreet))
-
-48:00: Wilfrid Blanc de LEXSI sur l'atelier Scada ([@WilfridBlanc](https://twitter.com/WilfridBlanc))
-
-56:34: Zakaria Rachid ([@zackhimself](https://twitter.com/zackhimself))
-
-1:03:37: Crafty et l'[electrolab](http://www.electrolab.fr)
-
-1:12:35: Korben ([@Korben](https://twitter.com/Korben))
-
-1:17:45: Debrief à chaud
-
-1:36:56: Pause musicale avec [<span >SLDGHMR – D.I.Y.</span>](https://soundcloud.com/sldghmr/sldghmr-d-i-y)
-
-1:39:12: Retour sur Pas Sage en Seine
-
-1:43:48: Finale avec une musique de Cristobal Tapia De Veer & Jessica Gets Off (Utopia)
-
-1:44:39: Interview au McDo
-
-1:45:57: Musique de fin:  Cristobal Tapia De Veer & Utopia Finale
+- 03:00: [NDH Kids](http://www.nuitduhack.com/ndh-kids)
+- 4:50: Benjamin Bayart([@bayartb](https://twitter.com/bayartb))
+- 29:17: EN & Jayson E. Street ([@jaysonstreet](https://twitter.com/jaysonstreet))
+- 48:00: Wilfrid Blanc de LEXSI sur l'atelier Scada ([@WilfridBlanc](https://twitter.com/WilfridBlanc))
+- 56:34: Zakaria Rachid ([@zackhimself](https://twitter.com/zackhimself))
+- 1:03:37: Crafty et l'[electrolab](http://www.electrolab.fr)
+- 1:12:35: Korben ([@Korben](https://twitter.com/Korben))
+- 1:17:45: Debrief à chaud
+- 1:36:56: Pause musicale avec [SLDGHMR – D.I.Y.](https://soundcloud.com/sldghmr/sldghmr-d-i-y)
+- 1:39:12: Retour sur Pas Sage en Seine
+- 1:43:48: Finale avec une musique de Cristobal Tapia De Veer & Jessica Gets Off (Utopia)
+- 1:44:39: Interview au McDo
+- 1:45:57: Musique de fin:  Cristobal Tapia De Veer & Utopia Finale
 
 ## Liens et références
 
-Les video de Pas Sage en Seine: [ici](http://numaparis.ubicast.tv/channels/#pas-sage-en-seine-2014)
-
-[La Nuit du Hack](http://www.nuitduhack.com/)
-
-Le lien du podcast en direct: [ici](https://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_HS1_NDH.mp3)
+- Les video de [Pas Sage en Seine](http://numaparis.ubicast.tv/channels/#pas-sage-en-seine-2014)
+- [La Nuit du Hack](http://www.nuitduhack.com/)

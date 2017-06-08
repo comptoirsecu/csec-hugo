@@ -33,7 +33,7 @@ Le premier interview a été réalisé lors des Assises de la Sécurité à Mona
 
 Le second interview a été réalisé lors des vacances de Noël au sein du GICAT (Groupement des Industries Françaises de Défense Terrestre et Aéroterrestre). Ces derniers, avec Hexatrust, s'associe afin de promouvoir la filière française de cybersécurité à l'international.
 
-<span >Ainsi, nous avons pu longuement échanger avec Jean-Noël de Galzain, PDG de [Wallix](http://www.wallix.com/fr/]  et Bernard Refalo du GICAT sur l'exportation de produits de sécurité français.</span>
+Ainsi, nous avons pu longuement échanger avec Jean-Noël de Galzain, PDG de [Wallix](http://www.wallix.com/fr/]  et Bernard Refalo du GICAT sur l'exportation de produits de sécurité français.
 
 Nous sommes désolé pour le faible son pour Bernard Refalo, petit problème de micro...
 

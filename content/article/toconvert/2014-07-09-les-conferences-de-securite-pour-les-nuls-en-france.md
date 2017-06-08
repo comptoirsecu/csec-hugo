@@ -35,7 +35,7 @@ Je précise que ceci est un avis personnel. N'hésitez pas à commenter cet arti
 </h1>
 
 
-  <em>Date : 4 au 6 Juin 2014</em><br /> <em> Lieu: Rennes</em><br /> <em> Lien : <a href="https://www.sstic.org/">https://www.sstic.org/<br /> </a><span >Public : 450 personnes<br /> </span><span >Payant</span></em>
+  <em>Date : 4 au 6 Juin 2014</em><br /> <em> Lieu: Rennes</em><br /> <em> Lien : <a href="https://www.sstic.org/">https://www.sstic.org/<br /> </a><span >Public : 450 personnes<br /> </span>Payant</em>
 
 
 Le SSTIC est une conférence qui se déroule à Rennes. C’est une des plus importantes en France, et les inscriptions sont rapidement closes, dû à son succès, et à son petit nombre de places (450). Ainsi, les inscriptions se déroulent maintenant en plusieurs vagues.
@@ -86,7 +86,7 @@ _Date : 26 au 29 juin 2014_
 
  _Lien : [http://www.passageenseine.org/
 
-](http://www.passageenseine.org/) <span >Public : nombre inconnu<br /> </span><span >Gratuit</span>_
+](http://www.passageenseine.org/) <span >Public : nombre inconnu<br /> </span>Gratuit_
 
 Pas Sage en Seine est une conférence assez jeune, versé plutôt dans le côté « Hacking » pur et dur : sécurité, bidouille soft ou hardware, free culture, hacktivisme... Selon moi, c’est une des rares véritables _conférences à barbu_ avec des sujets passionnants et accessibles pour tout le monde, contenant des sujets intéressants et divers.
 
@@ -268,6 +268,6 @@ Pour conclure, on peut dire que nous avons la chance, en France, d'avoir autant 
 
 Il ne faut donc pas hésiter à aller à ces conférences,  se faire son propre avis. Et puis, ces événements permettent de rencontrer des personnes passionnées, d'échanger et d'apprendre tout en passant de bons moments! (Et autour d'une bière, c'est encore mieux 😉 )
 
-_<span >EDIT:</span> Comme souligné sur Twitter, je n'ai pas parlé de certaines conférences, comme BotConf, C&ESAR ou encore No Such Con. La raison est que je ne connais pas assez ces conférences afin d'écrire une review dessus. Si vous connaissez par contre ces dernières, n'hésitez pas à écrire votre avis en commentaires ci-dessous!_
+_EDIT: Comme souligné sur Twitter, je n'ai pas parlé de certaines conférences, comme BotConf, C&ESAR ou encore No Such Con. La raison est que je ne connais pas assez ces conférences afin d'écrire une review dessus. Si vous connaissez par contre ces dernières, n'hésitez pas à écrire votre avis en commentaires ci-dessous!_
 
-_<span >Photographie de la couverture © </span><a  href="http://www.digdeo.fr/">Pierre-Henry Muller</a><span >, tous droits réservés</span>_
+_Photographie de la couverture © <a  href="http://www.digdeo.fr/">Pierre-Henry Muller</a>, tous droits réservés_
