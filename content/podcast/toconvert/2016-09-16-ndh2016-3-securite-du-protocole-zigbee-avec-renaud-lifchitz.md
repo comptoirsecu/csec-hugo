@@ -19,22 +19,11 @@ tags:
   - Renaud Lifchitz
   - zigbee
 ---
-Et de trois!
-
-Voici notre troisième épisode enregistré en live à la Nuit du Hack 2016.
+Troisième épisode enregistré en live à la Nuit du Hack 2016.
 
 Dans cette épisode nous interviewons [Zigbee ](https://twitter.com/nono2357" >Renaud Lifchitz</a> au sujet de sa conférence sur la revue sécurité du protocole <a href="https://fr.wikipedia.org/wiki/ZigBee)d'une box TV française.
 
-
-
-
 {{< podigee >}}
-
-
-
-
-
-Lien direct pour le podcast: Interview avec Renaud Lifchitz
 
 Pour rappel, voici l'abstract de la conférence:
 

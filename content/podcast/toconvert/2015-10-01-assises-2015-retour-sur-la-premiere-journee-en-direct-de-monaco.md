@@ -21,7 +21,6 @@ tags:
   - ssi
 ---
 
-
 En direct des Assises 2015, nous faisons un retour sur cette première journée de cette conférence à Monaco entourée de 2 invités, un RSSI et un offreur :
 
   * Farid Illikoud, RSSI du PMU
@@ -31,13 +30,4 @@ N'hésitez pas à venir nous voir aux Assises, ou nous donner un retour.
 
 Bonne écoute à tous !
 
-
-
 {{< podigee >}}
-
-
-
-
-
-
-Lien direct de l'épisode: [ici](http://podcast.comptoirsecu.fr/CSEC.HS06.2015-10-01.ASSISES2015_JOUR1.mp3)

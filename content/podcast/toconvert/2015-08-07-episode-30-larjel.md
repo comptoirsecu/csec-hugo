@@ -31,16 +31,7 @@ N'hésitez pas à nous faire des retours.
 
 Bonne écoute !
 
-
-
 {{< podigee >}}
-
-
-
-
-
-
-Lien direct de l'épisode: [ici](http://podcast.comptoirsecu.fr/CSEC.EP30.2015-08-07.ARJEL.mp3)
 
 Les interludes musicales de l'épisode :
 

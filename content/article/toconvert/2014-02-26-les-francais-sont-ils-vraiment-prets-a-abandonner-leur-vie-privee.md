@@ -39,9 +39,9 @@ Mais là où je m’attendais à voir une réaction virulente des populations su
 
 Certaines innovations luttent pour rééquilibrer la balance :
 
-Regardez comme le concept du "[NameCoin](http://en.wikipedia.org/wiki/Proof-of-work_system" >Proof of Work</a>", initié par Bitcoin, est repris par une multitude de projets cherchant à augmenter la décentralisation et **empêcher la censure**. Je pense notamment à [Twister](http://linuxfr.org/news/twister-un-microblog-opensource-p2p) ou a <a href="http://namecoin.info/).
+Regardez comme le concept du [Proof of Work](http://en.wikipedia.org/wiki/Proof-of-work_system), initié par Bitcoin, est repris par une multitude de projets cherchant à augmenter la décentralisation et **empêcher la censure**. Je pense notamment à [Twister](http://linuxfr.org/news/twister-un-microblog-opensource-p2p) ou a [NameCoin](http://namecoin.info/).
 
-Constatez à quel point le "jardin secret" revient à la mode. **Les applications mettant en avant la vie privée et le partage en petit comité ont le vent en poupe** comme jamais. Ces principes sont en totale opposition avec cette incitation au partage publique comme le faisait jusqu’alors Twitter ou Facebook. Regardez donc [Confide](http://techcrunch.com/2013/12/29/marco-polo/" >Marco Polo</a>, [Secret](www.snapchat.com/‎" >SnapChat</a>, <a href="https://www.secret.ly/), ou encore <a href="https://getconfide.com/).
+Constatez à quel point le "jardin secret" revient à la mode. **Les applications mettant en avant la vie privée et le partage en petit comité ont le vent en poupe** comme jamais. Ces principes sont en totale opposition avec cette incitation au partage publique comme le faisait jusqu’alors Twitter ou Facebook. Regardez donc [Confide](https://getconfide.com/), [Marco Polo](http://techcrunch.com/2013/12/29/marco-polo/) ou encore  [Secret](https://www.secret.ly/).
 
 Bien sûr, certaines de ces applications ne vous protègent pas vraiment, soient parce qu’elles sont programmées par des ignares en sécurité, soit parce que les intentions cachées de leurs auteurs sont bien plus perfides que ce qu’ils veulent bien admettre en public _\*cough\* voir les deux comme pour SnapChat \*cough\*_. On ne peut pour autant nier **l’intérêt du grand public pour les fonctionnalités orientées sécurité** et vie privée.
 

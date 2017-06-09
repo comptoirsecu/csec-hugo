@@ -40,8 +40,6 @@ Bonne écoute à vous !
 
 {{< podigee >}}
 
-Lien direct de l'épisode: [ici](http://podcast.comptoirsecu.fr/CSEC.EP40.2017-02-09.ACTIVE_DIRECTORY.mp3)
-
 Les interludes musicales de l'épisode :
 
   * [Snow Ghosts – Undertow et The Fleet](https://snowghosts.bandcamp.com/album/husk)

@@ -30,8 +30,6 @@ tags:
 guests:
   - vincent_balouet
 ---
-
-
 Nous voici de retour pour un dossier dédié à Ébola et la gestion des crises dédié aux pandémies en entreprise. Nous avons donc le plaisir de recevoir [Vincent Balouet](https://plus.google.com/u/0/+VincentBalouet/)[.](https://plus.google.com/u/0/110251727190072935740?prsrc=4)
 
 Nous essayons de faire des épisodes plus court dorénavant, c'est pour cela que les interviews des Assises suivront prochainement.
@@ -45,11 +43,10 @@ Nous essayons de faire des épisodes plus court dorénavant, c'est pour cela que
   * Musique de fin avec [Ella Fitzgerald - Stella By Starlight](http://www.discogs.com/Ella-Fitzgerald-Clap-Hands-Here-Comes-Charlie/master/324954) **(57:09)**
 
 
-  {{< podigee >}}
+{{< podigee >}}
 
 
 Bonne écoute et n'oubliez pas, réservez votre 10 décembre pour notre enregistrement à : [La Tireuse – 18 rue Laplace 75005 Paris](http://latireuse.fr/) !
-
 
 
 ### //Liens et références

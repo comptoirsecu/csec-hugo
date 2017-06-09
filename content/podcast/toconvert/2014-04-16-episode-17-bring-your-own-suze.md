@@ -35,20 +35,11 @@ Le numéro 17 est prêt pour vos oreilles. Suite au bon conseils de nos ami du [
   * Notre What's Next sur le BYOID**(1:16:20)**
   *  Musique de fin [So Retro – MrBill + The Algorithm](https://soundcloud.com/mrbillstunes/soretro) **(1:36:00)**
 
-
-  {{< podigee >}}
-
-
-
-
-
-
+{{< podigee >}}
 
 Bonne écoute !
 
 ### Liens et références
-
-
 
 #### //News
 

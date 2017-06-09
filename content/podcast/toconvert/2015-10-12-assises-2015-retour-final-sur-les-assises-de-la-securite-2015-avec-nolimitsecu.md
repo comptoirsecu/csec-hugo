@@ -20,22 +20,12 @@ tags:
   - ssi
 ---
 
-
 Voici le retour final sur les Assises de la Sécurité réalisé avec nos amis de [NoLimitSecu](http://www.nolimitsecu.fr/). Si vous ne connaissez pas leur podcast, foncez écouter!
 
 Nous remercions Les Assises de la Sécurité de nous avoir invité pour la seconde année.
 
-Bonne écoute à tous !
-
-
-
-
 {{< podigee >}}
 
+Bonne écoute à tous !
 
-
-
-
-Lien direct de l'épisode: [ici](http://podcast.comptoirsecu.fr/CSEC.HS08.2015-10-12.ASSISES2015_JOUR3.mp3)
-
-Musique: <a  href="https://www.youtube.com/watch?v=65oZD-7gJYE" >20syl – Kodama (Official Music Video)</a>
+Musique: [20syl – Kodama (Official Music Video)](https://www.youtube.com/watch?v=65oZD-7gJYE)

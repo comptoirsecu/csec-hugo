@@ -1,38 +1,38 @@
 <div class="title-bar" style="padding-bottom: 0.1em; background-color: #000;">
-    <div class="top-bar-title" data-responsive-toggle="responsive-menu" data-hide-for="medium"><button class="menu-icon" type="button" data-toggle="responsive-menu"></button></div>
+  <div class="top-bar-title" data-responsive-toggle="responsive-menu" data-hide-for="medium"><button class="menu-icon" type="button" data-toggle="responsive-menu"></button></div>
 </div>
 
-  <div class="top-bar" id="responsive-menu">
-      <nav class="top-bar-left">
-        <ul class="vertical medium-horizontal menu" data-responsive-menu="accordion medium-dropdown">
-          <li>
-            <a href="/">
-              <i class="fa fa-home hide-for-medium-only"></i>Accueil</a>
-          </li>
-          {{ $currentPage := . }}
-          {{ range .Site.Menus.left}}
-          <li>
-            <a href="{{ .URL }}"><i class="fa {{ .Pre }} hide-for-medium-only"></i>{{ .Name }}</a>
-            {{ if .HasChildren }}
-            <ul class="vertical menu">
-              {{ range .Children }}
-              <li>
-                <a href="{{ .URL }}">{{ .Name }}</a>
-              </li>
-              {{ end }}
-           </ul>
-           {{ end }}
-          </li>
+<div class="top-bar" id="responsive-menu">
+  <nav class="top-bar-left">
+    <ul class="vertical medium-horizontal menu" data-responsive-menu="accordion medium-dropdown">
+      <li>
+        <a href="/">
+          <i class="fa fa-home hide-for-medium-only"></i>Accueil</a>
+        </li>
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.left}}
+        <li>
+          <a href="{{ .URL }}"><i class="fa {{ .Pre }} hide-for-medium-only"></i>{{ .Name }}</a>
+          {{ if .HasChildren }}
+          <ul class="vertical menu">
+            {{ range .Children }}
+            <li>
+              <a href="{{ .URL }}">{{ .Name }}</a>
+            </li>
+            {{ end }}
+          </ul>
           {{ end }}
-        </ul>
-      </nav> <!-- end menu right -->
-      <nav class="top-bar-right">
-        <ul class="menu">
-          <li>
-            <a href="/recherche/"><i class="fa fa-search"></i><span class="hide-for-medium-only"> Recherche</span></a>
-          </li>
-        </ul>
-      </nav> <!-- end menu left -->
+        </li>
+        {{ end }}
+      </ul>
+    </nav> <!-- end menu right -->
+    <nav class="top-bar-right">
+      <ul class="menu">
+        <li>
+          <a href="/recherche/"><i class="fa fa-search"></i><span class="hide-for-medium-only"> Recherche</span></a>
+        </li>
+      </ul>
+    </nav> <!-- end menu left -->
   </div> <!-- end top bar -->
 
 

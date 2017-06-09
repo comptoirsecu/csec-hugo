@@ -42,8 +42,6 @@ Bonne écoute à vous!
 
 {{< podigee >}}
 
-
-
 _N'hésitez pas à nous donner vos retours sur l'émission par commentaires ou par les réseaux sociaux._
 
 ### Liens et références:

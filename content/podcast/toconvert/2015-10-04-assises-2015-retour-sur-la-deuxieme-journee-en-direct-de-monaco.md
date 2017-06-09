@@ -26,15 +26,6 @@ Nous faisons un retour sur la deuxième journée des Assises, accompagné de C�
 
 Pour le retour final des Assises, nous vous réservons une petite surprise 😉
 
-Bonne écoute à tous !
-
-
 {{< podigee >}}
 
-
-
-
-
-
-
-Lien direct de l'épisode: [ici](http://podcast.comptoirsecu.fr/CSEC.HS07.2015-10-04.ASSISES2015_JOUR2.mp3)
+Bonne écoute à tous !

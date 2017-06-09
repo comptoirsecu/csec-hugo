@@ -45,11 +45,6 @@ Et n'oubliez pas de voter pour nous, pendant les [Golden blogs Awards](http://
   {{< podigee >}}
 
 
-
-
-
-
-
 Bonne écoute !
 
 Lien pour le podcast [ici](https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS03.2014-10-12.ASSISES.mp3)

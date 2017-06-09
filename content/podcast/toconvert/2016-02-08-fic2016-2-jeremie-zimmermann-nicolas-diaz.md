@@ -23,20 +23,6 @@ tags:
   - machine
 ---
 
-
-
-
 Toujours dans la continuité de notre webradio pendant le Forum International de la CyberSécurité 2016, nous avons rencontré [Jeremie Zimmermann](https://twitter.com/jerezim) et [Nicolas Diaz](https://twitter.com/nicoladiaz) pour nous parler de la confiance utilisateur, des géants de l'internet et de la surveillance généralisé
 
-
-
 {{< podigee >}}
-
-
-
-
-
-
-
-
-Lien direct pour le podcast: [ici](https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS10.2016-01-25.FIC2016.J%c3%a9r%c3%a9mie_Zimmermann_Nicolas_Diaz.mp3)

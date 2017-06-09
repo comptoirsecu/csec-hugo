@@ -29,7 +29,6 @@ tags:
   - WoW
 ---
 
-
 Au programme de cet episode:
 
   * Les news (2:00)
@@ -39,7 +38,7 @@ Au programme de cet episode:
   * Outro [Goto80 – Hey Hey](https://soundcloud.com/goto80)
 
 
-  {{< podigee >}}
+{{< podigee >}}
 
 
 ### Liens et références:

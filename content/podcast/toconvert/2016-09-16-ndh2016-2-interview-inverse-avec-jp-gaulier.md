@@ -17,19 +17,9 @@ tags:
   - ndh2k16
   - podcast
 ---
-Et de deux !
-
-Voici notre second épisode enregistré en live à la Nuit du Hack 2016.
+Second épisode enregistré en live à la Nuit du Hack 2016.
 
 Dans cette épisode nous <del>nous entretenons avec</del> faisons interviewer par notre cher [@JPGaulier](https://twitter.com/jpgaulier).
 
 
 {{< podigee >}}
-
-
-
-
-
-
-
-Lien direct pour le podcast: Ici

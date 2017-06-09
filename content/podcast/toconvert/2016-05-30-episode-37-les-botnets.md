@@ -20,23 +20,17 @@ tags:
   - freyssinet
   - podcast
   - zombie
----
 
+
+---
 
 Pour ce 37ème épisode, nous abordons le sujet des Botnets: qu'est ce qu'un botnet, comment cela fonctionne-t-il, comment s'en protéger, etc. ?
 
-Afin d'échanger sur ce sujet, nous avons invité le colonel [Eric Freyssinet](https://twitter.com/ericfreyss) dont ce sujet a été le thème de sa thèse.
+Afin d'échanger sur ce sujet, nous avons invité le colonel [Eric Freyssinet](/guests/eric_freyssinet) dont ce sujet a été le thème de sa thèse.
 
 Bonne écoute à tous !
 
-
 {{< podigee >}}
-
-
-
-
-
-
 
 Ressources :
 
@@ -46,8 +40,6 @@ Ressources :
   * [Le site d'Antibot](https://www.antibot.fr)
   * [Site du CECyF](http://www.cecyf.fr/)
   * [Association Signal-Spam](https://www.signal-spam.fr/)
-
-Lien direct de l'épisode: [ici](http://podcast.comptoirsecu.fr/CSEC.EP37.2016-05-23.BOTNETS.mp3)
 
 Les interludes musicales de l'épisode :
 

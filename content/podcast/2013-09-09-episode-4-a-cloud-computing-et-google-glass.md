@@ -54,7 +54,7 @@ N’hésitez pas à nous laisser votre avis à propos de la nouvelle rubrique su
 - [Syrian Electronic Army Denies New Data Leaks](http://krebsonsecurity.com/2013/08/syrian-electronic-army-denies-new-data-leaks)
 - [#OpSyria : Syrian Electronic Army was hacked and d0xed (WARNING : explicit content)](http://reflets.info/opsyria-syrian-electronic-army-was-hacked-and-d0xed-warning-explicit-content/)
 - [Syrian Electronic Army, la stratégie du coup d'éclat](http://www.slate.fr/story/77028/syrian-electronic-army-strategie)
-- [La justice française va enquêter sur PRISM et la NSA]http://www.numerama.com/magazine/26843-la-justice-francaise-va-enqueter-sur-prism-et-la-nsa.html)
+- [La justice française va enquêter sur PRISM et la NSA](http://www.numerama.com/magazine/26843-la-justice-francaise-va-enqueter-sur-prism-et-la-nsa.html)
 - [La France a demandé à Facebook des données sur 1 548 utilisateurs](http://www.numerama.com/magazine/26834-la-france-a-demande-a-facebook-des-donnees-sur-1-548-utilisateurs.html)
 - [Renew, les poubelles londoniennes qui scannent vos smartphones](http://www.lesnumeriques.com/renew-poubelles-londoniennes-qui-scannent-vos-smartphones-n30699.html)
 - [UK Govt. Destroyed Journalists’ Hard Drives In Failed Attempt To Stop NSA Story](http://techcrunch.com/2013/08/19/uk-govt-destroyed-journalists-hard-drives-in-failed-attempt-to-stop-nsa-story/)

@@ -1,5 +1,4 @@
 ---
-
 title: "[Episode 24] Start-up et TPE"
 date: 2015-03-16T14:08:58+00:00
 publisher: justin
@@ -22,7 +21,6 @@ tags:
   - tpe
 ---
 
-
 Vous allez écouter le premier podcast qui enregistre une analyse de risque en live ! Un exercice plutôt compliqué, notamment pour réussir à cadrer l'analyse.
 
 Le sujet de cet épisode portera sur la sécurité dans les start-up et les TPE. Pour nous aider dans cette tâche, nous avons eu le plaisir de recevoir deux invités:
@@ -42,16 +40,6 @@ Au programme :
   * Epilogue **(1:31:28)**
 
 
-
-
-  {{< podigee >}}
-
-
-
-
+{{< podigee >}}
 
 Bonne écoute à vous !
-
-
-
-Lien pour le podcast [ici](https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP24.2015-03-15.STARTUP_TPE.mp3) ou alors sur Podcloud [ici](https://podcloud.fr/podcast/le-comptoir-secu?5507e5ae6e7334397f6a0100)

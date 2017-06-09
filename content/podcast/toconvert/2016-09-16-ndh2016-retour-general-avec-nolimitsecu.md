@@ -19,11 +19,6 @@ tags:
   - nolimitsecu
   - podcast
 ---
-Et de cinq!
-
 C'est presque devenu une tradition, pour ce dernier épisode enregistré en live à la Nuit du Hack 2016 nous faisons un retour général de la conférence avec nos confrères de [NoLimitSécu](https://www.nolimitsecu.fr/).
 
 {{< podigee >}}
-
-
-Lien direct pour le podcast: [Retour NDH 2016](http://podcast.comptoirsecu.fr/CSEC.HS27.2016-07-02.NDH2k16_NoLimitSecu.mp3)

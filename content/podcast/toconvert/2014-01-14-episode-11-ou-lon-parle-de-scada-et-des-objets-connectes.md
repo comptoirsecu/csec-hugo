@@ -41,13 +41,7 @@ Au programme:
   * Le What's Next sur les objets connectés (1:09:55)
   * Outro avec  Mitch Murder – Mute City(1:20:33)
 
-
-
-
-
-  {{< podigee >}}
-
-
+{{< podigee >}}
 
 
 ### Liens et références:

@@ -19,20 +19,10 @@ tags:
   - sentryo
 ---
 
-
 Voici un petit poste pour vous faire découvrir le gagnant du prix de l'innovation des assises 2015 : [Sentryo](http://www.sentryo.net/fr/)
-
-
 
 Pour celà nous avons reçu [Laurent Hausermann](https://twitter.com/lhausermann) pour une interview
 
-
-
 {{< podigee >}}
-
-
-
-
-
 
 Bonne écoute !

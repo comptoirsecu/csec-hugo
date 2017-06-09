@@ -41,8 +41,11 @@ Après beaucoup de retard, voici  le 15e épisode du Comptoir Sécu !
 
     {{< podigee >}}
 
+{{% warning %}}
+Nous rencontrons actuellement des problèmes importants sur la production des épisodes 13 et 14. Nous faisons notre possible pour vous les proposer au téléchargement aussi vite que possible mais la difficulté est grande. Pour ne pas perdre le rythme, nous enchaînons directement sur l'épisode 15 et la suite très bientôt.
 
-*Nous rencontrons actuellement des problèmes importants sur la production des épisodes 13 et 14. Nous faisons notre possible pour vous les proposer au téléchargement aussi vite que possible mais la difficulté est grande. Pour ne pas perdre le rythme, nous enchaînons directement sur l'épisode 15 et la suite très bientôt. Plus d'infos [ici](https://www.comptoirsecu.fr/2014/02/mais-ou-sont-passes-les-episodes-13-et-14/)*.
+Plus d'infos [ici](https://www.comptoirsecu.fr/2014/02/mais-ou-sont-passes-les-episodes-13-et-14/)
+{{% /warning %}}
 
 Bonne écoute !
 

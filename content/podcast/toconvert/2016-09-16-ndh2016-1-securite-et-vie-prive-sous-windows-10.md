@@ -20,22 +20,12 @@ tags:
   - vie privée
   - windows 10
 ---
-Bonjour tout le monde !
 
-Voici notre première épisode enregistré en live à la Nuit du Hack 2016, encore tout chaud! Bon, ok, légèrement tiède...
+Première épisode enregistré en live à la Nuit du Hack 2016, encore tout chaud! Bon, ok, légèrement tiède...
 
 Dans cette épisode nous nous entretenons avec Thomas Aubin et Paul Hernault sur la sécurité et le respect de la vie privé dans Windows 10, dans la continuité directe de leur conférence.
 
-
-
-
-
 {{< podigee >}}
-
-
-
-
-Lien direct pour le podcast: Sécurité et vie privé sous Windows 10
 
 Pour ceux qui n'avaient pas la chance d'être là, ci-dessous l'abstract:
 

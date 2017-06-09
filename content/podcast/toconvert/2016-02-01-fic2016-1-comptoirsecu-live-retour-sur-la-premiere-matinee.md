@@ -24,10 +24,4 @@ Voici notre première épisode du FIC 2016.
 
 Dans cette épisode nous revenons sur la première matinée du FIC.
 
-
 {{< podigee >}}
-
-
-
-
-Lien direct pour le podcast: [ici](https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS09.2016-01-25.FIC2016.Premi%c3%a8re_Matin%c3%a9e.mp3)

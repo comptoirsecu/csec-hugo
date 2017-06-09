@@ -25,7 +25,6 @@ tags:
   - podcast
 ---
 
-
 Pour ce 39ème épisode, nous avons concocté un sujet lié à l'actualité : **Mirai**, le fameux botnet qui tord le bras à pas mal d'acteurs majeurs du web à grand coup de DDoS ces dernières semaines.
 
 Durant l'épisode, nous :
@@ -39,7 +38,6 @@ PS: Ne prêtez pas attention à ma voix venant d'outre tombe dans l'intro, ça 
 Bonne écoute à vous !
 
 {{< podigee >}}
-
 
 Ressources :
 
@@ -57,8 +55,6 @@ Ressources :
   * [http://qz.com/820003/dyn-dns-ddos-the-mirai-botnet-is-smaller-than-originally-thought/](http://qz.com/820003/dyn-dns-ddos-the-mirai-botnet-is-smaller-than-originally-thought/)
   * [https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=19be0eaffa3ac7d8eb6784ad9bdbc7d67ed8e619](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=19be0eaffa3ac7d8eb6784ad9bdbc7d67ed8e619)
   * [https://en.wikipedia.org/wiki/Shut_Up_and_Dance_(Black_Mirror)](https://en.wikipedia.org/wiki/Shut_Up_and_Dance_(Black_Mirror)) Episode 3, pas 5 😉
-
-Lien direct de l'épisode: [ici](http://podcast.comptoirsecu.fr/CSEC.EP39.2016-10-31.MIRAI.mp3)
 
 Les interludes musicales de l'épisode :
 

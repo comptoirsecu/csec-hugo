@@ -33,18 +33,10 @@ Pour rappel, retrouvez nous à l'afterwork de l'OSSIR avec nos amis de Nolimitse
 
 De plus, la société de Jérôme Bordier, SEALWeb, recrute en ce moment des ingénieurs SSI pour travailler sur les sujets de signature électronique (entre autres). N'hésitez pas à aller postuler !
 
-Bonne écoute !
-
 
 {{< podigee >}}
 
-
-
-
-
-
-
-Lien direct de l'épisode: [ici](http://podcast.comptoirsecu.fr/CSEC.EP33.2015-11-30.EIDAS.mp3)
+Bonne écoute !
 
 Les interludes musicales de l'épisode :
 

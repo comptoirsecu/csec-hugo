@@ -1,5 +1,4 @@
 ---
-
 title: "[Episode 25] Actualité Mars"
 date: 2015-04-07T13:13:37+00:00
 publisher: justin
@@ -23,7 +22,6 @@ tags:
   - Tinder
 ---
 
-
 Voici le nouvel épisode qui résume l'actualité du mois de Mars.
 
 Une petite coquille s'est glissée au début de l'épisode, c'est bien l'épisode 25 et non le 24 🙂
@@ -46,16 +44,7 @@ Conférence à venir:
   * [CLUSIF](https://www.clusif.asso.fr/fr/infos/event/) le 16 Avril 2015 : Le Dark Web : Enjeux et Mesures
 
 
-  {{< podigee >}}
-
-
-
-
-
+{{< podigee >}}
 
 
 Bonne écoute !
-
-
-
-Lien direct pour l'épisode: [ici](https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP25.2015-04-06.ACTU_MARS2015.mp3)

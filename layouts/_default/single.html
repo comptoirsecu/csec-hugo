@@ -22,7 +22,7 @@
       {{ else }}
       <img src="{{with .Params.image }}{{ . }}{{ else }}images/default.jpg{{end}}" />
       {{ end }}
-      <main class="card-section" id="article-content">
+      <main class="card-section text-justify" id="article-content">
         {{ .Content }}
       </main>
 

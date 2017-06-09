@@ -22,16 +22,7 @@ tags:
   - objets connectés
 ---
 
-
 Pour ce dernier épisode de notre série consacré au #FIC2016, nous avons reçu Renaud Lifchitz et Tomas Gayet de [Digital Security](https://www.digitalsecurity.fr/) pour nous parler de la sécurité des objets connectés
 
 
 {{< podigee >}}
-
-
-
-
-
-
-
-Lien direct pour le podcast: [ici](https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS13.2016-01-26.FIC2016.Internet_Of_Things.mp3)

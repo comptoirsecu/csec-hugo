@@ -24,18 +24,7 @@ tags:
   - Korben
   - responsible
 ---
-Bonjour tous le monde !
 
 Pour cette deuxième journée du Forum International de la cybercriminalité nous avons eu le plaisir de recevoir [Korben](http://www.korben.info) pour nous parler du Bug Bounty et de son nouveau projet: [BountyFactory](https://bountyfactory.io/)
 
-
-
-
 {{< podigee >}}
-
-
-
-
-
-
-Lien direct pour le podcast: [ici](https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS12.2016-01-26.FIC2016.Korben.mp3)

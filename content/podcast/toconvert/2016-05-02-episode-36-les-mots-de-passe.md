@@ -19,22 +19,18 @@ tags:
   - mots de passe
   - passcacking
   - podcast
+
 ---
 
 
-Pour ce 36ème épisode, nous avons voulu aborder un sujet plutôt "basique": les mots de passe. Mais ne vous fiez pas à la simplicité du sujet, notre invité [Hydraze](https://twitter.com/hydraze), passcracker depuis 4 ans, nous fournit une vision très intéressante par son expérience.
+Pour ce 36ème épisode, nous avons voulu aborder un sujet plutôt "basique": les mots de passe. Mais ne vous fiez pas à la simplicité du sujet, notre invité [Hydraze](/guests/hydraze), passcracker depuis 4 ans, nous fournit une vision très intéressante par son expérience.
 
 Durant l'épisode, nous parlerons de la sécurité des mots de passe, les méthodes utilisés pour casser et pour protéger ces derniers, comment bien les implémenter dans ses développements ou encore comment les stocker. Certaines idées reçues devront être révisées !
 
 Bonne écoute à vous !
 
 
-
-
 {{< podigee >}}
-
-
-
 
 
 Ressources :
@@ -48,8 +44,6 @@ Ressources :
   * [https://blogs.dropbox.com/tech/2012/04/zxcvbn-realistic-password-strength-estimation/](https://blogs.dropbox.com/tech/2012/04/zxcvbn-realistic-password-strength-estimation/)
 
 La chaîne youtube de Justin: http://pointsecu.fr
-
-Lien direct de l'épisode: [ici](http://podcast.comptoirsecu.fr/CSEC.EP36.2016-05-02.MOTS_DE_PASSE.mp3)
 
 Les interludes musicales de l'épisode :
 

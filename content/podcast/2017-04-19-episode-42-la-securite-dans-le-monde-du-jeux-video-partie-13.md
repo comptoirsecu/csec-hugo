@@ -49,7 +49,6 @@ Notre discord pour échanger : <https://discord.comptoirsecu.fr>
 
 {{< podigee >}}
 
-[Lien direct de l'épisode](http://podcast.comptoirsecu.fr/CSEC.EP42.2017-04-18.JEUX_VIDEO-1.mp3)
 
 Les interludes musicales de l'épisode :
 

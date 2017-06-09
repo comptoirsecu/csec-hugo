@@ -30,6 +30,4 @@ Au programme une revue des plénières, des conférences qui ont attiré notre a
 {{< podigee >}}
 
 
-Lien direct pour le podcast : [Assises 2016 – Retour global avec NoLimitSécu](http://podcast.comptoirsecu.fr/CSEC.HS28.2016-10-12.Assises_2016_NoLimitSecu.mp3)
-
 À bientôt pour de nouveaux épisodes!
