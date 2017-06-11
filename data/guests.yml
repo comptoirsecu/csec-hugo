@@ -1,7 +1,17 @@
+# test_test:
+#   description: description text
+#   name: Mr Test
+#   uri: http://www.example.com
+#   image: test.jpg
+#   twitter: test
+#   linkedin: https://www.linkedin.com/in/maitrisedescrises/
+#   email: test@example.com
+
 romain_dnssec:
     description: >
         Spécialiste de la sécurité du DNS
     name: Romain
+    anonymous: true
 
 vincent_balouet:
   description: Associé, Formation et conseil Cyber sécurité, PCA et Gestion de crise

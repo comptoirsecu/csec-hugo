@@ -5,6 +5,17 @@
 # 3. Change default post/page authors in config.yml
 #
 # Resource http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
+
+# test_test:
+#   name: Mr Test
+#   description: This is a test
+#   uri: http://www.example.com
+#   email: test@example.com
+#   twitter: test
+#   image: test.jpg
+#   youtube: UCF-ljS9G2ABgsN7P83WDFhQ
+#   linkedin: http://www.linkedin.com
+
 comptoirsecu:
   name: "Équipe Comptoir Sécu"
   description: "Fondateurs de l'association Le Comptoir Sécu"

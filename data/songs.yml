@@ -1,3 +1,10 @@
+# test_test:
+#   artist: artist
+#   song: song
+#   uri: http://www.example.com
+#   image: test.jpg
+#   country: Suède
+
 schematicwizard_generique:
     artist: Schematic Wizard (Youenn)
     song: Generique Comptoir Sécu

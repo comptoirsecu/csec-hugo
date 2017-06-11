@@ -70,7 +70,9 @@ gulp.task('img:thumbnails', function() {
   return gulp.src(img.thumbnail.src)
   .pipe(plugins.responsive({'*': [
       { quality: 40, width: 200, height: 200, rename:
-          { extname: '.jpg' } }]},
+          { extname: '.jpg' } },
+      { quality: 40, width: 400, height: 400, rename:
+          { extname: '-@2x.jpg' } }]},
   {
     withMetadata: false,
     crop: true,
