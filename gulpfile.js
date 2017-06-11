@@ -52,14 +52,14 @@ gulp.task('sass:prod', function() {
 gulp.task('img:misc', function() {
   return gulp.src(img.misc.src)
   .pipe(plugins.responsive({'*': [
-      { quality: 50, width: 400, rename:
-          { extname: '.jpg', suffix: '-small'} },
-      { quality: 50, width: 200, rename:
-          { extname: '.jpg'} }]},
+      { quality: 50, width: 1000, rename:
+          { extname: '.jpg',
+          //prefix: new Date().toISOString().split('T')[0] + '-'
+          }
+      }]},
   {
     withMetadata: false,
-    embed: true,
-    background: "#fff",
+    background: "#ECF0F1",
     errorOnEnlargement: false,
     errorOnUnusedConfig: false,
   }))
@@ -69,10 +69,8 @@ gulp.task('img:misc', function() {
 gulp.task('img:thumbnails', function() {
   return gulp.src(img.thumbnail.src)
   .pipe(plugins.responsive({'*': [
-      { quality: 50, width: 400, height: 400, rename:
-          { extname: '.jpg', suffix: '-small'} },
-      { quality: 50, width: 200, height: 200, rename:
-          { extname: '.jpg'} }]},
+      { quality: 40, width: 200, height: 200, rename:
+          { extname: '.jpg' } }]},
   {
     withMetadata: false,
     crop: true,
@@ -154,7 +152,7 @@ gulp.task('img:covers', function() {
     // Strip all metadata
     withMetadata: false,
     crop: true,
-    background: "#000",
+    background: "#0a0a0a",
     // Do not emit the error when image is enlarged.
     errorOnEnlargement: false,
     errorOnUnusedConfig: false,

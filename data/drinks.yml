@@ -5,6 +5,7 @@ corsendonk_blonde:
     country: Belgique
     degree: 6,5
     image: corsendonk-blonde.jpg
+    description: Bière blonde de type Abbey Tripel de la brasserie Corsendonk.
 
 corsendonk_brune:
     name: Corsendonk Brune
@@ -13,6 +14,7 @@ corsendonk_brune:
     country: Belgique
     degree: 6,5
     image: corsendonk-brune.jpg
+    description: Bière aux arômes fruités, de levure qui lui procure un goût malté et sucré.
 
 delirium_nocturnum:
     name: Délirium Nocturnum
@@ -21,6 +23,7 @@ delirium_nocturnum:
     country: Belgique
     degree: 8,5
     image: delirium-nocturnum.jpg
+    description: Bière belge forte, petite soeur brune de la fameuse Delirium tremens
 
 martini_rouge:
     name: Martini Rouge
@@ -29,6 +32,7 @@ martini_rouge:
     country: Italie
     degree: 15
     image: martini-rouge.jpg
+    description: Goût sucré et légèrement amer, assemblage de vin et d'herbes.
 
 grimbergen_poire:
     name: Grimbergen Poire
@@ -37,6 +41,7 @@ grimbergen_poire:
     country: Belgique
     degree: 6
     image: grimbergen-poire.jpg
+    description: Associe le caractère des Grimbergen à la douceur des fruits du verger
 
 whisky_lascaw:
     name: Lascaw
@@ -45,14 +50,16 @@ whisky_lascaw:
     country: Périgord
     degree: 40
     image: whisky-lascaw.jpg
+    description: Affiné en fûts de chêne ayant contenu la spécialité du Périgord aux truffes
 
 whisky_cardhu:
     name: Cardhu
     type: Whisky
     subtype: Single malt Scotch
-    country: Périgord
+    country: Speyside (Écosse)
     degree: 40
     image: whiskey-cardhu.jpg
+    description: Moelleux et sucré, il s'associe bien avec du jambon de Parme.
 
 virgin_bloodymary:
     name: Virgin Bloody Mary
@@ -61,3 +68,4 @@ virgin_bloodymary:
     country: France
     degree: 0
     image: virgin-bloodymary.jpg
+    description: Une version sans alcool du célèbre cocktail Bloody Mary

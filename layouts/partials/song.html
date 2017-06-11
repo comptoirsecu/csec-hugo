@@ -1,34 +1,33 @@
 <!-- User card example #1 -->
-<div class="card-user-container">
+<div class="card" style="height: 100%;">
   <!--card's image-->
-  <div class="card-user-avatar">
-    <img src="/images/thumbnails/{{ if .value.image }}{{ .value.image }}{{ else }}song-default.jpg{{ end }}" alt="" class="user-image">
+  <div class="card-section" align="center">
+    <img src="/images/thumbnails/{{ if .value.image }}{{ .value.image }}{{ else }}song-default.jpg{{ end }}" alt="" class="round-avatar">
   </div>
 
   <!--user info name, bio and location-->
-  <div class="card-user-bio">
+  <div class="card-section card-bio">
     <h4><a name="{{ .key }}">{{ .value.song }}</a></h4>
-    <p class="label">{{ .value.artist }}</p>
+    <h5 class="subheadline">{{ .value.artist }}</h5>
+  </div>
+  <div class="card-section card-desc">
     {{ with .value.description }}
     <p>{{ . }}</p>
     {{ end }}
   </div>
 
   <!--card's socail icons-->
-  <div class="card-user-social">
-    <ul class="menu">
+  <div class="card-divider card-social">
+    <ul class="menu align-center">
       {{ with .value.uri }}
       <a href="{{ . }}"><li class="fa fa-music"></li> écouter</a>
       {{ end }}
-      {{ with .value.country }}
-      <br />
-      <li class="fa fa-globe"></li>{{ . }}
-      {{ end }}
+
     </ul>
   </div>
 
   <!--card's follow button-->
-  <div class="card-user-button">
+  <div class="card-section card-stats">
     <div class="stat"><a href="/songs/{{.key}}">{{ (index .site.Taxonomies.songs .key).Count }}</a></div>
     <p>Interludes</p>
   </div>

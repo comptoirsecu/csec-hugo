@@ -19,13 +19,17 @@ $card-user-container-radius: $global-radius;
 $card-user-container-background: $white;
 $card-user-container-color: $black;
 $card-user-header-color: $violet;
-$card-user-container-image-size: rem-calc(190);
+$card-user-subheader-color: $dark-gray;
+$card-user-container-image-size: rem-calc(230);
 
 $article-header-color: $black;
 
-article main h2, article main h3, article main h4, article main h5, article main h6
+article main
 {
-  color: $article-header-color;
+  h1, h2, h3, h4, h5, h6
+  {
+    color: $article-header-color;
+  }
 }
 
 .hero-section {
@@ -95,80 +99,54 @@ article main h2, article main h3, article main h4, article main h5, article main
   .label a { color: $white; }
 }
 
-/**
-  Cards utilisés dans les registres
-**/
+.round-avatar {
+  display: block;
+  margin: auto;
+  border-radius: 50%;
+  width: $card-user-container-image-size;
+  height: $card-user-container-image-size;
+  padding: rem-calc(15);
 
-.card-user-container {
-  margin-bottom: $card-user-container-margin-bottom;
-  background-color: $card-user-container-background;
-  color: $card-user-container-color;
-  overflow: hidden;
-  padding: 0;
-  border-radius: $card-user-container-radius;
+}
 
-  .card-user-avatar {
-    .user-image {
-      display: block;
-      margin: auto;
-      border-radius: 50%;
-      width: $card-user-container-image-size;
-      height: $card-user-container-image-size;
-      padding: rem-calc(15);
+.card-bio {
+  padding: 1rem;
+  flex: 0 1 auto;
+  text-align: center;
+  h4, h4 a {
+    color: $card-user-header-color;
+  }
+  h5, h5 a {
+    color: $card-user-subheader-color;
+  }
+  a {
+    color: $black;
+  }
+}
 
+.card-desc {
+  flex-grow: 10000;
+  text-align: center;
+}
+.card-stats {
+  text-align: center;
+  max-height: 6rem;
+}
+
+.card-social {
+  padding: 1rem;
+  text-align: center;
+  color: $white;
+  ul {
+    display: inline-block;
+    li {
+      margin: 0 10px;
+      font-size: 1.2em;
+      cursor: pointer;
       &:hover {
         transform: scale(1.1);
       }
     }
-  }
-
-  .card-user-bio {
-    padding: 1rem;
-    text-align: center;
-    h4, h4 a {
-      color: $card-user-header-color;
-    }
-    a {
-      color: $black;
-    }
-
-    .location {
-      display: inline-block;
-      margin: 0 rem-calc(15);
-      color: $secondary-color;
-      font-size: rem-calc(14);
-    }
-
-    .location-icon,
-    .location-text {
-      display: inline-block;
-      padding: 0 rem-calc(5);
-    }
-  }
-
-  .card-user-social {
-    background: $black;
-    color: $white;
-    padding: 1rem;
-    text-align: center;
-    ul {
-      display: inline-block;
-
-      li {
-        margin: 0 10px;
-        font-size: 1.2em;
-        cursor: pointer;
-        color: $white;
-        &:hover {
-          transform: scale(1.1);
-        }
-      }
-    }
-  }
-
-  .card-user-button {
-    text-align: center;
-    padding: 1rem;
   }
 }
 
@@ -198,7 +176,8 @@ article main h2, article main h3, article main h4, article main h5, article main
   }
   h6 {
     text-shadow: 2px 2px #070707;
-    font-size: 125%;
+    font-size: 120%;
+    text-transform: uppercase;
   }
 }
 
@@ -220,4 +199,8 @@ article main h2, article main h3, article main h4, article main h5, article main
    margin-left: auto;
    margin-right: auto;
    max-width: initial;
+}
+
+.top-bar-title {
+  padding: 0.5rem;
 }

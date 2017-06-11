@@ -1,18 +1,20 @@
 <!-- User card example #1 -->
-<div class="card-user-container">
+<div class="card" style="height:100%;">
   <!--card's image-->
-  <div class="card-user-avatar">
-    <img src="/images/thumbnails/{{ if .value.image }}{{ .value.image }}{{ else }}drink-default.jpg{{ end }}" alt="" class="user-image">
+  <div class="card-section">
+    <img src="/images/thumbnails/{{ if .value.image }}{{ .value.image }}{{ else }}drink-default.jpg{{ end }}" alt="" class="round-avatar">
   </div>
 
   <!--user info name, bio and location-->
-  <div class="card-user-bio">
+  <div class="card-section card-bio">
     <h4><a name="{{ .key }}">{{ .value.name }}</a></h4>
-    <p>{{ .value.siterole }}</p>
+  </div>
+  <div class="card-section card-desc">
+    {{ with .value.description }}<p>{{ . }}</p>{{ end }}
   </div>
 
   <!--card's socail icons-->
-  <div class="card-user-social">
+  <div class="card-divider card-social">
     <ul class="menu">
       {{ with .value.type }}{{ . }}{{ end }}
       {{ with .value.subtype}}({{ . }}){{ end}}
@@ -34,7 +36,7 @@
   </div>
 
   <!--card's follow button-->
-  <div class="card-user-button">
+  <div class="card-section card-stats">
     <div class="stat"><a href="/drinks/{{.key}}">{{ (index .site.Taxonomies.drinks .key).Count }}</a></div>
     <p>Dégustations</p>
   </div>
