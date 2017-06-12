@@ -48,9 +48,6 @@ Chaque mois, en alternance avec le What's Next, nous allons interviewer un étud
 
 {{< podigee >}}
 
-{{< chaptermarks >}}
-
-{{< chaptermarks title="Introduction text" >}} 
 
 ### Liens et références
 
