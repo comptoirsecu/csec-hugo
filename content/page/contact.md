@@ -2,4 +2,4 @@
 title: "Nous contacter"
 ---
 
-Pour nous contacter : contact[at]comptoirsecu.fr
+Pour nous contacter : [contact@comptoirsecu.fr](mailto:contact@comptoirsecu.fr)
