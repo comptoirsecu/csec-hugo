@@ -25,6 +25,12 @@ drinks:
   - whisky_cardhu
   - virgin_bloodymary
 
+chaptermarks:
+  "La rubrique news": 00:01:58
+  "Interlude musicale": 00:20:27
+  "Débat: Peut-on avoir encore confiance dans la cryptographie": 00:23:56
+  "Une interview d’un étudiant": 00:55:51
+
 guests:
 ---
 

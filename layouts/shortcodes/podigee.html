@@ -64,8 +64,8 @@
           },
           "extensions": {
             "ChapterMarks": {
-              "showOnStart": false,
-              "disabled": true
+              "showOnStart": true,
+              "disabled": false
             },
             "EpisodeInfo": {
               "showOnStart": false
@@ -89,7 +89,14 @@
             "coverUrl": "{{ $.Site.BaseURL }}{{ $.Scratch.Get "cover" }}",
             "title": "{{ $.Scratch.Get "title" }}",
             "subtitle": "{{ $.Scratch.Get "subtitle" }}",
-            "description": "{{ $.Scratch.Get "description" }}"
+            "description": "{{ $.Scratch.Get "description" }}",
+        {{ with $.Page.Params.chaptermarks }}
+            "chaptermarks": [
+              {{ range $chapter, $start :=  . }}
+              { "start": "{{ $start }}", "title": "{{ $chapter }}"},
+              {{ end }}
+            ],
+        {{ end }}
           }
         }
 </script>
