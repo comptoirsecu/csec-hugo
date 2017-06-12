@@ -1,4 +1,4 @@
-<article class="card" style="height: 100%;">
+<article class="card {{ .Section }}-section" style="height: 100%;">
     <a href="{{ .Permalink }}">
       {{ $img := or .Params.image "/images/covers/default.jpg" }}
       {{ $imgprefix := substr $img 0 -4 }}

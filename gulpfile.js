@@ -275,5 +275,5 @@ gulp.task('default', ['sass:dev', 'javascript:dev'], function() {
 });
 
 gulp.task('build', function(callback) {
-  runSequence('clean', ['sass:prod', 'javascript:prod'], 'hugo', 'css:prod', 'html:prod', callback);
+  runSequence('clean', ['sass:prod', 'javascript:prod'], 'hugo', 'css:prod', callback);
 });
