@@ -8,7 +8,7 @@ var javascript_dest = "static/js";
 var img = {
   cover: {   src: "src/images/covers/*.{png,jpg,jpeg,gif}",
             dst: "static/images/covers/" },
-  misc: {   src: "src/images/misc/*.{png,jpg,jpeg,gif}",
+  misc: {   src: "src/images/misc/*.{png,jpg,jpeg}",
             dst: "static/images/misc/" },
   thumbnail: {   src: "src/images/thumbnails/*.{png,jpg,jpeg,gif}",
             dst: "static/images/thumbnails/" },
@@ -49,17 +49,44 @@ gulp.task('sass:prod', function() {
     .pipe(gulp.dest(css_dest));
 });
 
-gulp.task('img:misc', function() {
-  return gulp.src(img.misc.src)
-  .pipe(plugins.responsive({'*': [
+gulp.task('img', function(callback) {
+  runSequence(['img:covers', 'img:thumbnails', 'img:misc'], ['img:covers:clean', 'img:thumbnails:clean', 'img:misc:clean'], callback);
+})
+
+gulp.task('img:covers:clean', function() {
+  return gulp.src("src/images/covers/*.{jpg,jpeg,gif,png,webp}")
+        .pipe(plugins.clean())
+        .pipe(gulp.dest("src/images/covers/archive/"))
+})
+
+gulp.task('img:misc:clean', function() {
+  return gulp.src("src/images/misc/*.{jpg,jpeg,gif,png,webp}")
+        .pipe(plugins.clean())
+        .pipe(gulp.dest("src/images/misc/archive/"))
+})
+
+gulp.task('img:thumbnails:clean', function() {
+  return gulp.src("src/images/thumbnails/*.{jpg,jpeg,gif,png,webp}")
+        .pipe(plugins.clean())
+        .pipe(gulp.dest("src/images/thumbnails/archive/"))
+})
+
+gulp.task('img:misc:gif', function () {
+  return gulp.src("src/images/misc/*.gif").pipe(gulp.dest(img.misc.dst));
+})
+
+gulp.task('img:misc', ['img:misc:gif'], function() {
+  return  gulp.src(img.misc.src)
+  .pipe(plugins.responsive({'*.{jpg,jpeg,png}':
       { quality: 50, width: 1000, rename:
           { extname: '.jpg',
           //prefix: new Date().toISOString().split('T')[0] + '-'
           }
-      }]},
+      }},
   {
     withMetadata: false,
     background: "#ECF0F1",
+    flatten: true,
     errorOnEnlargement: false,
     errorOnUnusedConfig: false,
   }))
@@ -76,7 +103,8 @@ gulp.task('img:thumbnails', function() {
   {
     withMetadata: false,
     crop: true,
-    background: "#fff",
+    flatten: true,
+    background: "#ECF0F1",
     errorOnEnlargement: false,
     errorOnUnusedConfig: false,
   }))
@@ -154,6 +182,7 @@ gulp.task('img:covers', function() {
     // Strip all metadata
     withMetadata: false,
     crop: true,
+    flatten: true,
     background: "#0a0a0a",
     // Do not emit the error when image is enlarged.
     errorOnEnlargement: false,
@@ -246,5 +275,5 @@ gulp.task('default', ['sass:dev', 'javascript:dev'], function() {
 });
 
 gulp.task('build', function(callback) {
-  runSequence('clean', ['sass:prod', 'javascript:prod'], 'hugo', 'css:prod', callback);
+  runSequence('clean', ['sass:prod', 'javascript:prod'], 'hugo', 'css:prod', 'html:prod', callback);
 });

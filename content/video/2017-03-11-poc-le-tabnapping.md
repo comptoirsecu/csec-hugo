@@ -7,7 +7,7 @@ image: /images/covers/2017-03-poc-tabnapping.jpg
 subheadline: "Attention, un onglet peut en cacher un autre!"
 tags:
 - TODO
-title: "POC #01 - Le Tabnapping"
+title: "[PoC] Le Tabnapping"
 video: https://www.youtube.com/embed/L4orJ_Rk1sY
 ---
 

@@ -12,8 +12,10 @@
   <section class=" small-12 medium-10 large-10 column">
     <article class="card">
       <header class="card-divider">
-        <h2>{{ .Title }}<h2>
-        <h3 class="subheader">{{ .Params.subheadline }}<h3>
+        <h2>{{ .Title }}</h2>
+        {{ with .Params.subheadline }}
+          <h5 class="subheader">{{ . }}</h5>
+        {{ end }}
       </header>
       {{ if or (eq .Section "video") (eq .Section "sechebdo") }}
         <div class="responsive-embed widescreen">
@@ -30,23 +32,25 @@
 
     </article>
   </section>
+
   <div class="show-for-medium medium-1 align-justify column">
     {{if .NextInSection }}
       <a href="{{.NextInSection.Permalink}}" class="button expanded hollow"><i class="fa fa-chevron-right"></i></a>
     {{end}}
   </div>
 </div>
-<div class="row align-justify">
-  <div class="hide-for-medium small-6 column">
-    {{if .PrevInSection}}
-      <center><a href="{{.PrevInSection.Permalink}}" class="button expanded hollow"><i class="fa fa-arrow-left"></i></a></center>
-    {{end}}
+  <div class="row align-center">
+    <div class="small-6 medium-5 column">
+      {{if .PrevInSection}}
+        <center><a href="{{.PrevInSection.Permalink}}" class="button expanded hollow"><i class="fa fa-arrow-left"></i></a></center>
+      {{end}}
+    </div>
+    <div class="small-6 medium-5 column">
+      {{if .NextInSection}}
+        <center><a href="{{.NextInSection.Permalink}}" class="button expanded hollow"><i class="fa fa-arrow-right"></i></a></center>
+      {{end}}
+    </div>
   </div>
-  <div class="hide-for-medium small-6 column">
-    {{if .NextInSection}}
-      <center><a href="{{.NextInSection.Permalink}}" class="button expanded hollow"><i class="fa fa-arrow-right"></i></a></center>
-    {{end}}
-  </div>
-</div>
+
 
 {{ partialCached "footer.html" . }}

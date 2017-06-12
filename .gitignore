@@ -3,5 +3,11 @@ public/
 node_modules/
 static/css/app.css
 static/js/app.js
-src/images/
+src/images/covers/*.{png,jpg,jpeg,gif,webp}
+src/images/covers/archive/
+src/images/misc/*.{png,jpg,jpeg,gif,webp}
+src/images/misc/archive/
+src/images/thumbnails/*.{png,jpg,jpeg,gif,webp}
+src/images/thumbnails/archive
+src/images/trash
 *~

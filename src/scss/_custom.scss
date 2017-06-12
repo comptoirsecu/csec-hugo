@@ -29,6 +29,17 @@ article main
   h1, h2, h3, h4, h5, h6
   {
     color: $article-header-color;
+    text-align: left;
+  }
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  ul {
+    text-align: left;
   }
 }
 

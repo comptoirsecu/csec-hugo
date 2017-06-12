@@ -1,6 +1,6 @@
 ---
 
-title: "[SEClair #02] L'effacement sécurisé"
+title: "[SEClair] L'effacement sécurisé"
 subheadline: "Parce qu'il y en a marre de voir conseiller des effacements à 7 passes"
 publisher: morgan
 date: 2017-02-13T00:00:00+00:00

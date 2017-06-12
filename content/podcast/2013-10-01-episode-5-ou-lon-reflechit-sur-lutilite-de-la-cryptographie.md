@@ -1,5 +1,5 @@
 ---
-title: "[Épisode 5] Où l'on réfléchit sur l'utilité de la cryptographie"
+title: "[Épisode 5] Utilité de la cryptographie"
 publisher: lois
 
 date: 2013-10-01T00:00:00+00:00
@@ -46,18 +46,21 @@ Chaque mois, en alternance avec le What's Next, nous allons interviewer un étud
 
 ## News
 **Morgan**
+
 - [Snowden’s Contingency: ‘Dead Man’s Switch’ Borrows From Cold War, WikiLeaks](http://www.wired.com/threatlevel/2013/07/snowden-dead-mans-switch/all/1)
 - Les PRNG
-[Researchers can slip an undetectable trojan into Intel’s Ivy Bridge CPUs](http://arstechnica.com/security/2013/09/researchers-can-slip-an-undetectable-trojan-into-intels-ivy-bridge-cpus/)
-[Fatal crypto flaw in some government-certified smartcards makes forgery a snap](https://arstechnica.com/security/2013/09/fatal-crypto-flaw-in-some-government-certified-smartcards-makes-forgery-a-snap/)
+  - [Researchers can slip an undetectable trojan into Intel’s Ivy Bridge CPUs](http://arstechnica.com/security/2013/09/researchers-can-slip-an-undetectable-trojan-into-intels-ivy-bridge-cpus/)
+  - [Fatal crypto flaw in some government-certified smartcards makes forgery a snap](https://arstechnica.com/security/2013/09/fatal-crypto-flaw-in-some-government-certified-smartcards-makes-forgery-a-snap/)
 - [The Creepy, Long-Standing Practice of Undersea Cable Tapping](http://www.theatlantic.com/international/print/2013/07/the-creepy-long-standing-practice-of-undersea-cable-tapping/277855/)
 - [L’explosion de l’usage de Tor provient en réalité... d’un botnet](http://www.01net.com/editorial/602500/l-explosion-de-l-usage-de-tor-provient-en-realite-d-un-botnet/)
 
 **Loïs**
+
 - [Report: British spy group tracks European Web, phone communications](http://www.washingtontimes.com/news/2013/aug/28/british-spy-group-european-web-phone-communication/)
 - [Un cheval de Troie dans des kits GTA 5 : joueurs, attention aux mirages !](http://www.bitdefender.fr/blog/Un-cheval-de-Troie-dans-des-kits-GTA-5-:-joueurs-attention-aux-mirages--1370.html)
 
 **Justin**
+
 - [Sysadmin security fail: NSA finds Snowden hijacked officials’ logins](https://arstechnica.com/information-technology/2013/08/sysadmin-security-fail-nsa-finds-snowden-hijacked-officials-logins/)
 - [#VUPEN ou les limites de l’attaque dans le cybermonde](https://reflets.info/vupen-ou-les-limites-de-lattaque-dans-le-cybermonde/)
 

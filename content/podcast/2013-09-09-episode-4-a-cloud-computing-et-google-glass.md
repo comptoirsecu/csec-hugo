@@ -65,7 +65,8 @@ N’hésitez pas à nous laisser votre avis à propos de la nouvelle rubrique su
 - [Cloud et protection des données : guide pratique à l’attention des directions opérationnelles et générales](http://www.cigref.fr/cloud-protection-donnees-guide-pratique-direction-operationnelle-generale)
 - [Confidential Submission To The Antivirus Cloud](http://www.darkreading.com/attacks-breaches/confidential-submission-to-the-antivirus/240160529/)
 
-##What’s Next
+## What’s Next
+
 - [Google Glasses, nouveau casse-tête pour la sécurité](http://www.lexsi-leblog.fr/conseil/google-glasses-nouveau-casse-tete-pour-la-securite.html)
 - [Les lunettes Google Glass s’invitent dans les blocs opératoires](http://www.numerama.com/magazine/26877-les-lunettes-google-glass-s-invitent-dans-les-blocs-operatoires.html)
 - [Les Google Glass pourront voir si vous regardez la publicité](http://www.numerama.com/magazine/26765-les-google-glass-pourront-voir-si-vous-regardez-la-publicite.html)

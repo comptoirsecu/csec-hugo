@@ -88,7 +88,7 @@ A bientôt pour le quatrième épisode début septembre !
 
 ## Débat
 - [PRISM : la théorie du gros zizi](http://reflets.info/prism-la-theorie-du-gros-zizi/)
-- [Que sait-on exactement sur PRISM ?](http://magazine.qualys.fr/cyber-pouvoirs/prism/?utm_source=feedly&utm_medium=feed&utm_campaign=Feed%3A+securityvibes-france-news+(SecurityVibes+France+-+News)
+- [Que sait-on exactement sur PRISM](http://magazine.qualys.fr/cyber-pouvoirs/prism/)
 - [NSA collecting phone records of millions of Verizon customers daily](http://www.theguardian.com/world/2013/jun/06/nsa-phone-records-verizon-court-order?utm_source=hackernewsletter&utm_medium=email)
 - [President Obama’s Dragnet](http://www.nytimes.com/2013/06/07/opinion/president-obamas-dragnet.html?pagewanted=all&utm_source=hackernewsletter&utm_medium=email&_r=2&)
 - [PRISM / NSA : un scandale aussi dans les raisons du secret ?](http://www.numerama.com/magazine/26194-prism-nsa-un-scandale-aussi-dans-les-raisons-du-secret.html)

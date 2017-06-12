@@ -1,5 +1,5 @@
 ---
-title: "[Episode HS] Nuit du Hack 2k14 et Pas Sage En Seine 2014"
+title: "Nuit du Hack 2k14 et Pas Sage En Seine 2014"
 date: 2014-07-10T00:46:41+00:00
 publisher: justin
 aliases: /2014/07/episode-hs-1-nuit-du-hack-2k14-et-pas-sage-en-seine-2014/

@@ -1,5 +1,3 @@
-
-
 {{ if .Get "title" }}
   {{ $.Scratch.Set "title" (.Get "title") }}
 {{ else if $.Page.Params.Podcast.Title }}
@@ -94,7 +92,6 @@
             "description": "{{ $.Scratch.Get "description" }}"
           }
         }
-
 </script>
 
 <script class="podigee-podcast-player" src="https://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="podigee"></script>

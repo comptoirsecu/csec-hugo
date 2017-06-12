@@ -20,15 +20,15 @@
       </picture>
     </a>
   <header class="card-divider">
-    <h5><a href="{{ .Permalink }}">{{ .Title }}</a><h5>
+    <h5><a href="{{ .Permalink }}">{{ .Title }}</a></h5>
     {{ if ne .Section "sechebdo" }}
-    <h6 class="subheader">{{ .Params.subheadline }}<h6>
+    <h6 class="subheader">{{ .Params.subheadline }}</h6>
     {{ end }}
   </header>
 
   <main class="card-section">
     {{ if ne .Section "sechebdo" }}
-      <p>{{ .Summary | truncate 150 }}</p>
+      <p>{{ .Summary | truncate 150 | htmlUnescape | plainify }}</p>
     {{ else }}
       <p>{{ .Params.Subheadline }}</p>
     {{ end }}
