@@ -26,10 +26,10 @@ drinks:
   - virgin_bloodymary
 
 chaptermarks:
-  "La rubrique news": 00:01:58
-  "Interlude musicale": 00:20:27
-  "Débat: Peut-on avoir encore confiance dans la cryptographie": 00:23:56
-  "Une interview d’un étudiant": 00:55:51
+  "00:01:58": La rubrique news
+  "00:20:27": Interlude musicale
+  "00:23:56": "Débat: Peut-on avoir encore confiance dans la cryptographie"
+  "00:56:03": Une interview d’un étudiant
 
 guests:
 ---
@@ -47,6 +47,10 @@ Pour le premier épisode du mois, vous pourrez retrouver:
 Chaque mois, en alternance avec le What's Next, nous allons interviewer un étudiant ou un jeune diplômé pour connaitre son rapport à la sécurité informatique. Cette semaine, vous retrouverez Romain Guichard.
 
 {{< podigee >}}
+
+{{< chaptermarks >}}
+
+{{< chaptermarks title="Introduction text" >}} 
 
 ### Liens et références
 

@@ -64,6 +64,7 @@
           },
           "extensions": {
             "ChapterMarks": {
+
               "showOnStart": true,
               "disabled": false
             },
@@ -92,7 +93,7 @@
             "description": "{{ $.Scratch.Get "description" }}",
         {{ with $.Page.Params.chaptermarks }}
             "chaptermarks": [
-              {{ range $chapter, $start :=  . }}
+              {{ range $start, $chapter :=  . }}
               { "start": "{{ $start }}", "title": "{{ $chapter }}"},
               {{ end }}
             ],
