@@ -24,26 +24,27 @@ tags:
   - NSA
   - sécurité
   - surveillance
+
+chaptermarks:
+  "00:01:40": "Revue d'actualité"
+  "00:33:43": "Dossier sur les caméras de surveillance"
+  "01:04:05": "Une  pause musicale avec [Home Alone- 5oh!"
+  "01:06:51": "What's Next: Le Li-Fi"
 ---
 Avec un peu de retard dans la programmation nous vous livrons pour Noël un nouvel épisode tout propre !
 
-Au programme:
-
-  * Les news (1:40)
-  * Dossier sur les caméras de surveillance (33:43)
-  * Une  pause musicale avec [Home Alone- 5oh!](https://soundcloud.com/5ohmusic/home-alone-christmas-dubstep-remix-free-download) (1:04:05)<a title="Bitcrusher - 64.865457,-19.556783" href="http://www.dataglitch.org/releases/0013/mp3/01%20-%20Bitcrusher%20-%2064.865457,-19.556783.mp3" ><br /> </a>
-  * Le What's Next sur le Li-Fi(1:06:51)
+{{< chaptermarks >}}
 
 Bonne écoute à toutes et tous et Joyeux Noël !
 
 {{< podigee >}}
 
 
-### Liens et références:
+# Liens et références:
 
-#### //News
+## News
 
-**Morgan:**
+### Morgan
 
 - Google uproxy
   - <https://uproxy.org/>
@@ -52,14 +53,14 @@ Bonne écoute à toutes et tous et Joyeux Noël !
   - <https://onlycoin.com/>
   - <http://gizmodo.com/this-single-card-wants-to-replace-your-entire-wallet-fu-1463853897>
 
-**Justin:**
+### Justin
 
 - Comment utiliser linkedin pour des attaques ciblées
   - <http://securityaffairs.co/wordpress/19446/cyber-crime/linkedin-targeted-attacks.html>
 - LinkedIn sur IOS
   - <http://securityaffairs.co/wordpress/19100/hacking/linkedin-intro-intercept-emails.html>
 
-**Loïs:**
+### Loïs
 
 - BadBIOS, l'Ebola du Malware
   - <http://arstechnica.com/security/2013/10/meet-badbios-the-mysterious-mac-and-pc-malware-that-jumps-airgaps/>
@@ -69,7 +70,7 @@ Bonne écoute à toutes et tous et Joyeux Noël !
 - Emploi et jeune dans le cyber
   - <http://www.developpez.net/forums/d1388314/emploi-etudes-informatique/emploi/jeunes-se-desinteressent-l-industrie-cybersecurite/#post7540826>
 
-#### //Dossier
+## Dossier
 
 - <http://gizmodo.com/chinas-finally-fixing-its-pollution-problem-so-it-can-1458747836>
 - <https://fr.wikipedia.org/wiki/Vid%C3%A9osurveillance>
@@ -77,14 +78,14 @@ Bonne écoute à toutes et tous et Joyeux Noël !
 - <http://www.siliconmaniacs.org/%C2%AB-hacking-citoyen-%C2%BB-un-kit-citoyen-anti-surveillance/>
 - <http://www.01net.com/editorial/593243/les-cameras-de-surveillance-sont-des-passoires-en-securite-informatique/>
 
-#### //What's Next
+## What's Next
 
 - <http://www.bbc.co.uk/news/technology-24711935>
 - <http://gizmodo.com/scientists-smash-the-li-fi-data-record-achieving-speed-1453923218>
 - <http://www.gizmodo.fr/2013/10/31/li-fi-atteint-10-gbits-seconde.html>
 
 
-#### //Musique
+## Musiques
 
 - Pause musicale: <https://soundcloud.com/5ohmusic/home-alone-christmas-dubstep-remix-free-download>
 - Ending: <http://www.youtube.com/watch?v=3Ng-O80Dr6Q>

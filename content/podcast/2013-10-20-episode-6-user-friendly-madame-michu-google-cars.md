@@ -23,25 +23,26 @@ tags:
   - RSA
   - Theopad
   - User
+
+chaptermarks:
+  "00:01:14": Des news
+  "00:15:06": Une pause musicale avec DJ-PIE - Desert Twerk
+  "00:18:23": "Débat: La sécurité peut-elle être user-friendly?"
+  "00:39:28": "What's Next: Les Google Cars"
 ---
 C'est parti pour le deuxième épisode du mois d'Octobre !
 
-Au programme:
-
-  * Des news (1:14)
-  * Une pause musicale avec [DJ-PIE – Desert Twerk](http://dj-pie.bandcamp.com/album/south-razzle) (15:06)
-  * Un débat sur : "La sécurité peut-elle être user-friendly" (18:23)
-  * Un nouveau What's Next sur les Google Cars (39:28)
+{{< chaptermarks >}}
 
 
 {{< podigee >}}
 
 
 
-### Liens et références:
+# Liens et références:
 
-
-**Morgan:**
+## News
+### Morgan
 
 - [http://techcrunch.com/2013/09/20/fingerprint-unlock-while-sleeping/](http://techcrunch.com/2013/09/20/fingerprint-unlock-while-sleeping/)
 - [http://gizmodo.com/the-nypd-really-really-wants-you-to-upgrade-to-ios-7-1363960613](http://gizmodo.com/the-nypd-really-really-wants-you-to-upgrade-to-ios-7-1363960613)
@@ -49,7 +50,7 @@ Au programme:
 - [http://magazine.qualys.fr/cyber-pouvoirs/smartphones-ministres-francais/](http://magazine.qualys.fr/cyber-pouvoirs/smartphones-ministres-francais/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+securityvibes-france-news+%28SecurityVibes+France+-+News%29)
 - [http://www.thalesgroup.fr/Teopad_fr/](http://www.thalesgroup.fr/Teopad_fr/)
 
-**Loïs:**
+### Loïs
 
 - La Belgique fait appel au Cyber Command americain
 
@@ -60,20 +61,20 @@ Au programme:
 
   - [http://www.pcinpact.com/news/82498-nsa-rsa-security-recommande-prudence-avec-ses-propres-produits.htm?utm_source=PCi_RSS_Feed&utm_medium=news&utm_campaign=pcinpact](http://www.pcinpact.com/news/82498-nsa-rsa-security-recommande-prudence-avec-ses-propres-produits.htm?utm_source=PCi_RSS_Feed&utm_medium=news&utm_campaign=pcinpact)
 
-**Justin:**
+### Justin
 
 - <https://www.schneier.com/blog/archives/2013/09/iphone_fingerpr.html>
 - <http://www.lesechos.fr/entreprises-secteurs/tech-medias/actu/0203001017350-donnees-privees-que-fait-apple-de-nos-empreintes-digitales-604478.php>
 - <http://www.20minutes.fr/high-tech/apple/1222323-20130912-le-risque-coupe-doigt-debloquer-iphone-faible>
 - <http://securityaffairs.co/wordpress/17440/cyber-crime/cybercrime-abuses-facebook-paid-advertisements.html>
 
-#### //Débat
+## Débat
 
 - [http://blogs.computerworld.com/android/22806/google-knows-nearly-every-wi-fi-password-world](http://blogs.computerworld.com/android/22806/google-knows-nearly-every-wi-fi-password-world)
 - [http://reflets.info/cplussur-acte-2-100-securise-seriously/](http://reflets.info/cplussur-acte-2-100-securise-seriously/)
 - [http://ro.ecu.edu.au/cgi/viewcontent.cgi?article=7286&context=ecuworks](http://ro.ecu.edu.au/cgi/viewcontent.cgi?article=7286&context=ecuworks)
 
-#### //What’s Next
+## What’s Next
 
 - [http://www.thecarconnection.com/news/1086886_forget-fingerprint-scanning-new-anti-theft-system-identifies-drivers-brain-waves](http://www.thecarconnection.com/news/1086886_forget-fingerprint-scanning-new-anti-theft-system-identifies-drivers-brain-waves)
 - <http://www.forbes.com/sites/andygreenberg/2013/07/24/hackers-reveal-nasty-new-car-attacks-with-me-behind-the-wheel-video/>
@@ -81,6 +82,6 @@ Au programme:
 - [http://techcrunch.com/2013/08/25/uberauto/](http://techcrunch.com/2013/08/25/uberauto/)
 - [http://magazine.qualys.fr/menaces-alertes/piratage-gps-spoofing/](http://magazine.qualys.fr/menaces-alertes/piratage-gps-spoofing/)
 
-#### //Musique
+## Musique
 
 - [ DJ-PIE – Desert Twerk](http://dj-pie.bandcamp.com/album/south-razzle)

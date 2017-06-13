@@ -18,7 +18,7 @@ Oui, j’avoue, le titre est plutôt racoleur mais il faut bien rameuter le bada
 
 Si vous écoutez nos épisodes, vous avez forcément entendu parler du Bitcoin. Je ne vais pas revenir sur le fonctionnement mais de ce qu’il s’est passé il y a une semaine.
 
-### Que pasa ?
+# Que pasa ?
 
 Un post sur [reddit](http://www.reddit.com/r/Bitcoin/comments/1yvdcd/heres_a_summary_of_what_has_happened_over_the/), résume très bien ce qu’il s’est passé Lundi dernier. Un document semblant provenir de Mt.Gox a été publié sur internet. Il décrivait la nouvelle approche du site d’un point de vue marketing et financier suite à sa perte de plus de 750K de Bitcoins et de son insolvabilité. Ce document était fournis par TwoBitIdiot, un nom connu dans la communauté et a donc eu beaucoup de crédibilité. Cinq minutes après la parution du document, le site arrêta immédiatement toutes les transactions. Peu de temps après le site ferma purement et simplement laissant les clients dans le flou le plus total.
 
@@ -37,7 +37,7 @@ Une énorme « institution du Bitcoin» a donc fermé sans crier gare et a bea
 
 Je suis cependant étonné que l’on n’ait pas encore retrouvé les Bitcoins puisqu’ils ne peuvent avoir disparu comme ça. Soit les cybercriminels ont récupéré puis effacé la clé privé des comptes ce dont je doute, soit ils ont fait des transferts afin de récupérer le pactole. Puisque les transactions sont publiques, on devrait pouvoir ainsi retracer les comptes. Si personne n’a encore dévoilé le stratagème, j’ai bon espoir que cela se réalise dans les jours qui viennent
 
-### Que faut-il faire ?
+# Que faut-il faire ?
 
 Je ne pense pas qu’il faille dire adieu aux monnaies virtuelles et au Bitcoin en particulier. Même si on peut trouver de tout en n’importe quoi ([Offerings to Cthulhu](http://altcoins.com/off-offerings-to-cthulhu.html) par exemple), le concept reste extrêmement intéressant et a un avenir certain.
 

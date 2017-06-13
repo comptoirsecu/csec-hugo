@@ -29,7 +29,7 @@ Malheureusement, quand on est débutant dans ce milieu, on est rapidement perdu;
 Je précise que ceci est un avis personnel. N'hésitez pas à commenter cet article si vous n'êtes pas d'accord avec mes propos.
 
 
-### Le SSTIC (Symposium sur la sécurité des technologies de l'information et des communications)
+# Le SSTIC
 
 - Date : 4 au 6 Juin 2014
 - Lieu: Rennes
@@ -38,7 +38,7 @@ Je précise que ceci est un avis personnel. N'hésitez pas à commenter cet arti
 - Payant
 
 
-Le SSTIC est une conférence qui se déroule à Rennes. C’est une des plus importantes en France, et les inscriptions sont rapidement closes, dû à son succès, et à son petit nombre de places (450). Ainsi, les inscriptions se déroulent maintenant en plusieurs vagues.
+Le SSTIC (Symposium sur la sécurité des technologies de l'information et des communications) est une conférence qui se déroule à Rennes. C’est une des plus importantes en France, et les inscriptions sont rapidement closes, dû à son succès, et à son petit nombre de places (450). Ainsi, les inscriptions se déroulent maintenant en plusieurs vagues.
 
 Cette conférence existe depuis 2004. Elle privilégie les contributions techniques et/ou scientifiques, mais celles ayant trait aux aspects juridiques, réglementaires ou organisationnels peuvent aussi être retenues. Mais quand on voit le programme de cette année, on peut dire que c’est 100% technique.  Exemple du [programme de 2014](https://www.sstic.org/2014/programme).
 
@@ -75,7 +75,7 @@ Le type de la conférence est souvent défini par son comité de programme. Ci-d
 Petite anecdote : dans le milieu, le SSTIC a depuis 2 ans le surnom de l’ « ANSTIC », étant une conférence très noyautée par l’ANSSI (il y a 2 ans, + de 80% des intervenants étaient de l’ANSSI). Afin de changer cela, les organisateurs du SSTIC ont diminué les interventions de l’ANSSI.
 
 
-### Pas Sage en Seine (PSES)
+# Pas Sage en Seine (PSES)
 
 - Date : 26 au 29 juin 2014
 - Lieu: Numa, Paris
@@ -96,7 +96,7 @@ Ainsi, cette année, on pouvait voir des speakers sur des sujets tel que la surv
 L’entrée est libre, ce qui est rare pour une conférence de cette qualité, et de cette diversité.
 
 
-### Hackito Ergo Sum
+# Hackito Ergo Sum
 
 - Date : 24 au 26 avril 2014
 - Lieu: La Villette, Paris
@@ -109,7 +109,7 @@ Hackito Ergo Sum est une conférence qui a débuté en 2011. Elle se situe à la
 Autre particularité de cette conférence, durant les conférences de sécurité Hackito Ergo Sum, la partie HackerSpace Fest 2014 est accessible gratuitement. Plusieurs fois organisés par le /tmp/lab (un hackerspace francilien) ou le Tetalab depuis 2008, les HackerSpace Fests réunissent différents _hackters_ de tous horizons afin de témoigner de leur actualité et partager le résultat de leurs expérimentations dans des domaines très variés (électronique, musique, informatique, biologie, politique, …). On peut y parler de biologie, de lutherie, de crypto ou encore de signaux cérébraux!
 
 
-### FIC
+# FIC
 
 - Date : Aucunes dates pour l’édition 2015
 - Lieu: Grand Palais, Lille
@@ -149,7 +149,6 @@ De plus, le FIC possède aussi une newsletter très intéressante, l’[Observat
 
 Une partie Forum est aussi présente, comprenant des tables rondes et des débats mais qui sont, soyons honnête, très peu techniques. Ce sont plutôt des mini-conférences.
 
-
 - Les Assises de la Sécurité
 - Date : du 1 au 4 Octobre 2014_
 - Lieu: Grimaldi Forum, Monaco
@@ -164,7 +163,8 @@ Les Assises de la Sécurité peuvent être résumées comme la conférence des R
 En 2006, le Prix de l’Innovation des Assises a été créé aux Assises afin d’élire un produit de sécurité innovant dans le secteur de la sécurité informatique et des systèmes d’information.  Par exemple, en 2013, c’est le logiciel DocTrackr, solution de chiffrement de documents  qui est lauréate du Prix de l’Innovation.
 
 
-### Nuit du Hack
+# Nuit du Hack
+
 - Date : 28 et 29 Juin 2014
 - Lieu: Hôtel New-York, Disneyland Paris
 - Lien : <http://www.nuitduhack.com/>
@@ -196,7 +196,7 @@ De plus, lors de la nuit du Hack, il y a des workshops, qui permettent au public
   * Fabrication d'un bras articulé
 
 
-### Hack in Paris
+# Hack in Paris
 
 - Date : 23 au 27 Juin 2014
 - Lieu: Centre de Congrès, Disneyland Paris

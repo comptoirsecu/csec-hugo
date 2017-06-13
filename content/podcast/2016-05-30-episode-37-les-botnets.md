@@ -32,7 +32,7 @@ Bonne écoute à tous !
 
 {{< podigee >}}
 
-Ressources :
+# Ressources :
 
   * [Blog d'Eric Freyssinet](https://blog.crimenumerique.fr/)
   * [La thèse d'Eric Freyssinet](https://blog.crimenumerique.fr/2015/11/21/lutte-contre-les-botnets/)
@@ -41,7 +41,7 @@ Ressources :
   * [Site du CECyF](http://www.cecyf.fr/)
   * [Association Signal-Spam](https://www.signal-spam.fr/)
 
-Les interludes musicales de l'épisode :
+## Les interludes musicales de l'épisode :
 
   * [Laurent Garnier – pǝsnɟuoɔ (original version)](http://laurentgarnier.com/homebox.html)
   * [かめりあ (Camellia) – Sinlover (Ver. 2.0.0)](http://vocadb.net/Al/469)

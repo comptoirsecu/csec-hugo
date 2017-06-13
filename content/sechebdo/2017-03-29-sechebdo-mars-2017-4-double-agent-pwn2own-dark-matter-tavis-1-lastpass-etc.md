@@ -29,6 +29,16 @@ tags:
   - ssi
   - Vault 7
   - Yahoo!
+
+chaptermarks:
+  "00:01:36": "DoubleAgent: Montagne ou Taupiniere ?"
+  "00:12:20": "Sécurité industrielle : Malware sur les PLC Siemens "
+  "00:17:16": "Tavis met son nez dans Lastpass et trouve quelque truffes"
+  "00:32:41": "CIA Vault 7 Episode 2 : Dark Matter"
+  "00:37:54": "Chantage de pirates d'effacer le contenu iCloud à distance"
+  "00:51:29": "Troll: Gilbert Collard VS la DGSI... euh Siri"
+  "00:53:16": "Découverte de la semaine: Clair"
+
 ---
 
 
@@ -40,7 +50,7 @@ Notre discord : <https://discord.comptoirsecu.fr>
 
 A bientôt pour d'autres émissions/podcasts!
 
-### Liste des news:
+# Liste des news:
 
   * DoubleAgent: Montagne ou Taupiniere ? (1:36)
       * <https://cybellum.com/doubleagentzero-day-code-injection-and-persistence-technique/>

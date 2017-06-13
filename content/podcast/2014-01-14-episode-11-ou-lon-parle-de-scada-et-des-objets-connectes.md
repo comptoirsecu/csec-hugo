@@ -26,6 +26,13 @@ tags:
   - Plus Belle la Vie
   - podcast
   - SCADA
+
+chaptermarks:
+  "00:01:39": "Revue d'actualité"
+  "00:33:19": "Dossier SCADA par notre invité"
+  "01:07:59": "Pause musicale avec  Semiologist Feat. Lysergist"
+  "01:09:55": "What's Next: Les objets connectés"
+  "01:20:33": "Outro avec  Mitch Murder – Mute City"
 ---
 Bonne année à toutes et tous !
 
@@ -33,33 +40,27 @@ Pour ce premier épisode de 2014, nous recevons un invité qui nous parlera de l
 
 Comme vous avez pu le constater, le site a été mis à jour et est maintenant en version 2 ! Dites nous ce que vous en pensez !
 
-Au programme:
-
-  * Les news (1:39)
-  * Dossier sur SCADA par notre invité (33:19)
-  * Une  pause musicale avec  Semiologist Feat. Lysergist(1:07:59)
-  * Le What's Next sur les objets connectés (1:09:55)
-  * Outro avec  Mitch Murder – Mute City(1:20:33)
+{{< chaptermarks >}}
 
 {{< podigee >}}
 
 
-### Liens et références:
+# Liens et références:
 
-#### //News
+## News
 
-**Morgan:**
+### Morgan
 
 - Botnet de caisses enregistreuses : [http://magazine.qualys.fr/menaces-alertes/botnet-caisses-enregistreuses/](http://magazine.qualys.fr/menaces-alertes/botnet-caisses-enregistreuses/)
 - Code de lancement du système nucléaire américain : [http://nakedsecurity.sophos.com/2013/12/11/for-nearly-20-years-the-launch-code-for-us-nuclear-missiles-was-00000000/](http://nakedsecurity.sophos.com/2013/12/11/for-nearly-20-years-the-launch-code-for-us-nuclear-missiles-was-00000000/)
 
-**Justin**
+### Justin
 
 - Nexus  4 DOS: <http://securityaffairs.co/wordpress/20120/hacking/google-nexus-dos.html>
 - Plus Belle La Vie: 2 ans après, Facebook condamné à rouvrir une page fermée à tort: <http://www.numerama.com/magazine/27689-2-ans-apres-facebook-condamne-a-rouvrir-une-page-fermee-a-tort.html>
 - <http://www.numerama.com/magazine/27661-prostitution-en-ligne-pas-de-filtrage-administratif-mais-une-lutte-privee.html>
 
-**Loïs**
+### Loïs
 
 - Les mails des eurodéputés ont été piratés par un hacker: <http://www.mediapart.fr/journal/international/211113/les-mails-des-eurodeputes-ont-ete-pirates-par-un-hacker>
 
@@ -71,7 +72,7 @@ Au programme:
 
 - Lien de la LPM après le passage à l'Assemblée Nationale <http://www.senat.fr/leg/tas13-046.pdf>
 
-#### //Dossier: Scada :
+## Dossier: Scada :
 
 - [http://bluetouff.com/2011/10/18/scada-securite-doe/](http://bluetouff.com/2011/10/18/scada-securite-doe/)
 
@@ -79,7 +80,7 @@ Au programme:
 
 - [http://www.ssi.gouv.fr/fr/bonnes-pratiques/recommandations-et-guides/securite-des-systemes-industriels/la-cybersecurite-des-systemes-industriels.html](http://www.ssi.gouv.fr/fr/bonnes-pratiques/recommandations-et-guides/securite-des-systemes-industriels/la-cybersecurite-des-systemes-industriels.html)
 
-#### //What's Next:
+## What's Next:
 
 - <http://www.huffingtonpost.fr/jochem-binst/internet-objet-securite-confidentialite-donnees_b_4310227.html>
 - <http://www.technewsworld.com/story/79180.html>
@@ -91,7 +92,7 @@ Au programme:
 
 Image par <http://www.flickr.com/photos/greenmambagreenmamba/5307999284/>
 
-#### //Musique:
+## Musiques:
 
 - Semiologist Feat. Lysergist – <https://soundcloud.com/semiologist/semiologist-feat-lysergist-la>
 - Mitch Murder –<https://soundcloud.com/daataa/mitch-murder-mute-city-free>

@@ -48,7 +48,7 @@ N'oubliez que vous pourrez nous retrouver:
 
 Bonne écoute !
 
-### //Liens et références
+# Liens et Références
 
 - Hola le VPN qui te backdoor
   - [http://korben.info/mettez-le-hola-a-hola.html](http://korben.info/mettez-le-hola-a-hola.html)

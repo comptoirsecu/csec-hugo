@@ -31,7 +31,7 @@ Après beaucoup de retard, voici  le 15e épisode du Comptoir Sécu !
 
 <!--more-->
 
-### Au programme
+# Au programme
 
   * Les news du moment *(1:55)*
   * Un dossier avec notre invitée Barbara Louis-Sidney où nous aborderons les aspects juridiques de la sécurité pour les entreprises **(43:15)**
@@ -50,17 +50,17 @@ Plus d'infos [ici](https://www.comptoirsecu.fr/2014/02/mais-ou-sont-passes-les-e
 
 Bonne écoute !
 
-### Liens et références :
+# Liens et références :
 
-#### //news
+## News
 
-**Justin**
+### Justin
 
 - [Google verrouille un peu plus Android](http://korben.info/google-verrouille-encore-petit-peu-plus-android.html)
 - [ Le post de Tod Liebeck](https://plus.google.com/+TodLiebeck/posts/gjnmuaDM8sn)
 - [Le Blackphone à la française](http://www.globalsecuritymag.fr/Charles-d-Aumale-ERCOM-L-arrivee,20140214,42977.html)
 
-**Morgan**
+### Morgan
 
 - [Le plus gros DDOS jamais observé](http://blog.cloudflare.com/technical-details-behind-a-400gbps-ntp-amplification-ddos-attack)
 - [La protection DDOS par OVH](https://www.ovh.com/fr/a1164.protection-anti-ddos-service-standard)
@@ -70,7 +70,7 @@ Bonne écoute !
   - [Lien 3](http://www.numerama.com/magazine/28447-google-achete-slicklogin-pour-renforcer-l-authentification.html)
   - [Lien 4](http://techcrunch.com/2014/02/16/google-acquires-slicklogin-the-sound-based-password-alternative/)
 
-**Loïs**
+### Loïs
 
 - [Pacte Cyber-défense](http://www.defense.gouv.fr/content/download/237708/2704474/file/Pacte%20D%C3%A9fense%20Cyber-1.pdf)
   - [Lien 2](http://www.silicon.fr/nsa-merkel-proposer-hollande-reseau-commun-92766.html)
@@ -80,12 +80,16 @@ Bonne écoute !
   - [Article de mediapart](http://www.mediapart.fr/journal/france/201213/piratage-google-drole-de-proces-en-appel-pour-un-journaliste)
 - [Documents ANSSI SCADA](http://www.ssi.gouv.fr/fr/menu/actualites/l-anssi-publie-des-mesures-visant-a-renforcer-la-cybersecurite-des-systemes.html)
 
-#### //Notre invitée
+## Notre invitée
 
 [Barbara Louis-Sidney](/guests/barbara_louissidney)
 
-#### //What's Next: LPM
+## What's Next: LPM
 
 - <http://bugbrother.blog.lemonde.fr/2013/12/10/tout-ce-que-vous-avez-toujours-voulu-savoir-sur-la-lpm-et-que-vous-avez-ete-nombreux-a-me-demander/>
 
 - <http://www.senat.fr/dossier-legislatif/pjl12-822.html>
+
+## Musiques
+* ["Certitudes" – C418](http://c418.bandcamp.com/track/certitudes)
+* ["Supersquatting (Feat. Zabutom) – Dubmood"](https://dataairlines.bandcamp.com/track/supersquatting)

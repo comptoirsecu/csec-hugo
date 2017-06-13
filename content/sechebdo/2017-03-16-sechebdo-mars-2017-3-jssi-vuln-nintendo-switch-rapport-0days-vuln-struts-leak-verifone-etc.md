@@ -36,7 +36,7 @@ Notre discord : <https://discord.comptoirsecu.fr>
 
 A bientôt pour d'autres émissions/podcasts!
 
-### Liste des news:
+# Liste des news:
 
   * Retour sur la conférence JSSI 2017
       * <http://www.ossir.org/jssi/index/jssi-2017.shtml>

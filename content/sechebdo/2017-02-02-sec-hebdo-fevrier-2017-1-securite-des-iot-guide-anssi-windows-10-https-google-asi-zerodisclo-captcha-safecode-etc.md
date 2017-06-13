@@ -32,7 +32,7 @@ Nous venons de tourner le 1er SEC Hebdo de février 2017 en Live! Comme d'habitu
 
 A bientôt pour d'autres émissions/podcasts!
 
-**Liste des news:**
+# Liste des news:
 
   * Gmail va désormais bloquer les fichier javascript en pièce jointe
       * <http://www.theverge.com/2017/1/25/14391462/gmail-javascript-block-file-attachments-malware-security>
@@ -48,9 +48,9 @@ A bientôt pour d'autres émissions/podcasts!
       * <http://thehackernews.com/2017/02/insider-threat-darkweb-trading.html>
   * La police arrete un cybercriminel susceptible d'avoir attaqué la hacking team
       * <http://thehackernews.com/2017/01/phineas-fisher-hacking-team.html>
-  * 
+  *
       Internet des objets : des fabricants poursuivis en raison des failles de sécurité des objets connectés
-    
+
 
       * <https://www.droit-technologie.org/actualites/internet-objets-fabricants-mis-pression-augmenter-securite-objets-connectes/>
   * Google force les développeurs à patcher les vulnérabilités de leurs applications Android

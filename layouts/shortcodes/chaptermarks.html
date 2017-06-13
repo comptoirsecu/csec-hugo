@@ -1,6 +1,6 @@
 {{ with $.Page.Params.chaptermarks }}
 <p>
-  <strong>{{ if $.Get "title" }}{{ $.Get "title" }}{{ else }}Au sommaire de cette émission:{{ end }}</strong>
+  <strong>{{ if $.Get "title" }}{{ $.Get "title" }}{{ else }}Au sommaire de cette émission :{{ end }}</strong>
   <ul>
         {{ range $start, $chapter :=  . }}
         <li>{{ $chapter }} <strong>({{$start}})</strong></li>

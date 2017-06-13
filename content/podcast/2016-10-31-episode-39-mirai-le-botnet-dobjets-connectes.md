@@ -39,7 +39,7 @@ Bonne écoute à vous !
 
 {{< podigee >}}
 
-Ressources :
+# Ressources :
 
   * [https://nakedsecurity.sophos.com/2016/10/05/mirai-internet-of-things-malware-from-krebs-ddos-attack-goes-open-source/](https://nakedsecurity.sophos.com/2016/10/05/mirai-internet-of-things-malware-from-krebs-ddos-attack-goes-open-source/)
   * [https://github.com/jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code)
@@ -56,6 +56,6 @@ Ressources :
   * [https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=19be0eaffa3ac7d8eb6784ad9bdbc7d67ed8e619](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=19be0eaffa3ac7d8eb6784ad9bdbc7d67ed8e619)
   * [https://en.wikipedia.org/wiki/Shut_Up_and_Dance_(Black_Mirror)](https://en.wikipedia.org/wiki/Shut_Up_and_Dance_(Black_Mirror)) Episode 3, pas 5 😉
 
-Les interludes musicales de l'épisode :
+## Les interludes musicales de l'épisode :
 
   * [UNKLE – Ablivion (sur l'album Where Did the Night Fall)](https://www.discogs.com/UNKLE-Where-Did-The-Night-Fall/master/247018)

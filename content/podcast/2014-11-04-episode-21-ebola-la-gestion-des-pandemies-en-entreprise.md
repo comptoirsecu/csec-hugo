@@ -35,7 +35,7 @@ Nous voici de retour pour un dossier dédié à Ébola et la gestion des crises 
 
 Nous essayons de faire des épisodes plus court dorénavant, c'est pour cela que les interviews des Assises suivront prochainement.
 
-### Au programme
+# Au programme
 
   * Début du dossier**(2:24)**
   * Pause musicale avec [Datasette – Music Fourteen](http://datassette.bandcamp.com/track/minus-fourteen) **(23:55)**
@@ -50,7 +50,7 @@ Nous essayons de faire des épisodes plus court dorénavant, c'est pour cela que
 Bonne écoute et n'oubliez pas, réservez votre 10 décembre pour notre enregistrement à : [La Tireuse – 18 rue Laplace 75005 Paris](http://latireuse.fr/) !
 
 
-### //Liens et références
+# Liens et Références
 
 - [Plan Pandemie 2011](http://www.sante.gouv.fr/plan-national-de-prevention-et-de-lutte-pandemie-grippale-2011.html)
 - [Le guide du bon sens numérique d'Axa](http://www.axaprevention.fr/documents/fichiers_pdf/axa_guide_bsn.pdf)

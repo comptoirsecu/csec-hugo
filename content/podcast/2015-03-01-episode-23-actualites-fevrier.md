@@ -30,7 +30,7 @@ Après les événements du FIC de ce début d'année, nous reprenons du service 
 
 Nous pensons faire un deuxième flux RSS pour poster l'intégralité de nos interviews des conférences. Dites nous dans les commentaires si ça vous intéresse !
 
-## Au programme
+# Au programme
 
   * Superfish (**01:56**)
   * Gemalto (**11:14**)
@@ -45,16 +45,16 @@ Nous pensons faire un deuxième flux RSS pour poster l'intégralité de nos inte
 
 Bonne écoute !
 
-## Liens et références
+# Liens et références
 
-### Superfish:
+## Superfish:
 
 - <http://www.nextinpact.com/news/93164-laffaire-superfish-revele-probleme-securite-plus-vaste-avec-certificats.htm>
 - <https://nakedsecurity.sophos.com/2015/02/20/the-lenovo-superfish-controversy-what-you-need-to-know/>
 - <https://nakedsecurity.sophos.com/2015/02/20/how-to-get-rid-of-the-lenovo-superfish-adware>
 
 
-### Gemalto :
+## Gemalto :
 
 - Révélation de The Intercept
   - [https://firstlook.org/theintercept/2015/02/19/great-sim-heist/](https://firstlook.org/theintercept/2015/02/19/great-sim-heist/)
@@ -62,11 +62,11 @@ Bonne écoute !
   - <http://www.franceinter.fr/emission-rendez-vous-avec-x-l-affaire-gemplus>
 
 
-### Darkleaks:
+## Darkleaks:
 
 - <https://medium.com/@ZozanCudi/darkleaks-information-blackmarket-1ee5ac28c892>
 
-### Google met de l'eau dans son vin sur les 0day disclosure:
+## Google met de l'eau dans son vin sur les 0day disclosure:
 
 - <https://nakedsecurity.sophos.com/2015/02/16/googles-project-zero-backs-off-a-bit-will-now-give-up-to-14-days-grace/>
 - <http://googleprojectzero.blogspot.fr/2014/07/announcing-project-zero.html>

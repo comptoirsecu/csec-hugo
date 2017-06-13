@@ -37,7 +37,7 @@ Ou bien au format podcast audio:
 
 A bientôt pour d'autres émissions/podcasts!
 
-**Liste des news :**
+# Liste des news:
 
   * SHAttered
       * <http://shattered.io/>

@@ -40,7 +40,7 @@ N'hésitez pas à me dire ce que vous en pensez. Si je constate que les critique
 
 A bientôt pour d'autres émissions/podcasts!
 
-Sources de la vidéo:
+# Sources de la vidéo:
 
   * **Vulnérabilité sur l'auto-complétion des navigateurs (et gestionnaires de mot de passe)**
       * <https://github.com/anttiviljami/browser-autofill-phishing>
@@ -63,5 +63,3 @@ Sources de la vidéo:
       * <http://arstechnica.com/security/2017/01/whatsapp-and-friends-take-umbrage-at-report-its-crypto-is-backdoored/>
       * <https://medium.com/@pepelephew/a-look-at-how-private-messengers-handle-key-changes-5fd4334b809a#.ueig7mq1z>
       * <https://whispersystems.org/blog/there-is-no-whatsapp-backdoor/>
-
-

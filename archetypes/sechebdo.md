@@ -16,6 +16,15 @@ tags:
  - Kryptonite
  - SS7
  - Intel
+
+authors:
+  - justin
+  - morgan
+  - lois
+
+chaptermarks:
+  "00:01:30": "Titre"
+
 video: https://www.youtube.com/embed/CODECODECODE
 ---
 Bonjour à tous!
@@ -28,7 +37,7 @@ Notre discord : <https://discord.comptoirsecu.fr>
 
 A bientôt pour d'autres émissions/podcasts!
 
-### Liste des news:
+# Liste des news:
 
   * mm:ss TITRE
       * <http://>

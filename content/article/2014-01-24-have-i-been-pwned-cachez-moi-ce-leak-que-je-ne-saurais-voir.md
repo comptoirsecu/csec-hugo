@@ -62,7 +62,7 @@ Relisez l'affiche maintenant...vous la trouvez toujours aussi avisée ?
 
 En attendant un monde où nous pourrons enfin nous authentifier sans utiliser ces maudits mots de passe, j’ai deux conseils à donner :
 
-### Utilisez un gestionnaire de mot de passe, et utilisez-le pour absolument tout ce sur quoi vous vous connectez.
+## Utilisez un gestionnaire de mot de passe, et utilisez-le pour absolument tout ce sur quoi vous vous connectez.
 
 J’utilise personnellement [Dashlane](https://www.dashlane.com/fr/cs/3ba2769c), parce qu’ils sont français et donc soumis aux lois européennes. Mais dans l’absolu il y en a plein d’autres, connus et reconnus, qui feront parfaitement leur affaire, pêle-mêle je vous laisse googler lastpass, onepassword, keepass… J’ai tendance à préférer les versions synchronisées en ligne pour des raisons de confort. Les plus paranoïaques se limiteront au local avec keepass, de préférence en se limitant à la version auditée par l’ANSSI, [c’est-à-dire la version 2.10 portable](http://www.ssi.gouv.fr/fr/produits-et-prestataires/produits-certifies-cspn/certificat_cspn_2010_07.html).
 
@@ -70,7 +70,7 @@ Je reste confiant avec les produits en ligne, les [articles sur le sujet](http:/
 
 L’avantage de ce type d’outils et qu’il permet de générer très rapidement des mots de passe complexes à « craquer » (à savoir, aléatoire, avec des majuscules, chiffres et caractères spéciaux, et plus de 12 caractères) sans jamais n’avoir ne à les retenir ni même les taper, l’add-on se chargera de ça pour vous.
 
-### Pour les sites vraiment sensibles, complétez si cela est possible par un deuxième facteur d’authentification
+## Pour les sites vraiment sensibles, complétez si cela est possible par un deuxième facteur d’authentification
 
 ![Bon, ok, mauvais exemple vu l'affaire RSA révélée par Snowden !](/images/misc/2013-12-SID700.gif)
 

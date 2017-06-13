@@ -20,7 +20,9 @@ tags:
 Cet article était précédemment édité sur [Medium](https://medium.com/le-comptoir-secu/49473ef0a475), j’ai profité de cet import pour mettre à jour certaines sections.
 {{% /info %}}
 
-### Avant propos : Qu’est-ce que Snapchat
+{{<toc>}}
+
+# Avant propos : Qu’est-ce que Snapchat
 
 Ce billet a été motivé par les dernières actualités sur [Snapchat](http://www.snapchat.com/). Pour ceux qui ne connaissent pas, Snapchat est la dernière application pour smartphone populaire auprès de nos petites têtes blondes. L’application permet d’envoyer à ses amis une photo ou une vidéo de moins de 10 secondes accompagnée si désiré d’un texte en guise de commentaire.
 
@@ -40,7 +42,7 @@ Ce dernier point vous semble compliqué pour l’utilisateur moyen ? Ne vous en 
 
 Bref, l’application est tellement populaire qu’elle a reçu des offres de rachat de [plusieurs milliards de dollars](http://www.lepoint.fr/chroniqueurs-du-point/guerric-poncet/pour-snapchat-3-milliards-de-dollars-ne-suffisent-pas-14-11-2013-1756906_506.php) par Facebook et Google.
 
-#### L'affaire Snapchat
+## L'affaire Snapchat
 
 Comme toute application de startup qui se respecte, le développement a été fait le plus rapidement possible et n’a sûrement pas bénéficié d’une revue sécurité par des spécialistes.
 
@@ -74,13 +76,13 @@ Les dirigeants de SnapChat ont enfin compris leur totale absence de talent conce
 Grosse erreur, ce type d’exercice, le pattern matching, est extrêmement facile à faire pour un ordinateur, il a fallu moins d’une heure à un quidam sur internet pour [fournir un programme répondant tout seul au test](http://gizmodo.com/how-i-hacked-snapchats-dumb-anti-robot-security-in-les-1506890048). C’est pitoyable.
 {{% /info %}}
 
-### Le full disclosure : une approche critiquée
+# Le full disclosure : une approche critiquée
 
 Comme à chaque affaire impliquant un full disclosure, les avis sont fermement partagés entre les partisans et ceux qui préfèrent le « coordinated disclosure », également appelé « responsible disclosure ». En français dans le texte : communiquer la vulnérabilité en privé à l’éditeur, attendre sagement que celui-ci prenne les mesures nécessaires et, seulement lorsque celui-ci donne son accord, publier l’information auprès du public. Le plus souvent, la communication sera faite en concert avec l’éditeur en question, rappelant que tout ceci n’est bien sûr plus que du passé et qu’il n’y a pas lieu de s’inquiéter.
 
 Cette approche peut paraître idéale, car l’information sur la vulnérabilité n’est accessible que lorsqu’elle n’est plus exploitable. Bien qu’elle puisse fonctionner sans accroc avec des éditeurs responsables, les situations sont souvent moins roses.
 
-#### Quand l’éditeur maîtrise la communication, il n’est pas pressé par le temps
+## Quand l’éditeur maîtrise la communication, il n’est pas pressé par le temps
 
 ![Sleepy-at-work](/images/misc/2014-01-Sleepy-at-work.jpg)
 
@@ -92,7 +94,7 @@ Ce n’est pas pour rien que les États mettent souvent en place des audits obli
 
 Une fois l’information publiée, l’image de l’éditeur en pâtit et chaque jour qui passe sans correction augmente la chance de voir son nom dans les journaux associé à une grosse fuite d’information. C’est malheureusement parfois le seul moyen pour que l’entreprise se décide à traiter la vulnérabilité comme elle le mérite : une urgence.
 
-#### Certains éditeurs prennent le problème à l’envers
+## Certains éditeurs prennent le problème à l’envers
 
 ![Legal-scales-books-gavel-Image](/images/misc/2014-01-Legal-scales-books-gavel-Image.jpg)
 
@@ -113,7 +115,7 @@ Malgré tous, certains individus avec encore un peu d’éthique sont prêts à 
 
 Il ne faut pas s’étonner après ce genre d’affaires de voir de plus en plus d’experts [prôner le full disclosure](https://www.schneier.com/essay-146.html), souvent sous couvert d’anonymat pour éviter tout retour de flamme. Bigre, même [Google commence à serrer la vis](http://googleonlinesecurity.blogspot.co.uk/2013/05/disclosure-timeline-for-vulnerabilities.html) et applique le full disclosure si après 7 jours l’éditeur n’a toujours pas corrigé une faille qu’ils estiment critique ou déjà utilisée.
 
-#### Alors, full ou responsible disclosure ?
+## Alors, full ou responsible disclosure ?
 
 ![business turning back time](/images/misc/2014-01-time-management1.jpg)
 
@@ -128,11 +130,11 @@ Le full disclosure resterait donc un « plan B », dernière arme à utiliser qu
   3. Ne répond pas à nos sollicitations
   4. Refuse de traiter la vulnérabilité en accord avec son niveau de criticité
 
-### Le traitement des « responsible disclosure » par une entreprise
+# Le traitement des « responsible disclosure » par une entreprise
 
 Si j’avais carte blanche dans une entreprise sur le traitement des failles de sécurité découvertes par un tiers, voilà ce que je préconiserai :
 
-#### Faciliter la prise de contact
+## Faciliter la prise de contact
 
 ![standard-telephonique-sacastar](/images/misc/2014-01-standard-telephonique-sacastar.jpg)
 
@@ -145,7 +147,7 @@ Il est, je pense, important :
   3. Fournir quelque part sur le site institutionnel une référence vers ce moyen de contact
   4. Former l’équipe responsable du support traditionnel à rediriger les sollicitations sur ce point de contact
 
-#### Disposer d’un processus de mise à jour d’urgence
+## Disposer d’un processus de mise à jour d’urgence
 
 Une vulnérabilité exploitée peut avoir des conséquences catastrophiques pour l’entreprise, ne serait-ce que pour l’image de marque. Beaucoup se souviennent encore des fuites d'[Adobe](http://krebsonsecurity.com/2013/10/adobe-breach-impacted-at-least-38-million-users/) ou de [Sony](http://krebsonsecurity.com/2011/04/millions-of-passwords-credit-card-numbers-at-risk-in-breach-of-sony-playstation-network/).
 
@@ -155,7 +157,7 @@ Une vulnérabilité exploitée peut avoir des conséquences catastrophiques pour
 
 Une bonne pratique consiste à mettre en place une politique de patching. Cette politique définit différents niveaux de criticité pour les patchs, avec pour chaque niveau un délai de traitement maximal. Pour les patchs les plus critiques, on peut alléger les processus de tests et réduire le temps nécessaire à sa mise en production. On peut par exemple fixer un délai de 6 mois pour les patchs les moins sensibles, et 7 jours pour les plus critiques.
 
-#### Entretenir la relation avec les experts sécurités
+## Entretenir la relation avec les experts sécurités
 
 Snapchat est un parfait exemple, l’équipe GibsonSec a fait son possible pour aider la startup, mais celle-ci n’a pas su leur donner confiance dans leur capacité à comprendre le potentiel des failles découvertes et à les corriger.
 

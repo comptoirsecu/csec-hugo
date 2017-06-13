@@ -32,7 +32,7 @@ Notre discord : <https://discord.comptoirsecu.fr>
 
 A bientôt pour d'autres émissions/podcasts!
 
-### Liste des news:
+# Liste des news:
 
   * 2:10 Malware mac
       * <http://thehackernews.com/2017/05/apple-mac-software-download.html>

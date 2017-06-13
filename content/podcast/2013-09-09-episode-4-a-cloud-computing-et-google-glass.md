@@ -48,7 +48,7 @@ N’hésitez pas à nous laisser votre avis à propos de la nouvelle rubrique su
 
 {{< podigee >}}
 
-### Liens et références
+# Liens et références
 
 ## News
 - [Syrian Electronic Army Denies New Data Leaks](http://krebsonsecurity.com/2013/08/syrian-electronic-army-denies-new-data-leaks)

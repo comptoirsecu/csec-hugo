@@ -26,7 +26,7 @@ C'était notre première conférence et nos débuts sur la prise de son en ext�
 
 {{< podigee >}}
 
-## //Timeline
+# Timeline
 
 - **03:00** : [NDH Kids](http://www.nuitduhack.com/ndh-kids)
 - **4:50** : Benjamin Bayart([@bayartb](https://twitter.com/bayartb))
@@ -42,7 +42,7 @@ C'était notre première conférence et nos débuts sur la prise de son en ext�
 - **1:44:39** : Interview au McDo
 - **1:45:57** : Musique de fin:  Cristobal Tapia De Veer & Utopia Finale
 
-## Liens et références
+# Liens et références
 
 - Les video de [Pas Sage en Seine](http://numaparis.ubicast.tv/channels/#pas-sage-en-seine-2014)
 - [La Nuit du Hack](http://www.nuitduhack.com/)

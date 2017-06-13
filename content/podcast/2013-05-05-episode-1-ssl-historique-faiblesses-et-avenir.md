@@ -22,8 +22,8 @@ tags:
   - bitcoin
   - computerlinks  
 songs:
-    - schematicwizard_generique
-    - slim_curandera
+  - schematicwizard_generique
+  - slim_curandera
 ---
 
 Voici le premier épisode du comptoir sécu tant attendu. Au thème de cette
@@ -39,7 +39,7 @@ Bonne écoute !
 Ce podcast est notre tout premier épisode et a été enregistré avec du matériel inapproprié. Si vous découvrez le Comptoir Sécu, nous vous invitons à choisir un épisode plus récent !"
 {{% /warning %}}
 
-### Liens et références
+# Liens et références
 
 ## News
 - Botnet Bictoins

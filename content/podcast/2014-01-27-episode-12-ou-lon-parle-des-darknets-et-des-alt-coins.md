@@ -27,25 +27,25 @@ tags:
   - Quark
   - Signature
   - WoW
+
+chaptermarks:
+  "00:02:00": "Revue d'actualité"
+  "00:34:49": "Dossier sur les Darknets"
+  "01:22:41": "Une  pause musicale avec Miniroc – BitterBleeps"
+  "01:26:05": "What's Next : Les monnaies alternatives numériques"
+  "01:30:00": "Outro avec Goto80 – Hey Hey"
 ---
 
-Au programme de cet episode:
-
-  * Les news (2:00)
-  * Dossier sur les Darknets  (34:49)
-  * Une  pause musicale avec [Miniroc – BitterBleeps](http://www.daheardit-records.net/fr/discography/dhr-05#release) (1:22:41)
-  * Le What's Next sur les monnaies alternatives numériques(1:26:05)
-  * Outro [Goto80 – Hey Hey](https://soundcloud.com/goto80)
-
+{{< chaptermarks >}}
 
 {{< podigee >}}
 
 
-### Liens et références:
+# Liens et références:
 
-#### //News
+## News
 
-**Morgan:**
+### Morgan
 
 - Flashlight free
   – [http://gizmodo.com/popular-android-flashlight-app-straight-up-lied-about-s-1477916270](http://gizmodo.com/popular-android-flashlight-app-straight-up-lied-about-s-1477916270)
@@ -58,13 +58,13 @@ Au programme de cet episode:
 
 
 
-**Justin:**
+### Justin
 
 - Un email sans signature électronique est bien considéré comme une preuve: <http://www.lemondeinformatique.fr/actualites/lire-un-email-sans-signature-electronique-est-bien-considere-comme-une-preuve-55834.html>
 - Le lien vers le mail: <http://www.astae.com/Salut-grosse-vache-tu-dois-bien-comprendre-que-je-ne-veux-plus-voir-ta-gueule-et-qu-il-est-hors-de-question-que-je-debourse-un-centime-pour-ton-licenciement>
 - Akamai rachete prolexic: <http://techcrunch.com/2013/12/02/akamai-buys-ddos-prevention-specialist-prolexic-for-370m-to-ramp-up-security-offerings/>
 
-**Loïs:**
+### Loïs
 
 - AC de l'ANSSI retiré par Google:
   - <http://reflets.info/mitm-de-google-par-l-anssi-la-theorie-du-doigt-qui-pointait-la-lune/>
@@ -84,7 +84,7 @@ Au programme de cet episode:
 - [http://waste.sourceforge.net/](http://waste.sourceforge.net/)
 - [http://www.i2p2.de/how_networkcomparisons](http://www.i2p2.de/how_networkcomparisons)
 
-#### What's Next
+## What's Next
 
 - [http://www.coinwarz.com/cryptocurrency](http://www.coinwarz.com/cryptocurrency)
 - [http://coinchoose.com/](http://coinchoose.com/)
@@ -94,7 +94,7 @@ Au programme de cet episode:
 - [http://bitcoinmagazine.com/8972/quarkcoin-noble-intentions-wrong-approach/](http://bitcoinmagazine.com/8972/quarkcoin-noble-intentions-wrong-approach/)
 - <https://medium.com/le-comptoir-secu/168fe5d7ab8a>
 
-#### //Musique
+## Musiques
 
 - <http://www.daheardit-records.net/fr/discography/dhr-05#release>
 - <https://soundcloud.com/goto80>

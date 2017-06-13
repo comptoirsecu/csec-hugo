@@ -29,7 +29,7 @@ Ne vous en faites pas pour ceux qui auraient raté l'évènement, le playback es
 
 A priori ce format sera le format définitif des SEC Hebdo. Le format live a le bon gout de ne demander quasiment aucun travail de post-production, ce qui devrait assurer la pérennité de l'émission hebdomadaire ;).
 
-**Liste des news:**
+# Liste des news:
 
   * Découverte de la semaine: Lesspass
       * <https://lesspass.com/#/>

@@ -35,7 +35,7 @@ Nous venons de tourner le second SEC Hebdo du mois de février 2017 en Live! Com
 
 A bientôt pour d'autres émissions/podcasts!
 
-**Liste des news:**
+# Liste des news:
 
   * Rapport de Citizenlab sur la campagne de phishing NilePhish en Egypte contre les ONG
       * <https://citizenlab.org/2017/02/nilephish-report/>

@@ -23,22 +23,24 @@ tags:
   - Russie
   - SEA
   - Silkroad
+
+chaptermarks:
+  "00:01:47": "Revue d'actualité"
+  "00:26:53": "Dossier de l'invité sur l'identité numérique"
+  "01:10:25": "Une pause musicale avec Star Modele - Le matos (remix instrumental)"
+  "01:13:50": "What's Next: Les bitcoins"
+  "01:38:50": " La musique de fin avec !Cube – Blipblop Memories"
 ---
 Le premier podcast de Décembre est arrivé !
 
 Nous voici de retour avec un nouvel invité qui va nous parler de la bataille que se livre les géants d'internet sur le sujet de l'identité numérique.
 
-Nous avons aussi créé une communauté Google+ accessible ici : <https://plus.google.com/u/0/communities/117090624990342742312> Nous partageons et commentons des liens ainsi que des informations trouvés sur le net.
+Nous avons aussi créé une [communauté Google+](https://plus.google.com/u/0/communities/117090624990342742312) Nous partageons et commentons des liens ainsi que des informations trouvés sur le net.
 
 N’hésitez à venir y jeter un petit coup d'œil !
 
-Au programme:
+{{< chaptermarks >}}
 
-  * Les news (1:47)
-  * Dossier de l'invité sur l'identité numérique (26:53)
-  * Une pause musicale avec [Star Modele (Le Matos remix intrumental)](https://soundcloud.com/lematos/star-modele-le-matos-remix) (1:10:25)
-  * Le What's Next sur les bitcoins (1:13:50)
-  * La musique de fin avec [!Cube – Blipblop Memories](https://soundcloud.com/cube-5/blipblop-memories) (1:38:50)
 
 Bonne écoute à toutes et tous !
 
@@ -47,11 +49,11 @@ Bonne écoute à toutes et tous !
 {{< podigee >}}
 
 
-### Liens et références:
+# Liens et références:
 
-#### //News
+## News
 
-**Justin:**
+### Justin
 
 - La SEA hack Obama
   - <http://securityaffairs.co/wordpress/19187/cyber-crime/sea-vs-obama.html>
@@ -61,14 +63,14 @@ Bonne écoute à toutes et tous !
 - Le projet de VinceSafe
   - <http://vincesafe.fr/2013/10/29/smartphones-reseaux-prevenons-les-risques/>
 
-**Loïs:**
+### Loïs
 
 - Le coût de la cybercriminalité a augmenté de 78 % en quatre ans et les délais nécessaires pour faire face aux attaques ont plus que doublés
   - <http://www.globalsecuritymag.fr/HP-le-cout-de-la-cybercriminalite,20131029,40704.html>
 - Après D-Link, voici Tenda
   - <http://www.devttys0.com/2013/10/from-china-with-love/>
 
-**Morgan:**
+### Morgan
 
 - La Saga Russe
   - <http://www.latimes.com/world/worldnow/la-fg-wn-russia-g20-summit-gifts-spy-devices-20131029,0,1499023.story#axzz2jBLWtd8n>
@@ -78,13 +80,13 @@ Bonne écoute à toutes et tous !
   - <http://krebsonsecurity.com/2013/11/cryptolocker-crew-ratchets-up-the-ransom/>
 
 
-#### //What's Next
+## What's Next
 
 - Pour suivre le cours du bitcoin
   - <http://bitcoin.clarkmoody.com/>
   - <http://www.lexsi-leblog.fr/cert/bitcoin-et-regulation-des-monnaies-virtuelles.html>
 
-#### //Musique
+## Musiques
 
 - [Star Modele (Le Matos remix intrumental)](https://soundcloud.com/lematos/star-modele-le-matos-remix)
 - [Cube – Blipblop Memories](https://soundcloud.com/cube-5/blipblop-memories)

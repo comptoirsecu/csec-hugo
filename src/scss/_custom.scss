@@ -32,14 +32,25 @@ article main
     text-align: left;
   }
 
+  h1 { font-size: 200%; }
+  h2 { font-size: 170%; }
+  h3 { font-size: 140%; }
+  h4 { font-size: 130%; }
+  h5 { font-size: 120%; }
+  h6 { font-size: 110%; }
+
   img {
     display: block;
     margin-left: auto;
     margin-right: auto;
   }
 
-  ul {
+  ul, ol {
     text-align: left;
+  }
+
+  .callout {
+    background-color: $metadata-background-color;
   }
 }
 
@@ -185,9 +196,8 @@ article main
   ul {
     list-style: none;
   }
-  h6 {
+  h5 {
     text-shadow: 2px 2px #070707;
-    font-size: 120%;
     text-transform: uppercase;
   }
 }
@@ -217,5 +227,5 @@ article main
 }
 
 .video-section {
-  
+
 }

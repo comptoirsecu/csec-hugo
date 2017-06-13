@@ -20,30 +20,30 @@ tags:
   - McAfee
   - RSSI
   - Silkroad
+
+chaptermarks:
+  "00:01:11": Revue d'actualité
+  "00:30:56": Un échange sur le rôle du RSSI
+  "00:42:15": Une pause musicale avec un extrait Daed - Sentient 
+  "01:17:34": Une nouvelle interview d'un étudiant de l'EGE
 ---
 Voilà le premier épisode du mois de Novembre, avec un peu de retard.
 
 Aujourd'hui, nous recevons Gérémy, Responsable de la Sécurité du Système d'Information, qui nous parlera de son travail et de sa place au sein de l'entreprise
 
-Au programme:
-
-  * Les news (1:11)
-  * Un échange sur le rôle du RSSI (30:56)
-  * Une pause musicale avec un extrait de [Daed](https://soundcloud.com/daed/sentient) (42:15)
-  * Une nouvelle interview d'un étudiant de l'EGE (1:17:34)
+{{< chaptermarks >}}
 
 Bonne écoute !
-
 
 
 {{< podigee >}}
 
 
-### Liens et références:
+# Liens et références:
 
-#### //News
+## News
 
-**Morgan:**
+### Morgan
 
 - [Chargeur Skorpio](http://www.welivesecurity.com/2013/10/06/skorpion-smartphone-charger-lights-up-if-your-phone-contains-malware/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+eset%2Fblog+%28ESET+Blog%3A+We+Live+Security%29)
 
@@ -53,7 +53,7 @@ Bonne écoute !
 
 
 
-**Justin:**
+### Justin
 
 - [La nouvelle annonce de John McAfee](http://news.cnet.com/8301-1009_3-57605233-83/john-mcafees-$100-d-central-aims-to-outsmart-the-nsa)
 - [Silkroad a fermé](http://www.theverge.com/2013/10/17/4850256/silk-roads-main-competitor-shuts-down-indefinitely-black-market-reloaded)
@@ -63,7 +63,7 @@ Bonne écoute !
 
 
 
-**Loïs:**
+### Loïs
 
 - [Anonymous](http://www.cigionline.org/publications/2013/9/anonymous-context-politics-and-power-behind-mask)
 - [D-Link](http://cyberarms.wordpress.com/2013/10/15/numerous-d-link-routers-have-backdoor-in-firmware/)
@@ -71,7 +71,7 @@ Bonne écoute !
 
 
 
-#### //Musique
+## Musiques
 
 - [Daed – Sentient](https://soundcloud.com/daed/sentient)
 - [Yoon – Nur (Secuem Remix)](https://soundcloud.com/secuem/yoon-nur-secuem-remix)

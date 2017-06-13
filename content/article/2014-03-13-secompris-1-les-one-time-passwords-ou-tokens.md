@@ -33,7 +33,7 @@ Il vous est demandé de fournir à chaque connexion un code, souvent sous forme 
   * Blizzard a été un des premiers à le proposer dans le monde du jeu vidéo avec son [Battle.Net authenticator](https://eu.battle.net/support/fr/article/faq-authenticator-battlenet), l’initiative est maintenant très courante dans le monde du MMO, très sujet aux hacks de compte
   * Les banques en sont aussi friandes, elles ont par contre tendance à préférer vous proposer la version « matériel »
 
-### Matériel ? Logiciel ?
+# Matériel ? Logiciel ?
 
 On retrouve deux formes de token, la version matérielle et la version logicielle.
 
@@ -55,7 +55,7 @@ Je reste tout de même partisan de l’utilisation de ce type de dispositifs, to
 
 **Je pense que l’avenir sera de déporter ce type de produit sur les « objets connectés »**, toujours sans être parfait, ils seront encore un peu plus isolés, ce qui réduit d’autant la surface d’attaque.
 
-### Comment ça marche ?
+# Comment ça marche ?
 
 Les principes cryptographiques sur lesquels l’algorithme se repose sont complexes, mais le principe général est extrêmement simple. Il y a deux acteurs, « _Token_ », le programme ou le matériel vous fournissant le mot de passe à usage unique, et « _Serveur_ », le serveur d’authentification vous demandant le fameux OTP.
 
@@ -95,7 +95,7 @@ Les TOTP (Time-based OTP) ne se basent pas sur un compteur, mais sur l’heure. 
 
 Ce dernier système est le plus couramment utilisé. Le TOTP le plus connu est sûrement RSASecureID.
 
-## Quel est l’intérêt ?
+# Quel est l’intérêt ?
 
 Rappelons les fondamentaux, il existe **3 facteurs d’authentification possibles** :
 
@@ -116,7 +116,7 @@ Le seul moyen pour lui d’assurer une connexion à volonté sur notre compte es
 
 Pour un token logiciel, cela implique de pirater l’ordinateur utilisé par la connexion ET l’ordinateur (oui, votre smartphone est un ordinateur) hébergeant le token. On se rend tout de suite compte que la tâche est bien plus ardue.
 
-## Conclusion
+# Conclusion
 
 L’OTP est un mécanisme simple et éprouvé permettant de renforcer efficacement la sécurité d’un contrôle d’accès. C’est une fonctionnalité qui nécessite peu de moyens pour être mise en place du côté du fournisseur de service et qui ne nécessite pas de matériel spécifique pour s’identifier à la différence de la biométrie.
 

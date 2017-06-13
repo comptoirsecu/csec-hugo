@@ -26,7 +26,9 @@ Vous remarquerez que j’ai dit « ces téléphones ». Blackphone se vend comme
 
 Je ne pourrai m’étendre sur les détails techniques du Blackphone. Tout simplement parce que nous n’avons aucune information concrète disponible pour le moment à ce sujet.
 
-### Vie privée dans les communications (appels, SMS)
+{{< toc >}}
+
+# Vie privée dans les communications (appels, SMS)
 
 Ici il ne faut pas s’attendre à beaucoup de surprises. Blackphone va probablement réutiliser le travail effectué par [SilentCircle ](https://silentcircle.com/web/how-it-works/). C’est tout naturel étant donné qu’ils participent à l’élaboration du produit.
 
@@ -51,7 +53,7 @@ Par métadonnées j’entends :
 
 Ce genre d’informations à elles seules peuvent révéler énormément d’informations sur vous. Je vous laisse regarder [quelques croustillants exemples](https://twitter.com/pinkflawd/status/417649515131596801/photo/1). Peut-être effacent-ils les métadonnées, je n’ai pas trouvé l’information sur le site de SilentCircle.
 
-### Vie privée et applications
+# Vie privée et applications
 
 Je pars du principe que l’OS du Blackphone, PrivatOS, sera compatible avec le Play Store, sans cela c’est l’échec commercial assuré auprès du grand public.
 
@@ -73,7 +75,7 @@ Pour ce qui est du surf, ils parlent d’un VPN, qui effectivement peut cacher v
 
 Excusez-moi, on me dit dans mon oreillette qu’officiellement ça s’appelle un bouton « like » ou « +1 ».
 
-### Vie privée et géolocalisation
+# Vie privée et géolocalisation
 
 Même si PrivOS a retiré tout mouchard éventuel de Google, que vous n’avez pas installé Google Maps ou que vous avez explicitement coupé la fonction GPS de votre téléphone, on peut encore vous suivre à la trace.
 
@@ -81,7 +83,7 @@ Votre téléphone, pour être joignable, cherche en permanence les antennes GSM 
 
 Vous ne voulez pas que l’on sache ou vous êtes en permanence ? Ne prenez pas de smartphone.
 
-### Vie privée et système d’exploitation
+# Vie privée et système d’exploitation
 
 Sur ce point, il y a beaucoup de potentiel. Nous ne maîtrisons pas le système d’exploitation fourni dans nos téléphones, que ce soit Windows Phone, iOS, Android, BlackBerry ou autre. Vous n’êtes généralement pas administrateur de ce système et ne savez pas tout ce qu’il contient.Par conséquent, vous avez beau utiliser des applications sécurisées, si l’environnement d’exécution vous trahit, ça ne change pas grand-chose.
 
@@ -99,7 +101,7 @@ Remplacez le protocole de la boite noire par le logiciel de SilentCircle et la m
 
 Si Blackphone fait correctement son travail, audite scrupuleusement le code source d’Android, trouve toutes les backdoors potentielles et les retire du code, on pourra être davantage serein sur l’efficacité des communications sécurisées.
 
-### Vie privée et matérielle, processeur baseband et carte SIM
+# Vie privée et matérielle, processeur baseband et carte SIM
 
 Je ne vais pas me perdre dans les détails pour cette dernière partie, car je la maîtrise très peu. Sachez juste que votre téléphone ne se résume pas à son OS et ses applications. Android/iOS/etc.. [ne sont pas les seuls systèmes d’exploitation](http://www.extremetech.com/computing/170874-the-secret-second-operating-system-that-could-make-every-mobile-phone-insecure) de votre téléphone, il y a à minima :
 
@@ -118,7 +120,7 @@ Imaginons une situation idyllique ou ce baseband serait open source et fonctionn
 
 Un code source, ça s’audite et l’on peut le recompiler nous même pour être certains que la version binaire est bien celle que nous avons auditée. Pour auditer le matériel, il va falloir jouer avec l’oscilloscope et le microscope électronique, ce n’est déjà pas la même tisane. Pour ce qui est de refondre les pièces selon les plans, en partant du principe qu’ils soient fournis, je vous souhaite bien du courage.
 
-### En fait le Blackphone ne sert à rien…
+# En fait le Blackphone ne sert à rien…
 
 Je ne dis pas ça, et j’espère de tout cœur que nous aurons des avancées dans le domaine de la vie privée grâce à ce matériel. Même si tout n’est pas revu et 100 % fiable, une grosse partie du travail sera fait. Le téléphone restera peut-être vulnérable à une attaque ciblée, mais passera certainement entre les mailles du filet d’une grande partie de la surveillance de masse.
 

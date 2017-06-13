@@ -33,7 +33,7 @@ Bonne écoute à vous !
 {{< podigee >}}
 
 
-Ressources :
+# Ressources :
 
   * [https://password-hashing.net/](https://password-hashing.net/)
   * [http://www.passwordresearch.com/](http://www.passwordresearch.com/)
@@ -45,7 +45,7 @@ Ressources :
 
 La chaîne youtube de Justin: http://pointsecu.fr
 
-Les interludes musicales de l'épisode :
+## Les interludes musicales de l'épisode :
 
   * [Monomer – Fight or Flight](https://monomer.bandcamp.com/album/labyrinth)
   * [Danimal Canon and Zef – Legacy](https://danimalcannon.bandcamp.com/album/parallel-processing)

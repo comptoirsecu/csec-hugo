@@ -37,8 +37,9 @@ La plupart des vols de donnée concernent uniquement le numéro de carte de cré
 
 Target affirme que les PIN étaient stockés de façon chiffrée, que le chiffrement était réalisé par leur prestataire de paiement et que seul celui-ci possède la clé. En d’autres termes, les voleurs ont un gros coffre sans la clé. Restons prudents, ce n’est pas la première fois qu’un vendeur nous rassure sur la robustesse de son dispositif de sécurité, pour voir annoncées quelques semaines plus tard que celui-ci a été cassé ou contourné.
 
+{{<toc>}}
 
-### Qu'est ce qu'un prestataire de paiement
+# Qu'est ce qu'un prestataire de paiement
 
 ![4-etapes-pour-une-transaction-3d-secure](/images/misc/2014-01-4-etapes-pour-une-transaction-3d-secure.gif)
 
@@ -48,7 +49,7 @@ Cela permet au commerçant de totalement se décharger de cette action très enc
 
 ![pci-dss](/images/misc/2014-01-pci.gif)
 
-### Target n’a jamais vu la clé ou ne l’a juste jamais stocké ?
+# Target n’a jamais vu la clé ou ne l’a juste jamais stocké ?
 
 C’est toujours le même problème lorsque l’on souhaite chiffrer une donnée qui vit, j’entends par là qui est régulièrement lue et modifiée, il faut que la clé de déchiffrement ne soit pas bien loin. Les bonnes pratiques concernant les bases de données consistent donc généralement à chiffrer la base de données et à stocker la clé de chiffrement sur un autre serveur.
 
@@ -69,10 +70,10 @@ C’est d’ailleurs ce qu’exploitent les [Yes Cards](http://fr.wikipedia.org/
 Quoi qu’il en soit, le mal est fait pour les clients de Target. Ce dernier leur a d’ailleurs conseillé d’aller faire changer leur code PIN, et leur carte bancaire dans la foulée « par mesure de précaution ».
 
 
-### Comment se protéger ?
+# Comment se protéger ?
 
 
-#### Ne pas enregistrer ses données bancaires
+## Ne pas enregistrer ses données bancaires
 
 Plus facile à dire qu’à faire, le problème étant que, même si le site vous dit qu’il ne stocke pas votre numéro, vous n’avez aucune garantie sur la véracité de cette affirmation ! Il est vrai qu’enregistrer sa carte peut être tentant, payer sur des sites comme Amazon avec une carte enregistrée est un confort indéniable, cependant aucun commerce en ligne, même un géant comme Amazon, n’est à l’abri d’une attaque.
 
@@ -82,14 +83,14 @@ Plus facile à dire qu’à faire, le problème étant que, même si le site vou
 Si saisir votre numéro de carte vous donne des boutons, confier le plus tôt à un coffre-fort numérique de type [Dashlane](https://www.dashlane.com/), [Lastpass](https://lastpass.com/), [1Password](https://agilebits.com/onepassword) ou [Keepass](http://keepass.info/). Dans tous les cas, évitez le stockage dans le navigateur, ou mettez à minima un mot de passe maître sur celui-ci, sinon ils ne bénéficieront d’aucune protection. Ils seront stockés en clair ou bien chiffrés avec une clé stockée juste à côté, ce qui est aussi sécurisé que de mettre la clé de chez soi sous le paillasson ou dans le pot de fleurs.
 
 
-#### 3D Secure
+## 3D Secure
 
 ![schema-3D-secure](/images/misc/2014-01-schema-3D-secure.jpg)
 
 Le système 3D-Secure n’est pas une protection pour le client, c’est une protection pour le commerçant ! En effet, ce système est optionnel et activé à la demande du commerçant. Il lui permet de valider, pour tous les achats ou ceux dépassant un certain montant, que le client ait bien le possesseur de la carte. Pour cela, un SMS est envoyé au numéro de téléphone associé au porteur de la carte, celui-ci doit le renseigner sur le site internet pour valider sa commande. Ce système ne vous protège en rien, en effet, de très nombreux commerces en ligne ne vérifient pas ce système, l’attaquant n’aura qu’à utiliser votre carte de crédit dans l’une de ces boutiques.
 
 
-#### e-Carte bleue
+## e-Carte bleue
 
 ![ecarte-bleu](/images/misc/2014-01-au_quotidien.Par_.12044.Image_.256-1.jpg)
 
@@ -98,7 +99,7 @@ Le principe est simple, vous pouvez créer autant de « cartes virtuelles » que
 
 Le système à ses défauts, il faut faire l’effort de créer une nouvelle carte pour chaque transaction, avec comme capacité le prix d’achat, si l’on souhaite une sécurité maximale. Cela demande un effort non négligeable de la part du client. Enfin, certains services se basant sur la détention du numéro de carte pour s’assurer du savoir-vivre de leur client, j’entends par là tous les services d’hôtellerie et de location, vous refuseront en général ce type de dispositif.
 
-#### Cartes de crédit avec OTP
+## Cartes de crédit avec OTP
 
 ![displaycard_sc](/images/misc/2014-01-displaycard_sc.jpg)
 
@@ -106,6 +107,6 @@ Variante au 3D-Secure, le principe est ici d’accompagner la carte bancaire d�
 
 
 
-### Restons calme
+# Restons calme
 
 Quoi qu’il en soit, l’objectif de cet article n’est pas de vous faire arrêter l’utilisation du commerce en ligne. Il est important de montrer que le système n’est pas infaillible, mais il ne faut pas céder à la panique pour autant. Nous sommes jusqu’à présent relativement bien protégés en France, la grande majorité des pertes par fraude à la carte bancaire sont couvertes non par le client ou par la banque, mais par les commerçants, et [la note peut vite être très salée](http://www.hubinternational.com/data-breach-cost-calculator/).

@@ -37,22 +37,18 @@ guests:
 Un petit peu de retard ce mois ci, on va donc décaler notre passage en bimensuel au mois d'Octobre.
 
 <!--more-->
-Pour le premier épisode du mois, vous pourrez retrouver:
-
-  * La rubrique news (1:58)
-  * Interlude musicale (20:27)
-  * Un débat sur : "Peut-on avoir encore confiance dans la cryptographie "(23:56)
-  * Une interview d'un étudiant (55:51)
-
-Chaque mois, en alternance avec le What's Next, nous allons interviewer un étudiant ou un jeune diplômé pour connaitre son rapport à la sécurité informatique. Cette semaine, vous retrouverez Romain Guichard.
+{{< chaptermarks title="Pour le premier épisode du mois, vous pourrez retrouver:" >}}
 
 {{< podigee >}}
 
 
-### Liens et références
+Chaque mois, en alternance avec le What's Next, nous allons interviewer un étudiant ou un jeune diplômé pour connaitre son rapport à la sécurité informatique. Cette semaine, vous retrouverez Romain Guichard.
+
+
+# Liens et références
 
 ## News
-**Morgan**
+### Morgan
 
 - [Snowden’s Contingency: ‘Dead Man’s Switch’ Borrows From Cold War, WikiLeaks](http://www.wired.com/threatlevel/2013/07/snowden-dead-mans-switch/all/1)
 - Les PRNG
@@ -61,12 +57,12 @@ Chaque mois, en alternance avec le What's Next, nous allons interviewer un étud
 - [The Creepy, Long-Standing Practice of Undersea Cable Tapping](http://www.theatlantic.com/international/print/2013/07/the-creepy-long-standing-practice-of-undersea-cable-tapping/277855/)
 - [L’explosion de l’usage de Tor provient en réalité... d’un botnet](http://www.01net.com/editorial/602500/l-explosion-de-l-usage-de-tor-provient-en-realite-d-un-botnet/)
 
-**Loïs**
+### Loïs
 
 - [Report: British spy group tracks European Web, phone communications](http://www.washingtontimes.com/news/2013/aug/28/british-spy-group-european-web-phone-communication/)
 - [Un cheval de Troie dans des kits GTA 5 : joueurs, attention aux mirages !](http://www.bitdefender.fr/blog/Un-cheval-de-Troie-dans-des-kits-GTA-5-:-joueurs-attention-aux-mirages--1370.html)
 
-**Justin**
+### Justin
 
 - [Sysadmin security fail: NSA finds Snowden hijacked officials’ logins](https://arstechnica.com/information-technology/2013/08/sysadmin-security-fail-nsa-finds-snowden-hijacked-officials-logins/)
 - [#VUPEN ou les limites de l’attaque dans le cybermonde](https://reflets.info/vupen-ou-les-limites-de-lattaque-dans-le-cybermonde/)

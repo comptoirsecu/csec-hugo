@@ -44,7 +44,7 @@ Au programme de cette épisode consacré à l'actualité de Juin:
 
 Bonne écoute !
 
-### //Liens et références
+# Liens et Références
 
 - Amazon S2N:
   - [Lien1](http://www.undernews.fr/authentification-biometrie/amazon-publie-son-module-cryptographique-tls-open-source.html)

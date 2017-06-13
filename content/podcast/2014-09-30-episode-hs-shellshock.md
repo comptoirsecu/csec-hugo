@@ -34,7 +34,7 @@ Dites-nous si cela vous a plu !
 
 Et n'oubliez pas de voter pour nous, pendant les [Golden blogs Awards](http://www.golden-blog-awards.fr/blogs/le-comptoir-secu.html) ! 😉
 
-### Au programme
+# Au programme
 
   * ShellShock, le dossier **(01:19)**
   * Interlude musicale avec  [The Pineapple Thief – Alone At Sea](http://open.spotify.com/track/6f6bgd30sSbhOVSKB4t8UO) **(31:12)**
@@ -47,7 +47,7 @@ Et n'oubliez pas de voter pour nous, pendant les [Golden blogs Awards](http://
 
 Bonne écoute !
 
-### //Liens et Références
+# Liens et Références
 
 - <http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-7169>
 - <http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-6271>

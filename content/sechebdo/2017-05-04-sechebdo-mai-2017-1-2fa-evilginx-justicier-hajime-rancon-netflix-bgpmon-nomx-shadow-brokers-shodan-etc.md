@@ -43,7 +43,7 @@ Notre discord : <https://discord.comptoirsecu.fr>
 
 A bientôt pour d'autres émissions/podcasts!
 
-### Liste des news:
+# Liste des news:
 
   * Chronique sur le 2FA (2:02)
       * <http://www.martinvigo.com/design-flaws-lastpass-2fa-implementation/>

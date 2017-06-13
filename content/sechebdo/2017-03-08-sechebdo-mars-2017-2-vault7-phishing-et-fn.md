@@ -19,6 +19,14 @@ tags:
   - podcast
   - SECHebdo
   - wikileaks
+
+chaptermarks:
+  "00:03:42": "Wikileaks balance les pokemons de la CIA Vault7"
+  "00:28:23": "Un spammer fait fuiter tous ses backups sur internet"
+  "00:36:14": "Ransomware satan analysé"
+  "00:41:25": "85 vulnérabilités dans les NAS WD pas encore patchées"
+  "00:44:06": "Collard publie ses mdp sur twitter"
+  "00:53:43": "Un rapport sur l'impact du piratage de nos futurs robots"
 ---
 
 
@@ -32,7 +40,7 @@ Le strawpoll: <http://www.strawpoll.me/12489497/r>
 
 La chaine de Micode: <https://www.youtube.com/channel/UCYnvxJ-PKiGXo_tYXpWAC-w>
 
-### Liste des news:
+# Liste des news:
 
 **Wikileaks balance les pokemons de la CIA Vault7 (3:42)**
 

@@ -32,7 +32,7 @@ Malheureusement le dossier et le what's next ayant été enregistrés avant les 
 
 N'oubliez pas de voter pour nous pour les [Golden blogs Awards](http://www.golden-blog-awards.fr/blogs/le-comptoir-secu.html) ! 😉
 
-### Au programme
+# Au programme
 
   * Les news du moment **(02:22)**
   * Notre dossier sur la différence entre le public et le privé pour un responsable sécurité **(33:30)**
@@ -46,11 +46,11 @@ N'oubliez pas de voter pour nous pour les [Golden blogs Awards](http://www.golde
 
 Bonne écoute !
 
-### Liens et références
+# Liens et références
 
-#### //News
+## News
 
-##### Justin
+### Justin
 
 - Google hacké ?
   - [Lien1](http://www.nextinpact.com/news/89829-mots-passe-gmail-dans-nature-fuite-a-relativiser.htm)
@@ -62,7 +62,7 @@ Bonne écoute !
 - [PSSIE](http://www.ssi.gouv.fr/fr/menu/actualites/le-premier-ministre-dote-l-etat-de-sa-premiere-politique-globale-de-securite.html)
 - [Géopolitique, Botnet & Russie](http://www.scmagazine.com/hackers-deliver-kelihos-to-users-sympathetic-to-russian-cause/article/368322/)
 
-##### Morgan
+### Morgan
 
 - Home Depot
   - [Lien1](http://krebsonsecurity.com/2014/09/home-depot-56m-cards-impacted-malware-contained/)
@@ -75,7 +75,7 @@ Bonne écoute !
 
 
 
-#### //What's Next: Maidsafe
+## What's Next: Maidsafe
 
 - <http://www.atlantico.fr/rdv/minute-tech/c-est-quoi-reseau-mesh-louise-hoffmann-724835.html>
 - [http://www.lemonde.fr/pixels/article/2014/05/23/thailande-taiwan-les-reseaux-mesh-outil-anticensure\_4420312\_4408996.html](http://www.lemonde.fr/pixels/article/2014/05/23/thailande-taiwan-les-reseaux-mesh-outil-anticensure_4420312_4408996.html)
@@ -84,7 +84,7 @@ Bonne écoute !
 
 
 
-#### //Conférences
+## Conférences
 
 - [Les assises de la sécurité](http://www.les-assises-de-la-securite.com/)
 - [Le FIC 2015](http://www.forum-fic.com/2015/)

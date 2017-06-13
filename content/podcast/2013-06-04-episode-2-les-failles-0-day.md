@@ -47,7 +47,7 @@ Rendez-vous donc le mois prochain !
 
 {{< podigee >}}
 
-### Liens et références
+# Liens et références
 
 ## News
 - Liberty Reserve

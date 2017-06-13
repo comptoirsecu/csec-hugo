@@ -19,7 +19,9 @@ tags:
 ---
 Vous pensiez être sauvé de la publicité ? Les marques ne baissent pas les bras si facilement, voici une méthode qui devrait vous forcer à écouter leur accroche, et même à la répéter avec vos petits doigts ! J’ai nommé les CAPTCHAs publicitaires.
 
-### Un Captchquoi ?
+{{<toc>}}
+
+# Un Captchquoi ?
 
 Pour rappel, CAPTCHA signifie : "Completely Automated Public Turing test to tell Computers and Humans Apart". En bref, un mécanisme permettant de s’assurer que le visiteur de la page est bien un humain et non pas une machine.
 
@@ -31,7 +33,7 @@ Et Dieu sait que ces bots nous aiment ! Jugez plutôt :
 
 Heureusement qu’[Akismet](http://akismet.com/) nous facilite le travail et sait séparer le grain de l’ivraie.
 
-### Comment fonctionne un CAPTCHA, exemple de reCAPTCHA
+## Comment fonctionne un CAPTCHA, exemple de reCAPTCHA
 
 Quand on parle de CAPTCHA, vous avez sûrement en tête ces suites de deux mots totalement illisibles :
 
@@ -63,7 +65,7 @@ Pas plus tard qu’hier j’ai dû m’y reprendre à 5 fois avant que LinkedIn 
 
 ![recaptcha-secu](/images/misc/2014-02-recaptcha-secu.jpg)
 
-### À la recherche d’alternatives aux hiéroglyphe
+## À la recherche d’alternatives aux hiéroglyphe
 
 Comment faire autrement ? L’idée est toute bête, plutôt que de nous faire reconnaître du texte, chose pour lequel les ordinateurs sont de plus en plus doués, demandons plutôt de réaliser une action demandant de la compréhension sémantique et de la reconnaissance d’image. Là-dessus, les ordinateurs sont beaucoup, beaucoup moins bons !
 
@@ -83,11 +85,11 @@ C’est là qu’arrivent ces nouveaux CAPTCHA publicitaires, avec des entrepris
 
 ![solvemedia-example](/images/misc/2014-02-solvemedia-example.jpg)
 
-### CAPTCHA et sécurité
+# CAPTCHA et sécurité
 
 Parlons maintenant un peu de l’aspect sécurité des CAPTCHA. J'y vois quatre problèmes potentiels :
 
-#### La mise en forme de ce type de publicités
+## La mise en forme de ce type de publicités
 
 Si toutes les publicités de solvemedia sont du type « Un bandeau publicitaire avec en dessous ‘Please enter : XXX’ », je me dis que cela peut facilement se reconnaître. Ils expliquent disposer de moyens de détection des bots et d’adapter [le CAPTCHA en conséquence](http://www.solvemedia.com/security/index.html). Après tout si le système fonctionne, pourquoi pas ?
 
@@ -95,7 +97,7 @@ Si toutes les publicités de solvemedia sont du type « Un bandeau publicitaire 
 
 ![solvemedia-secu](/images/misc/2014-02-solvemedia-secu.jpg)
 
-#### L'accessibilité pour tous...ou pas
+## L'accessibilité pour tous...ou pas
 
 Les mécanismes d’accessibilité : Quand une alternative est accessible et plus facile, les attaquants n’y réfléchissent pas à deux fois. Le cas typique est le mode "accessibilité" avec reconnaissance vocale pour les aveugles. Il faut être sûr que ces contrôles « accessibles » ne le soient pas pour les bots.
 
@@ -109,7 +111,7 @@ Délocaliser la complétion des CAPTCHA : ne riez pas, c’est déjà en place. 
 
 Ici, à part faire du contrôle sur le volume de CAPTCHA résolu par IP/Zone géographique et mettre en place du ban ou des temps d’attente obligatoires, je ne vois pas de solutions miracles.
 
-#### Problématique d'entropie
+## Problématique d'entropie
 
 Si le captcha n’est pas aléatoire ou qu’il n’y a pas un assez grand pool de combinaison, il est possible d’enregistrer toutes les combinaisons possibles et de faire de la reconnaissance sur une caractéristique différenciant.
 
@@ -119,7 +121,7 @@ Sur ce dernier point, les plus protégés sont sûrement les CAPTCHA publicitair
 
 ![playcaptcha-example](/images/misc/2014-02-playcaptcha-example.jpg)
 
-### Conclusion : Que penser de la nouvelle approche publicitaire ?
+# Conclusion : Que penser de la nouvelle approche publicitaire ?
 
 Dans l’ensemble, je suis assez séduit par l’idée, aussi machiavélique soit-elle, et je suis étonné que cela ne soit pas plus répandu. Je suis d’autant plus étonné étant donné que reCAPTCHA est possédé par Google !
 

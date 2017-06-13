@@ -16,8 +16,8 @@ tags:
   - pebble
   - smartwatch
 ---
-Je vous en parlais dans [l'’épisode 4 du comptoirsecu](https://www.comptoirsecu.fr/2013/09/episode-4-a-cloud-computing-et-google-glass/), le [Nymi](http://www.getnymi.com/) est un outil d’authentification biométrique original, car celui-ci se base sur votre électrocardiogramme.
 
+Je vous en parlais dans [l'’épisode 4 du comptoirsecu](https://www.comptoirsecu.fr/2013/09/episode-4-a-cloud-computing-et-google-glass/), le [Nymi](http://www.getnymi.com/) est un outil d’authentification biométrique original, car celui-ci se base sur votre électrocardiogramme.
 
 Ce projet semble se concrétiser, car il vient de dévoiler son SDK (kit de développement). Nous étions très sceptiques sur la fiabilité de ce genre de facteur et nous le somme toujours. Maintenant si l’outil s’avère fiable et facile d’emploi, il restera le problème de l’esthétique, qui a envie de porter ce genre de bracelet ? Une solution simple serait de l’intégrer dans les smartwatch, ces objets font un léger bide en ce moment (mis à part peut être la Pebble, mais croyez-moi, cela ne devrait pas durer.
 

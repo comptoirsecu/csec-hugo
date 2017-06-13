@@ -32,7 +32,7 @@ Pour cet épisode, nous avons  le plaisir de recevoir une nouvelle fois [Vincen
 
 Bonne écoute !
 
-### //Liens et références
+# Liens et Références
 
 
 - Pour détecter l'arrivée d'une crue :
@@ -50,7 +50,7 @@ Bonne écoute !
 - Pour se former à la préparation de l'entreprise
   - [http://www.maitrisedescrises.com/1046-2/](http://www.maitrisedescrises.com/1046-2/)
 
-### //Musique durant l’émission:
+## Musique durant l’émission:
 
   * [Clark – Matthiew Unburdened](http://throttleclark.com/music/)
   * [Cluprate – Yin](https://culprate.bandcamp.com/album/deliverance)

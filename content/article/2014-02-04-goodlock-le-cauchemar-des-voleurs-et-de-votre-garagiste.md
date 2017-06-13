@@ -17,7 +17,7 @@ tags:
 ---
 Je suis récemment tombé sur un projet Kickstarter assez particulier : [Goodlock](https://www.kickstarter.com/projects/646722247/goodlock-invisible-anti-theft-security-system-for/).
 
-## Qu'est-ce que ça fait concrètement ?
+# Qu'est-ce que ça fait concrètement ?
 
 Vous avez, je pense, tous vu au moins une fois dans un film ou un jeu vidéo un protagoniste faire une suite d'actions anodine, comme appuyer sur un bouton, déplacer un chandelier, soulever un livre de la bibliothèque, et la comme par magie un passage secret s'ouvre ! C'est une forme de mot de passe. Il faut non seulement savoir que ces leviers cachés existent, mais aussi les actionner dans le bon ordre pour ouvrir l'accès.
 
@@ -39,7 +39,7 @@ Tant que cette suite d'action n'est pas réalisée, dans l'ordre, la voiture ref
 
 ![goodlock-actions](/images/misc/2014-02-goodlock-actions.jpg)
 
-## Les mots de passe, c'est comme les sous-vêtements, on ne les partage pas, quoi que...
+# Les mots de passe, c'est comme les sous-vêtements, on ne les partage pas, quoi que...
 
 Le système se veut le plus proche possible d'un mot de passe, et un mot de passe, ça ne se prête pas ! Concernant Gmail ou Facebook, il n'y a aucune raison de fournir votre mot de passe à quelqu'un, pouvez-vous en dire de même de votre voiture ?
 
@@ -55,7 +55,7 @@ Je pense que les gens choisirons par flemme la seconde solution.
 
 Mais après tout, est-ce vraiment catastrophique ? Nous fournissons déjà les clés à ces personnes, nous les considérons donc de confiance.
 
-## Votre mot de passe résistera-t-il aux attaques ?
+# Votre mot de passe résistera-t-il aux attaques ?
 
 Le site annonce près de 13 000 possibilités. Dans ces 13 000 possibilités, il inclut des actions qui à mon avis seront très peu choisies, je pense au klaxon, aux warnings... Les gens préfèreront naturellement les actions qui ont peu d'impact, comme le changement du type de phare, l'appui sur une pédale, le changement du volume de la radio.
 
@@ -69,7 +69,7 @@ Enfin, n'oubliez pas votre mot de passe. À première vue, l'équivalent de la r
 
 Le système par définition ne peut être rapide à neutraliser, sinon les attaquants ne s'attarderont pas à chercher le code et passeront directement à l'étape sabotage.
 
-## Au final, pour ou contre ?
+# Au final, pour ou contre ?
 
 Il est difficile d'être contre une nouvelle mesure de sécurité.
 

@@ -23,7 +23,7 @@ En entreprise, c’est généralement des droits de simple utilisateur, ce qui l
 
 Comme d’habitude, Adobe Flash, Adobe Acrobat Reader et Java sont des cibles de premier choix pour les cybercriminels. Leur taux de présence sur les postes de travail est tellement important que toute vulnérabilité sur une version récente assure un jackpot à malware.
 
-### Comment se protéger ?
+# Comment se protéger ?
 
 Supprimez ces programmes de votre ordinateur. Voilà, fini.
 

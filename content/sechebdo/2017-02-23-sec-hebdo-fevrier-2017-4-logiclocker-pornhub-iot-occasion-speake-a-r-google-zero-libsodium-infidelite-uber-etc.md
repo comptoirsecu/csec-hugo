@@ -36,7 +36,7 @@ Nous venons de tourner le quatrième SEC Hebdo du mois de février 2017 en Live!
 
 A bientôt pour d'autres émissions/podcasts!
 
-**Liste des news:**
+# Liste des news:
 
   * PornHub : quand la censure du porno sur le Google Play pose un problème de sécurité
       * <http://www.numerama.com/tech/234466-pornhub-ransomware-la-censure-du-porno-sur-le-google-play-pose-un-probleme-de-securite.html>

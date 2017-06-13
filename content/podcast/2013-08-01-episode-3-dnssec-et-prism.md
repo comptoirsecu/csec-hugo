@@ -47,7 +47,7 @@ A bientôt pour le quatrième épisode début septembre !
 
 {{< podigee >}}
 
-### Liens et références
+# Liens et références
 
 ## News
 - [Vulnerability allows attackers to modify Android apps without breaking their signatures](http://www.csoonline.com/article/735882/vulnerability-allows-attackers-to-modify-android-apps-without-breaking-their-signatures)

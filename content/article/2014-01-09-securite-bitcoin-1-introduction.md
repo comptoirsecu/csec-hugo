@@ -13,6 +13,7 @@ categories:
 tags:
   - Bitcoin
 ---
+
 Je connais Bitcoin depuis 2010 mais ne m’étais jamais vraiment penché sur son fonctionnement et la sécurité du dispositif. C’est maintenant chose faite et une chose est sûre, le sujet est dense !
 
 Cet article joue le rôle d’introduction aux prochaines publications sur le sujet.
@@ -22,7 +23,7 @@ Bitcoin ne semble pas aux premiers abords un « produit » orienté sécurité o
   1. La sécurité des échanges sans passer par une banque
   2. L’anonymat (toute relative) de ces échanges
 
-## Bitcoin, qu’est ce que c’est ?
+# Bitcoin, qu’est ce que c’est ?
 
 Avant de partir dans les détails sur les deux points cités ci-dessus, certains voudront peut-être se familiariser un peu avec Bitcoin de manière générale. Vous trouverez ci-dessous un ensemble de ressources sur le sujet que j’estime de bonne qualité.
 
