@@ -5,7 +5,7 @@
     {{ end }}
     {{ if .Params.Publisher }}
       {{ $publisher := index .Site.Data.authors .Params.publisher }}
-      par <a href="/authors/{{.Params.publisher}}">{{ $publisher.name }}</a>
+      par <a href="/authors/#{{.Params.publisher}}">{{ $publisher.name }}</a>
     {{ else }}
       par <a href="/authors/comptoirsecu">l'équipe du Comptoir Sécu</a>
     {{ end }}
@@ -15,7 +15,7 @@
       {{ $len := sub (len .) 1  }}
       {{ range $i, $a :=  . }}
         {{ $author := index $.Site.Data.authors $a }}
-         <a href="/authors/{{$a}}">{{ $author.name }}</a>{{ if lt $i (sub $len 1) }}, {{ else }}{{ if lt $i $len }} et {{ else }}.{{ end }}{{ end }}
+         <a href="/authors/{{$a}}/#{{$a}}">{{ $author.name }}</a>{{ if lt $i (sub $len 1) }}, {{ else }}{{ if lt $i $len }} et {{ else }}.{{ end }}{{ end }}
 
       {{ end }}
     </p>
@@ -25,7 +25,7 @@
       {{ $len := sub (len .) 1  }}
       {{ range $i, $g := . }}
           {{ $guest := index $.Site.Data.guests $g }}
-          <a href="/guests/{{ $g | urlize}}">{{ $guest.name }}</a>{{ if lt $i (sub $len 1) }}, {{ else }}{{ if lt $i $len }} et {{ else }}.{{ end }}{{ end }}
+          <a href="/guests/{{ $g | urlize}}/#{{ $g | urlize}}">{{ $guest.name }}</a>{{ if lt $i (sub $len 1) }}, {{ else }}{{ if lt $i $len }} et {{ else }}.{{ end }}{{ end }}
       {{ end }}
     </p>
   {{ end }}
@@ -34,7 +34,7 @@
       {{ $len := sub (len .) 1  }}
       {{ range $i, $s := . }}
           {{ $song := index $.Site.Data.songs $s }}
-          <a href="/songs/{{ $s | urlize}}">{{ $song.song }} ({{ $song.artist}})</a>{{ if lt $i (sub $len 1) }}, {{ else }}{{ if lt $i $len }} et {{ else }}.{{ end }}{{ end }}
+          <a href="/songs/{{ $s | urlize}}/#{{ $s | urlize}}">{{ $song.song }} ({{ $song.artist}})</a>{{ if lt $i (sub $len 1) }}, {{ else }}{{ if lt $i $len }} et {{ else }}.{{ end }}{{ end }}
       {{ end }}
     </p>
   {{ end }}
@@ -43,7 +43,7 @@
       {{ $len := sub (len .) 1  }}
       {{ range $i, $d := . }}
           {{ $drink := index $.Site.Data.drinks $d }}
-          <a href="/drinks/{{ $d | urlize}}">{{ $drink.name }}</a>{{ if lt $i (sub $len 1) }}, {{ else }}{{ if lt $i $len }} et {{ else }}.{{ end }}{{ end }}
+          <a href="/drinks/{{ $d | urlize}}/#{{ $d | urlize}}">{{ $drink.name }}</a>{{ if lt $i (sub $len 1) }}, {{ else }}{{ if lt $i $len }} et {{ else }}.{{ end }}{{ end }}
       {{ end }}
     </p>
   {{ end }}

@@ -4,7 +4,7 @@
   <div class="card-section">
     {{ $img := or .value.image "user-default.jpg" }}
     {{ $imgprefix := substr $img 0 -4 }}
-    <a href="/authors/{{.key}}">
+    <a name="{{.key}}">
       <img src="/images/thumbnails/{{ $img }}"
       srcset="/images/thumbnails/{{ $img }} 1x, /images/thumbnails/{{ $imgprefix }}-@2x.jpg 2x" class="round-avatar" alt="{{ .value.name }}"/>
     </a>
@@ -12,7 +12,7 @@
 
   <!--user info name, bio and location-->
   <div class="card-section card-bio">
-    <h4><a name="{{ .key }}">{{ .value.name }}</a></h4>
+    <h4>{{ .value.name }}</h4>
   </div>
   <div class="card-section card-desc">
     {{ with .value.description }}
@@ -43,7 +43,7 @@
 
   <!--card's follow button-->
   <div class="card-section card-stats">
-    <div class="stat"><a href="/authors/{{.key}}">{{ (index .site.Taxonomies.authors .key).Count }}</a></div>
+    <div class="stat"><a href="/authors/{{.key}}/#{{.key}}">{{ (index .site.Taxonomies.authors .key).Count }}</a></div>
     <p>Contributions</p>
   </div>
 </div>

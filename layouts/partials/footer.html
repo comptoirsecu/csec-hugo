@@ -49,11 +49,11 @@
 
 {{ if in (printf "%v" $.Site.BaseURL) "http://localhost" }}
   <!-- utilisation d'un jquery local quand on dev pour ne pas bug quand on est hors-ligne -->
-  <script src="js/jquery-2.1.4.min.js"></script>
+  <script src="/js/jquery-2.1.4.min.js"></script>
 {{ else }}
     <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
 {{ end }}
-    <script src="js/app.js"></script>
+    <script src="/js/app.js"></script>
     <script>
       $(document).foundation();
     </script>

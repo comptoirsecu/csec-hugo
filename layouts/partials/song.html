@@ -4,7 +4,7 @@
   <div class="card-section" align="center">
     {{ $img := or .value.image "song-default.jpg" }}
     {{ $imgprefix := substr $img 0 -4 }}
-    <a href="/songs/{{.key}}">
+    <a name="{{.key}}">
       <img src="/images/thumbnails/{{ $img }}"
       srcset="/images/thumbnails/{{ $img }} 1x, /images/thumbnails/{{ $imgprefix }}-@2x.jpg 2x" class="round-avatar" alt="{{ .value.artist }}"/>
     </a>
@@ -12,7 +12,7 @@
 
   <!--user info name, bio and location-->
   <div class="card-section card-bio">
-    <h4><a name="{{ .key }}">{{ .value.song }}</a></h4>
+    <h4>{{ .value.song }}</h4>
     <h5 class="subheadline">{{ .value.artist }}</h5>
   </div>
   <div class="card-section card-desc">
@@ -33,7 +33,7 @@
 
   <!--card's follow button-->
   <div class="card-section card-stats">
-    <div class="stat"><a href="/songs/{{.key}}">{{ (index .site.Taxonomies.songs .key).Count }}</a></div>
+    <div class="stat"><a href="/songs/{{.key}}/#{{.key}}">{{ (index .site.Taxonomies.songs .key).Count }}</a></div>
     <p>Interludes</p>
   </div>
 </div>
