@@ -264,7 +264,6 @@ article main
             .textarea {
               min-height: 58px;
               outline: 0;
-
             }
           }
           .auth-section {
@@ -307,7 +306,13 @@ article main
           margin-left: 2em;
           padding-left: 0;
           .avatar {
-            svg { width: 4em; }
+            svg { width: 3em; }
+          }
+
+          .text-wrapper {
+            .isso-comment-header {
+              margin-bottom: 0;
+            }
           }
         }
       }
@@ -334,7 +339,7 @@ article main
 
           //flex-basis: auto !important;
           svg {
-            width: 6em;
+            width: 4em;
             box-shadow: $thumbnail-shadow;
           }
         }
