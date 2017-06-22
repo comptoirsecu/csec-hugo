@@ -3,8 +3,15 @@ languageCode = "fr-FR"
 title = "Le Comptoir Sécu"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "fr"
-copyright = "2017 Le Comptoir Sécu"
+copyright = "© 2017 Le Comptoir Sécu"
 paginate = 12
+rssLimit = 30
+
+[params]
+author = "L'équipe du Comptoir Sécu"
+contact = "contact@comptoirsecu.fr"
+shortDesc = "Le Comptoir Sécu est un podcast traitant de la cybersécurité à travers des dossiers thématiques et des revues de l'actualité spécialisée."
+longDesc = "Animé par 3 jeunes ingénieurs évoluant dans le domaine, ce podcast mensuel traite des différentes problématiques de la sécurité informatique. Toujours dans la bonne humeur, on échange sur l’actualité, réalise des dossiers sur des sujets techniques, partage les opinions de chacuns lors de débats… Alors, n’hésitez pas, et venez nous rejoindre au Comptoir Sécu" 
 
 [permalinks]
 podcast = "/podcast/:title/"
@@ -12,8 +19,6 @@ sechebdo = "/sechebdo/:title/"
 annonce = "/annonce/:title/"
 article = "/article/:title/"
 video = "/video/:title/"
-
-
 
 
 [taxonomies]

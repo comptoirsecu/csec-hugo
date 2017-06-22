@@ -65,7 +65,7 @@ $mediaobject-image-width-stacked: 100% !default;
     display: block;
   }
 
-  img {
+  img, svg {
     width: $mediaobject-image-width-stacked;
   }
 }
@@ -74,7 +74,7 @@ $mediaobject-image-width-stacked: 100% !default;
   .media-object {
     @include media-object-container;
 
-    img {
+    img, svg {
       max-width: none;
     }
 

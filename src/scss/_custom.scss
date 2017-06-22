@@ -229,3 +229,155 @@ article main
 .video-section {
 
 }
+
+
+
+#isso-thread {
+
+
+    h4 {
+      /* title "x comments" */
+      color: $white !important;
+    }
+
+    .isso-postbox {
+      /* post form */
+      .form-wrapper {
+          .textarea-wrapper {
+            /* comment text field */
+            background-color: #fff;
+            color: $black;
+            padding: 0.5em;
+            @include breakpoint(small) {
+              margin: 0.7rem;
+            }
+            @include breakpoint(medium) {
+              margin: 1rem;
+            }
+            border-radius: 0.2em;
+
+            .textarea {
+              min-height: 58px;
+              outline: 0;
+
+            }
+          }
+          .auth-section {
+            @include breakpoint(small) {
+              @include grid-layout(1, '.input-wrapper', $grid-column-gutter);
+            }
+            @include breakpoint(medium) {
+              @include grid-layout(3, '.input-wrapper', $grid-column-gutter);
+            }
+
+
+            /* author, mail and website fields, with submit button */
+            .input-wrapper {
+              /* author, email and website fields */
+            }
+
+            .post-action {
+              /* submit button */
+              input {
+                @include button("true", $button-background, $button-background-hover, $button-color, "hollow");
+                font-weight: bold;
+              }
+              margin-left: 1em;
+              margin-right: 1em;
+            }
+          }
+      }
+    }
+
+
+    #isso-root {
+      .isso-follow-up {
+        /* nested comment */
+        .isso-comment {
+          margin-left: 0;
+          padding-left: 0;
+          .avatar {
+            svg { width: 4em; }
+          }
+        }
+      }
+
+      /* comment list */
+      .isso-comment {
+        @include media-object-container;
+        background-color: $white;
+        border-radius: 0.2em;
+        color: $black;
+        margin: 1em;
+        padding: 0.5em;
+
+        /* comment container */
+        .avatar {
+          @include media-object-section;
+
+
+          //flex-basis: auto !important;
+          svg {
+            width: 6em;
+            box-shadow: $thumbnail-shadow;
+          }
+        }
+        .text-wrapper {
+          @include media-object-section;
+
+          .isso-comment-header {
+            margin-bottom: 1em;
+            .author {
+              color: $black;
+              font-weight: bold;
+            }
+            .permalink {
+              /* 16 minutes ago */
+              color: $dark-gray;
+              font-size: 80%;
+              padding-left: 1em;
+            }
+
+            .spacer {
+              display: none;
+            }
+
+            /* note currently unused */
+            .note {}
+          }
+
+          .text {
+            h1, h2, h3, h4, h5, h6 { color: $black; }
+            margin: 0.1em;
+          }
+
+          .isso-comment-footer {
+            @include button-group("a:nth-child(n)");
+
+            /* vote: currently unused */
+            .vote {}
+            .upvote {}
+            .downvote {}
+
+
+            .reply, .edit, .delete, .cancel {
+              @include button(false, $button-background, $button-background-hover, $button-color, "hollow");
+              padding: 0.5em;
+            }
+            .delete, .cancel {
+              color: red;
+              border-color: red;
+            }
+          }
+
+          .form-wrapper {
+            margin: 1em;
+            background-color: $body-background;
+            padding: 1em;
+            border-radius: 0.2em;
+          }
+        }
+      }
+    }
+
+}

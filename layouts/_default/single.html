@@ -8,7 +8,6 @@
     {{end}}
   </div>
 
-
   <section class=" small-12 medium-10 large-10 column">
     <article class="card">
       <header class="card-divider">
@@ -39,18 +38,18 @@
     {{end}}
   </div>
 </div>
-  <div class="row align-center">
-    <div class="small-6 medium-5 column">
-      {{if .PrevInSection}}
-        <center><a href="{{.PrevInSection.Permalink}}" class="button expanded hollow"><i class="fa fa-arrow-left"></i></a></center>
-      {{end}}
-    </div>
-    <div class="small-6 medium-5 column">
-      {{if .NextInSection}}
-        <center><a href="{{.NextInSection.Permalink}}" class="button expanded hollow"><i class="fa fa-arrow-right"></i></a></center>
-      {{end}}
-    </div>
+<div class="row align-center">
+  <div class="small-6 medium-5 column">
+    {{if .PrevInSection}}
+    <center><a href="{{.PrevInSection.Permalink}}" class="button expanded hollow"><i class="fa fa-arrow-left"></i></a></center>
+    {{end}}
   </div>
+  <div class="small-6 medium-5 column">
+    {{if .NextInSection}}
+    <center><a href="{{.NextInSection.Permalink}}" class="button expanded hollow"><i class="fa fa-arrow-right"></i></a></center>
+    {{end}}
+  </div>
+</div>
 
-
+{{ partial "comments.html" . }}
 {{ partial "footer.html" . }}
