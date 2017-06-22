@@ -304,7 +304,7 @@ article main
       .isso-follow-up {
         /* nested comment */
         .isso-comment {
-          margin-left: 0;
+          margin-left: 2em;
           padding-left: 0;
           .avatar {
             svg { width: 4em; }
@@ -314,17 +314,23 @@ article main
 
       /* comment list */
       .isso-comment {
-        @include media-object-container;
         background-color: $white;
         border-radius: 0.2em;
         color: $black;
         margin: 1em;
         padding: 0.5em;
 
+        /* nested reply form */
+        .form-wrapper {
+          margin: 0.5em 0 0 0 !important;
+          padding: 0.5em 0 0.2em 0 !important;
+        }
+
         /* comment container */
         .avatar {
-          @include media-object-section;
-
+          float: left;
+          display: block;
+          margin-right: 1em;
 
           //flex-basis: auto !important;
           svg {
@@ -333,7 +339,6 @@ article main
           }
         }
         .text-wrapper {
-          @include media-object-section;
 
           .isso-comment-header {
             margin-bottom: 1em;
@@ -342,6 +347,8 @@ article main
               font-weight: bold;
             }
             .permalink {
+              @include breakpoint(small) { display: block; }
+              @include breakpoint(medium) { display: inline; }
               /* 16 minutes ago */
               color: $dark-gray;
               font-size: 80%;
@@ -359,6 +366,9 @@ article main
           .text {
             h1, h2, h3, h4, h5, h6 { color: $black; }
             margin: 0.1em;
+            @include breakpoint(small) { padding-top: 1em }
+            @include breakpoint(medium) { padding-top: 0em; }
+
           }
 
           .isso-comment-footer {
