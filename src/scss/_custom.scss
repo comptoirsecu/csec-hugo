@@ -232,12 +232,17 @@ article main
 
 
 
+
+
+
+
+
 #isso-thread {
 
 
     h4 {
       /* title "x comments" */
-      color: $white !important;
+      color: $white;
     }
 
     .isso-postbox {
@@ -265,6 +270,7 @@ article main
           .auth-section {
             @include breakpoint(small) {
               @include grid-layout(1, '.input-wrapper', $grid-column-gutter);
+              .input-wrapper { margin: 0;}
             }
             @include breakpoint(medium) {
               @include grid-layout(3, '.input-wrapper', $grid-column-gutter);
@@ -282,8 +288,12 @@ article main
                 @include button("true", $button-background, $button-background-hover, $button-color, "hollow");
                 font-weight: bold;
               }
-              margin-left: 1em;
-              margin-right: 1em;
+              @include breakpoint(small) {
+                margin: 0.7rem;
+              }
+              @include breakpoint(medium) {
+                margin: 1rem;
+              }
             }
           }
       }
