@@ -2,7 +2,7 @@
 <div class="card" style="height:100%;">
   <!--card's image-->
   <div class="card-section">
-    {{ $img := or .value.image "drink-default.jpg" }}
+    {{ $img := .value.image | default "drink-default.jpg" }}
     {{ $imgprefix := substr $img 0 -4 }}
     <a name="{{.key}}">
       <img src="/images/thumbnails/{{ $img }}"

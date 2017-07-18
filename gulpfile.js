@@ -102,7 +102,7 @@ gulp.task('img:thumbnails', function() {
           { extname: '-@2x.jpg' } }]},
   {
     withMetadata: false,
-    crop: true,
+    embed: true,
     flatten: true,
     background: "#ECF0F1",
     errorOnEnlargement: false,

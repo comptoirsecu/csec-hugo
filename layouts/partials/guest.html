@@ -3,7 +3,7 @@
   <!--card's image-->
   <div class="card-section">
     <a name="{{.key}}">
-      {{ $img := or .value.image "user-default.jpg" }}
+      {{ $img := .value.image | default "user-default.jpg" }}
       {{ $imgprefix := substr $img 0 -4 }}
       <img src="/images/thumbnails/{{ $img }}"
         srcset="/images/thumbnails/{{ $img }} 1x, /images/thumbnails/{{ $imgprefix }}-@2x.jpg 2x" class="round-avatar" alt="{{ .value.name }}"/>
