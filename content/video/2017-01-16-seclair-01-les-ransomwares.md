@@ -15,6 +15,7 @@ podcast:
     A bientôt pour d'autres émissions/podcasts!"
 image: /images/covers/2017-01-SEClair-01-Les-ransomwares.jpg
 categories:
+  - Podcast
   - SEClair
 tags:
   - podcast

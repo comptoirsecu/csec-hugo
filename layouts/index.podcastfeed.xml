@@ -59,7 +59,7 @@
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
         <itunes:explicit>no</itunes:explicit>
-        {{ range first 30 (where .Data.Pages "Section" "podcast") }}
+        {{ range first 30 .Site.Taxonomies.categories.podcast.Pages }}
         <item>
             <title>[{{ humanize .Section }}] {{ .Title }}</title>
             <link>{{ .Permalink }}</link>
@@ -74,7 +74,7 @@
             <itunes:explicit>No</itunes:explicit>
             <itunes:subtitle>{{ .Params.Subheadline }}</itunes:subtitle>
             <itunes:summary>
-                {{chomp "<![CDATA[\n"}}{{ .Content }}{{chomp "]]>\n"}}
+                {{chomp "<![CDATA[\n"}}{{ .Content  | plainify }}{{chomp "]]>\n"}}
             </itunes:summary>
             <!--<itunes:duration>{{ .Params.podcast.feed }}</itunes:duration>-->
             <itunes:keywords>{{ delimit .Params.tags ", " }}</itunes:keywords>

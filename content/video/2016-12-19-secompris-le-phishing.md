@@ -9,6 +9,7 @@ podcast:
   feed: http://podcast.comptoirsecu.fr/CSEC.HS29.2016-12-19.SECompris_Le_Phishing.mp3
 image: /images/covers/2016-12-vignette.jpg
 categories:
+  - Podcast
   - SECompris
 tags:
   - Phishing

@@ -12,7 +12,7 @@ podcast:
     feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.SECHebdo.2017-05-09.mp3
     description: "SECHebdo est une revue de l'actualité cybersécurité réalisé en live sur Youtube, généralement le mardi soir."
 categories:
- - RSS
+ - Podcast
  - SECHebdo
 tags:
  - Live
