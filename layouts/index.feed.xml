@@ -2,12 +2,6 @@
     xmlns:atom="http://www.w3.org/2005/Atom"
     xmlns:content="http://purl.org/rss/1.0/modules/content/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/play-podcasts.xsd"
-    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-    xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
-    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
     xmlns:webfeeds="http://webfeeds.org/rss/1.0"
     xml:lang='en-US'>
     <channel>
@@ -22,44 +16,22 @@
         <copyright>{{ .Site.Copyright }}</copyright>
         <pubDate>{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" .Site.LastChange }}</pubDate>
         <lastBuildDate>{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" .Site.LastChange }}</lastBuildDate>
-        <itunes:author>{{ .Site.Params.Author }}</itunes:author>
-        <title>{{ .Site.Title }} - Podcasts</title>
+        <title>{{ .Site.Title }}</title>
         <webfeeds:cover image="{{ .Site.BaseURL }}/images/hero-blue.jpg" />
         <webfeeds:icon>{{ .Site.BaseURL }}/images/icon/android-icon-192x192.png</webfeeds:icon>
         <webfeeds:accentColor>3498DB</webfeeds:accentColor>
         <webfeeds:logo>{{ .Site.BaseURL }}/images/logo.png</webfeeds:logo>
         <webfeeds:analytics id="{{ .Site.Params.GoogleAnalyticsID }}" engine="GoogleAnalytics"/>
-        <itunes:subtitle>
-            {{ .Site.Params.shortDesc }}
-        </itunes:subtitle>
         <description>
             {{ .Site.Params.shortDesc }}
         </description>
         <image>
-            <title>{{ .Site.Title }} - Podcasts</title>
+            <title>{{ .Site.Title }}</title>
             <url>{{ .Site.BaseURL }}/images/logo.png</url>
             <link>{{ .Site.BaseURL }}</link>
         </image>
-        <itunes:summary>
-            {{ .Site.Params.longDesc }}
-        </itunes:summary>
-        <itunes:keywords>Cybersécurité, SSI, Vie privée, Infosec, Sécurité, Continuité, SECHebdo, SECompris, SEClair, PoC, Point Sécu, Comptoir</itunes:keywords>
-        <itunes:owner>
-            <itunes:name>{{ .Site.Params.Author }}</itunes:name>
-            <itunes:email>{{ .Site.Params.Contact }}</itunes:email>
-        </itunes:owner>
-        <itunes:image href="{{ .Site.BaseURL }}/images/logo.png" />
-        <itunes:category text="Technology">
-            <itunes:category text="Tech News" />
-        </itunes:category>
-        <rawvoice:frequency>Mensuel</rawvoice:frequency>
-        <rawvoice:subscribe
-            feed="{{ .Site.BaseURL }}/feed/podcast.xml"
-            itunes="https://itunes.apple.com/fr/podcast/id691497996"></rawvoice:subscribe>
-        <sy:updatePeriod>hourly</sy:updatePeriod>
-        <sy:updateFrequency>1</sy:updateFrequency>
-        <itunes:explicit>no</itunes:explicit>
-        {{ range first 30 .Site.Taxonomies.categories.podcast.Pages }}
+
+        {{ range first 30 .Site.Pages }}
         <item>
             <title>[{{ humanize .Section }}] {{ .Title }}</title>
             <link>{{ .Permalink }}</link>
@@ -70,16 +42,6 @@
               {{chomp "<![CDATA[\n"}}{{ .Content }}{{chomp "]]>\n"}}
             </description>
             <enclosure url="{{ .Params.podcast.feed }}" length="1" type="audio/mp3"/>
-            <itunes:author>{{ $.Site.Params.Author }}</itunes:author>
-            <itunes:explicit>No</itunes:explicit>
-            <itunes:subtitle>{{ .Params.Subheadline }}</itunes:subtitle>
-            <itunes:summary>
-                {{chomp "<![CDATA[\n"}}{{ .Content  | plainify }}{{chomp "]]>\n"}}
-            </itunes:summary>
-            <!--<itunes:duration>{{ .Params.podcast.feed }}</itunes:duration>-->
-            <itunes:keywords>{{ delimit .Params.tags ", " }}</itunes:keywords>
-            {{ $img := or .Params.image "/images/covers/default.jpg" }}
-            <itunes:image href="{{ $.Site.BaseURL }}{{ $img }}" />
             <category>{{ .Section }}</category>
         </item>
         {{ end }}
