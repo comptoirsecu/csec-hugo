@@ -17,6 +17,11 @@ tags:
   - live
   - podcast
   - SECHebdo
+
+authors:
+   - morgan
+   - lois
+   - justin
 ---
 
 

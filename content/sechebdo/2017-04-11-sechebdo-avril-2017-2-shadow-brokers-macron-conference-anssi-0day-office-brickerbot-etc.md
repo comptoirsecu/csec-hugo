@@ -43,6 +43,11 @@ chaptermarks:
   "00:59:00": "En bref, OWASP 2017 RC1"
   "01:02:49": "Dossier sur Alternative Telecom"
 
+
+authors:
+   - morgan
+   - lois
+   - justin
 ---
 
 

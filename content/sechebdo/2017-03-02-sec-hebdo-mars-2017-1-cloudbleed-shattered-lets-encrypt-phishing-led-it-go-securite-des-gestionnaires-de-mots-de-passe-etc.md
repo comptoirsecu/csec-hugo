@@ -26,6 +26,11 @@ tags:
   - SHAttered
   - WIN32
   - Yahoo!
+
+
+authors:
+   - morgan
+   - lois
 ---
 
 

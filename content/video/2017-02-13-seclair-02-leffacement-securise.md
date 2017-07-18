@@ -23,6 +23,8 @@ tags:
   - secure erase
   - ssd
 video: https://www.youtube.com/embed/8CCYQpvmu3s
+authors:
+  - morgan
 ---
 
 

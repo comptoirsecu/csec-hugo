@@ -9,6 +9,8 @@ tags:
 - TODO
 title: "[PoC] Le Tabnapping"
 video: https://www.youtube.com/embed/L4orJ_Rk1sY
+authors:
+  - morgan
 ---
 
 Dans PoC (Proof of Concept), nous mettons en pratique des techniques d'attaque utilisé dans le monde de la cybersécurité.

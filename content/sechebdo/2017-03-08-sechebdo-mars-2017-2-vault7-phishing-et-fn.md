@@ -27,6 +27,12 @@ chaptermarks:
   "00:41:25": "85 vulnérabilités dans les NAS WD pas encore patchées"
   "00:44:06": "Collard publie ses mdp sur twitter"
   "00:53:43": "Un rapport sur l'impact du piratage de nos futurs robots"
+
+
+authors:
+   - morgan
+   - lois
+   - justin
 ---
 
 

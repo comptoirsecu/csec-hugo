@@ -21,6 +21,11 @@ tags:
  - Kryptonite
  - SS7
  - Intel
+
+authors:
+ - morgan
+ - lois
+ - justin
 ---
 
 

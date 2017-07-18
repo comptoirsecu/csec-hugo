@@ -32,6 +32,10 @@ tags:
   - Shodan
   - The Dark Overlord
   - Trafic IP
+
+authors:
+  - morgan
+  - lois
 ---
 
 

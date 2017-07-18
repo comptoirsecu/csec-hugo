@@ -23,6 +23,11 @@ tags:
   - SafeCode
   - sec hebdo
   - ZeroDisclo
+
+authors:
+   - morgan
+   - lois
+   - justin
 ---
 
 

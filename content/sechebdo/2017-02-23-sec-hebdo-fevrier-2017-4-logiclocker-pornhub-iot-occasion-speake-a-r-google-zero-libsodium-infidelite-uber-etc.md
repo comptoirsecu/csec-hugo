@@ -24,6 +24,11 @@ tags:
   - sec hebdo
   - Speaker (a) r
   - Uber
+
+authors:
+   - morgan
+   - lois
+
 ---
 
 

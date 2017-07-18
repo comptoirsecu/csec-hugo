@@ -41,6 +41,10 @@ chaptermarks:
   "00:41:38": "Les candidatures pour le prix de l'Innovation sont ouvertes jusqu'à la fin du mois"
   "00:43:58": "En vrac : Mimipenguin & Picoctf"
 
+
+authors:
+   - morgan
+   - lois
 ---
 
 

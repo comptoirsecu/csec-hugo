@@ -26,6 +26,11 @@ tags:
   - prng
   - smb
   - wordpress
+
+authors:
+   - morgan
+   - lois
+
 ---
 
 

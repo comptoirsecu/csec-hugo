@@ -22,6 +22,9 @@ tags:
   - Whaling
   - Youtube
 video: https://www.youtube.com/embed/mqrt9rYzvRY
+
+authors:
+  - morgan
 ---
 
 

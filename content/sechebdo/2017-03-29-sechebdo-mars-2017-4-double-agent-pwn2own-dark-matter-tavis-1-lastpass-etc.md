@@ -39,6 +39,10 @@ chaptermarks:
   "00:51:29": "Troll: Gilbert Collard VS la DGSI... euh Siri"
   "00:53:16": "Découverte de la semaine: Clair"
 
+
+authors:
+   - morgan
+   - lois
 ---
 
 

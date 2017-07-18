@@ -24,6 +24,12 @@ tags:
   - SwitchOdays
   - vault7
   - Verifone
+
+
+authors:
+   - morgan
+   - lois
+   - justin
 ---
 
 
