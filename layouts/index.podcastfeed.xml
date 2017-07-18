@@ -10,7 +10,7 @@
     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
     xml:lang='en-US'>
     <channel>
-        <atom:link href="http://www.comptoirsecu.fr/feed/podcast/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://www.comptoirsecu.fr/feed/podcast.xml" rel="self" type="application/rss+xml" />
         <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=comptoirsecu&amp;popout=1&amp;url=http%3A%2F%2Fwww.comptoirsecu.fr%2F&amp;language=fr_FR&amp;category=audio&amp;title=Le+Comptoir+S%C3%A9cu&amp;description=Le+podcast+qui+traite+des+enjeux+de+la+s%C3%A9curit%C3%A9+informatique.+Podcast+en+CC-BY-NC-SA&amp;tags=blog%2Cpodcast" type="text/html" />
 
 
@@ -42,7 +42,7 @@
             <itunes:name>{{ .Site.Params.Author }}</itunes:name>
             <itunes:email>{{ .Site.Params.Contact }}</itunes:email>
         </itunes:owner>
-        <itunes:image href="{{ .Site.BaseURL }}/logo.png" />
+        <itunes:image href="{{ .Site.BaseURL }}/images/logo.png" />
         <itunes:category text="Technology">
             <itunes:category text="Tech News" />
         </itunes:category>
