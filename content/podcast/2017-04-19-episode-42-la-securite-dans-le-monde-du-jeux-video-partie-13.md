@@ -19,6 +19,24 @@ tags:
   - sécurité
   - studio
   - ubisoft
+
+drinks:
+  - saint_stefanus
+  - vana_tallinn
+  - pietra_bionda
+  - brooklyn_hecla_iron_ale
+
+authors:
+  - lois
+  - justin
+  - morgan
+  - youenn
+
+guests:
+  - fabian_carpintero
+  - guillaume_lapotre
+songs:
+  - various_artists_save_fabric
 ---
 
 Nous commençons une série de 3 épisodes sur le thème de la sécurité du jeux vidéo. Ces épisodes ont été enregistré dans la même soirée, mais nous avons préféré vous les séparer pour ne pas vous assassiner avec un épisode de plus de 3h00 🙂

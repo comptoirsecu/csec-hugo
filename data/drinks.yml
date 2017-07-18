@@ -78,3 +78,38 @@ virgin_bloodymary:
     degree: 0
     image: virgin-bloodymary.jpg
     description: Une version sans alcool du célèbre cocktail Bloody Mary
+
+pietra_bionda:
+    name: Pietra Bionda
+    type: Bière
+    subtype: Blonde
+    country: Corse (France)
+    degree: 5,5
+    image: pietra_bionda.jpg
+    description: Parfait équilibre entre malts pâles, farine de châtaigne et houblons aromatiques, PIETRA BIONDA présente une mousse crème à fines bulles régulières, un corps charpenté et une couleur dorée qui en révèle toute la brillance.
+
+vana_tallinn:
+    name: Vana Tallinn
+    type: Liqueur
+    country: Estonie
+    degree: 40
+    image: vana_tallinn.jpg
+    description: Cette liqueur sucrée est fabriquée à base de rhum aromatisé par diverses épices naturelles, dont l'huile essentielle de citrus, la cannelle ou la vanille.
+
+saint_stefanus:
+    name: Saint Stefanus
+    type: Bière
+    subtype: Blonde
+    country: Belgique
+    image: saint_stefanus.jpg
+    degree: 7
+    description: Une bière belge de type Abbaye, bière vieillie de 3 mois en cave.
+
+brooklyn_hecla_iron_ale:
+    name: Brooklyn Hecla Iron Ale
+    type: Bière
+    subtype: Brune
+    country: USA
+    degree: 3,4
+    image: brooklyn_hecla_iron_ale.jpg
+    description: Bière brune assez décevante

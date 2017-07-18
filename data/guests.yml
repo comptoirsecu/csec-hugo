@@ -26,3 +26,15 @@ barbara_louissidney:
   name: Barbara Louis-Sidney
   linkedin: https://www.linkedin.com/in/1201459332/
   email: barbara@louis-sidney.fr
+
+guillaume_lapotre:
+  description: Security Team Lead @ Ubisoft Montréal
+  name: Guillaume Lapôtre
+  linkedin: https://www.linkedin.com/in/guillaumelapotre/
+  image: guillaume_lapotre.jpg
+
+fabian_carpintero:
+  description: Security Team Lead - Europe @ Ubisoft Montréal
+  name: Fabian Carpintero
+  linkedin: https://www.linkedin.com/in/fabian-carpintero-86097630/
+  image: fabian_carpintero.jpg

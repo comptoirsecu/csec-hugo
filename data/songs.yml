@@ -56,3 +56,10 @@ clozee_howfast:
     song: My Megadrive
     uri: https://soundcloud.com/2080/my-megadrive-3
     image: 2080-mymegadrive.jpg
+
+various_artists_save_fabric:
+    artist: Various Artists
+    song: Save Fabric
+    uri: https://www.fabriclondon.com/store/save-fabric.html
+    image: various_artists_save_fabric.jpg
+    description: Album de protestation contre la fermeture de la Fabric à Londres
