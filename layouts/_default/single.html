@@ -21,7 +21,7 @@
           <iframe width="560" height="315" src="{{ .Params.Video }}" frameborder="0" allowfullscreen></iframe>
         </div>
       {{ else }}
-      <img src="{{with .Params.image }}{{ . }}{{ else }}/images/default.jpg{{end}}" />
+      <img src="{{with .Params.image }}{{ . }}{{ else }}/images/default.jpg{{end}}" class="webfeedsFeaturedVisual" />
       {{ end }}
       <main class="card-section text-justify" id="article-content">
         {{ .Content }}
