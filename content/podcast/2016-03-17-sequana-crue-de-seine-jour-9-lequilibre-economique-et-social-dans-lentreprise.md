@@ -28,7 +28,11 @@ tags:
 
 guests:
   - vincent_balouet
-
+authors:
+    - justin
+    - lois
+    - morgan
+    - youenn
 ---
 
 

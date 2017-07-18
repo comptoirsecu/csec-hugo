@@ -28,7 +28,11 @@ tags:
   - sequana
 guests:
   - vincent_balouet
-
+authors:
+    - justin
+    - lois
+    - morgan
+    - youenn
 ---
 
 Voici le deuxième épisode de notre émission quotidienne portant sur [Sequana](http://www.prefecturedepolice.interieur.gouv.fr/Sequana/), l'exercice organisé par le gouvernement afin de préparer une éventuelle crue de la Seine.
