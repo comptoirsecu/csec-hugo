@@ -5,7 +5,7 @@
       {{ range first 1 (where .Data.Pages "Section" "annonce") }}
           {{ .Render "callout" }}
       {{ end }}
-
+      
     <h2>Derniers Podcasts</h2>
     <div class="row small-up-1 medium-up-2 large-up-3 align-left">
       {{ range first 5 (where .Data.Pages "Section" "podcast") }}

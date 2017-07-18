@@ -10,9 +10,11 @@
     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
     xml:lang='en-US'>
     <channel>
-        <atom:link href="http://www.comptoirsecu.fr/podcast.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://www.comptoirsecu.fr/feed/podcast/index.xml" rel="self" type="application/rss+xml" />
         <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=comptoirsecu&amp;popout=1&amp;url=http%3A%2F%2Fwww.comptoirsecu.fr%2F&amp;language=fr_FR&amp;category=audio&amp;title=Le+Comptoir+S%C3%A9cu&amp;description=Le+podcast+qui+traite+des+enjeux+de+la+s%C3%A9curit%C3%A9+informatique.+Podcast+en+CC-BY-NC-SA&amp;tags=blog%2Cpodcast" type="text/html" />
-        <link>{{ .Site.BaseUrl }}</link>
+
+
+        <link>{{ .Site.BaseURL }}</link>
         <language>fr</language>
         <managingEditor>{{ .Site.Params.Contact }} ({{ .Site.Params.Author }})</managingEditor>
         <webMaster>{{ .Site.Params.Contact }} ({{ .Site.Params.Author }})</webMaster>
@@ -29,8 +31,8 @@
         </description>
         <image>
             <title>{{ .Site.Title }}</title>
-            <url>{{ .Site.BaseUrl }}/images/logo.png</url>
-            <link>{{ .Site.BaseUrl }}</link>
+            <url>{{ .Site.BaseURL }}/images/logo.png</url>
+            <link>{{ .Site.BaseURL }}</link>
         </image>
         <itunes:summary>
             {{ .Site.Params.longDesc }}
@@ -46,12 +48,12 @@
         </itunes:category>
         <rawvoice:frequency>Mensuel</rawvoice:frequency>
         <rawvoice:subscribe
-            feed="{{ .Site.BaseURL }}/podcast.xml"
+            feed="{{ .Site.BaseURL }}/feed/podcast/index.xml"
             itunes="https://itunes.apple.com/fr/podcast/id691497996"></rawvoice:subscribe>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
         <itunes:explicit>no</itunes:explicit>
-        {{ range first 30 (where .Site.Pages "Category" "podcast") }}
+        {{ range first 30 (where .Data.Pages "Section" "podcast") }}
         <item>
             <title>[{{ humanize .Section }}] {{ .Title }}</title>
             <link>{{ .Permalink }}</link>
@@ -59,14 +61,14 @@
             <!-- <comments>{{ .Permalink }}#comments</comments> -->
             <guid>{{ .Permalink }}</guid>
             <description>
-                {{ .Summary }}
+              {{chomp "<![CDATA[\n"}}{{ .Content }}{{chomp "]]>\n"}}
             </description>
             <enclosure url="{{ .Params.podcast.feed }}" length="1" type="audio/mp3"/>
             <itunes:author>{{ $.Site.Params.Author }}</itunes:author>
             <itunes:explicit>No</itunes:explicit>
             <itunes:subtitle>{{ .Params.Subheadline }}</itunes:subtitle>
             <itunes:summary>
-                {{ .Summary }}
+                {{chomp "<![CDATA[\n"}}{{ .Content }}{{chomp "]]>\n"}}
             </itunes:summary>
             <!--<itunes:duration>{{ .Params.podcast.feed }}</itunes:duration>-->
             <itunes:keywords>{{ delimit .Params.tags ", " }}</itunes:keywords>
