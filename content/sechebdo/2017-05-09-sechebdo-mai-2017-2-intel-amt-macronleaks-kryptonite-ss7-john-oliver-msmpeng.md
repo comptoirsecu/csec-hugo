@@ -3,7 +3,7 @@
 title: "[SECHebdo] Mai 2017 - 2"
 subheadline: "Intel AMT, MacronLeaks, Kryptonite, SS7, John Oliver, MsMpEng"
 publisher: justin
-date: 2017-05-09T00:00:00+00:00
+date: 2017-05-09
 video: https://www.youtube.com/embed/pJvi6gJYCVY
 
 aliases: /2017/05/sechebdo-mai-2017-2-intel-amt-macronleaks-kryptonite-ss7-john-oliver-msmpeng/
@@ -26,10 +26,23 @@ authors:
  - morgan
  - lois
  - justin
+
+chaptermarks:
+  "00:02:10": Malware Mac
+  "00:05:30": Intel AMT
+  "00:11:18": Bypass 2FA par SMS via SS7
+  "00:17:00": Hack de Macron? MacronLeaks
+  "00:25:20": Nouvelle Vulnérabilité Critique Sur Windows Par Project Zero
+  "00:35:20": Google Oauth
+  "00:40:00": John oliver et net neutrality
+  "00:45:00": CVE-2016-10229
+  "00:48:00": "Découverte de la semaine: Kryptonite"
 ---
 
 
 Nous venons de tourner le second SECHebdo du mois de mai 2017 sur Youtube. Comme d'habitude, si vous avez raté l'enregistrement, vous pouvez le retrouver sur notre chaîne Youtube ou bien au format podcast audio:
+
+{{< chaptermarks >}}
 
 {{< podigee >}}
 
@@ -64,5 +77,5 @@ A bientôt pour d'autres émissions/podcasts!
       * <https://www.youtube.com/watch?v=92vuuZt7wak>
   * 45:00 CVE-2016-10229
       * <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-10229>
-  * 48:00 Decouverte de la semaine: Kryptonite?
+  * 48:00 Decouverte de la semaine: Kryptonite
       * <https://krypt.co/>
