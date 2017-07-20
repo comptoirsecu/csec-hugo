@@ -6,6 +6,8 @@ DefaultContentLanguage = "fr"
 copyright = "© 2017 Le Comptoir Sécu"
 paginate = 12
 rssLimit = 30
+enableRobotsTXT = true
+
 
 [params]
 author = "L'équipe du Comptoir Sécu"
