@@ -1,4 +1,5 @@
 <!-- https://posativ.org/isso/docs/configuration/client/ -->
+
 <script data-isso="https://isso.infosecgur.us/"
         data-isso-css="false"
         data-isso-lang="fr"
@@ -17,6 +18,10 @@
 
 <div class="row align-center">
   <div class="small-12 medium-10 column">
-    <section id="isso-thread" data-title="Vos réactions" data-isso-id="{{ $.URL }}"></section>
+    <h4>Vos réactions</h4>
+    <section id="isso-thread" data-isso-title="{{ $.Title }}"></section>
   </div>
 </div>
+<script>
+  document.getElementById("isso-thread").setAttribute("data-isso-id", decodeURIComponent(window.location.pathname));
+</script>
