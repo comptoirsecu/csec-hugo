@@ -1,9 +1,9 @@
 ---
-title: ""
+title: "[Épisode XX] TITRE"
 subheadline: ""
 publisher: comptoirsecu
-
-image:  /images/2017/MM/IMAGE.jpg
+date: {{ dateFormat "2006-01-02" .Date }}
+image:  /images/covers/{{ dateFormat "2006-01-02" .Date }}.jpg
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/FILE.mp3
 categories:

@@ -2,10 +2,10 @@
 title: ""
 subheadline: ""
 publisher:
-
+date: {{ dateFormat "2006-01-02" .Date }}
+image:  /images/covers/{{ dateFormat "2006-01-02" .Date }}.jpg
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/filename.mp3
-image:  /images/yyyy/mm/image.jpg
 categories:
   - SEClair
   - SECompris
