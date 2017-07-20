@@ -1,6 +1,6 @@
 ---
 
-title: "[Episode 6] User-friendly, Madame Michu  Google Cars"
+title: "[Épisode 6] User-friendly, Madame Michu  Google Cars"
 date: 2013-10-20T21:16:10+00:00
 publisher: justin
 

@@ -1,6 +1,6 @@
 ---
 
-title: "[Episode 10] Caméras de surveillance et Li-Fi"
+title: "[Épisode 10] Caméras de surveillance et Li-Fi"
 date: 2013-12-23T08:30:43+00:00
 publisher: justin
 

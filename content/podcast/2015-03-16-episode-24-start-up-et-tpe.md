@@ -1,5 +1,5 @@
 ---
-title: "[Episode 24] Start-up et TPE"
+title: "[Épisode 24] Start-up et TPE"
 date: 2015-03-16T14:08:58+00:00
 publisher: justin
 

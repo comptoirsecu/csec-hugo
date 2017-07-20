@@ -1,6 +1,6 @@
 ---
 
-title: "[Episode 17] Bring Your Own Suze"
+title: "[Épisode 17] Bring Your Own Suze"
 date: 2014-04-16T11:44:51+00:00
 publisher: justin
 

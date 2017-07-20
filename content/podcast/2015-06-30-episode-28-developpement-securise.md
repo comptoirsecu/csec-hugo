@@ -1,6 +1,6 @@
 ---
 
-title: "[Episode 28] Développement sécurisé"
+title: "[Épisode 28] Développement sécurisé"
 date: 2015-06-30T21:22:14+00:00
 publisher: justin
 

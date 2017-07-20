@@ -1,6 +1,6 @@
 ---
 
-title: "[Episode 23] Actualités Février"
+title: "[Épisode 23] Actualités Février"
 date: 2015-03-01T20:28:44+00:00
 publisher: justin
 

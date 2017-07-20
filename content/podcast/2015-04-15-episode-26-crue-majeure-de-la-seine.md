@@ -1,5 +1,5 @@
 ---
-title: "[Episode 26] Crue Majeure de la Seine"
+title: "[Épisode 26] Crue Majeure de la Seine"
 date: 2015-04-15T17:23:05+00:00
 publisher: justin
 

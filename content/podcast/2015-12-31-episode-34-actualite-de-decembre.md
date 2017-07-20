@@ -1,6 +1,6 @@
 ---
 
-title: "[EPISODE 34] Actualité de Décembre"
+title: "[Épisode 34] Actualité de Décembre"
 date: 2015-12-31T21:55:52+00:00
 publisher: lois
 

@@ -1,5 +1,5 @@
 ---
-title: "[Episode 30] l'ARJEL"
+title: "[Épisode 30] l'ARJEL"
 date: 2015-08-07T17:58:49+00:00
 publisher: lois
 

@@ -1,6 +1,6 @@
 ---
 
-title: "[Episode 15] Juridique"
+title: "[Épisode 15] Juridique"
 subheadline: réponse à incident et LPM
 date: 2014-02-26T10:00:21+00:00
 publisher: youenn

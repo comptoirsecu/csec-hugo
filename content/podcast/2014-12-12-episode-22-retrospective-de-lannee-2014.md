@@ -1,6 +1,6 @@
 ---
 
-title: "[Episode 22] Notre rétrospective de l'année 2014"
+title: "[Épisode 22] Notre rétrospective de l'année 2014"
 date: 2014-12-12T11:52:26+00:00
 publisher: lois
 

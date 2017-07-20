@@ -1,6 +1,6 @@
 ---
 
-title: "[Episode 32] Actualité Octobre"
+title: "[Épisode 32] Actualité Octobre"
 date: 2015-11-05T12:11:52+00:00
 publisher: justin
 

@@ -1,6 +1,6 @@
 ---
 
-title: "[Episode 33] Le réglement européen eIDAS"
+title: "[Épisode 33] Le réglement européen eIDAS"
 date: 2015-11-30T08:30:34+00:00
 publisher: lois
 

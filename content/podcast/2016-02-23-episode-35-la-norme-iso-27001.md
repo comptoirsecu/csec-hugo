@@ -1,6 +1,6 @@
 ---
 
-title: "[Episode 35] La norme ISO 27001"
+title: "[Épisode 35] La norme ISO 27001"
 date: 2016-02-23T09:30:33+00:00
 publisher: lois
 

@@ -1,6 +1,6 @@
 ---
 
-title: "[Episode 29] Actualité Juin"
+title: "[Épisode 29] Actualité Juin"
 date: 2015-07-15T15:26:41+00:00
 publisher: justin
 
