@@ -406,3 +406,36 @@ article main
     }
 
 }
+
+$card-border-bottom-size: 5px;
+
+.podcast-section {
+  border-bottom-width: $card-border-bottom-size;
+}
+.emission-category {
+    border-bottom-color: #ee4036;
+}
+.hors-serie-category {
+    border-bottom-color: #6c6c74;
+}
+
+
+.sechebdo-section {
+  border-bottom-width: $card-border-bottom-size;
+  border-bottom-color: #d6b486;
+}
+
+.video-section {
+  border-bottom-width: $card-border-bottom-size;
+}
+
+.seclair-category {
+    border-bottom-color: #fbac1d;
+}
+
+.secompris-category {
+    border-bottom-color: #00a1d9;
+}
+.poc-category {
+    border-bottom-color: #3dbb7e;
+}
