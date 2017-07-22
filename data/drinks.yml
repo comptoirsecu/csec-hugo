@@ -122,3 +122,38 @@ seizesoixantequatre:
     degree: 5,5
     image: 1664.jpg
     description: Bière blonde classique
+
+peroni_nastro_azzurro:
+    name: Peroni Nastro Azzurro
+    type: Bière
+    subtype: Blonde
+    country: Italie
+    degree: 5,5
+    image: peroni_nastro_azzurro.jpg
+    description: Bière blonde italienne
+
+gotlands_wisby_stout:
+  name: Gotlands Wisby Stout
+  type: Bière
+  subtype: Stout
+  country: Suède
+  degree: 5
+  image: wisby_stout.jpg
+
+grimbergen_blonde:
+  name: Grimbergen
+  type: Bière
+  subtype: Blonde
+  country: Belgique
+  degree: 6,7
+  image: grimbergen-blonde.jpg
+  description: La blonde est une bière à la robe jaune d'or limpide. Elle se pare d'une mousse dense et abondante de couleur crème. Elle développe un nez malté et relativement fruité avec des pointes rappelant certaines épices comme le clou de girofle.
+
+greenbullet_triple_ipa:
+  name: Green Bullet
+  type: Bière
+  subtype: IPA
+  country: USA
+  degree: 10,1
+  image: green_bullet_ipa.jpg
+  description: Une bière de type double IPA dévoilant une amertume franche et des arômes de mangues et d'ananas.

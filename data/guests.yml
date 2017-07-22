@@ -59,3 +59,17 @@ frederic_saulet:
   twitter: https://twitter.com/fredericsaulet
   linkedin: https://www.linkedin.com/in/cguiriec/
   image: frederic_saulet.jpg
+
+emmannuel_gras:
+  description: Co-fondateur @ Alsid
+  name: Emmanuel Gras
+  linkedin: https://www.linkedin.com/in/emmanuelgras/
+  image: emmanuel_gras.jpg
+  uri: https://alsid.it/
+
+luc_delsalle:
+  description: CTO & Co-fondateur @ Alsid
+  name: Luc Delsalle
+  linkedin: https://www.linkedin.com/in/lucdelsalle/
+  image: luc_delsalle.jpg
+  uri: https://alsid.it/

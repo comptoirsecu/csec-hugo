@@ -20,6 +20,11 @@ tags:
   - ssi
   - usecase
 
+authors:
+  - lois
+  - justin
+  - youenn
+
 guests:
   - benoit_fuzeau
   - clement_guiriec
@@ -49,7 +54,3 @@ P.S: Cette semaine, il n'y aura pas de SECHebdo
 Notre discord pour échanger : <http://discord.comptoirsecu.fr>
 
 {{< podigee >}}
-
-## Les interludes musicales de l'épisode :
-
-  * [clip](http://www.knowermusic.com/" >The Govt. Knows – Knower</a> avec le <a href="https://www.youtube.com/watch?v=4zH9Zca1vRM) à voir absolument 🙂

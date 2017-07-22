@@ -84,3 +84,17 @@ the_govt_knows_knower:
   album: Life
   uri: https://www.youtube.com/watch?v=4zH9Zca1vRM
   image: knower_life.jpg
+
+snowghosts_undertow:
+  artist: Snow Ghosts
+  song: Undertow
+  album: Husk
+  uri: https://snowghosts.bandcamp.com/track/undertow
+  image: snowghosts_husk.jpg
+
+snowghosts_thefleet:
+  artist: Snow Ghosts
+  song: The Fleet
+  album: The Fleet
+  uri: https://snowghosts.bandcamp.com/album/the-fleet
+  image: snowghosts_thefleet.jpg

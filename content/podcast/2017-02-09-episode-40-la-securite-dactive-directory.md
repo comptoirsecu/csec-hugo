@@ -2,7 +2,7 @@
 
 title: "[Épisode 40] La sécurité d'Active Directory"
 subheadline: "Si l'AD est compromis, c'est Game Over"
-publisher: lois
+publisher: comptoirsecu
 date: 2017-02-09T00:00:00+00:00
 
 aliases: /2017/02/episode-40-la-securite-dactive-directory/
@@ -18,6 +18,27 @@ tags:
   - alsid
   - ANSSI
   - podcast
+
+authors:
+  - lois
+  - justin
+  - morgan
+  - youenn
+
+guests:
+  - emmannuel_gras
+  - luc_delsalle
+
+drinks:
+  - peroni_nastro_azzurro
+  - gotlands_wisby_stout
+  - grimbergen_blonde
+  - greenbullet_triple_ipa 
+
+songs:
+  - snowghosts_undertow
+  - snowghosts_thefleet
+
 ---
 
 Pour ce 40ème épisode, nous avons décidé de faire un dossier sur un sujet dont l'on parle peu mais qui est central au sein du système d'information: l'Active Directory.
@@ -39,7 +60,3 @@ Durant l'épisode, nous échangeons sur :
 Bonne écoute à vous !
 
 {{< podigee >}}
-
-## Les interludes musicales de l'épisode :
-
-  * [Snow Ghosts – Undertow et The Fleet](https://snowghosts.bandcamp.com/album/husk)

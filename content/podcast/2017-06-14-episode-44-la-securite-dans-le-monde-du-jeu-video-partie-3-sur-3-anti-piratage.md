@@ -1,9 +1,4 @@
 ---
-authors:
-- justin
-- morgan
-- youenn
-- lois
 categories:
 - Podcast
 - Emission
@@ -22,6 +17,12 @@ tags:
   - DRM
   - Jeux vidéo
   - Ubisoft
+
+authors:
+  - lois
+  - justin
+  - morgan
+  - youenn
 
 title: "[Épisode 43] La sécurité dans le monde du jeu-vidéo - Partie 3 sur 3"
 
