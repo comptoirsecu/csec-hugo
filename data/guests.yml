@@ -38,3 +38,24 @@ fabian_carpintero:
   name: Fabian Carpintero
   linkedin: https://www.linkedin.com/in/fabian-carpintero-86097630/
   image: fabian_carpintero.jpg
+
+benoit_fuzeau:
+  description: RSSI @ Casden Banque Populaire
+  name: Benoit Fuzeau
+  linkedin: https://www.linkedin.com/in/benoit-fuzeau-6a066948/
+  twitter: https://twitter.com/bfuzeau
+  image: benoit_fuzeau.jpg
+
+clement_guiriec:
+  description: Managed Security Services Manager @ Intrinsec
+  name: Clément Guiriec
+  twitter: https://twitter.com/cguiriec
+  linkedin: https://www.linkedin.com/in/cguiriec/
+  image: clement_guiriec.jpg
+
+frederic_saulet:
+  description: Regional Director South Europe, Middle East, Africa @ LogPoint
+  name: Frédéric Saulet
+  twitter: https://twitter.com/fredericsaulet
+  linkedin: https://www.linkedin.com/in/cguiriec/
+  image: frederic_saulet.jpg

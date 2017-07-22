@@ -113,3 +113,12 @@ brooklyn_hecla_iron_ale:
     degree: 3,4
     image: brooklyn_hecla_iron_ale.jpg
     description: Bière brune assez décevante
+
+seizesoixantequatre:
+    name: "1664"
+    type: Bière
+    subtype: Blonde
+    country: France
+    degree: 5,5
+    image: 1664.jpg
+    description: Bière blonde classique

@@ -2,7 +2,7 @@
 
 title: "[Épisode 41] Le SIEM & le SOC"
 
-publisher: lois
+publisher: comptoirsecu
 date: 2017-03-22T00:00:00+00:00
 
 aliases: /2017/03/episode-41-le-siem-le-soc/
@@ -12,23 +12,44 @@ image: /images/covers/2017-03-SOC.jpg
 categories:
   - Podcast
   - Emission
+
 tags:
   - podcast
   - siem
   - soc
   - ssi
   - usecase
+
+guests:
+  - benoit_fuzeau
+  - clement_guiriec
+  - frederic_saulet
+
+drinks:
+  - seizesoixantequatre
+
+songs:
+  - the_govt_knows_knower
 ---
 
 Pour ce 41ème épisode, nous avons voulu échanger sur les sujets du SIEM et du SOC: que font-ils et quels sont les différences ? Comment les mettre en place ? Est-ce utile pour son organisation ?
 
 <!--more-->
 
-Pour cela, nous avons fait appel à trois invités, ayant chacun un angle différent sur le sujet :
+Pour cela, nous avons fait appel à trois invités, ayant chacun un angle différent sur le sujet :  
 
-  * [Benoit Fuzeau](https://twitter.com/bfuzeau), RSSI de la Casden Banque Populaire
-  * [Clément Guiriec](https://twitter.com/cguiriec), responsable des Services Managés d'INTRINSEC (le SOC, le CERT et la cellule de Threat Intelligence)
-  * [Frédéric Saulet](https://twitter.com/fredericsaulet), en charge des opérations de l'Europe du Sud pour LogPoint, éditeur de SIEM
+  * Benoit Fuzeau, RSSI de la Casden Banque Populaire ;
+  * Clément Guiriec, responsable des Services Managés d'INTRINSEC (le SOC, le CERT et la cellule de Threat Intelligence) ;
+  * Frédéric Saulet, en charge des opérations de l'Europe du Sud pour LogPoint, éditeur de SIEM.
+
+
+    songs:
+    - the_govt_knows_knower
+
+
+  drinks:
+    - seizesoixantequatre
+
 
 Bonne écoute à vous !
 

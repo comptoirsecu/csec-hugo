@@ -77,3 +77,10 @@ artist_of_the_year_yeah:
   album: Wreck la discothèque
   uri: https://artistoftheyear.bandcamp.com/album/wreck-la-discotheque
   image: artist_of_the_year_yeah.jpg
+
+the_govt_knows_knower:
+  artist: Knower
+  song: The Govt. Knows
+  album: Life
+  uri: https://www.youtube.com/watch?v=4zH9Zca1vRM
+  image: knower_life.jpg
