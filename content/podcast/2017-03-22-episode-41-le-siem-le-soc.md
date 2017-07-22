@@ -42,15 +42,6 @@ Pour cela, nous avons fait appel à trois invités, ayant chacun un angle diffé
   * Clément Guiriec, responsable des Services Managés d'INTRINSEC (le SOC, le CERT et la cellule de Threat Intelligence) ;
   * Frédéric Saulet, en charge des opérations de l'Europe du Sud pour LogPoint, éditeur de SIEM.
 
-
-    songs:
-    - the_govt_knows_knower
-
-
-  drinks:
-    - seizesoixantequatre
-
-
 Bonne écoute à vous !
 
 P.S: Cette semaine, il n'y aura pas de SECHebdo
