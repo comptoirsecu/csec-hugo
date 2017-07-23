@@ -101,3 +101,36 @@ thierry_rouquet:
   linkedin: https://www.linkedin.com/in/thierryrouquet/
   twitter: thierryrouquet
   image: thierry_rouquet.jpg
+
+jpgaulier:
+  description: RSSI @Orange & Président @OSSIR & Contributeur @NoLimitSecu
+  name: Jean-Philippe Gaulier
+  linkedin: https://www.linkedin.com/in/jean-philippe-gaulier-8314aba/
+  twitter: jpgaulier
+  uri: http://jp.gaulier.info/
+  image: jpgaulier.jpg
+
+ndh_kids:
+  description: Il s’agit d'ateliers créatifs et ludiques pour les jeunes (8 à 16 ans) curieux et débrouillards lors de la Nuit du Hack.
+  name: NDH Kids
+  twitter: NDH_Kids
+  uri: https://www.nuitduhack.com/fr/2017-edition/ndh-kids
+  image: ndhkids.jpg
+
+renaud_lifchitz:
+  description: Consultant en Sécurité informatique & IoT expert @ Digital Security
+  name: Renaud Lifchitz
+  twitter: nono2357
+  linkedin: https://www.linkedin.com/in/renaudlifchitz/
+  image: renaud_lifchitz.jpg
+
+thomas_aubin:
+  description: Etudiant @ ESIEA
+  name: Thomas Aubin
+  twitter: aubinthomas61
+  linkedin: https://www.linkedin.com/in/thomasaubin/
+  image: thomas_aubin.jpg
+
+paul_hernault:
+  description: Etudiant @ ESIEA
+  name: Paul Herbault

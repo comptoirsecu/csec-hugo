@@ -1,9 +1,8 @@
 ---
 
-title: "[NDH2016] Retour général avec NoLimitSécu"
+title: "Nuit du Hack 2016 : Retour général avec NoLimitSecu"
 date: 2016-09-16T19:36:51+00:00
-publisher: morgan
-
+publisher: comptoirsecu
 
 aliases: /2016/09/ndh2016-retour-general-avec-nolimitsecu/
 podcast:
@@ -17,8 +16,16 @@ tags:
   - live
   - ndh2k16
   - nolimitsecu
-  - podcast
+
+authors:
+  - lois
+  - justin
+  - morgan
+  - youenn
+
+guests:
+  - nolimitsecu
 ---
-C'est presque devenu une tradition, pour ce dernier épisode enregistré en live à la Nuit du Hack 2016 nous faisons un retour général de la conférence avec nos confrères de [NoLimitSécu](https://www.nolimitsecu.fr/).
+C'est presque devenu une tradition, pour ce dernier épisode enregistré en live à la Nuit du Hack 2016, nous faisons un retour général de la conférence avec nos confrères de NoLimitSecu.
 
 {{< podigee >}}

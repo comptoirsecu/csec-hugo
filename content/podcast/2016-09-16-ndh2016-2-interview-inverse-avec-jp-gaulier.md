@@ -1,9 +1,8 @@
 ---
 
-title: "[NDH2016] 2 – Interview inversé avec JP Gaulier"
+title: "Nuit du Hack 2016 - 2 : Interview inversé avec JP Gaulier"
 date: 2016-09-16T19:16:37+00:00
-publisher: morgan
-
+publisher: comptoirsecu
 
 aliases: /2016/09/ndh2016-2-interview-inverse-avec-jp-gaulier/
 podcast:
@@ -15,11 +14,16 @@ categories:
   - Hors-Serie
 tags:
   - ndh2k16
-  - podcast
+
+guests:
+  - jpgaulier
+
+authors:
+  - justin
+  - morgan
 ---
 Second épisode enregistré en live à la Nuit du Hack 2016.
 
-Dans cette épisode nous <del>nous entretenons avec</del> faisons interviewer par notre cher [@JPGaulier](https://twitter.com/jpgaulier).
-
+Dans cette épisode nous <del>nous entretenons avec</del> faisons interviewer par notre cher Jean-Philippe Gaulier.
 
 {{< podigee >}}
