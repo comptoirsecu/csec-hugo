@@ -157,3 +157,22 @@ greenbullet_triple_ipa:
   degree: 10,1
   image: green_bullet_ipa.jpg
   description: Une bière de type double IPA dévoilant une amertume franche et des arômes de mangues et d'ananas.
+
+vezelay_blanche:
+  name: Vazelay Blanche bio sans gluten
+  type: Bière
+  subtype: Sans gluten
+  subtype: Blanche
+  country: France
+  degree: 4,4
+  image: vezelay_blanche.jpg
+  description: La Blanche Sans Gluten de Vézelay est une bière typique de Bavière au style Hefeweizen allemand, alliant la non filtration et la non pasteurisation. Elle possède une robe jaune pâle et à la fine mousse blanche qui dévoile des arômes de malts d'orge et de blé avec des notes fruitées pour des saveurs de malt et de citron.
+
+carlsberg_elephant:
+  name: Carlsberg Eléphant
+  type: Bière
+  subtype: Lager
+  country: Danemark
+  degree: 7,2
+  image: carlsberg_elephant.jpg
+  description: Elle offre au nez des arômes de malt évoquant les céréales et la paille et de légères senteurs herbacées. En bouche, on retrouve des saveurs maltées qui sont suivies de notes herbacées et d'une fine amertume.

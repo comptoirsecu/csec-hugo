@@ -2,17 +2,25 @@
 
 title: "[Épisode 39] Mirai, le botnet d'objets connectés"
 date: 2016-10-31T22:42:42+00:00
-publisher: morgan
-
+publisher: comptoirsecu
 
 aliases: /2016/10/episode-39-mirai-le-botnet-dobjets-connectes/
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP39.2016-10-31.MIRAI.mp3
 views: 2540
+
 image: /images/covers/2016-10-mirai.jpg
+
+authors:
+  - lois
+  - justin
+  - morgan
+  - youenn
+
 categories:
   - Podcast
   - Emission
+
 tags:
   - Botnet
   - ddos
@@ -23,8 +31,14 @@ tags:
   - objets connectés
   - ovh
   - podcast
----
 
+songs:
+  - unkle_ablivion
+
+drinks:
+  - carlsberg_elephant
+  - vezelay_blanche
+---
 Pour ce 39ème épisode, nous avons concocté un sujet lié à l'actualité : **Mirai**, le fameux botnet qui tord le bras à pas mal d'acteurs majeurs du web à grand coup de DDoS ces dernières semaines.
 
 Durant l'épisode, nous :
@@ -55,7 +69,3 @@ Bonne écoute à vous !
   * [http://qz.com/820003/dyn-dns-ddos-the-mirai-botnet-is-smaller-than-originally-thought/](http://qz.com/820003/dyn-dns-ddos-the-mirai-botnet-is-smaller-than-originally-thought/)
   * [https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=19be0eaffa3ac7d8eb6784ad9bdbc7d67ed8e619](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=19be0eaffa3ac7d8eb6784ad9bdbc7d67ed8e619)
   * [https://en.wikipedia.org/wiki/Shut_Up_and_Dance_(Black_Mirror)](https://en.wikipedia.org/wiki/Shut_Up_and_Dance_(Black_Mirror)) Episode 3, pas 5 😉
-
-## Les interludes musicales de l'épisode :
-
-  * [UNKLE – Ablivion (sur l'album Where Did the Night Fall)](https://www.discogs.com/UNKLE-Where-Did-The-Night-Fall/master/247018)

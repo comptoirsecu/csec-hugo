@@ -1,7 +1,7 @@
 ---
 title: '[SECHebdo] 18 Juillet 2017'
 subheadline: "NTLM Relay, Cisco WebEX, Google 2FA, ToS, Coût d'une cyberattaque, HumbleBundle, etc."
-publisher: lois
+publisher: comptoirsecu
 aliases: /2017/07/sechebdo-18-juillet-2017-ntlm-relay-cisco-webex-google-2fa-tos-cout-dune-cyberattaque-humblebundle-etc/
 date: 2017-07-18
 image:  /images/covers/2017-07-18.jpg
