@@ -43,20 +43,20 @@ benoit_fuzeau:
   description: RSSI @ Casden Banque Populaire
   name: Benoit Fuzeau
   linkedin: https://www.linkedin.com/in/benoit-fuzeau-6a066948/
-  twitter: https://twitter.com/bfuzeau
+  twitter: bfuzeau
   image: benoit_fuzeau.jpg
 
 clement_guiriec:
   description: Managed Security Services Manager @ Intrinsec
   name: Clément Guiriec
-  twitter: https://twitter.com/cguiriec
+  twitter: cguiriec
   linkedin: https://www.linkedin.com/in/cguiriec/
   image: clement_guiriec.jpg
 
 frederic_saulet:
   description: Regional Director South Europe, Middle East, Africa @ LogPoint
   name: Frédéric Saulet
-  twitter: https://twitter.com/fredericsaulet
+  twitter: fredericsaulet
   linkedin: https://www.linkedin.com/in/cguiriec/
   image: frederic_saulet.jpg
 
@@ -73,3 +73,11 @@ luc_delsalle:
   linkedin: https://www.linkedin.com/in/lucdelsalle/
   image: luc_delsalle.jpg
   uri: https://alsid.it/
+
+nolimitsecu:
+  description: NoLimitSecu est un podcast indépendant, animé par des personnes passionnées qui sont parties prenantes dans le domaine de la cybersécurité à des rôles et dans des entreprises diverses.
+  name: NoLimitSecu
+  twitter: nolimitsecu
+  image: nolimitsecu.jpg
+  uri: https://www.nolimitsecu.fr/
+  email: nolimitsecu@nolimitsecu.fr

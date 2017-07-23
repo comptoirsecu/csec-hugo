@@ -30,7 +30,6 @@ tags:
   - mirai
   - objets connectés
   - ovh
-  - podcast
 
 songs:
   - unkle_ablivion

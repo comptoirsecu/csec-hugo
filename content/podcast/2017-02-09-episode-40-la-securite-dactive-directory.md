@@ -17,7 +17,6 @@ tags:
   - AD
   - alsid
   - ANSSI
-  - podcast
 
 authors:
   - lois
@@ -33,7 +32,7 @@ drinks:
   - peroni_nastro_azzurro
   - gotlands_wisby_stout
   - grimbergen_blonde
-  - greenbullet_triple_ipa 
+  - greenbullet_triple_ipa
 
 songs:
   - snowghosts_undertow

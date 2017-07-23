@@ -14,7 +14,6 @@ categories:
   - Emission
 
 tags:
-  - podcast
   - siem
   - soc
   - ssi

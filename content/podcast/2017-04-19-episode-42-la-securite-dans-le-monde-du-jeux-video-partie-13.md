@@ -15,7 +15,6 @@ categories:
 tags:
   - jeux vidéos
   - monde
-  - podcast
   - sécurité
   - studio
   - ubisoft
