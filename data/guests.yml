@@ -68,7 +68,7 @@ emmannuel_gras:
   uri: https://alsid.it/
 
 luc_delsalle:
-  description: CTO & Co-fondateur @ Alsid
+  description: CTO & co-fondateur @ Alsid
   name: Luc Delsalle
   linkedin: https://www.linkedin.com/in/lucdelsalle/
   image: luc_delsalle.jpg
@@ -81,3 +81,23 @@ nolimitsecu:
   image: nolimitsecu.jpg
   uri: https://www.nolimitsecu.fr/
   email: nolimitsecu@nolimitsecu.fr
+
+marcetienne_leveille:
+  description: Chercheur en malware @ ESET Canada
+  name: Marc-Étienne Léveillé
+  twitter: marc_etienne_
+  image: marcetienne_leveille.jpg
+
+graham_steel:
+  description: CEO & co-fondateur @ Cryptosense
+  name: Graham Steel
+  linkedin: https://www.linkedin.com/in/graham-steel-b383384b/
+  twitter: graham_steel
+  image: graham_steel.jpg
+
+thierry_rouquet:
+  description: Co-fondateur & Président @ Sentryo
+  name : Thierry Rouquet
+  linkedin: https://www.linkedin.com/in/thierryrouquet/
+  twitter: thierryrouquet
+  image: thierry_rouquet.jpg

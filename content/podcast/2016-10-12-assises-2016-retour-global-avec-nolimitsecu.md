@@ -1,6 +1,6 @@
 ---
 
-title: "[Assises 2016] Retour global avec NoLimitSécu"
+title: "Assises 2016 : Retour global avec NoLimitSécu"
 date: 2016-10-12T21:40:50+00:00
 publisher: comptoirsecu
 
