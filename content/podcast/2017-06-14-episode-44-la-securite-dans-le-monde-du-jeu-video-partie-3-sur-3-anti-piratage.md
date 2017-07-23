@@ -48,6 +48,6 @@ Nous traiterons donc des différents éléments clés de la sécurité dans le m
 
 Pour cela, nous avons échangé avec Guillaume Lapôtre et Fabian Carpintero, tous deux membres de l’équipe sécurité d’Ubisoft.
 
-{{< podigee >}}
-
 Bonne écoute !
+
+{{< podigee >}}

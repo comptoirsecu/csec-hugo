@@ -134,3 +134,10 @@ thomas_aubin:
 paul_hernault:
   description: Etudiant @ ESIEA
   name: Paul Herbault
+
+okhin:
+  description: Hacker qui travaille avec la Quadrature du Net, a travaillé pour des ONG, comme la Fédération Internationale des Droits de l'Homme et a traîné quelques temps avec le collectif Telecomix.
+  name: Okhin
+  twitter: okhin
+  uri: https://about.okhin.fr/
+  image: okhin.jpg

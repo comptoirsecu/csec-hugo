@@ -35,7 +35,6 @@ drinks:
 songs:
   - the_govt_knows_knower
 ---
-
 Pour ce 41ème épisode, nous avons voulu échanger sur les sujets du SIEM et du SOC: que font-ils et quels sont les différences ? Comment les mettre en place ? Est-ce utile pour son organisation ?
 
 <!--more-->
@@ -48,8 +47,8 @@ Pour cela, nous avons fait appel à trois invités, ayant chacun un angle diffé
 
 Bonne écoute à vous !
 
+{{< podigee >}}
+
 P.S: Cette semaine, il n'y aura pas de SECHebdo
 
 Notre discord pour échanger : <http://discord.comptoirsecu.fr>
-
-{{< podigee >}}

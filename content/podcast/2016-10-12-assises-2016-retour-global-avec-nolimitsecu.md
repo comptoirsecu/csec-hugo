@@ -35,6 +35,6 @@ Petite particularité cette année, ce n'est pas notre sondier qui s'occupe du m
 
 Au programme une revue des plénières, des conférences qui ont attiré notre attention et quelques débats houleux sur le prix de l'innovation !
 
-{{< podigee >}}
-
 À bientôt pour de nouveaux épisodes!
+
+{{< podigee >}}

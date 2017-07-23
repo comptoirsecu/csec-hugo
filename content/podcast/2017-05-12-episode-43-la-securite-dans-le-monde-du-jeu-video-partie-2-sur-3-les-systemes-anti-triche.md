@@ -35,7 +35,6 @@ guests:
 songs:
   - xploding_plastix_austere_faultlines
 ---
-
 Nous continuons notre série de 3 épisodes sur le thème de la sécurité du jeu vidéo. Ces épisodes ont été enregistrés dans la même soirée, mais nous avons préféré vous les séparer afin de ne pas vous assassiner avec un épisode de plus de 3h00 🙂.
 
 Nous traiterons donc des différents éléments clés de la sécurité dans le monde du jeu vidéo :
@@ -46,6 +45,6 @@ Nous traiterons donc des différents éléments clés de la sécurité dans le m
 
 Pour cela, nous avons échangé avec Guillaume Lapôtre et Fabian Carpintero, tous deux membres de l’équipe sécurité d’Ubisoft.
 
-{{< podigee >}}
-
 Bonne écoute !
+
+{{< podigee >}}

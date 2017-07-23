@@ -37,7 +37,6 @@ guests:
 songs:
   - various_artists_save_fabric
 ---
-
 Nous commençons une série de 3 épisodes sur le thème de la sécurité du jeux vidéo. Ces épisodes ont été enregistré dans la même soirée, mais nous avons préféré vous les séparer pour ne pas vous assassiner avec un épisode de plus de 3h00 🙂
 
 <!--more-->
@@ -52,8 +51,8 @@ Pour cela, nous avons échangé avec Guillaume Lapôtre et Fabian Carpintero, to
 
 Bonne écoute à vous !
 
+{{< podigee >}}
+
 P.S: Cette semaine, il n'y aura pas de SECHebdo
 
 Notre discord pour échanger : <https://discord.comptoirsecu.fr>
-
-{{< podigee >}}

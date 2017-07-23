@@ -31,12 +31,11 @@ guests:
 ---
 Fidèles à la tradition, nous avons interviewé les gagnants du prix de l'innovation 2016 : l'entreprise Cryptosense représentée par Graham Steel. Cependant cette année nous avons également invité le gagnant du prix 2015 et membre du jury 2016, Thierry Rouquet, représentant Sentryo.
 
-{{< podigee >}}
-
-
 Vous pouvez également réécouter l'interview de [Sentryo de 2015](https://www.comptoirsecu.fr/2015/11/assises-2015-interview-sentryo/).
 
-Autre nouveauté cette année, les interviews sont filmées ! Retrouvez les sur notre [chaîne Youtube](https://www.youtube.com/channel/UCF-ljS9G2ABgsN7P83WDFhQ)
+{{< podigee >}}
+
+Une nouveauté de cette année, les interviews sont filmées ! Retrouvez les sur notre [chaîne Youtube](https://www.youtube.com/channel/UCF-ljS9G2ABgsN7P83WDFhQ)
 
 {{< video "https://www.youtube.com/embed/7M-ADbKNJpE" >}}
 

@@ -176,3 +176,12 @@ carlsberg_elephant:
   degree: 7,2
   image: carlsberg_elephant.jpg
   description: Elle offre au nez des arômes de malt évoquant les céréales et la paille et de légères senteurs herbacées. En bouche, on retrouve des saveurs maltées qui sont suivies de notes herbacées et d'une fine amertume.
+
+carlsberg_club_bottle:
+  name: Carlsberg Club Bottle
+  type: Bière
+  subtype: Blonde
+  country: Danemark
+  degree: 5
+  image: carlsberg_club_bottle.jpg
+  description: Saveurs maltées, notes herbacées et fine amertume

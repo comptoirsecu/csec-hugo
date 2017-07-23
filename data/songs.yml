@@ -105,3 +105,17 @@ unkle_ablivion:
   album: Where Did the Night Fall
   uri: https://www.discogs.com/UNKLE-Where-Did-The-Night-Fall/master/247018
   image: unkle_wheredidthenightfall.jpg
+
+deathfromabove1979_thephysical:
+  artist: Death From Above 1979
+  song: The Physical World
+  album: The Physical World LP
+  uri: http://store.deathfromabove1979.com/music/vinyl/the-physical-world-lp.html
+  image: death_from_above_the_physical_world.jpg
+
+clor_lovepain:
+  artist: Clor
+  song: Love + Pain
+  album: Love + Pain (Vinyl)
+  uri: https://www.discogs.com/Clor-Love-Pain/release/1517803
+  image: clor_lovepain.jpg
