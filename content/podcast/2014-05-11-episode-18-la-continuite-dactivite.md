@@ -22,22 +22,38 @@ tags:
   - PRU
   - PSI
   - SSL
+
+chaptermarks:
+  "00:01:22": "Les news du moment"
+  "00:23:55": "Annonce des futurs évènements"
+  "00:24:25": "Dossier: La continuité d'activité"
+  "01:17:57": "Interlude musicale avec Omega Danzer - Dynamic Danzer"
+  "01:19:52": "What's Next: Heartbleed"
+  "01:37:20": "Le mot de la fin"
+  "01:42:17": "Musique de fin avec Electric Children - Car Jack"
+
+authors:
+  - justin
+  - lois
+  - morgan
+  - youenn
+
+drinks:
+  - brunehaut_ambree
+
+songs:
+  - omegadanzer_dynamicdanzer
+  - electricchildren_carjack
+guests:
+  - amaury_pca
+
 ---
 
 Nous revoilà pour le premier épisode du moi de Mai avec un dossier sur la continuité d'activité.
 
 Déjà un an depuis le debut du podcast ! Ça fait plaisir !
 
-# Au programme
-
-  * Les news du moment **(1:22)**
-  * Annonces des futurs événements **(23:55)**
-  * Un dossier par notre invité sur la continuité d'activité **(24:25)**
-  * Interlude musicale avec [Omega Danzer- Dynamic Danzer](https://soundcloud.com/omega-danzer/omega-danzer-dynamic-danzer%20) **(1:17:57)**
-  * Notre What's Next sur heartbleed **(1:19:52)**
-  * Le mot de la fin **(1:37:20)**
-  *  Musique de fin  avec [Electric Children – Car Jack](http://electricchildren8bit.bandcamp.com/track/car-jack-2010-version) **(1:42:17)**
-
+{{<chaptermarks>}}
 
 {{< podigee >}}
 
@@ -88,8 +104,3 @@ Bonne écoute !
 - [Pas sage en seine](http://www.passageenseine.org/)
 - [La nuit du hack](http://www.nuitduhack.com/)
 - [Podrennes](https://plus.google.com/u/0/events/coeemmh7jiilbfgdiujvi1np670)
-
-## Musiques
-
-* [Electric Children – Car Jack](http://electricchildren8bit.bandcamp.com/track/car-jack-2010-version)
-* [Omega Danzer- Dynamic Danzer](https://soundcloud.com/omega-danzer/omega-danzer-dynamic-danzer%20)

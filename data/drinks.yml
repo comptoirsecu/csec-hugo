@@ -280,3 +280,12 @@ fond_de_culotte:
   country: France
   description: "2cl de crème de cassis. Compléter avec 6cl de Suze et 1 glaçon. Se déguste frais et peut se servir avec de la gentiane type Gentianette qui est moins sucrée et plus goûtue. Pour l'anecdote, le nom de ce cocktail vient de la combinaison de ses ingrédients : en effet, un fond de culotte ne \"s'use qu'assit\" (= suze cassis)"
   image: fond_de_culotte.jpg
+
+brunehaut_ambree:
+  name: Brunehaut Ambrée
+  type: Bière
+  subtype: Ambrée
+  country: France
+  degree: 6,5
+  image: brunehaut_ambree.jpg
+  description: "Ambrée bio aux saveurs de caramel, de malt et de houblon."

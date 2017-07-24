@@ -231,3 +231,18 @@ alexandregagoug_eteindien:
   artist: Alexandre Gagoug
   song: "L'été Indien"
   uri: https://www.musiqueapproximative.net/post/gagoug-l-ete-indien
+
+omegadanzer_dynamicdanzer:
+  artist: Omega Danzer
+  song: Dynamic Danzer
+  album: Play the future
+  uri: https://www.youtube.com/watch?v=Fs4Ne3b0TJ4
+  image: omegadanzer_dynamicdanzer.jpg
+
+
+electricchildren_carjack:
+  artist: Electric Children
+  song: Car-Jack
+  album: I am
+  uri: https://electricchildren8bit.bandcamp.com/track/car-jack-2010-version
+  image: electricchildren_carjack.jpg

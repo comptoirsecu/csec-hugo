@@ -157,3 +157,8 @@ francois_scada:
   name: François Nonyme
   description: Spécialiste en systèmes SCADA
   anonymous: true
+
+amaury_pca:
+  name: Amaury Nonyme
+  description: Consultant en continuité d'activité
+  anonymous: true
