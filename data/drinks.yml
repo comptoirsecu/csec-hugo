@@ -289,3 +289,12 @@ brunehaut_ambree:
   degree: 6,5
   image: brunehaut_ambree.jpg
   description: "Ambrée bio aux saveurs de caramel, de malt et de houblon."
+
+jurancon:
+  name: Jurançon AOC
+  type: Vin
+  subtype: Blanc Moelleux
+  country: France
+  degree: 12
+  image: jurancon.jpg
+  description: "Le jurançon est un vin blanc d'appellation d'origine contrôlée (AOC) du sud-ouest de la France."

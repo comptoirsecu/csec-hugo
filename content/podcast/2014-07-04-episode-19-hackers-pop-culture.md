@@ -27,28 +27,45 @@ tags:
   - podcast
   - pop
   - wargames
+
+authors:
+  - justin
+  - lois
+  - morgan
+  - youenn
+
+drinks:
+  - jurancon
+
+songs:
+  - thealgorithm_sayitright
+  - alunageorge_youknowyoulikeit
+
+guests:
+  - genma
+
+chaptermarks:
+  "00:01:45": "Les news du moment"
+  "00:24:25": "Dossier: Les hackers dans la culture pop"
+  "01:24:30": "Interlude musicale avec Angus And Julia Stone – Say It Right (The Algorithm Remix)"
+  "01:27:00": "Interview de Genma"
+  "01:41:00": "Musique de fin avec Alunageorge - You know you like it"
 ---
 
 Aujourd'hui c'est un épisode un peu spécial et plus léger que d'habitude puisqu'il s'agit d'un épisode consacré aux hackers dans la culture pop !
 
-# Au programme
-
-  * Les news du moment (01:45)
-  * Notre dossier sur les  hackers dans la culture pop **(24:25)**
-  * Interlude musicale avec <a  href="https://soundcloud.com/the-algorithm/angus-and-julia-stone-say-it-right-the-algorithm-remix"  >Angus And Julia Stone – Say It Right (The Algorithm Remix)</a> **(1:24:30)**
-  * Interview de [Genma](http://genma.free.fr/) **(1:27:00)**
-  *  Musique de fin  avec  <a  href="https://www.youtube.com/watch?v=FWR9MR5juWI"  >AlunaGeorge – You Know You Like It</a> **(01:41:00)**
-
-
+{{<chaptermarks>}}
 {{< podigee >}}
 
 
 Désolé du retard: cet épisode a été enregistré en Mai ! Maintenant que les partiels sont finis, notre sondier a pu se dédier corps et âme dans le montage de cet épisode.
 
-
 Bonne écoute !
 
 # Liens et références
+
+## Interview de Genma
+  - <http://genma.free.fr>
 
 ## News
 

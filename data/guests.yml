@@ -162,3 +162,11 @@ amaury_pca:
   name: Amaury Nonyme
   description: Consultant en continuité d'activité
   anonymous: true
+
+genma:
+  name: Genma
+  description: "Blogger infatigable sur les sujets de vie privée et d'hygiène numérique, organisateur de crypto fêtes"
+  twitter: genma
+  linkedin: https://www.linkedin.com/in/genma/
+  uri: https://blog.genma.fr/
+  image: genma.jpg

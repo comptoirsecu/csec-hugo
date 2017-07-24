@@ -246,3 +246,18 @@ electricchildren_carjack:
   album: I am
   uri: https://electricchildren8bit.bandcamp.com/track/car-jack-2010-version
   image: electricchildren_carjack.jpg
+
+
+thealgorithm_sayitright:
+  artist: "Angus And Julia Stone (The Algorithm Remix)"
+  song: Say It Right
+  uri: https://soundcloud.com/the-algorithm/angus-and-julia-stone-say-it-right-the-algorithm-remix
+  image: thealgorithm_sayitright.jpg
+
+
+alunageorge_youknowyoulikeit:
+  artist: Aluna George
+  song: You know you like it
+  album: Body Music
+  uri: https://www.youtube.com/watch?v=FWR9MR5juWI
+  image: alunageorge_youknowyoulikeit.jpg
