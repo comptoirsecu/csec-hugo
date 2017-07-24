@@ -10,7 +10,7 @@
 romain_dnssec:
     description: >
         Spécialiste de la sécurité du DNS
-    name: Romain
+    name: Romain Nonyme
     anonymous: true
 
 vincent_balouet:
@@ -152,3 +152,8 @@ christophe_renard:
   description: Consultant en SSI depuis bien avant que les poules ne perdent leurs dents, je vous défie de trouver un sujet du métier sur lequel il ne peut pas discuter pendant 1 heure. Accessoirement le mentor de Loïs ;)
   linkedin: https://www.linkedin.com/in/crenard/
   twitter: FuraxFox
+
+francois_scada:
+  name: François Nonyme
+  description: Spécialiste en systèmes SCADA
+  anonymous: true

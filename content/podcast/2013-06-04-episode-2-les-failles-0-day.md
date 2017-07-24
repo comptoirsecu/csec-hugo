@@ -42,7 +42,7 @@ Au programme : des news et un dossier complet sur les failles 0 day.
 - Peut-on s’en protéger ?
 
 Telles sont les questions auxquelles nous allons tenter de répondre.
-<!--more-->
+
 
 Concernant l’avenir de ce podcast, un épisode par mois semble être réalisable, donc préparez-vous à nous voir au début de chaque mois avec un nouvel épisode.
 

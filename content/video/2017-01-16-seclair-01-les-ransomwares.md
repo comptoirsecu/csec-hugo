@@ -35,7 +35,7 @@ SEClair est une variante un peu plus courte que SECompris (et avec  beaucoup pl
 
 Je vous cache pas que c'est un essai, n'hésitez pas à me dire dans les commentaires ce que vous en pensez. Je me dis que ça va peut-être un peu trop vite niveau information à assimiler.
 
-<!--more-->
+
 
 L'objectif pour le moment est d'avoir des SEClair en complément, et non en remplacement, des SECompris. En effet certains sujets ne peuvent clairement pas se boucler en moins de 10 minutes. Désolé pour les personnes ayant du mal avec les formats long mais je ne pourrais pas toujours y couper .
 

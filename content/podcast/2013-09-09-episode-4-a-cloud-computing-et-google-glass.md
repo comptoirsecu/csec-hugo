@@ -37,7 +37,7 @@ Nous voici de retour pour la première partie de l’épisode numéro 4 !
 
 Nous introduisons pour cette épisode une nouvelle partie, le What’s Next. Nous allons tenter d’imaginer les problématiques de sécurité que vont poser les nouvelles technologies.
 
-<!--more-->
+
 Pas d’invité pour cette émission mais un programme de qualité avec :
 
   - La fameuse partie **New**s

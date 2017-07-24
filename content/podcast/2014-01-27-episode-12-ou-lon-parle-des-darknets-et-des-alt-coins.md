@@ -28,6 +28,18 @@ tags:
   - Signature
   - WoW
 
+authors:
+  - justin
+  - lois
+  - morgan
+
+drinks:
+  - belzebuth
+
+songs:
+  - miniroc_bitterbleeps
+  - goto80_heyhey
+
 chaptermarks:
   "00:02:00": "Revue d'actualité"
   "00:34:49": "Dossier sur les Darknets"

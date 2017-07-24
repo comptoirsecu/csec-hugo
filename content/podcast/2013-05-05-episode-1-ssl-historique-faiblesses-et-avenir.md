@@ -36,7 +36,7 @@ Voici le premier épisode du comptoir sécu tant attendu. Au thème de cette
 émission : des news sur l'actualité du mois d'Avril et un dossier sur le SSL et
 les enjeux qui en découlent.
 
-<!--more-->
+
 Bonne écoute !
 
 {{< podigee >}}

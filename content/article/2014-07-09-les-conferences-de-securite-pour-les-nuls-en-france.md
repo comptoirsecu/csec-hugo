@@ -24,7 +24,7 @@ Ces derniers temps, beaucoup de personnes (étudiants souvent) me demandent com
 
 Malheureusement, quand on est débutant dans ce milieu, on est rapidement perdu; chaque conférence a son type de public et de sujets. Dans cet article, je vais essayer de clarifier tout cela, en parlant des conférences françaises (non non, je ne suis pas chauvin!).
 
-<!--more-->
+
 
 Je précise que ceci est un avis personnel. N'hésitez pas à commenter cet article si vous n'êtes pas d'accord avec mes propos.
 

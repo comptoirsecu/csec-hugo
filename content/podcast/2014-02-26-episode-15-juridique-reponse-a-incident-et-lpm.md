@@ -25,11 +25,23 @@ tags:
   - Réponse
 guests:
   - barbara_louissidney
+
+songs:
+  - c418_certitudes
+  - dubmood_supersquatting
+drinks:
+  - ronzacapa_23solera
+
+authors:
+  - justin
+  - lois
+  - morgan
+  - youenn
 ---
 
 Après beaucoup de retard, voici  le 15e épisode du Comptoir Sécu !
 
-<!--more-->
+
 
 # Au programme
 
@@ -89,7 +101,3 @@ Bonne écoute !
 - <http://bugbrother.blog.lemonde.fr/2013/12/10/tout-ce-que-vous-avez-toujours-voulu-savoir-sur-la-lpm-et-que-vous-avez-ete-nombreux-a-me-demander/>
 
 - <http://www.senat.fr/dossier-legislatif/pjl12-822.html>
-
-## Musiques
-* ["Certitudes" – C418](http://c418.bandcamp.com/track/certitudes)
-* ["Supersquatting (Feat. Zabutom) – Dubmood"](https://dataairlines.bandcamp.com/track/supersquatting)

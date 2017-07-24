@@ -22,7 +22,7 @@ Nous revoilà déjà pour un épisode hors série sur la Nuit du hack et Pas Sag
 
 C'était notre première conférence et nos débuts sur la prise de son en extérieur, donc excusez-nous pour les quelques problèmes sonores.
 
-<!--more-->
+
 
 {{< podigee >}}
 

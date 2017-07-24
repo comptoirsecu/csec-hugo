@@ -30,7 +30,7 @@ authors:
 
 Il est beau, il est encore tout chaud, il est sorti tout juste à temps pour vous souhaiter un joyeux noël : je vous présente l'épisode pilote de la série **SECompris**!
 
-<!--more-->
+
 
 Comme je l'explique dans la vidéo, cet épisode devrait même théoriquement être le numéro 2, car SECompris est une émission ressuscitée, elle existait auparavant sous la forme de billets de blog. Une flemmingite aiguë  m'avait alors empêchée de continuer la série, la laissant disparaître dans les tréfonds du site. Pour les nostalgiques, le billet en question traitait des <https://www.comptoirsecu.fr/2014/03/secompris-1-les-one-time-passwords-ou-tokens/>.
 

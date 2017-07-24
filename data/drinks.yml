@@ -236,3 +236,31 @@ sauternes_augustinflorent:
   degree: 12
   image: sauternes_augustinflorent.jpg
   description: "Nouvelle gamme de vins à marque propre regroupant tous les vins de label AOC : La cave d'Augustin Florent. Sponsorisé par le Carrefour de Tolbiac!"
+
+abbaye_velours:
+  name: Abbaye Velours
+  type: Bière
+  subtype: Abbaye
+  degree: 5
+  country: France
+  image: abbaye_velours.jpg
+  description: Bière d’abbaye aux fruits rouges baptisée Velours. Comme expliqué dans l'épisode, elle n'a malheureusement de velours que le nom...
+
+belzebuth:
+  name: Belzebuth
+  type: Bière
+  subtype: Blonde
+  degree: 12
+  country: France
+  image: belzebuth.jpg
+  description: Une bière ambrée parmi plus fortes au monde avec ses 12% d'alcool ! Le diable en bouteille ..
+
+ronzacapa_23solera:
+  name: Ron Zacapa Sistema Solera 23 ans
+  type: Rhum
+  subtype: Vieux
+  degree: 40
+  country: Vénézuéla
+  image: ronzacapa_23solera.jpg
+  description: Assemblage élaboré au moyen d'un processus de vieillissement issu de la technique du "sistema solera", puis vieillis dans une succession de fûts. Ce processus crée de fascinants entrelacs de miel, de caramel, de chêne épicé et de saveurs de fruits secs. Le Rhum préféré de Morgan.
+  

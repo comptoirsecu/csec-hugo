@@ -31,7 +31,7 @@ authors:
 SEClair est de retour! Cette fois-ci sur l'effacement sécurisé.
 
 Alors à votre avis combien de passe de formatage sur votre disque pour qu'il ne soit plus possible de récupérer des données dessus? 1? 3? 5? 7? 21? Vous le saurez en écoutant cet épisode ;).
-<!--more-->
+
 
 Pour les allergiques au format vidéo, la bande son est disponible en podcast:
 

@@ -42,7 +42,7 @@ Au sommaire de l’émission:
 - Dossier DNS et améliorations en matière de sécurité, notamment avec DNSSEC,
 - Débat sur PRISM et les écoutes généralisées.
 
-<!--more-->
+
 A bientôt pour le quatrième épisode début septembre !
 
 {{< podigee >}}

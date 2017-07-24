@@ -173,3 +173,44 @@ jinglebells_dubstepremix:
   artist: HoriZons
   song: Jingle Bells Dubstep Remix
   uri: https://www.youtube.com/watch?v=3Ng-O80Dr6Q
+
+
+semiologist_ladeephouse:
+  artist: Semiologist Feat. Lysergist
+  song: La Deep-House De Gainsbourg
+  uri: https://soundcloud.com/semiologist/semiologist-feat-lysergist-la
+  album: City Star
+  image: semiologist_ladeephouse.jpg
+
+mitchmurder_mutecity:
+  artist: Mitch Murder
+  song: Mute City
+  uri: https://soundcloud.com/daataa/mitch-murder-mute-city-free
+  image: mitchmurder_mutecity.jpg
+
+miniroc_bitterbleeps:
+  artist: Miniroc
+  album: Miniland
+  song: Bitter Bleeps
+  uri: https://www.daheardit-records.net/fr/discography/dhr-05#release
+  image: miniroc_bitterbleeps.jpg
+
+goto80_heyhey:
+  artist: Goto 80
+  song: Hey Hey
+  uri: https://soundcloud.com/goto80
+  image: goto80_heyhey.jpg
+
+c418_certitudes:
+  artist: C418
+  song: Certitudes
+  uri: https://c418.bandcamp.com/track/certitudes
+  album: One
+  image: c418_certitudes.jpg
+
+dubmood_supersquatting:
+  artist: Dubmood feat. Zabutom
+  song: Supersquatting
+  uri: https://dubmood.bandcamp.com/track/supersquatting
+  image: dubmood_supersquatting.jpg
+  album: Crackscene music best of 2004​-​2007 (DATA002)

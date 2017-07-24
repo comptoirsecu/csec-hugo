@@ -41,7 +41,7 @@ authors:
 
 Un petit peu de retard ce mois ci, on va donc décaler notre passage en bimensuel au mois d'Octobre.
 
-<!--more-->
+
 {{< chaptermarks title="Pour le premier épisode du mois, vous pourrez retrouver:" >}}
 
 {{< podigee >}}

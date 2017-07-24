@@ -41,7 +41,7 @@ songs:
 ---
 Pour ce 40ème épisode, nous avons décidé de faire un dossier sur un sujet dont l'on parle peu mais qui est central au sein du système d'information: l'Active Directory.
 
-<!--more-->
+
 
 Pour cela, nous avons fait appel à Luc Delsalle et Emmanuel Gras, deux anciens auditeurs de l'ANSSI qui sont spécialisés sur le sujet de la sécurité de l'Active Directory.
 

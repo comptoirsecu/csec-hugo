@@ -27,6 +27,22 @@ tags:
   - podcast
   - SCADA
 
+authors:
+  - justin
+  - lois
+  - morgan
+  - youenn
+
+songs:
+  - semiologist_ladeephouse
+  - mitchmurder_mutecity
+
+guests:
+  - francois_scada
+
+drinks:
+  - abbaye_velours
+
 chaptermarks:
   "00:01:39": "Revue d'actualité"
   "00:33:19": "Dossier SCADA par notre invité"
@@ -91,9 +107,3 @@ Comme vous avez pu le constater, le site a été mis à jour et est maintenant e
 
 
 Image par <http://www.flickr.com/photos/greenmambagreenmamba/5307999284/>
-
-## Musiques:
-
-- Semiologist Feat. Lysergist – <https://soundcloud.com/semiologist/semiologist-feat-lysergist-la>
-- Mitch Murder –<https://soundcloud.com/daataa/mitch-murder-mute-city-free>
-- Le lien direct pour le podcast <https://media.blubrry.com/comptoirsecu/p/www.comptoirsecu.fr/Episode/ComptoirSecu_Episode_11_Scada.mp3>
