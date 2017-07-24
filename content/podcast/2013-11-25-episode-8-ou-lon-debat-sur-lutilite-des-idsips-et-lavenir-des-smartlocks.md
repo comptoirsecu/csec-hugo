@@ -24,6 +24,23 @@ tags:
   - Tor
   - Yes We Hack
 
+authors:
+  - justin
+  - lois
+  - morgan
+  - youenn
+
+guests:
+  - geremy_benkirane
+
+drinks:
+  - caol_ila
+  - soupe_angevine
+
+songs:
+  - bitcrusher_64.865457-19.556783
+  - 2080_en2080
+
 chaptermarks:
   "00:01:47": "Revue d'actualité"
   "00:25:53": "Une pause musicale avec 2080 - En 2080"
@@ -84,7 +101,3 @@ _N'hésitez pas à nous donner vos retours sur l'émission par commentaires ou p
 - [Unikey Faqs](http://www.unikey.com/faqs/)
 - [Lockitron](https://lockitron.com/preorder)
 - [Here is your semi perfect equipped camera lock](http://gizmodo.com/heres-your-semi-perfect-camera-equipped-smart-lock-511004584)
-
-## Musiques
-- [Bitcrusher – 64.865457,-19.556783](http://www.google.com/url?q=http%3A%2F%2Fwww.dataglitch.org%2Freleases%2F0013%2Fmp3%2F01%2520-%2520Bitcrusher%2520-%252064.865457%2C-19.556783.mp3&sa=D&sntz=1&usg=AFQjCNEp4quU2uhkZZK4arm9yDCUtOZDWQ)
-- [2080 – En 2080](https://soundcloud.com/2080/en-2080-snippet?in=2080/sets/electrochipdiscopop-snippet)

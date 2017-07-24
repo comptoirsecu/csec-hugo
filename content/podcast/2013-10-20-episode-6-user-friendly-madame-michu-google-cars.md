@@ -29,6 +29,20 @@ chaptermarks:
   "00:15:06": Une pause musicale avec DJ-PIE - Desert Twerk
   "00:18:23": "Débat: La sécurité peut-elle être user-friendly?"
   "00:39:28": "What's Next: Les Google Cars"
+
+authors:
+  - justin
+  - lois
+  - morgan
+  - youenn
+
+songs:
+  - djpie_deserttwerk
+
+drinks:
+  - chimay_bleue
+
+
 ---
 C'est parti pour le deuxième épisode du mois d'Octobre !
 
@@ -36,7 +50,6 @@ C'est parti pour le deuxième épisode du mois d'Octobre !
 
 
 {{< podigee >}}
-
 
 
 # Liens et références:
@@ -81,7 +94,3 @@ C'est parti pour le deuxième épisode du mois d'Octobre !
   - ou en fr <http://www.futura-sciences.com/magazines/high-tech/infos/actu/d/informatique-hackers-prennent-controle-voiture-leur-pc-portable-48088/#xtor=RSS-8>
 - [http://techcrunch.com/2013/08/25/uberauto/](http://techcrunch.com/2013/08/25/uberauto/)
 - [http://magazine.qualys.fr/menaces-alertes/piratage-gps-spoofing/](http://magazine.qualys.fr/menaces-alertes/piratage-gps-spoofing/)
-
-## Musique
-
-- [ DJ-PIE – Desert Twerk](http://dj-pie.bandcamp.com/album/south-razzle)

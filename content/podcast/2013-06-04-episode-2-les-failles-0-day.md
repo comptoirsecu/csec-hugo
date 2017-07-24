@@ -27,7 +27,11 @@ drinks:
   - delirium_nocturnum
   - martini_rouge
 
-guests:
+authors:
+  - justin
+  - lois
+  - morgan
+  - youenn
 
 ---
 Au programme : des news et un dossier complet sur les failles 0 day.

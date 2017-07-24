@@ -119,3 +119,57 @@ clor_lovepain:
   album: Love + Pain (Vinyl)
   uri: https://www.discogs.com/Clor-Love-Pain/release/1517803
   image: clor_lovepain.jpg
+
+djpie_deserttwerk:
+  artist: DJ-Pie
+  song: Desert Twerk
+  album: South Razzle
+  uri: https://dj-pie.bandcamp.com/album/south-razzle
+  image: djpie_deserttwerk.jpg
+
+yoon_nur_secuemremix:
+  artist: Yoon (Secuem Remix)
+  song: Nur
+  uri: https://soundcloud.com/secuem/yoon-nur-secuem-remix
+  image: yoon_nur_secuemremix.jpg
+
+daed_sentient:
+  artist: Daed
+  song: Sentient
+  uri: https://soundcloud.com/daed/sentient
+  image: daed_sentient.jpg
+
+bitcrusher_64.865457-19.556783:
+  artist: Bitcrusher 64
+  song: "64.865457, -19.556783"
+  uri: http://www.dataglitch.org/releases/0013/mp3/01%20-%20Bitcrusher%20-%2064.865457,-19.556783.mp3
+  image: bitcrusher_64.865457-19.556783.jpg
+
+2080_en2080:
+  artist: 2080
+  song: En 2080
+  uri: https://soundcloud.com/2080/en-2080-snippet?in=2080/sets/electrochipdiscopop-snippet
+  image: 2080_en2080.jpg
+
+starmodele_lematosremix:
+  artist: Le Matos
+  song: Star Modele (instrumental remix)
+  uri: https://soundcloud.com/lematos/star-modele-le-matos-remix
+  image: starmodele_lematosremix.jpg
+
+cube_blipblop:
+  artist: "!Cube"
+  song: Blipblop Memories
+  uri: https://soundcloud.com/cube-5/blipblop-memories
+  image: cube_blipblop.jpg
+
+five-o_homealone:
+  artist: Five-o
+  song: Carol of Bells - Home Alone (Dubstep remix)
+  uri: https://soundcloud.com/5ohmusic/home-alone-christmas-dubstep-remix-free-download
+  image: five-o_homealone.jpg
+
+jinglebells_dubstepremix:
+  artist: HoriZons
+  song: Jingle Bells Dubstep Remix
+  uri: https://www.youtube.com/watch?v=3Ng-O80Dr6Q

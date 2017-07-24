@@ -25,6 +25,20 @@ tags:
   - sécurité
   - surveillance
 
+authors:
+  - justin
+  - morgan
+  - lois
+  - youenn
+
+songs:
+  - five-o_homealone
+  - jinglebells_dubstepremix
+
+drinks:
+  - sauternes_augustinflorent
+
+
 chaptermarks:
   "00:01:40": "Revue d'actualité"
   "00:33:43": "Dossier sur les caméras de surveillance"
@@ -83,9 +97,3 @@ Bonne écoute à toutes et tous et Joyeux Noël !
 - <http://www.bbc.co.uk/news/technology-24711935>
 - <http://gizmodo.com/scientists-smash-the-li-fi-data-record-achieving-speed-1453923218>
 - <http://www.gizmodo.fr/2013/10/31/li-fi-atteint-10-gbits-seconde.html>
-
-
-## Musiques
-
-- Pause musicale: <https://soundcloud.com/5ohmusic/home-alone-christmas-dubstep-remix-free-download>
-- Ending: <http://www.youtube.com/watch?v=3Ng-O80Dr6Q>

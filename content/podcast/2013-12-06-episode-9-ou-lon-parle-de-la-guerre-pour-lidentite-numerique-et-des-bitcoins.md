@@ -24,6 +24,22 @@ tags:
   - SEA
   - Silkroad
 
+authors:
+  - justin
+  - lois
+  - morgan
+  - youenn
+
+guests:
+  - christophe_renard
+
+drinks:
+  - kwak
+
+songs:
+  - starmodele_lematosremix
+  - cube_blipblop
+
 chaptermarks:
   "00:01:47": "Revue d'actualité"
   "00:26:53": "Dossier de l'invité sur l'identité numérique"
@@ -85,8 +101,3 @@ Bonne écoute à toutes et tous !
 - Pour suivre le cours du bitcoin
   - <http://bitcoin.clarkmoody.com/>
   - <http://www.lexsi-leblog.fr/cert/bitcoin-et-regulation-des-monnaies-virtuelles.html>
-
-## Musiques
-
-- [Star Modele (Le Matos remix intrumental)](https://soundcloud.com/lematos/star-modele-le-matos-remix)
-- [Cube – Blipblop Memories](https://soundcloud.com/cube-5/blipblop-memories)

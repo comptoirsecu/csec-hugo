@@ -31,7 +31,12 @@ chaptermarks:
   "00:23:56": "Débat: Peut-on avoir encore confiance dans la cryptographie"
   "00:56:03": Une interview d’un étudiant
 
-guests:
+authors:
+  - justin
+  - lois
+  - morgan
+  - youenn
+
 ---
 
 Un petit peu de retard ce mois ci, on va donc décaler notre passage en bimensuel au mois d'Octobre.

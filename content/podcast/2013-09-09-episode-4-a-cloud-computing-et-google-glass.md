@@ -26,7 +26,11 @@ songs:
 drinks:
   - whisky_lascaw
 
-guests:
+autors:
+  - justin
+  - lois
+  - morgan
+  - youenn
 
 ---
 Nous voici de retour pour la première partie de l’épisode numéro 4 !

@@ -2,6 +2,12 @@
 title: "[Épisode 1] SSL"
 subheadline: "Historique, faiblesses et avenir"
 publisher: justin
+authors:
+  - justin
+  - lois
+  - morgan
+  - simon
+
 date: 2013-05-05T00:00:00+00:00
 
 aliases: /2013/05/podcast-episode-1-ssl-historique-faiblesses-et-avenir-2/

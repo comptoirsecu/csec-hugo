@@ -23,7 +23,7 @@
     <ul class="menu">
       {{ with .value.type }}{{ . }}{{ end }}
       {{ with .value.subtype}}({{ . }}){{ end}}
-      {{ with .value.degree }}, {{ . }}°{{ end }}
+      {{ with .value.degree }} – {{ . }}°{{ end }}
       {{ with .value.linkedin }}
       <a href="{{ . }}"><li class="fa fa-linkedin-square"></li></a>
       {{ end }}

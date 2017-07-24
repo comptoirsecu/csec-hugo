@@ -185,3 +185,54 @@ carlsberg_club_bottle:
   degree: 5
   image: carlsberg_club_bottle.jpg
   description: Saveurs maltées, notes herbacées et fine amertume
+
+chimay_bleue:
+  name: Chimay Bleue
+  type: Bière
+  subtype: Trappiste
+  country: Belgique
+  degree: 9
+  image: chimay_bleue.jpg
+  description: Bière foncée à l’arôme puissant, dont la saveur complexe se bonifie au fil des années. En bouche, elle laisse un goût relativement sec avec une note de caramel.
+
+corona_extra:
+  name: Corona Extra
+  type: Bière
+  subtype: Blonde
+  country: Mexique
+  degree: 4,6
+  image: corona_extra.jpg
+  description: La bière blonde la plus vendue au Mexique. Idéale pour accompagner les plats épicés !
+
+caol_ila:
+  name: Caol Ila 12 ans
+  type: Whisky
+  subtype: Single Malt Scotch
+  degree: 43
+  image: caol_ila.jpg
+  description: Single malt tourbé de l'île d'Islay. Caol Ila est le nom gaélique du "Sound of Islay". Son single malt est à la fois équilibré et subtil, iodé et tourbé, avec des notes d'huile d'olive, d'amande et d'agrumes.
+
+
+soupe_angevine:
+  name: Soupe Angevine
+  type: cocktail
+  subtype: traître
+  image: soupe_angevine.jpg
+  description: Ne vous fiez pas à son goût très sucré, ce cocktail en a retourné plus d'un. Dans un saladier, mettez une louche de Cointreau, une louche de jus de Citron type Pulco, une louche de sucre de canne liquide et une bouteille de crémant. Bonne dégustation!
+
+kwak:
+  name: Kwak
+  type: Bière
+  subtype: Ambrée
+  degree: 8
+  image: kwak.jpg
+  description: Belle saveur maltée, caramélisée, on peut distinguer une légère amertume. Pendant leurs voyages, des cavaliers s'arrêtaient chez Pauwel Kwak afin de se désaltérer. Ils bénéficiaient d'un verre spécifique qu'ils posaient sur leurs étriers. La brasserie Bosteels a repris le concept pour le fameux verre Kwak.
+
+
+sauternes_augustinflorent:
+  name: Sauternes Augustin Florent 2010
+  type: Vin blanc
+  subtype: Semillon Sauvignon
+  degree: 12
+  image: sauternes_augustinflorent.jpg
+  description: "Nouvelle gamme de vins à marque propre regroupant tous les vins de label AOC : La cave d'Augustin Florent. Sponsorisé par le Carrefour de Tolbiac!"

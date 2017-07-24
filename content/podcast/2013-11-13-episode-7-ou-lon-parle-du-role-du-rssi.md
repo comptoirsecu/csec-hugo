@@ -21,6 +21,19 @@ tags:
   - RSSI
   - Silkroad
 
+authors:
+  - justin
+  - lois
+  - morgan
+  - youenn
+
+guests:
+  - geremy_benkirane
+
+songs:
+  - daed_sentient
+  - yoon_nur_secuemremix
+
 chaptermarks:
   "00:01:11": Revue d'actualité
   "00:30:56": Un échange sur le rôle du RSSI
@@ -68,10 +81,3 @@ Bonne écoute !
 - [Anonymous](http://www.cigionline.org/publications/2013/9/anonymous-context-politics-and-power-behind-mask)
 - [D-Link](http://cyberarms.wordpress.com/2013/10/15/numerous-d-link-routers-have-backdoor-in-firmware/)
   - <http://blog.erratasec.com/2013/10/that-dlink-bug-masscan.html#.UmK6eFBF224>
-
-
-
-## Musiques
-
-- [Daed – Sentient](https://soundcloud.com/daed/sentient)
-- [Yoon – Nur (Secuem Remix)](https://soundcloud.com/secuem/yoon-nur-secuem-remix)
