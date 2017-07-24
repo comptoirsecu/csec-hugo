@@ -240,7 +240,7 @@ sauternes_augustinflorent:
 abbaye_velours:
   name: Abbaye Velours
   type: Bière
-  subtype: Abbaye
+  subtype: Fruits rouges
   degree: 5
   country: France
   image: abbaye_velours.jpg
@@ -263,4 +263,12 @@ ronzacapa_23solera:
   country: Vénézuéla
   image: ronzacapa_23solera.jpg
   description: Assemblage élaboré au moyen d'un processus de vieillissement issu de la technique du "sistema solera", puis vieillis dans une succession de fûts. Ce processus crée de fascinants entrelacs de miel, de caramel, de chêne épicé et de saveurs de fruits secs. Le Rhum préféré de Morgan.
-  
+
+maredsous_triple:
+  name: Maredsous Triple
+  type: Bière
+  subtype: Triple
+  degree: 10
+  country: Belgique
+  description: Bière de type abbaye à fermentation haute, de couleur abricot-orange. Sa mousse est blanche fine et onctueuse. Sa saveur est corsée, bien en bouche, et légèrement épicée. Son goût est levurée acre et fruité, avec une post-amertume équilibrée.
+  image: maredsous_triple.jpg

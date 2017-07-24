@@ -37,22 +37,20 @@ authors:
   - lois
   - morgan
   - youenn
+
+chaptermarks:
+  "00:01:55": "Les news du moment"
+  "00:43:15": "Dossier: Les aspects juridique de la sécurité avec Barbara Louis-Sidney"
+  "01:14:27": "Quelques bonnes adresses parisiennes pour les amateurs de Rhum sur fond musical de C418"
+  "01:18:55": "What's Next spécial LPM, la loi de programmation militaire"
+  "01:41:42": "Le mot de la fin et un extrait de Supersquatting par Dubmood et Zabutom, compositeurs suédois mythiques de la demoscene ayant notamment travaillé avec l'incontournable team Razor1911"
 ---
 
 Après beaucoup de retard, voici  le 15e épisode du Comptoir Sécu !
 
+{{< chaptermarks >}}
 
-
-# Au programme
-
-  * Les news du moment *(1:55)*
-  * Un dossier avec notre invitée Barbara Louis-Sidney où nous aborderons les aspects juridiques de la sécurité pour les entreprises **(43:15)**
-  * Quelques bonnes adresses parisiennes pour les amateurs de Rhum sur fond musical de C418, le compositeur de la musique du jeu vidéo Minecraft. *(1:14:27)* ["Certitudes" – C418](http://c418.bandcamp.com/track/certitudes)
-  * Un What's Next spécial LPM, la loi de programmation militaire  *(1:18:55)*
-  * Le mot de la fin et un extrait de _Supersquatting_ par Dubmood et Zabutom, compositeurs suédois mythiques de la demoscene ayant notamment travaillé avec l'incontournable team Razor1911 *(1:41:42)* ["Supersquatting (Feat. Zabutom) – Dubmood"](https://dataairlines.bandcamp.com/track/supersquatting)
-
-
-    {{< podigee >}}
+{{< podigee >}}
 
 {{% warning %}}
 Nous rencontrons actuellement des problèmes importants sur la production des épisodes 13 et 14. Nous faisons notre possible pour vous les proposer au téléchargement aussi vite que possible mais la difficulté est grande. Pour ne pas perdre le rythme, nous enchaînons directement sur l'épisode 15 et la suite très bientôt.
@@ -91,10 +89,6 @@ Bonne écoute !
   - [lien 2](http://reflets.info/letrange-confrontation-entre-le-droit-et-la-technique/)
   - [Article de mediapart](http://www.mediapart.fr/journal/france/201213/piratage-google-drole-de-proces-en-appel-pour-un-journaliste)
 - [Documents ANSSI SCADA](http://www.ssi.gouv.fr/fr/menu/actualites/l-anssi-publie-des-mesures-visant-a-renforcer-la-cybersecurite-des-systemes.html)
-
-## Notre invitée
-
-[Barbara Louis-Sidney](/guests/barbara_louissidney)
 
 ## What's Next: LPM
 
