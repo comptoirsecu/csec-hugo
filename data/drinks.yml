@@ -272,3 +272,11 @@ maredsous_triple:
   country: Belgique
   description: Bière de type abbaye à fermentation haute, de couleur abricot-orange. Sa mousse est blanche fine et onctueuse. Sa saveur est corsée, bien en bouche, et légèrement épicée. Son goût est levurée acre et fruité, avec une post-amertume équilibrée.
   image: maredsous_triple.jpg
+
+fond_de_culotte:
+  name: Fond de culotte
+  type: Cocktail
+  subtype: Suze
+  country: France
+  description: "2cl de crème de cassis. Compléter avec 6cl de Suze et 1 glaçon. Se déguste frais et peut se servir avec de la gentiane type Gentianette qui est moins sucrée et plus goûtue. Pour l'anecdote, le nom de ce cocktail vient de la combinaison de ses ingrédients : en effet, un fond de culotte ne \"s'use qu'assit\" (= suze cassis)"
+  image: fond_de_culotte.jpg

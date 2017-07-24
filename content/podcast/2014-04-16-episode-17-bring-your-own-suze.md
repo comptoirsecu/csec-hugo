@@ -23,18 +23,30 @@ tags:
   - podcast
   - Popcorn
   - Turquie
+
+authors:
+  - justin
+  - morgan
+  - youenn
+
+drinks:
+  - fond_de_culotte
+
+songs:
+  - alexandregagoug_eteindien
+  - mrbill_soretro
+
+chaptermarks:
+  "00:01:48": "Les news du moment"
+  "00:42:30": "Dossier: Le BYOD"
+  "01:14:00": "Interlude musicale: L'été indien d'Alexandre Gagoug"
+  "01:16:20": "What's Next: Le BYOID"
+  "01:36:00": "Musique de fin avec So Retro de Mr Bill et the Algorithm"
 ---
 
 Le numéro 17 est prêt pour vos oreilles. Suite au bon conseils de nos ami du [podgast](http://www.podgast.net/) nous avons fait un épisode spécial Suze !
 
-# Au programme
-
-  * Les news du moment **(1:48)**
-  * Un dossier sur le BYOD **(42:30)**
-  * Interlude musicale avec [L'été Indien](https://soundcloud.com/alexandregagoug/l-t-indien) par [Alexandre Gagoug](https://soundcloud.com/gagoug) **(1:14:00)**
-  * Notre What's Next sur le BYOID**(1:16:20)**
-  *  Musique de fin [So Retro – MrBill + The Algorithm](https://soundcloud.com/mrbillstunes/soretro) **(1:36:00)**
-
+{{<chaptermarks>}}
 {{< podigee >}}
 
 Bonne écoute !
@@ -77,8 +89,3 @@ Bonne écoute !
 - <http://www.forbes.com/sites/kashmirhill/2011/08/29/googles-eric-schmidt-says-plus-is-an-identity-service-not-a-social-network/>
 - <http://www.numerama.com/magazine/19464-l-anonymat-en-ligne-doit-disparaitre-selon-une-responsable-facebook.html>
 - <http://www.numerama.com/magazine/19411-google-fait-la-chasse-aux-pseudonymes.html>
-
-## Musiques
-
-* [L'été Indien](https://soundcloud.com/alexandregagoug/l-t-indien) par [Alexandre Gagoug](https://soundcloud.com/gagoug)
-* [So Retro – MrBill + The Algorithm](https://soundcloud.com/mrbillstunes/soretro)
