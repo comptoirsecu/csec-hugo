@@ -261,3 +261,16 @@ alunageorge_youknowyoulikeit:
   album: Body Music
   uri: https://www.youtube.com/watch?v=FWR9MR5juWI
   image: alunageorge_youknowyoulikeit.jpg
+
+sldghmr_diy:
+  artist: SLDGHMR
+  song: D.I.Y.
+  uri: https://soundcloud.com/sldghmr/sldghmr-d-i-y
+  image: sldghmr_diy.jpg
+
+cristobal_utopiafinale:
+  artist: Cristobal Tapia de Veer
+  song: Utopia Finale
+  album: Utopia Soundtrack
+  uri: https://www.youtube.com/watch?v=8O8hd0S-K8k
+  image: cristobal_utopiafinale.jpg

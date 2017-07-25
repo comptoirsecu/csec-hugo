@@ -170,3 +170,34 @@ genma:
   linkedin: https://www.linkedin.com/in/genma/
   uri: https://blog.genma.fr/
   image: genma.jpg
+
+
+korben:
+  name: Korben
+  description: "Blogger francophone renommé, traitant des sujets tech en général, avec un petit faible pour la cybersécurité"
+  twitter: korben
+  uri: https://korben.info/
+  image: korben.jpg
+
+jaysonstreet:
+  name: Jayson E. Street
+  description: "Consultant et conférencier en SSI, principalement sur les sujets d'ingénierie sociale et sécurité physique"
+  twitter: jaysonstreet
+  uri: http://awkwardhugs.org/
+  image: jaysonstreet.jpg
+
+
+wilfrid_blanc:
+  name: Wilfrid Blanc
+  description: "Ancien consultant SSI chez Lexsi, maintenant chez Orange Cyberdéfense, avec un penchant pour les systèmes SCADA"
+  twitter: WilfridBlanc
+  linkedin: https://www.linkedin.com/in/wilfridblanc/
+  image: wilfrid_blanc.jpg
+
+zakaria_rachid:
+  name: Zakaria Rachid (Zack)
+  description: "Consultant SSI avec un penchant pour le pentest et le troll"
+  twitter: zackhimself
+  image: zakaria_rachid.jpg
+  linkedin: https://www.linkedin.com/in/zakariarachid/
+  uri: http://www.4sec.fr/
