@@ -61,13 +61,13 @@
         <itunes:explicit>no</itunes:explicit>
         {{ range first 30 .Site.Taxonomies.categories.podcast.Pages }}
         <item>
-            <title>[{{ humanize .Section }}] {{ .Title }}</title>
+            <title>{{ .Title }}</title>
             <link>{{ .Permalink }}</link>
             <pubDate>{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" .Date }}</pubDate>
             <!-- <comments>{{ .Permalink }}#comments</comments> -->
             <guid>{{ .Permalink }}</guid>
             <description>
-              {{chomp "<![CDATA[\n"}}{{ .Content }}{{chomp "]]>\n"}}
+              {{chomp "<![CDATA[\n"}}{{ .Content | plainify }}{{chomp "]]>\n"}}
             </description>
             <enclosure url="{{ .Params.podcast.feed }}" length="1" type="audio/mp3"/>
             <itunes:author>{{ $.Site.Params.Author }}</itunes:author>

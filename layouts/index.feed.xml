@@ -33,7 +33,7 @@
 
         {{ range first 30 .Site.Pages }}
         <item>
-            <title>[{{ humanize .Section }}] {{ .Title }}</title>
+            <title>{{ .Title }}</title>
             <link>{{ .Permalink }}</link>
             <pubDate>{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" .Date }}</pubDate>
             <!-- <comments>{{ .Permalink }}#comments</comments> -->
