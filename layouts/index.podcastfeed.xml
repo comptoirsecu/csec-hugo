@@ -67,14 +67,14 @@
             <!-- <comments>{{ .Permalink }}#comments</comments> -->
             <guid>{{ .Permalink }}</guid>
             <description>
-              {{chomp "<![CDATA[\n"}}{{ .Content | plainify }}{{chomp "]]>\n"}}
+              {{chomp "<![CDATA[\n"}}{{ htmlUnescape .Content | plainify }}{{chomp "]]>\n"}}
             </description>
             <enclosure url="{{ .Params.podcast.feed }}" length="1" type="audio/mp3"/>
             <itunes:author>{{ $.Site.Params.Author }}</itunes:author>
             <itunes:explicit>No</itunes:explicit>
             <itunes:subtitle>{{ .Params.Subheadline }}</itunes:subtitle>
             <itunes:summary>
-                {{chomp "<![CDATA[\n"}}{{ .Content  | plainify }}{{chomp "]]>\n"}}
+                {{chomp "<![CDATA[\n"}}{{ htmlUnescape .Content  | plainify }}{{chomp "]]>\n"}}
             </itunes:summary>
             <!--<itunes:duration>{{ .Params.podcast.feed }}</itunes:duration>-->
             <itunes:keywords>{{ delimit .Params.tags ", " }}</itunes:keywords>
