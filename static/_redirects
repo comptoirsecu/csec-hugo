@@ -1,0 +1,2 @@
+# redirects for Netlify
+/feed/podcast       /feed/podcast.xml     301
