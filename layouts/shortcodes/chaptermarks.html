@@ -3,7 +3,7 @@
   <strong>{{ if $.Get "title" }}{{ $.Get "title" }}{{ else }}Au sommaire de cette émission :{{ end }}</strong>
   <ul>
         {{ range $start, $chapter :=  . }}
-        <li>{{ $chapter }} <strong>({{$start}})</strong></li>
+        <li>{{ $chapter }} <strong><a href="#t={{$start | safeURL}}" onclick="location.reload()">({{$start}})</a></strong></li>
         {{ end }}
   </ul>
 </p>
