@@ -22,6 +22,30 @@ tags:
   - FSSI
   - mesh
   - podcast
+
+authors:
+  - justin
+  - lois
+  - morgan
+  - youenn
+
+songs:
+  - savant_rapture
+  - iwantunsmoothie
+
+drinks:
+  - mythos
+
+guests:
+  - emeric_laroche
+
+chaptermarks:
+  "00:02:22": "Les news du moment"
+  "00:33:30": "Dossier: Différence public/privé pour un responsable sécurité avec le FSSI adjoint du mindef"
+  "01:12:25": "Interlude musicale avec Rapture de Savant"
+  "01:12:25": "What's Next: Les réseaux mesh et MaidSafe"
+  "01:36:13": "Musique de fin avec I want un Smoothie"
+
 ---
 
 Nous revoici pour une saison 2 du Comptoir Sécu !
@@ -32,14 +56,7 @@ Malheureusement le dossier et le what's next ayant été enregistrés avant les 
 
 N'oubliez pas de voter pour nous pour les [Golden blogs Awards](http://www.golden-blog-awards.fr/blogs/le-comptoir-secu.html) ! 😉
 
-# Au programme
-
-  * Les news du moment **(02:22)**
-  * Notre dossier sur la différence entre le public et le privé pour un responsable sécurité **(33:30)**
-  * Interlude musicale avec  [Savant](http://open.spotify.com/artist/5RBdF1pJSLF3ugc2Y2PoB8) **(1:09:57)**
-  * What's next sur les réseaux meshs et MaidSafe **(1:12:25)**
-  *  Musique de fin  avec [I Want un Smoothie](https://soundcloud.com/iwantunsmoothie/i-want-un-smoothie) **(01:36:13)**
-
+{{<chaptermarks>}}
 
 {{< podigee >}}
 

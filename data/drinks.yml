@@ -298,3 +298,12 @@ jurancon:
   degree: 12
   image: jurancon.jpg
   description: "Le jurançon est un vin blanc d'appellation d'origine contrôlée (AOC) du sud-ouest de la France."
+
+mythos:
+  name: Mythos
+  type: Bière
+  subtype: Blonde
+  degree: 4.7
+  country: Grèce
+  image: mythos.jpg
+  description: D'une couleur blonde dorée, elle présente une mousse crémeuse, et des arômes complexes. Bien équilibrée, et légèrement sucrée, la Mythos est très rafraichissante.

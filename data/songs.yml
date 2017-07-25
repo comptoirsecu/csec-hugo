@@ -274,3 +274,17 @@ cristobal_utopiafinale:
   album: Utopia Soundtrack
   uri: https://www.youtube.com/watch?v=8O8hd0S-K8k
   image: cristobal_utopiafinale.jpg
+
+iwantunsmoothie:
+  artist: I want un Smoothie
+  song: I Want un Smoothie
+  album: "À la fraise EP"
+  uri: https://soundcloud.com/iwantunsmoothie/i-want-un-smoothie
+  image: iwantunsmoothie.jpg
+
+savant_rapture:
+  artist: Savant
+  song: Rapture original mix
+  album: Orakel
+  uri: https://www.youtube.com/watch?v=Zv--L5II6OU
+  image: savant_rapture.jpg
