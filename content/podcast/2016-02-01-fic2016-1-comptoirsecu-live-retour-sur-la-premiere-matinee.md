@@ -17,6 +17,15 @@ tags:
   - fic
   - FIC2016
   - live
+
+drinks:
+  - goudale
+
+authors:
+  - lois
+  - justin
+  - morgan
+  - youenn
 ---
 Bonjour tout le monde !
 

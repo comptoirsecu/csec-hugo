@@ -206,3 +206,18 @@ emeric_laroche:
   name: Emeric Laroche
   description: "(Ancien) FSSI (Fonctionnaire de la Sécurité des Systèmes d'Information) Adjoint au Ministère de la Défense"
   linkedin: https://www.linkedin.com/in/emericlaroche/
+
+jeremie_zimmermann:
+  name: "Jérémie Zimmermann"
+  description: "Co-fondateur et ex porte-parole de la Quadrature du Net"
+  twitter: jerezim
+  uri: https://www.laquadrature.net/en/who-are-we
+  image: jeremie_zimmermann.jpg
+
+nicolas_diaz:
+  name: Nicolas Diaz
+  description: "Hacktivist, membre de YesWeHack, ancien président de la maison du libre à Brest"
+  linkedin: https://www.linkedin.com/in/nicoladiaz/
+  twitter: nicoladiaz
+  uri: https://nicoladiaz.me/
+  image: nicolas_diaz.jpg

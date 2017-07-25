@@ -23,6 +23,19 @@ tags:
   - full
   - Korben
   - responsible
+
+guests:
+  - korben
+
+authors:
+  - justin
+  - lois
+  - morgan
+  - youenn
+
+drinks:
+  - goudale
+
 ---
 
 Pour cette deuxième journée du Forum International de la cybercriminalité nous avons eu le plaisir de recevoir [Korben](http://www.korben.info) pour nous parler du Bug Bounty et de son nouveau projet: [BountyFactory](https://bountyfactory.io/)

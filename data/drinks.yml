@@ -307,3 +307,13 @@ mythos:
   country: Grèce
   image: mythos.jpg
   description: D'une couleur blonde dorée, elle présente une mousse crémeuse, et des arômes complexes. Bien équilibrée, et légèrement sucrée, la Mythos est très rafraichissante.
+
+
+goudale:
+  name: La Goudale
+  type: Bière
+  subtype: Blonde
+  degree: 7.2
+  country: France
+  image: goudale.jpg
+  description: "Bière de garde, brassée à Douai (dans le Nord). La Goudale tire son nom d'un élément historique : « Au xive siècle, les bonnes bières étaient appelées Goudale, Goudalle ou Good Ale."

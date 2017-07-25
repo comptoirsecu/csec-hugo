@@ -17,6 +17,18 @@ tags:
   - "2016"
   - Cybersécurité
   - fic
+
+drinks:
+  - goudale
+
+guests:
+  - nolimitsecu
+
+authors:
+  - lois
+  - justin
+  - morgan
+  - youenn
 ---
 
 Pour la fin de cette première journée du FIC2016 nous avons reçu nos confrères de [NoLimitSecu](https://www.nolimitsecu.fr/) afin de revenir sur l'ensemble de cette première journée.

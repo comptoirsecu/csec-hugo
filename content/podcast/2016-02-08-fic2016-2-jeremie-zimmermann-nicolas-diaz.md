@@ -21,6 +21,20 @@ tags:
   - homme
   - libre
   - machine
+
+drinks:
+  - goudale
+
+authors:
+  - lois
+  - justin
+  - morgan
+  - youenn
+
+guests:
+  - jeremie_zimmermann
+  - nicolas_diaz
+
 ---
 
 Toujours dans la continuité de notre webradio pendant le Forum International de la CyberSécurité 2016, nous avons rencontré [Jeremie Zimmermann](https://twitter.com/jerezim) et [Nicolas Diaz](https://twitter.com/nicoladiaz) pour nous parler de la confiance utilisateur, des géants de l'internet et de la surveillance généralisé
