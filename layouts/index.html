@@ -3,16 +3,9 @@
 <div class="row align-center">
   <section class="large-10 medium-12 small-12 columns t1">
     {{ if .Site.Params.live }}
-
-      <div id="live" class="callout t1">
-        <h3><i class="fa fa-youtube-square"></i> Émission Live</h3>
-        <div class="responsive-embed widescreen">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ $.Site.Params.live_id }}" frameborder="0" allowfullscreen></iframe>
-        </div>
-        <a class="button secondary expanded hollow" href="http://discord.comptoirsecu.fr" target="_blank">Échangez avec nous en live sur le tchat Discord</a>
-      </div>
+      {{ partial "live.html"}}
     {{ end }}
-    <h2>Dernières parutions</h2>
+    <h2>Nos contenus récents</h2>
     <div class="row small-up-1 medium-up-2 large-up-3 align-left">
       {{ range first 1 (where .Data.Pages "Section"  "podcast") }}
         <div class="column column-block">

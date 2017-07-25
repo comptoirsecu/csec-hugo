@@ -1,0 +1,47 @@
+<div class="row align-center">
+  <div class="large-6 medium-8 small-12 columns">
+    <div id="live" class="callout">
+      <h3><i class="fa fa-youtube-square"></i> Émission Live</h3>
+      <div class="responsive-embed widescreen">
+        <iframe width="560" height="200" src="https://www.youtube.com/embed/{{ $.Site.Params.live_id }}" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <a class="button secondary expanded hollow" href="http://discord.comptoirsecu.fr" target="_blank">Échangez avec nous en live sur le tchat Discord</a>
+    </div>
+  </div>
+  <div class="show-for-large large-4">
+    <script>
+      var discordCallback = function() {
+       discordWidget.init({
+         serverId: '243858851026305024',
+         title: 'Notre canal Discord',
+         join: true,
+         alphabetical: false,
+         theme: 'dark',
+         hideChannels: ['Channel Name 1', 'Channel Name 2'],
+         showAllUsers: true,
+         allUsersDefaultState: false,
+         showNick: false
+       });
+       discordWidget.render();
+     }
+      if (window.screen.availWidth >= 1024) {
+
+         var src = "//cdn.jsdelivr.net/discord-widget/latest/discord-widget.min.js";
+         var newScript = document.createElement("script");
+         newScript.type = "text/javascript";
+         newScript.setAttribute("async", "true");
+         newScript.setAttribute("src", src);
+         newScript.onload = discordCallback;
+        newScript.onreadystatechange = function() {
+            if(this.readyState == 'complete') {
+                  discordCallback();
+            }
+        };
+        document.getElementsByTagName('head')[0].appendChild(newScript);
+      }
+    </script>
+
+
+    <div class="discord-widget"></div>
+  </div>
+</div>
