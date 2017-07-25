@@ -24,15 +24,6 @@ authors:
   - morgan
   - youenn
 
-songs:
-  - sldghmr_diy
-  - cristobal_utopiafinale
-
-guests:
-  - jaysonstreet
-  - wilfrid_blanc
-  - zakaria_rachid
-  - korben
 
 chaptermarks:
   "00:03:00": "NDH Kids"
