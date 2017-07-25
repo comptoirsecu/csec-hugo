@@ -10,6 +10,10 @@ enableRobotsTXT = true
 
 
 [params]
+live = true
+live_id = "0glcussnb18"
+
+
 author = "L'équipe du Comptoir Sécu"
 contact = "contact@comptoirsecu.fr"
 shortDesc = "Le Comptoir Sécu est un podcast traitant de la cybersécurité à travers des dossiers thématiques et des revues de l'actualité spécialisée."

@@ -48,11 +48,10 @@
 
 /// My color palette
 
-$ultraviolet: #2C3E50; // #183152; //#19055A;
-$violet: #E74C3C;//#3E0894;
-$lila: #E74C3C;//#5E42A6;
+$greyblue: #2C3E50; // #183152; //#19055A;
+$carmin: #E74C3C;//#3E0894;
 $blue: #4729FF;
-$pink: #3498DB;//#C55BFB;
+$teal: #3498DB;//#C55BFB;
 
 // 1. Global
 // ---------
@@ -61,8 +60,8 @@ $global-font-size: 100%;
 $global-width: rem-calc(1200);
 $global-lineheight: 1.5;
 $foundation-palette: (
-  primary: $pink,
-  secondary: $violet,
+  primary: $teal,
+  secondary: $carmin,
   success: #ECF0F1,//#3adb76,
   warning: #ffae00,
   alert: #cc4b37,
@@ -72,7 +71,7 @@ $medium-gray: #cacaca;
 $dark-gray: #8a8a8a;
 $black: #0a0a0a;
 $white: #ECF0F1;
-$body-background: $ultraviolet;
+$body-background: $greyblue;
 $body-font-color: $white;
 $body-font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;
 $body-antialiased: true;
@@ -297,7 +296,7 @@ $callout-link-tint: 30%;
 // --------
 
 $card-background: $white;
-$card-font-color: $ultraviolet;
+$card-font-color: $greyblue;
 $card-divider-background: $black;
 $card-border: 0px solid $light-gray;
 $card-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -604,7 +603,7 @@ $titlebar-color: $white;
 $titlebar-padding: 0.5rem;
 $titlebar-text-font-weight: bold;
 $titlebar-icon-color: $white;
-$titlebar-icon-color-hover: $pink;
+$titlebar-icon-color-hover: $teal;
 $titlebar-icon-spacing: 0.25rem;
 
 // 36. Tooltip
@@ -625,7 +624,7 @@ $tooltip-radius: $global-radius;
 
 $topbar-padding: 0.0rem;
 $topbar-background: $black;
-$topbar-submenu-background: $ultraviolet;
+$topbar-submenu-background: $greyblue;
 $topbar-title-spacing: 0rem;
 $topbar-input-width: 200px;
 $topbar-unstack-breakpoint: medium;

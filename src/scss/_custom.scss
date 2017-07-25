@@ -1,10 +1,10 @@
-$card-section-color: $ultraviolet;
-$card-divider-color: $pink;
+$card-section-color: $greyblue;
+$card-divider-color: $teal;
 $card-divider-link-color: $white;
 
 $metadata-background-color: #d7dadb;
 $metadata-color: $dark-gray;
-$metadata-link-color: $violet;
+$metadata-link-color: $carmin;
 
 $hero-height: 35vh;
 $hero-section-text: $white;
@@ -18,7 +18,7 @@ $card-user-container-margin-bottom: 1rem;
 $card-user-container-radius: $global-radius;
 $card-user-container-background: $white;
 $card-user-container-color: $black;
-$card-user-header-color: $violet;
+$card-user-header-color: $carmin;
 $card-user-subheader-color: $dark-gray;
 $card-user-container-image-size: rem-calc(230);
 
@@ -172,12 +172,12 @@ article main
   }
 }
 
-#annonce {
+#annonce, #live {
   h1, h2, h3, h4, h5, h6 {
-    color: $violet;
+    color: $carmin;
   }
   a {
-    color: $violet;
+    color: $carmin;
   }
 
   .label.secondary {
