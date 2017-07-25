@@ -3,7 +3,7 @@
 <div class="row align-center">
   <section class="large-10 medium-12 small-12 columns t1">
     {{ if .Site.Params.live }}
-      {{ partial "live.html"}}
+      {{ partial "live.html" .}}
     {{ end }}
     <h2>Nos contenus récents</h2>
     <div class="row small-up-1 medium-up-2 large-up-3 align-left">
