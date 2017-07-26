@@ -326,7 +326,8 @@ sankteriks_rauchbier:
   country: Country
   degree: 5.5
   image: sankteriks_rauchbier.jpg
-  description: Description text
+  description: "S:t Eriks Rauchbier har en stor rökig doft med toner av eneträ och torv. I smaken finns en kraftig men samtidigt elegant balanserad rökighet. Ölet har mörka och mustiga torrostade toner samt smak av bitter choklad."
+
 
 sankteriks_amberale:
   name: Sankt Eriks Amber Ale
@@ -335,7 +336,7 @@ sankteriks_amberale:
   country: Suède
   degree: 4.5
   image: sankteriks_amberale.jpg
-  description: En Amber Ale kan liknas vid en något mörkare och smakrikare Pale Ale med tydliga rostade toner. Namnet Amber betyder bärnsten på engelska och är en referens till den vackert rödgula färgen på ölet.
+  description: "En Amber Ale kan liknas vid en något mörkare och smakrikare Pale Ale med tydliga rostade toner. Namnet Amber betyder bärnsten på engelska och är en referens till den vackert rödgula färgen på ölet."
 
 
 swedish_elkbrew:
@@ -346,3 +347,41 @@ swedish_elkbrew:
   degree: 7.5
   image: swedish_elkbrew.jpg
   description: Bière qui n'a d'intéressant que le nom et l'étiquette, passez votre chemin
+
+
+cabernetdanjou_bbrose:
+  name: Cabernet d'Anjou BB Rose
+  type: Rosé
+  country: France
+  subtype: Chateau de Bois-Brinçon, Loire
+  degree: 11
+  description: "La cuvée BB rosé élaboré par le Château Bois Brinçon est un vin rosé fruité et légèrement sucré aux notes délicates de groseilles et de pêches."
+  image: cabernetdanjou_bbrose.jpg
+
+
+
+cocillana-ethyfin:
+  name: Cocillana-ethyfin
+  type: Médicament
+  degree: 98%
+  country: Suède
+  image: cocillana-ethyfin.jpg
+  description: Médicament habituellement utilisé pour soulager la toux. On peut sentir son action en moins d'une heure ! Incroyable !
+
+leffe_blonde:
+  name: Leffe
+  type: Bière
+  subtype: Blonde
+  country: Belgique
+  degree: 6.6
+  image: leffe_blonde.jpg
+  description: Bière classique d'Abbaye.
+
+cuvee_jacobin:
+  name: Cuvée des Jacobins Rouge
+  type: Bière
+  subtype: Ambrée
+  country: Belgique
+  degree: 5.5
+  image: cuvee_jacobin.jpg
+  description: "Cuvée des Jacobins est une bière au style Lambic vieillie 18 mois dans des foudres de chêne et destinée au marché américain."
