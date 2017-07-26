@@ -5,7 +5,7 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "fr"
 copyright = "© 2017 Le Comptoir Sécu"
 paginate = 12
-rssLimit = 30
+rssLimit = 50
 enableRobotsTXT = true
 
 
@@ -33,6 +33,7 @@ name = "podcastFeed"
 mediatype = "application/rss"
 Path = "/feed/"
 baseName = "podcast"
+
 [outputFormats.Feed]
 name = "Feed"
 mediatype = "application/rss"

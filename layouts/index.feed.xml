@@ -1,48 +1,47 @@
+{{chomp "<?xml version=\"1.0\" encoding=\"utf-8\" ?>\n"}}
 <rss version="2.0"
     xmlns:atom="http://www.w3.org/2005/Atom"
     xmlns:content="http://purl.org/rss/1.0/modules/content/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:webfeeds="http://webfeeds.org/rss/1.0"
-    xml:lang='en-US'>
+    xmlns:webfeeds="http://webfeeds.org/rss/1.0">
     <channel>
         <atom:link href="{{ .Site.BaseURL }}/feed/podcast.xml" rel="self" type="application/rss+xml" />
-        <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=comptoirsecu&amp;popout=1&amp;url=http%3A%2F%2Fwww.comptoirsecu.fr%2F&amp;language=fr_FR&amp;category=audio&amp;title=Le+Comptoir+S%C3%A9cu&amp;description=Le+podcast+qui+traite+des+enjeux+de+la+s%C3%A9curit%C3%A9+informatique.+Podcast+en+CC-BY-NC-SA&amp;tags=blog%2Cpodcast" type="text/html" />
-
-
         <link>{{ .Site.BaseURL }}</link>
         <language>fr</language>
-        <managingEditor>{{ .Site.Params.Contact }} ({{ .Site.Params.Author }})</managingEditor>
-        <webMaster>{{ .Site.Params.Contact }} ({{ .Site.Params.Author }})</webMaster>
-        <copyright>{{ .Site.Copyright }}</copyright>
-        <pubDate>{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" .Site.LastChange }}</pubDate>
-        <lastBuildDate>{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" .Site.LastChange }}</lastBuildDate>
-        <title>{{ .Site.Title }}</title>
+        <managingEditor>{{ .Site.Params.Contact  | safeHTML }} ({{ .Site.Params.Author  | safeHTML }})</managingEditor>
+        <webMaster>{{ .Site.Params.Contact  | safeHTML }} ({{ .Site.Params.Author  | safeHTML }})</webMaster>
+        <copyright>{{ .Site.Copyright  | safeHTML }}</copyright>
+        <pubDate>{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" .Site.LastChange  | safeHTML }}</pubDate>
+        <lastBuildDate>{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" .Site.LastChange  | safeHTML }}</lastBuildDate>
+        <title>{{ .Site.Title  | safeHTML }}</title>
         <webfeeds:cover image="{{ .Site.BaseURL }}/images/hero-blue.jpg" />
         <webfeeds:icon>{{ .Site.BaseURL }}/images/icon/android-icon-192x192.png</webfeeds:icon>
         <webfeeds:accentColor>3498DB</webfeeds:accentColor>
-        <webfeeds:logo>{{ .Site.BaseURL }}/images/logo.png</webfeeds:logo>
+        <webfeeds:logo>{{ .Site.BaseURL }}/images/logo.big.jpg</webfeeds:logo>
         <webfeeds:analytics id="{{ .Site.Params.GoogleAnalyticsID }}" engine="GoogleAnalytics"/>
         <description>
-            {{ .Site.Params.shortDesc }}
+            {{ .Site.Params.shortDesc  | safeHTML }}
         </description>
         <image>
-            <title>{{ .Site.Title }}</title>
-            <url>{{ .Site.BaseURL }}/images/logo.png</url>
+            <title>{{ .Site.Title  | safeHTML }}</title>
+            <url>{{ .Site.BaseURL }}/images/logo.big.jpg</url>
             <link>{{ .Site.BaseURL }}</link>
         </image>
 
         {{ range first 30 .Site.Pages }}
+        {{ $img := or .Params.image "/images/covers/default.jpg" }}
         <item>
-            <title>{{ .Title }}</title>
+          <title>
+            {{ .Title }}{{ if eq .Section "sechebdo" }} - {{ .Params.Subheadline }}{{end}}
+          </title>
             <link>{{ .Permalink }}</link>
-            <pubDate>{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" .Date }}</pubDate>
+            <pubDate>{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" .Date  | safeHTML }}</pubDate>
             <!-- <comments>{{ .Permalink }}#comments</comments> -->
             <guid>{{ .Permalink }}</guid>
-            <description>
-              {{chomp "<![CDATA[\n"}}{{ .Content }}{{chomp "]]>\n"}}
-            </description>
-            <enclosure url="{{ .Params.podcast.feed }}" length="1" type="audio/mp3"/>
-            <category>{{ .Section }}</category>
+            <description>{{chomp "<![CDATA[\n"}}{{ .Content | plainify | htmlUnescape | safeHTML }}{{chomp "]]>\n"}}</description>
+            <content:encoded>{{chomp "<![CDATA[\n"}}<img src="{{ $.Site.BaseURL }}{{ $img }}" class="webfeedsFeaturedVisual" /><br />{{ .Content | htmlUnescape | safeHTML }}{{chomp "]]>\n"}}</content:encoded>
+            <enclosure url="{{ .Params.podcast.feed }}" length="1" type="audio/mpeg"/>
+            <category>{{ .Section  | safeHTML }}</category>
         </item>
         {{ end }}
     </channel>
