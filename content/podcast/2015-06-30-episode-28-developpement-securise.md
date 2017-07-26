@@ -15,7 +15,6 @@ categories:
   - Emission
 tags:
   - developpement sécurisé
-  - podcast
 ---
 
 

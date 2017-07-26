@@ -37,7 +37,7 @@ authors:
 
 Voici le premier épisode de notre émission quotidienne portant sur [Sequana](http://www.prefecturedepolice.interieur.gouv.fr/Sequana/), l'exercice organisé par le gouvernement afin de préparer une éventuelle crue de la Seine.
 
-Pour ces épisodes, nous avons  le plaisir de recevoir une nouvelle fois [Vincent Balouet](/guests/vincent_balouet). Le sujet de cette première émission portera sur le **rappel du risque et du scénario de crue majeure**
+Pour ces épisodes, nous avons  le plaisir de recevoir une nouvelle fois Vincent Balouet. Le sujet de cette première émission portera sur le **rappel du risque et du scénario de crue majeure**
 
 
 {{< podigee >}}

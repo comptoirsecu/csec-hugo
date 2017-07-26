@@ -13,6 +13,7 @@ image: /images/covers/2016-02-Capture.jpg
 categories:
   - Podcast
   - Hors-Serie
+
 tags:
   - "2016"
   - fic
@@ -20,9 +21,17 @@ tags:
   - internet of things
   - IoT
   - objets connectés
+
+authors:
+  - lois
+  - justin
+  - morgan
+  - youenn
+
+guests:
+  - renaud_lifchitz
+  - thomas_gayet
 ---
-
-Pour ce dernier épisode de notre série consacré au #FIC2016, nous avons reçu Renaud Lifchitz et Tomas Gayet de [Digital Security](https://www.digitalsecurity.fr/) pour nous parler de la sécurité des objets connectés
-
+Pour ce dernier épisode de notre série consacré au #FIC2016, nous avons reçu Renaud Lifchitz et Thomas Gayet de [Digital Security](https://www.digitalsecurity.fr/) pour nous parler de la sécurité des objets connectés
 
 {{< podigee >}}
