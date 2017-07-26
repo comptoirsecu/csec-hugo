@@ -12,7 +12,7 @@ corsendonk_blonde:
     type: Bière
     subtype: Brune
     country: Belgique
-    degree: 6,5
+    degree: 6.5
     image: corsendonk-blonde.jpg
     description: Bière blonde de type Abbey Tripel de la brasserie Corsendonk.
 
@@ -21,7 +21,7 @@ corsendonk_brune:
     type: Bière
     subtype: Brune
     country: Belgique
-    degree: 6,5
+    degree: 6.5
     image: corsendonk-brune.jpg
     description: Bière aux arômes fruités, de levure qui lui procure un goût malté et sucré.
 
@@ -30,7 +30,7 @@ delirium_nocturnum:
     type: Bière
     subtype: Brune
     country: Belgique
-    degree: 8,5
+    degree: 8.5
     image: delirium-nocturnum.jpg
     description: Bière belge forte, petite soeur brune de la fameuse Delirium tremens
 
@@ -84,7 +84,7 @@ pietra_bionda:
     type: Bière
     subtype: Blonde
     country: Corse (France)
-    degree: 5,5
+    degree: 5.5
     image: pietra_bionda.jpg
     description: Parfait équilibre entre malts pâles, farine de châtaigne et houblons aromatiques, PIETRA BIONDA présente une mousse crème à fines bulles régulières, un corps charpenté et une couleur dorée qui en révèle toute la brillance.
 
@@ -119,7 +119,7 @@ seizesoixantequatre:
     type: Bière
     subtype: Blonde
     country: France
-    degree: 5,5
+    degree: 5.5
     image: 1664.jpg
     description: Bière blonde classique
 
@@ -128,7 +128,7 @@ peroni_nastro_azzurro:
     type: Bière
     subtype: Blonde
     country: Italie
-    degree: 5,5
+    degree: 5.5
     image: peroni_nastro_azzurro.jpg
     description: Bière blonde italienne
 
@@ -145,7 +145,7 @@ grimbergen_blonde:
   type: Bière
   subtype: Blonde
   country: Belgique
-  degree: 6,7
+  degree: 6.7
   image: grimbergen-blonde.jpg
   description: La blonde est une bière à la robe jaune d'or limpide. Elle se pare d'une mousse dense et abondante de couleur crème. Elle développe un nez malté et relativement fruité avec des pointes rappelant certaines épices comme le clou de girofle.
 
@@ -154,7 +154,7 @@ greenbullet_triple_ipa:
   type: Bière
   subtype: IPA
   country: USA
-  degree: 10,1
+  degree: 10.1
   image: green_bullet_ipa.jpg
   description: Une bière de type double IPA dévoilant une amertume franche et des arômes de mangues et d'ananas.
 
@@ -164,7 +164,7 @@ vezelay_blanche:
   subtype: Sans gluten
   subtype: Blanche
   country: France
-  degree: 4,4
+  degree: 4,.
   image: vezelay_blanche.jpg
   description: La Blanche Sans Gluten de Vézelay est une bière typique de Bavière au style Hefeweizen allemand, alliant la non filtration et la non pasteurisation. Elle possède une robe jaune pâle et à la fine mousse blanche qui dévoile des arômes de malts d'orge et de blé avec des notes fruitées pour des saveurs de malt et de citron.
 
@@ -173,7 +173,7 @@ carlsberg_elephant:
   type: Bière
   subtype: Lager
   country: Danemark
-  degree: 7,2
+  degree: 7.2
   image: carlsberg_elephant.jpg
   description: Elle offre au nez des arômes de malt évoquant les céréales et la paille et de légères senteurs herbacées. En bouche, on retrouve des saveurs maltées qui sont suivies de notes herbacées et d'une fine amertume.
 
@@ -200,7 +200,7 @@ corona_extra:
   type: Bière
   subtype: Blonde
   country: Mexique
-  degree: 4,6
+  degree: 4.6
   image: corona_extra.jpg
   description: La bière blonde la plus vendue au Mexique. Idéale pour accompagner les plats épicés !
 
@@ -286,7 +286,7 @@ brunehaut_ambree:
   type: Bière
   subtype: Ambrée
   country: France
-  degree: 6,5
+  degree: 6.5
   image: brunehaut_ambree.jpg
   description: "Ambrée bio aux saveurs de caramel, de malt et de houblon."
 
@@ -325,3 +325,21 @@ cocillana-ethyfin:
   country: Suède
   image: cocillana-ethyfin.jpg
   description: Médicament habituellement utilisé pour soulager la toux. On peut sentir son action en moins d'une heure ! Incroyable !
+
+leffe_blonde:
+  name: Leffe
+  type: Bière
+  subtype: Blonde
+  country: Belgique
+  degree: 6.6
+  image: leffe_blonde.jpg
+  description: Bière classique d'Abbaye.
+
+cuvee_jacobin:
+  name: Cuvée des Jacobins Rouge
+  type: Bière
+  subtype: Ambrée
+  country: Belgique
+  degree: 5.5
+  image: cuvee_jacobin.jpg
+  description: "Cuvée des Jacobins est une bière au style Lambic vieillie 18 mois dans des foudres de chêne et destinée au marché américain."

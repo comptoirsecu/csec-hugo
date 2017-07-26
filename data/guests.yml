@@ -221,3 +221,11 @@ nicolas_diaz:
   twitter: nicoladiaz
   uri: https://nicoladiaz.me/
   image: nicolas_diaz.jpg
+
+eric_freyssinet:
+  name: Eric Freyssinet
+  description: "Colonel de gendarmerie, (ancien) conseiller auprès du Préfet en charge de la lutte contre les cybermenaces, Président de Botconf, aujourd'hui Chef de la Mission Numérique de la Gendarmerie Nationale"
+  linkedin: https://www.linkedin.com/in/ericfreyssinet/
+  twitter: ericfreyss
+  uri: https://blog.crimenumerique.fr/
+  image: eric_freyssinet.jpg
