@@ -1,3 +1,4 @@
+{{chomp "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"}}
 <rss version="2.0"
     xmlns:atom="http://www.w3.org/2005/Atom"
     xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -8,47 +9,43 @@
     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-    xmlns:webfeeds="http://webfeeds.org/rss/1.0"
-    xml:lang='en-US'>
+    xmlns:webfeeds="http://webfeeds.org/rss/1.0">
     <channel>
         <atom:link href="{{ .Site.BaseURL }}/feed/podcast.xml" rel="self" type="application/rss+xml" />
-        <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=comptoirsecu&amp;popout=1&amp;url=http%3A%2F%2Fwww.comptoirsecu.fr%2F&amp;language=fr_FR&amp;category=audio&amp;title=Le+Comptoir+S%C3%A9cu&amp;description=Le+podcast+qui+traite+des+enjeux+de+la+s%C3%A9curit%C3%A9+informatique.+Podcast+en+CC-BY-NC-SA&amp;tags=blog%2Cpodcast" type="text/html" />
-
-
         <link>{{ .Site.BaseURL }}</link>
         <language>fr</language>
-        <managingEditor>{{ .Site.Params.Contact }} ({{ .Site.Params.Author }})</managingEditor>
-        <webMaster>{{ .Site.Params.Contact }} ({{ .Site.Params.Author }})</webMaster>
-        <copyright>{{ .Site.Copyright }}</copyright>
-        <pubDate>{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" .Site.LastChange }}</pubDate>
-        <lastBuildDate>{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" .Site.LastChange }}</lastBuildDate>
-        <itunes:author>{{ .Site.Params.Author }}</itunes:author>
-        <title>{{ .Site.Title }} - Podcasts</title>
+        <managingEditor>{{ .Site.Params.Contact | safeHTML }} ({{ .Site.Params.Author | safeHTML }})</managingEditor>
+        <webMaster>{{ .Site.Params.Contact | safeHTML }} ({{ .Site.Params.Author | safeHTML }})</webMaster>
+        <copyright>{{ .Site.Copyright | safeHTML }}</copyright>
+        <pubDate>{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" .Site.LastChange | safeHTML }}</pubDate>
+        <lastBuildDate>{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" .Site.LastChange | safeHTML }}</lastBuildDate>
+        <itunes:author>{{ .Site.Params.Author | safeHTML }}</itunes:author>
+        <title>{{ .Site.Title | safeHTML }} - Podcasts</title>
         <webfeeds:cover image="{{ .Site.BaseURL }}/images/hero-blue.jpg" />
         <webfeeds:icon>{{ .Site.BaseURL }}/images/icon/android-icon-192x192.png</webfeeds:icon>
         <webfeeds:accentColor>3498DB</webfeeds:accentColor>
-        <webfeeds:logo>{{ .Site.BaseURL }}/images/logo.png</webfeeds:logo>
+        <webfeeds:logo>{{ .Site.BaseURL }}/images/logo.big.jpg</webfeeds:logo>
         <webfeeds:analytics id="{{ .Site.Params.GoogleAnalyticsID }}" engine="GoogleAnalytics"/>
         <itunes:subtitle>
-            {{ .Site.Params.shortDesc }}
+            {{ .Site.Params.shortDesc | safeHTML }}
         </itunes:subtitle>
         <description>
-            {{ .Site.Params.shortDesc }}
+            {{ .Site.Params.shortDesc | safeHTML }}
         </description>
         <image>
-            <title>{{ .Site.Title }} - Podcasts</title>
-            <url>{{ .Site.BaseURL }}/images/logo.png</url>
+            <title>{{ .Site.Title | safeHTML }} - Podcasts</title>
+            <url>{{ .Site.BaseURL }}/images/logo.big.png</url>
             <link>{{ .Site.BaseURL }}</link>
         </image>
         <itunes:summary>
-            {{ .Site.Params.longDesc }}
+            {{ .Site.Params.longDesc | safeHTML }}
         </itunes:summary>
         <itunes:keywords>Cybersécurité, SSI, Vie privée, Infosec, Sécurité, Continuité, SECHebdo, SECompris, SEClair, PoC, Point Sécu, Comptoir</itunes:keywords>
         <itunes:owner>
-            <itunes:name>{{ .Site.Params.Author }}</itunes:name>
-            <itunes:email>{{ .Site.Params.Contact }}</itunes:email>
+            <itunes:name>{{ .Site.Params.Author | safeHTML}}</itunes:name>
+            <itunes:email>{{ .Site.Params.Contact | safeHTML}}</itunes:email>
         </itunes:owner>
-        <itunes:image href="{{ .Site.BaseURL }}/images/logo.png" />
+        <itunes:image href="{{ .Site.BaseURL }}/images/logo.big.jpg" />
         <itunes:category text="Technology">
             <itunes:category text="Tech News" />
         </itunes:category>
@@ -58,29 +55,33 @@
             itunes="https://itunes.apple.com/fr/podcast/id691497996"></rawvoice:subscribe>
         <sy:updatePeriod>hourly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
+        <generator>Hugo -- gohugo.io</generator>
         <itunes:explicit>no</itunes:explicit>
         {{ range first 30 .Site.Taxonomies.categories.podcast.Pages }}
         <item>
-            <title>{{ .Title }}</title>
+          <title>
+            {{ .Title }}{{ if eq .Section "sechebdo" }} - {{ .Params.Subheadline }}{{end}}
+          </title>
             <link>{{ .Permalink }}</link>
-            <pubDate>{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" .Date }}</pubDate>
+            <pubDate>{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" .Date | safeHTML }}</pubDate>
             <!-- <comments>{{ .Permalink }}#comments</comments> -->
             <guid>{{ .Permalink }}</guid>
             <description>
-              {{chomp "<![CDATA[\n"}}{{ .Content | plainify }}{{chomp "]]>\n"}}
+              {{ .Summary | plainify | htmlUnescape | safeHTML }}
             </description>
-            <enclosure url="{{ .Params.podcast.feed }}" length="1" type="audio/mp3"/>
-            <itunes:author>{{ $.Site.Params.Author }}</itunes:author>
+            <content:encoded>{{chomp "<![CDATA[\n"}}{{ .Content | htmlUnescape | safeHTML }}{{chomp "]]>\n"}}</content:encoded>
+            <enclosure url="{{ .Params.podcast.feed }}" type="audio/mpeg"/>
+            <itunes:author>{{ $.Site.Params.Author | safeHTML }}</itunes:author>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:subtitle>{{ .Params.Subheadline }}</itunes:subtitle>
+            {{ with .Params.Subheadline }}<itunes:subtitle>{{ . }}</itunes:subtitle>{{ end }}
             <itunes:summary>
-                {{chomp "<![CDATA[\n"}}{{ .Content  | plainify }}{{chomp "]]>\n"}}
+                {{ .Summary | plainify | htmlUnescape | safeHTML }}
             </itunes:summary>
             <!--<itunes:duration>{{ .Params.podcast.feed }}</itunes:duration>-->
-            <itunes:keywords>{{ delimit .Params.tags ", " }}</itunes:keywords>
+            <itunes:keywords>{{ delimit .Params.tags ", " | safeHTML }}</itunes:keywords>
             {{ $img := or .Params.image "/images/covers/default.jpg" }}
             <itunes:image href="{{ $.Site.BaseURL }}{{ $img }}" />
-            <category>{{ .Section }}</category>
+            <category>{{ .Section | safeHTML }}</category>
         </item>
         {{ end }}
     </channel>
