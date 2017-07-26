@@ -236,3 +236,9 @@ hydraze:
   twitter: hydraze
   uri: http://www.hydraze.org
   image: hydraze.jpg
+
+thomas_gayet:
+  name: Thomas Gayet
+  description: "Responsable du CERT-UBIK @Digital Security - Econocom"
+  linkedin: https://www.linkedin.com/in/thomasgayet/
+  image: thomas_gayet.jpg

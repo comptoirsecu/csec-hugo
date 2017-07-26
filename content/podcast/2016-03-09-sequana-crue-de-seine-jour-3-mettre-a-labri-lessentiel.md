@@ -36,7 +36,7 @@ authors:
 ---
 Voici le troisème épisode de notre émission quotidienne portant sur [Sequana](http://www.prefecturedepolice.interieur.gouv.fr/Sequana/), l'exercice organisé par le gouvernement afin de préparer une éventuelle crue de la Seine.
 
-Pour ces épisodes, nous avons  le plaisir de recevoir une nouvelle fois [Vincent Balouet](/guests/vincent_balouet). Le sujet de cette troisième émission portera sur **comment mettre à l'abri l'essentiel**
+Pour ces épisodes, nous avons  le plaisir de recevoir une nouvelle fois Vincent Balouet. Le sujet de cette troisième émission portera sur **comment mettre à l'abri l'essentiel**
 
 {{< podigee >}}
 
