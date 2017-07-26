@@ -6,11 +6,11 @@ var runSequence = require('run-sequence');
 var javascript_src = ['src/js/enabled/foundation.core.js', 'src/js/enabled/foundation.util.*.js', 'src/js/enabled/*.js'];
 var javascript_dest = "static/js";
 var img = {
-  cover: {   src: "src/images/covers/*.{png,jpg,jpeg,gif}",
+  cover: {   src: "src/images/covers/",
             dst: "static/images/covers/" },
-  misc: {   src: "src/images/misc/*.{png,jpg,jpeg}",
+  misc: {   src: "src/images/misc/",
             dst: "static/images/misc/" },
-  thumbnail: {   src: "src/images/thumbnails/*.{png,jpg,jpeg,gif}",
+  thumbnail: {   src: "src/images/thumbnails/",
             dst: "static/images/thumbnails/" },
   };
 
@@ -76,7 +76,7 @@ gulp.task('img:misc:gif', function () {
 })
 
 gulp.task('img:misc', ['img:misc:gif'], function() {
-  return  gulp.src(img.misc.src)
+  return  gulp.src(img.misc.src + "*.{png,jpg,jpeg}")
   .pipe(plugins.responsive({'*.{jpg,jpeg,png}':
       { quality: 50, width: 1000, rename:
           { extname: '.jpg',
@@ -94,7 +94,7 @@ gulp.task('img:misc', ['img:misc:gif'], function() {
 });
 
 gulp.task('img:thumbnails', function() {
-  return gulp.src(img.thumbnail.src)
+  return gulp.src(img.thumbnail.src + "*.{png,jpg,jpeg,gif}")
   .pipe(plugins.responsive({'*': [
       { quality: 40, width: 200, height: 200, rename:
           { extname: '.jpg' } },
@@ -106,15 +106,15 @@ gulp.task('img:thumbnails', function() {
     flatten: true,
     background: "#ECF0F1",
     errorOnEnlargement: false,
+    withoutEnlargement: false,
     errorOnUnusedConfig: false,
   }))
   .pipe(gulp.dest(img.thumbnail.dst));
 });
 
 
-
 gulp.task('img:covers', function() {
-  return gulp.src(img.cover.src)
+  return gulp.src(img.cover.src + "*.{png,jpg,jpeg,gif}")
   .pipe(plugins.responsive({
     '*': [{
         quality: 60,

@@ -317,3 +317,32 @@ goudale:
   country: France
   image: goudale.jpg
   description: "Bière de garde, brassée à Douai (dans le Nord). La Goudale tire son nom d'un élément historique : « Au xive siècle, les bonnes bières étaient appelées Goudale, Goudalle ou Good Ale."
+
+
+sankteriks_rauchbier:
+  name: Sankt Eriks Rauchbier
+  type: Bière
+  subtype: Rauchbier (fumée)
+  country: Country
+  degree: 5,5
+  image: sankteriks_rauchbier.jpg
+  description: Description text
+
+sankteriks_amberale:
+  name: Sankt Eriks Amber Ale
+  type: Bière
+  subtype: Ambrée
+  country: Suède
+  degree: 4,5
+  image: sankteriks_amberale.jpg
+  description: En Amber Ale kan liknas vid en något mörkare och smakrikare Pale Ale med tydliga rostade toner. Namnet Amber betyder bärnsten på engelska och är en referens till den vackert rödgula färgen på ölet.
+
+
+swedish_elkbrew:
+  name: Swedish Elk Brew
+  type: Bière
+  subtype: Blonde
+  country: Suède
+  degree: 7,5
+  image: swedish_elkbrew.jpg
+  description: Bière qui n'a d'intéressant que le nom et l'étiquette, passez votre chemin
