@@ -302,3 +302,17 @@ camellia_sinlover:
   album: mikUbiquity
   uri: http://vocadb.net/Al/469
   image: camellia_sinlover.jpg
+
+monomer_fightorflight:
+  artist: Monomer
+  song: Fight or Flight
+  uri: https://monomer.bandcamp.com/album/labyrinth
+  album: Labyrinth
+  image: monomer_labyrinth.jpg
+
+danimalcanon_legacy:
+  artist: Danimal Canon and Zef
+  song: Legacy
+  uri: https://danimalcannon.bandcamp.com/album/parallel-processing
+  album: Parallel Processing
+  image: danimalcanon_parallelprocessing.jpg

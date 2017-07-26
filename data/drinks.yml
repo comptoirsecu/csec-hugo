@@ -343,3 +343,12 @@ cuvee_jacobin:
   degree: 5.5
   image: cuvee_jacobin.jpg
   description: "Cuvée des Jacobins est une bière au style Lambic vieillie 18 mois dans des foudres de chêne et destinée au marché américain."
+
+cabernetdanjou_bbrose:
+  name: Cabernet d'Anjou BB Rose
+  type: Rosé
+  country: France
+  subtype: Chateau de Bois-Brinçon, Loire
+  degree: 11
+  description: "La cuvée BB rosé élaboré par le Château Bois Brinçon est un vin rosé fruité et légèrement sucré aux notes délicates de groseilles et de pêches."
+  image: cabernetdanjou_bbrose.jpg

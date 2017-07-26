@@ -229,3 +229,10 @@ eric_freyssinet:
   twitter: ericfreyss
   uri: https://blog.crimenumerique.fr/
   image: eric_freyssinet.jpg
+
+hydraze:
+  name: Hydraze
+  description: "Spécialiste du passcracking et membre de ZenkSecurity"
+  twitter: hydraze
+  uri: http://www.hydraze.org
+  image: hydraze.jpg
