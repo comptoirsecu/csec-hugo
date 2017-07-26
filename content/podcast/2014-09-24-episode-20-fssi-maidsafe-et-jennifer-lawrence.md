@@ -2,7 +2,7 @@
 
 title: "[Épisode 20] FSSI, Maidsafe et Jennifer Lawrence"
 date: 2014-09-24T19:37:01+00:00
-publisher: justin
+publisher: comptoirsecu
 
 
 aliases: /2014/09/episode-20-fssi-maidsafe-et-jennifer-lawrence/

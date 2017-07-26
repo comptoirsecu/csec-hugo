@@ -2,7 +2,7 @@
 
 title: "[Sequana] Crue de Seine – Jour 5 – Télétravail et sites de repli"
 date: 2016-03-11T09:32:27+00:00
-publisher: justin
+publisher: comptoirsecu
 
 
 aliases: /2016/03/sequana-crue-de-seine-jour-5-teletravail-et-sites-de-repli/
@@ -19,7 +19,6 @@ tags:
   - Crue
   - maitrise
   - PCA
-  - podcast
   - PRA
   - repli
   - RSSI

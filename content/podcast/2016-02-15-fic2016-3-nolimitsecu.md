@@ -2,7 +2,7 @@
 
 title: "[FIC2016] 3 – NolimitSecu"
 date: 2016-02-15T10:16:48+00:00
-publisher: justin
+publisher: comptoirsecu
 
 
 aliases: /2016/02/fic2016-3-nolimitsecu/
@@ -30,7 +30,6 @@ authors:
   - morgan
   - youenn
 ---
-
 Pour la fin de cette première journée du FIC2016 nous avons reçu nos confrères de [NoLimitSecu](https://www.nolimitsecu.fr/) afin de revenir sur l'ensemble de cette première journée.
 
 {{< podigee >}}

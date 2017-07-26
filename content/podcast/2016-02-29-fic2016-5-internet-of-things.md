@@ -2,7 +2,7 @@
 
 title: "[FIC2016] 5 – Internet Of Things"
 date: 2016-02-29T08:33:21+00:00
-publisher: justin
+publisher: comptoirsecu
 
 
 aliases: /2016/02/fic2016-5-internet-of-things/

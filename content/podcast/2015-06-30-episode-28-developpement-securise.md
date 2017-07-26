@@ -2,7 +2,7 @@
 
 title: "[Épisode 28] Développement sécurisé"
 date: 2015-06-30T21:22:14+00:00
-publisher: justin
+publisher: comptoirsecu
 
 
 aliases: /2015/06/episode-28-developpement-securise/

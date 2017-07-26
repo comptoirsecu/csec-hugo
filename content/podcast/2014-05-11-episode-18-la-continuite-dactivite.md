@@ -2,7 +2,7 @@
 
 title: "[Épisode 18] La continuité d'activité"
 date: 2014-05-11T23:21:43+00:00
-publisher: justin
+publisher: comptoirsecu
 
 
 aliases: /2014/05/episode-18-la-continuite-dactivite/

@@ -2,7 +2,7 @@
 
 title: "[FIC2016] 4 – Korben et Bug Bounty"
 date: 2016-02-22T08:30:51+00:00
-publisher: justin
+publisher: comptoirsecu
 
 
 aliases: /2016/02/fic2016-4-korben-et-bug-bounty/

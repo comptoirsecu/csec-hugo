@@ -2,7 +2,7 @@
 
 title: "Analyses: ShellShock"
 date: 2014-09-30T01:32:14+00:00
-publisher: justin
+publisher: comptoirsecu
 
 
 aliases: /2014/09/episode-hs-shellshock/

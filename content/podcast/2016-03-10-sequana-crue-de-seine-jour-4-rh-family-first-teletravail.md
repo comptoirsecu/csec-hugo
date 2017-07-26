@@ -2,7 +2,7 @@
 
 title: "[Sequana] Crue de Seine – Jour 4 – RH, Family first, télétravail"
 date: 2016-03-10T09:00:55+00:00
-publisher: justin
+publisher: comptoirsecu
 
 
 aliases: /2016/03/sequana-crue-de-seine-jour-4-rh-family-first-teletravail/
@@ -20,7 +20,6 @@ tags:
   - family frist
   - maitrise
   - PCA
-  - podcast
   - PRA
   - RH
   - RSSI

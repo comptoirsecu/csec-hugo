@@ -3,7 +3,7 @@
 title: "[Épisode 15] Juridique"
 subheadline: réponse à incident et LPM
 date: 2014-02-26T10:00:21+00:00
-publisher: youenn
+publisher: comptoirsecu
 
 
 aliases: /2014/02/episode-15-juridique-reponse-a-incident-et-lpm/

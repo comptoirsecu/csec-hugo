@@ -2,7 +2,7 @@
 
 title: "[FIC2016] 1 – Retour sur la Première Matinée"
 date: 2016-02-01T10:29:20+00:00
-publisher: justin
+publisher: comptoirsecu
 
 
 aliases: /2016/02/fic2016-1-comptoirsecu-live-retour-sur-la-premiere-matinee/

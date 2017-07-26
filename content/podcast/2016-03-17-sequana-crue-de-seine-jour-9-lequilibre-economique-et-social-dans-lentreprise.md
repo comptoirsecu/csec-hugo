@@ -2,7 +2,7 @@
 
 title: "[Sequana] Crue de Seine – Jour 9 –  L’équilibre économique et social dans l’entreprise"
 date: 2016-03-17T09:11:33+00:00
-publisher: justin
+publisher: comptoirsecu
 
 
 aliases: /2016/03/sequana-crue-de-seine-jour-9-lequilibre-economique-et-social-dans-lentreprise/

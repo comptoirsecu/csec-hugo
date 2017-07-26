@@ -1,7 +1,7 @@
 ---
 title: "[Épisode 1] SSL"
 subheadline: "Historique, faiblesses et avenir"
-publisher: justin
+publisher: comptoirsecu
 authors:
   - justin
   - lois

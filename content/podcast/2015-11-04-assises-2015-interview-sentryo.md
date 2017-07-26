@@ -2,7 +2,7 @@
 
 title: "[Assises 2015] Interview Sentryo"
 date: 2015-11-04T10:27:00+00:00
-publisher: justin
+publisher: comptoirsecu
 
 
 aliases: /2015/11/assises-2015-interview-sentryo/
@@ -18,7 +18,6 @@ tags:
   - sécurité
   - sentryo
 ---
-
 Voici un petit poste pour vous faire découvrir le gagnant du prix de l'innovation des assises 2015 : [Sentryo](http://www.sentryo.net/fr/)
 
 Pour celà nous avons reçu [Laurent Hausermann](https://twitter.com/lhausermann) pour une interview
