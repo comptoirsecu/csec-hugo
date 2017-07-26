@@ -2,7 +2,7 @@
 
 title: "[Épisode 37] Les botnets"
 date: 2016-05-30T14:55:44+00:00
-publisher: lois
+publisher: comptoirsecu
 
 
 aliases: /2016/05/episode-37-les-botnets/
@@ -18,15 +18,29 @@ tags:
   - Botnet
   - ddos
   - freyssinet
-  - podcast
   - zombie
 
+authors:
+  - lois
+  - justin
+  - morgan
+  - youenn
 
+guests:
+  - eric_freyssinet
+
+songs:
+  - laurent_garnier_confused
+  - camellia_sinlover
+
+drinks:
+  - cuvee_jacobin
+  - leffe_blonde
+  - grimbergen_blonde
 ---
-
 Pour ce 37ème épisode, nous abordons le sujet des Botnets: qu'est ce qu'un botnet, comment cela fonctionne-t-il, comment s'en protéger, etc. ?
 
-Afin d'échanger sur ce sujet, nous avons invité le colonel [Eric Freyssinet](/guests/eric_freyssinet) dont ce sujet a été le thème de sa thèse.
+Afin d'échanger sur ce sujet, nous avons invité le colonel Eric Freyssinet dont ce sujet a été le thème de sa thèse.
 
 Bonne écoute à tous !
 
@@ -40,8 +54,3 @@ Bonne écoute à tous !
   * [Le site d'Antibot](https://www.antibot.fr)
   * [Site du CECyF](http://www.cecyf.fr/)
   * [Association Signal-Spam](https://www.signal-spam.fr/)
-
-## Les interludes musicales de l'épisode :
-
-  * [Laurent Garnier – pǝsnɟuoɔ (original version)](http://laurentgarnier.com/homebox.html)
-  * [かめりあ (Camellia) – Sinlover (Ver. 2.0.0)](http://vocadb.net/Al/469)

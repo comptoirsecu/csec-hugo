@@ -3,7 +3,7 @@
 title: "[Épisode 8] Utilité des IDS/IPS"
 subheadline: et avenir des smartlocks
 date: 2013-11-25T08:53:01+00:00
-publisher: justin
+publisher: comptoirsecu
 
 
 aliases: /2013/11/episode-8-ou-lon-debat-sur-lutilite-des-idsips-et-lavenir-des-smartlocks/

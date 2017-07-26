@@ -2,7 +2,7 @@
 
 title: "[Épisode 6] User-friendly, Madame Michu  Google Cars"
 date: 2013-10-20T21:16:10+00:00
-publisher: justin
+publisher: comptoirsecu
 
 podcast:
   feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP06.2013-10-20.USER_FRIENDLY.mp3

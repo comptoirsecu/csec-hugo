@@ -2,7 +2,7 @@
 
 title: "[Épisode 34] Actualité de Décembre"
 date: 2015-12-31T21:55:52+00:00
-publisher: lois
+publisher: comptoirsecu
 
 
 aliases: /2015/12/episode-34-actualite-de-decembre/

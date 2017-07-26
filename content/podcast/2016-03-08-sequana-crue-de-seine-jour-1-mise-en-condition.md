@@ -2,7 +2,7 @@
 
 title: "[Sequana] Crue de Seine – Jour 1 – Mise en Condition"
 date: 2016-03-08T01:41:42+00:00
-publisher: justin
+publisher: comptoirsecu
 
 
 aliases: /2016/03/sequana-crue-de-seine-jour-1-mise-en-condition/
@@ -19,7 +19,6 @@ tags:
   - Crue
   - maitrise
   - PCA
-  - podcast
   - PRA
   - RSSI
   - scenario

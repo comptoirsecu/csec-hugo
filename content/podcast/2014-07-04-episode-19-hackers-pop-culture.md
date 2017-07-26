@@ -2,7 +2,7 @@
 
 title: "[Épisode 19] Hackers & Pop Culture"
 date: 2014-07-04T17:12:59+00:00
-publisher: justin
+publisher: comptoirsecu
 
 
 aliases: /2014/07/episode-19-hackers-pop-culture/

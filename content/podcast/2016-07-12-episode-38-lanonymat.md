@@ -32,6 +32,7 @@ songs:
 
 drinks:
   - carlsberg_club_bottle
+  - cocillana-ethyfin
 ---
 Pour ce 38ème épisode, nous recevons Okhin pour échanger sur l'anonymat. Il travaille en ce moment avec la Quadrature du Net, a travaillé pour des ONG, comme la Fédération Internationale des Droits de l'Homme et a traîné quelques temps avec Telecomix.
 

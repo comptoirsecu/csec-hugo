@@ -3,7 +3,7 @@
 title: "[Épisode 9] Guerre pour l'identité numérique"
 subheadline: et l'avenir des bitcoins
 date: 2013-12-06T09:00:22+00:00
-publisher: justin
+publisher: comptoirsecu
 
 
 aliases: /2013/12/episode-9-ou-lon-parle-de-la-guerre-pour-lidentite-numerique-et-des-bitcoins/

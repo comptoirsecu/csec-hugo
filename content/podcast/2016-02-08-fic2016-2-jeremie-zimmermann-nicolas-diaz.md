@@ -2,7 +2,7 @@
 
 title: "[FIC2016] 2  – Jérémie Zimmermann – Nicolas Diaz"
 date: 2016-02-08T08:49:58+00:00
-publisher: justin
+publisher: comptoirsecu
 
 
 aliases: /2016/02/fic2016-2-jeremie-zimmermann-nicolas-diaz/
@@ -36,7 +36,6 @@ guests:
   - nicolas_diaz
 
 ---
-
 Toujours dans la continuité de notre webradio pendant le Forum International de la CyberSécurité 2016, nous avons rencontré [Jeremie Zimmermann](https://twitter.com/jerezim) et [Nicolas Diaz](https://twitter.com/nicoladiaz) pour nous parler de la confiance utilisateur, des géants de l'internet et de la surveillance généralisé
 
 {{< podigee >}}

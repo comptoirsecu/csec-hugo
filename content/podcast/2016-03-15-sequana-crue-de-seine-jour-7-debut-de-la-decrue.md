@@ -2,7 +2,7 @@
 
 title: "[Sequana] Crue de Seine – Jour 7 – Début de la décrue"
 date: 2016-03-15T09:00:05+00:00
-publisher: justin
+publisher: comptoirsecu
 
 
 aliases: /2016/03/sequana-crue-de-seine-jour-7-debut-de-la-decrue/
@@ -20,7 +20,6 @@ tags:
   - Crue
   - maitrise
   - PCA
-  - podcast
   - PRA
   - RSSI
   - scenario

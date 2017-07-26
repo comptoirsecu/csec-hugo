@@ -289,6 +289,34 @@ savant_rapture:
   uri: https://www.youtube.com/watch?v=Zv--L5II6OU
   image: savant_rapture.jpg
 
+laurent_garnier_confused:
+  artist: Laurent Garnier
+  song: pǝsnɟuoɔ (original version)
+  album: Homebox
+  uri: http://laurentgarnier.com/homebox.html
+  image: laurent_garnier_homebox.jpg
+
+camellia_sinlover:
+  artist: かめりあ (Camellia)
+  song: Sinlover (Ver. 2.0.0)
+  album: mikUbiquity
+  uri: http://vocadb.net/Al/469
+  image: camellia_sinlover.jpg
+
+monomer_fightorflight:
+  artist: Monomer
+  song: Fight or Flight
+  uri: https://monomer.bandcamp.com/album/labyrinth
+  album: Labyrinth
+  image: monomer_labyrinth.jpg
+
+danimalcanon_legacy:
+  artist: Danimal Canon and Zef
+  song: Legacy
+  uri: https://danimalcannon.bandcamp.com/album/parallel-processing
+  album: Parallel Processing
+  image: danimalcanon_parallelprocessing.jpg
+
 pineapplethief_aloneatsea:
   artist: The Pineapple Thief
   song: Alone at sea
@@ -298,6 +326,6 @@ pineapplethief_aloneatsea:
 
 gramophonedzie_whydontyou:
   artist: Gramophonedzie
-  song: Why don't you 
+  song: Why don't you
   uri: https://www.youtube.com/watch?v=uT8OEtf5r1U
   image: gramophonedzie_whydontyou.jpg

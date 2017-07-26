@@ -2,7 +2,7 @@
 
 title: "[Sequana] Crue de Seine – Jour 2 –  Édifications, partir ou rester ?"
 date: 2016-03-08T09:00:42+00:00
-publisher: justin
+publisher: comptoirsecu
 
 
 aliases: /2016/03/sequana-crue-de-seine-jour-2-edifications-partir-ou-rester/
@@ -19,7 +19,6 @@ tags:
   - Crue
   - maitrise
   - PCA
-  - podcast
   - PRA
   - RSSI
   - scenario

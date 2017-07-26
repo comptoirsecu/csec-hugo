@@ -3,7 +3,7 @@
 title: "Interviews HexaTrust"
 subheadline:  L'exportation de produits de cybersécurité
 date: 2015-03-10T23:08:04+00:00
-publisher: lois
+publisher: comptoirsecu
 
 
 aliases: /2015/03/episode-hs-interviews-hexatrust-exportation/
