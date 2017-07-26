@@ -58,6 +58,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <itunes:explicit>no</itunes:explicit>
         {{ range first 30 .Site.Taxonomies.categories.podcast.Pages }}
+        {{ $img := or .Params.image "/images/covers/default.jpg" }}
         <item>
           <title>
             {{ .Title }}{{ if eq .Section "sechebdo" }} - {{ .Params.Subheadline }}{{end}}
@@ -68,7 +69,7 @@
             <description>
               {{ .Summary | plainify | htmlUnescape | safeHTML }}
             </description>
-            <content:encoded>{{chomp "<![CDATA[\n"}}{{ .Content | htmlUnescape | safeHTML }}{{chomp "]]>\n"}}</content:encoded>
+            <content:encoded>{{ chomp "<![CDATA[\n" }}<img src="{{ $.Site.BaseURL }}{{ $img }}" class="webfeedsFeaturedVisual" /><br />{{ .Content | htmlUnescape | safeHTML }}{{chomp "]]>\n"}}</content:encoded>
             <enclosure url="{{ .Params.podcast.feed }}" type="audio/mpeg"/>
             <itunes:author>{{ $.Site.Params.Author | safeHTML }}</itunes:author>
             <itunes:explicit>No</itunes:explicit>
@@ -78,7 +79,7 @@
             </itunes:summary>
             <!--<itunes:duration>{{ .Params.podcast.feed }}</itunes:duration>-->
             <itunes:keywords>{{ delimit .Params.tags ", " | safeHTML }}</itunes:keywords>
-            {{ $img := or .Params.image "/images/covers/default.jpg" }}
+
             <itunes:image href="{{ $.Site.BaseURL }}{{ $img }}" />
             <category>{{ .Section | safeHTML }}</category>
         </item>

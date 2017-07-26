@@ -29,6 +29,7 @@
         </image>
 
         {{ range first 30 .Site.Pages }}
+        {{ $img := or .Params.image "/images/covers/default.jpg" }}
         <item>
           <title>
             {{ .Title }}{{ if eq .Section "sechebdo" }} - {{ .Params.Subheadline }}{{end}}
@@ -38,7 +39,7 @@
             <!-- <comments>{{ .Permalink }}#comments</comments> -->
             <guid>{{ .Permalink }}</guid>
             <description>{{chomp "<![CDATA[\n"}}{{ .Content | plainify | htmlUnescape | safeHTML }}{{chomp "]]>\n"}}</description>
-            <content:encoded>{{chomp "<![CDATA[\n"}}{{ .Content | htmlUnescape | safeHTML }}{{chomp "]]>\n"}}</content:encoded>
+            <content:encoded>{{chomp "<![CDATA[\n"}}<img src="{{ $.Site.BaseURL }}{{ $img }}" class="webfeedsFeaturedVisual" /><br />{{ .Content | htmlUnescape | safeHTML }}{{chomp "]]>\n"}}</content:encoded>
             <enclosure url="{{ .Params.podcast.feed }}" length="1" type="audio/mpeg"/>
             <category>{{ .Section  | safeHTML }}</category>
         </item>
