@@ -34,7 +34,7 @@
         </description>
         <image>
             <title>{{ .Site.Title | safeHTML }} - Podcasts</title>
-            <url>{{ .Site.BaseURL }}/images/logo.big.png</url>
+            <url>{{ .Site.BaseURL }}/images/logo.big.jpg</url>
             <link>{{ .Site.BaseURL }}</link>
         </image>
         <itunes:summary>
@@ -64,7 +64,6 @@
           </title>
             <link>{{ .Permalink }}</link>
             <pubDate>{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" .Date | safeHTML }}</pubDate>
-            <!-- <comments>{{ .Permalink }}#comments</comments> -->
             <guid>{{ .Permalink }}</guid>
             <description>
               {{ .Summary | plainify | htmlUnescape | safeHTML }}

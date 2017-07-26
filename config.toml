@@ -33,6 +33,7 @@ name = "podcastFeed"
 mediatype = "application/rss"
 Path = "/feed/"
 baseName = "podcast"
+
 [outputFormats.Feed]
 name = "Feed"
 mediatype = "application/rss"
