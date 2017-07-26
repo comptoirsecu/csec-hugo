@@ -317,3 +317,11 @@ goudale:
   country: France
   image: goudale.jpg
   description: "Bière de garde, brassée à Douai (dans le Nord). La Goudale tire son nom d'un élément historique : « Au xive siècle, les bonnes bières étaient appelées Goudale, Goudalle ou Good Ale."
+
+cocillana-ethyfin:
+  name: Cocillana-ethyfin
+  type: Médicament
+  degree: 98%
+  country: Suède
+  image: cocillana-ethyfin.jpg
+  description: Médicament habituellement utilisé pour soulager la toux. On peut sentir son action en moins d'une heure ! Incroyable !
