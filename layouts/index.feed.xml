@@ -37,9 +37,7 @@
             <pubDate>{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" .Date  | safeHTML }}</pubDate>
             <!-- <comments>{{ .Permalink }}#comments</comments> -->
             <guid>{{ .Permalink }}</guid>
-            <description>
-              {{chomp "<![CDATA[\n"}}{{ .Content | plainify | htmlUnescape | safeHTML }}{{chomp "]]>\n"}}
-            </description>
+            <description>{{chomp "<![CDATA[\n"}}{{ .Content | plainify | htmlUnescape | safeHTML }}{{chomp "]]>\n"}}</description>
             <content:encoded>{{chomp "<![CDATA[\n"}}{{ .Content | htmlUnescape | safeHTML }}{{chomp "]]>\n"}}</content:encoded>
             <enclosure url="{{ .Params.podcast.feed }}" length="1" type="audio/mpeg"/>
             <category>{{ .Section  | safeHTML }}</category>
