@@ -31,6 +31,9 @@ authors:
 guests:
   - renaud_lifchitz
   - thomas_gayet
+
+drinks:
+  - goudale
 ---
 Pour ce dernier épisode de notre série consacré au #FIC2016, nous avons reçu Renaud Lifchitz et Thomas Gayet de [Digital Security](https://www.digitalsecurity.fr/) pour nous parler de la sécurité des objets connectés
 
