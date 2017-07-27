@@ -42,7 +42,8 @@
 
   <!--card's follow button-->
   <div class="card-section card-stats">
-    <div class="stat"><a href="/drinks/{{.key}}/#{{.key}}">{{ (index .site.Taxonomies.drinks .key).Count }}</a></div>
-    <p>Dégustations</p>
+    {{ $nbitems:= (index .site.Taxonomies.drinks .key).Count}}
+    <div class="stat"><a href="/drinks/{{.key}}/#{{.key}}">{{ $nbitems }}</a></div>
+    <p>Dégustation{{ if gt $nbitems 1 }}s{{end}}</p>
   </div>
 </div>

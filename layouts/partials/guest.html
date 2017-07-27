@@ -47,7 +47,8 @@
 
   <!--card's follow button-->
   <div class="card-section card-stats">
-    <div class="stat"><a href="/guests/{{.key}}/#{{.key}}">{{ (index .site.Taxonomies.guests .key).Count }}</a></div>
-    <p>Participations</p>
+    {{ $nbitems :=  (index .site.Taxonomies.guests .key).Count }}
+    <div class="stat"><a href="/guests/{{.key}}/#{{.key}}">{{ $nbitems }}</a></div>
+    <p>Participation{{ if gt $nbitems 1 }}s{{end}}</p>
   </div>
 </div>

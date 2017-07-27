@@ -43,7 +43,13 @@
 
   <!--card's follow button-->
   <div class="card-section card-stats">
-    <div class="stat"><a href="/authors/{{.key}}/#{{.key}}">{{ (index .site.Taxonomies.authors .key).Count }}</a></div>
-    <p>Contributions</p>
+    {{ if eq .key "comptoirsecu" }}
+    <div class="stat"><a href="/authors/">4</a></div>
+    <p>Membres</p>
+    {{ else }}
+    {{ $nbitems := (index .site.Taxonomies.authors .key).Count }}
+    <div class="stat"><a href="/authors/{{.key}}/#{{.key}}">{{ $nbitems }}</a></div>
+    <p>Contribution{{ if (gt $nbitems 1)}}s{{end}}</p>
+    {{ end }}
   </div>
 </div>

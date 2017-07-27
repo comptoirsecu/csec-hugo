@@ -33,7 +33,8 @@
 
   <!--card's follow button-->
   <div class="card-section card-stats">
-    <div class="stat"><a href="/songs/{{.key}}/#{{.key}}">{{ (index .site.Taxonomies.songs .key).Count }}</a></div>
-    <p>Interludes</p>
+    {{ $nbitems := (index .site.Taxonomies.songs .key).Count }}
+    <div class="stat"><a href="/songs/{{.key}}/#{{.key}}">{{ $nbitems }}</a></div>
+    <p>Interlude{{ if gt $nbitems 1 }}s{{end}}</p>
   </div>
 </div>
