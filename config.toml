@@ -7,7 +7,7 @@ copyright = "© 2017 Le Comptoir Sécu"
 paginate = 12
 rssLimit = 50
 enableRobotsTXT = true
-
+disableAliases = true
 
 [params]
 live = false
@@ -35,15 +35,31 @@ name = "podcastFeed"
 mediatype = "application/rss"
 Path = "/feed/"
 baseName = "podcast"
-
 [outputFormats.Feed]
 name = "Feed"
 mediatype = "application/rss"
 Path = "/feed/"
 baseName = "all"
+[outputFormats.REDIR]
+name = "Redirects"
+mediatype = "text/netlify"
+baseName = "_redirects"
+isPlainText = true
+notAlternative = true
+[outputFormats.HEADERS]
+name="Headers"
+mediatype = "text/netlify"
+baseName = "_headers"
+isPlainText = true
+notAlternative = true
+
+[mediaTypes]
+  [mediaTypes."text/netlify"]
+  suffix = ""
+  delimiter = ""
 
 [outputs]
-home = [ "HTML", "podcastFeed", "Feed"]
+home = [ "HTML", "podcastFeed", "Feed", "Headers", "Redirects"]
 page = [ "HTML"]
 
 

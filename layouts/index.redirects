@@ -1,0 +1,11 @@
+# Netlify redirects. See https://www.netlify.com/docs/redirects/
+# The template above creates 301 redirects for your aliases, so you will
+# probably want to turn off aliases in your config.toml: disableAliases = true.
+{{  range $p := .Site.Pages -}}
+{{ range .Aliases -}}
+{{  . | printf "%-35s" }}	{{ $p.RelPermalink }}
+{{ end -}}
+{{ end }}
+
+/feed/podcast       /feed/podcast.xml     301
+/feed               /feed/all.xml         301
