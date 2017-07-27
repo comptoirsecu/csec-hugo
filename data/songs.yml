@@ -329,3 +329,11 @@ gramophonedzie_whydontyou:
   song: Why don't you
   uri: https://www.youtube.com/watch?v=uT8OEtf5r1U
   image: gramophonedzie_whydontyou.jpg
+
+
+datasette_powerballad:
+  artist: Datasette
+  song: Power Ballad
+  album: People without mouths
+  uri: https://soundcloud.com/datashat/power-ballad
+  image: datasette_powerballad.jpg

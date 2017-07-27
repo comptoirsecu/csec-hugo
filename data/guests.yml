@@ -242,3 +242,23 @@ thomas_gayet:
   description: "Responsable du CERT-UBIK @Digital Security - Econocom"
   linkedin: https://www.linkedin.com/in/thomasgayet/
   image: thomas_gayet.jpg
+
+guillaume_poupard:
+  name: Guillaume Poupard
+  description: "Directeur de l'ANSSI"
+  uri: https://www.ssi.gouv.fr/en/
+  image: guillaume_poupard.jpg
+
+clement_cazalot:
+  name: Clément Cazalot
+  description: Vainqueur du prix de l'innovation 2013 des Assises de la Sécurité
+  uri: https://www.intralinks.com/
+  image: clement_cazalot.jpg
+  linkedin: https://www.linkedin.com/in/clementcazalot/
+
+daniel_rezlan:
+  name: Daniel Rezlan
+  description: Vainqueur du prix de l'innovation 2014 des Assises de la sécurité
+  uri: http://www.idecsi.com/about/about-idesci
+  image: daniel_rezlan.jpg
+  linkedin: https://www.linkedin.com/in/drezlan/
