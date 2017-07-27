@@ -13,7 +13,9 @@ enableRobotsTXT = true
 live = false
 live_id = "0glcussnb18"
 
-
+override_fonts = true
+fontbody = "Roboto"
+fontheading = "Roboto+Slab"
 author = "L'équipe du Comptoir Sécu"
 contact = "contact@comptoirsecu.fr"
 shortDesc = "Le Comptoir Sécu est un podcast traitant de la cybersécurité à travers des dossiers thématiques et des revues de l'actualité spécialisée."

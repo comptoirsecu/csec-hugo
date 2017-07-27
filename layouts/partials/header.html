@@ -9,7 +9,23 @@
     <link href="/feed/all.xml" rel="alternate" type="application/rss+xml" title="Le Comptoir Sécu - Toutes nos publications" />
     <link href="/feed/podcast.xml" rel="alternate" type="application/rss+xml" title="Le Comptoir Sécu - Nos podcasts" />
 
+    {{ if .Site.Params.override_fonts }}
+      <link href='//fonts.googleapis.com/css?family={{ .Site.Params.fontbody | safeURL }}' rel='stylesheet' type='text/css'>
+      <link href='//fonts.googleapis.com/css?family={{ .Site.Params.fontheading  |  safeURL }}' rel='stylesheet' type='text/css'>
+    {{ end }}
     <link rel="stylesheet" href="/css/app.css">
+    {{ if .Site.Params.override_fonts }}
+    <style>
+      body {
+          font-family: '{{ replace .Site.Params.fontbody "+" " "}}';
+      }
+
+      h1, h2, h3,
+      h4, h5, h6 {
+          font-family: '{{ replace .Site.Params.fontheading "+" " "}}';
+      }
+      </style>
+    {{ end }}
 </head>
 <body lang="fr">
 
