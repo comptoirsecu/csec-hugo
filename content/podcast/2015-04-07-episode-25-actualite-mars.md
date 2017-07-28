@@ -20,13 +20,39 @@ tags:
   - North Korea
   - Poseidon
   - Tinder
+
+authors:
+  - lois
+  - justin
+  - morgan
+  - youenn
+
+songs:
+  - kimbra_slumlove
+
+drinks:
+  - la_touraille
+
+chaptermarks:
+  "00:01:50": "Attaque sur la Corée du Nord"
+  "00:06:16": "Slack"
+  "00:19:30": "DEFNET"
+  "00:23:30": "Poseidon"
+  "00:29:03": "Apple Supprime les antivirus de l'Apple Store"
+  "00:36:08": "Cour de Justice Européenne sur les échanges de données avec l'US"
+  "00:39:00": "LABIO piraté"
+  "00:41:57": "Tindr détourné"
+  "00:45:20": "Outro avec Kimbra – Slum Love"
 ---
 
 Voici le nouvel épisode qui résume l'actualité du mois de Mars.
 
 Une petite coquille s'est glissée au début de l'épisode, c'est bien l'épisode 25 et non le 24 🙂
 
-# Au programme
+{{<chaptermarks>}}
+{{< podigee >}}
+
+## Sources
 
   * Attaque sur la Corée du Nord [Lien1](http://www.techworm.net/2015/03/we-did-north-korea-united-states-says-north-korea-web-outage-was-revenge-for-sony-hack.html) [Lien2](http://www.northkoreatech.org/2014/12/22/north-koreas-internet-link-is-flaky-today/) (**1:50**)
   * [Slack](http://www.csoonline.com/article/2902745/data-breach/slack-boosts-security-after-data-breach.html#tk.rss_news) (**6:16**)
@@ -44,7 +70,6 @@ Une petite coquille s'est glissée au début de l'épisode, c'est bien l'épisod
   * [CLUSIF](https://www.clusif.asso.fr/fr/infos/event/) le 16 Avril 2015 : Le Dark Web : Enjeux et Mesures
 
 
-{{< podigee >}}
 
 
 Bonne écoute !

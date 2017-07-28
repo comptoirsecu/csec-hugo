@@ -5,6 +5,13 @@
 #   image: test.jpg
 #   country: Suède
 
+kimbra_slumlove:
+  artist: Kimbra
+  song: Slum Love
+  album: The Golden Echo
+  uri: https://www.youtube.com/watch?v=zxCni07StgI
+  image: kimbra_slumlove.jpg
+
 carpenterbrut_turbokiller:
   artist: Carpenter Brut
   song: Turbo Killer

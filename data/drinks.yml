@@ -7,6 +7,15 @@
 #   image: test.jpg
 #   description: Description text
 
+la_touraille:
+  name: La Touraille
+  type: Bière
+  subtype: Porter/Rauchbier (fumée)
+  country: France
+  degree: 5
+  description: "Cette bière est à rapprocher du style des Rauchbiers, bières fumées originaires d'Allemagne. Une bière tourbée/boisée qui se démarque de ses consoeurs, sa finale étant des plus originales."
+  image: la_touraille.jpg
+
 feu_follet:
   name: Feu Follet
   type: Bière
