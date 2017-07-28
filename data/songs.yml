@@ -366,3 +366,23 @@ moonraker_thesewalls:
   album: Nada Brahma
   uri: https://itunes.apple.com/us/album/nada-brahma/id44038799
   image: moonraker_thesewalls.jpg
+
+catslevania_nobodygetsoutalive:
+  artist: Le Castle Vania (Noisia Remix)
+  song: Nobody Gets Out Alive
+  uri: https://soundcloud.com/noisia/le-castlevania-remix-social
+  image: catslevania_nobodygetsoutalive.jpg
+
+submotionorchestra_bringbackthewolf:
+  artist: Submotion Orchestra
+  song: Bring back the wolf
+  album: Alium
+  uri: https://submotionorchestra.bandcamp.com/track/bring-back-the-wolf
+  image: submotionorchestra_bringbackthewolf.jpg
+
+brodinski_letthebeatcontrolyourbody:
+  artist: "Brodinski feat. Louisahhh!"
+  song: Let the beat control your body
+  album: "Bromance #1"
+  uri: https://www.beatport.com/track/let-the-beat-control-your-body-feat-louisahhh%21-original-mix/3102211
+  image: brodinski_letthebeatcontrolyourbody.jpg

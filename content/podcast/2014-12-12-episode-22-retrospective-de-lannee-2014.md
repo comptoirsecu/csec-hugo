@@ -26,22 +26,41 @@ tags:
   - rétrospective
   - sécurité
   - snowden
+
+authors:
+  - lois
+  - justin
+  - morgan
+  - youenn
+
+guests:
+  - geremy_benkirane
+
+chaptermarks:
+  "00:02:07": "Début de la rétrospective"
+  "00:38:25": "Pause musicale avec Le Castle Vania – Nobody Gets Out Alive (Noisia Remix)"
+  "00:39:27": "Retours du public"
+  "00:40:18": "Suite de notre rétrospective"
+  "01:22:17": "Musique de fin avec Submotion Orchestra – Bring Back The Wolf "
+  "01:23:34": "Bonus"
+  "01:24:04": "Musique de clôture avec  Brodinski Feat. Louisahhh! – Let The Beat Control Your Body"
+
+songs:
+  - catslevania_nobodygetsoutalive
+  - submotionorchestra_bringbackthewolf
+  - brodinski_letthebeatcontrolyourbody
+
+drinks:
+  - saintbernardus_blanche
+  - delirium_tremens
+  - grolsch
 ---
 
 Nous sommes arrivés à la fin de l'année 2014 et à cette occasion, nous avons voulu faire une rétrospective des événements Sécurité qui nous ont marqué tout au long de l'année, avec comme invité, notre RSSI préféré, Géremy.
 
 Nous avons eu la chance de pouvoir enregistrer cette épisode en public à [La Tireuse](http://latireuse.fr/) ! Merci à tous les participants, qui n'ont pas hésité à prendre le micro pour échanger avec nous !
 
-# Au programme
-
-  * Début de la rétrospective **(02:07)**
-  * Pause musicale avec [Le Castle Vania – Nobody Gets Out Alive (Noisia Remix)](https://soundcloud.com/noisia/le-castlevania-remix-social) **(38:25)**
-  * Retours du public **(39:27)**
-  * Suite de notre rétrospective **(40:18)**
-  * Musique de fin avec [Submotion Orchestra – Bring Back The Wolf](http://submotion.co.uk/) **(1:22:17)**
-  * Bonus **(1:23:34)**
-  * Musique de clôture avec  [Brodinski Feat. Louisahhh! – Let The Beat Control Your Body](https://soundcloud.com/brodinskiofficial/brodinski-feat-louisahhh-let) **(1:24:04)**
-
+{{<chaptermarks>}}
 {{< podigee >}}
 
 

@@ -393,3 +393,31 @@ whisky_bowmore:
   description: "Cette version incontournable de Bowmore, moyennement tourbée et florale, a été applaudie par les plus grands experts pour son équilibre et sa complexité, notamment Dave Broom et Michael Jackson."
   degree: 40
   image: whisky_bowmore.jpg
+
+
+saintbernardus_blanche:
+  name: Saint Bernardus Blanche
+  type: Bière
+  subtype: "Witbier / Blanche"
+  description: "Au nez, elle dégage des arômes de fruits, d'agrumes, de malt, de coriandre et de levure.En bouche, on y retrouve des saveurs d'agrumes, d'orange, de malt, de coriandre et de levure."
+  country: Belgique
+  degree: 5.5
+  image: saintbernardus_blanche.jpg
+
+delirium_tremens:
+  name: Délirium Trémens
+  type: Bière
+  subtype: Ambrée
+  country: Belgique
+  description: "À l'oeil, robe blonde dorée, mousse blanche, au nez, arômes fruités et épicés, à la bouche, saveurs épicées et herbacées. Si les éléphants de l'étiquette sont rose, c'est en référence aux hallucinations que le manque d'alcool entraine parfois chez certains sujets lors de délires fiévreux appelés : Delirium Tremens !"
+  degree:
+  image: delirium_tremens.jpg
+
+grolsch:
+  name: Grolsch
+  type: Bière
+  subtype: Blonde
+  country: Hollande
+  description: "Une lager désaltérante qui saura rafraîchir vos après-midis ensoleillés, il ne faut pas lui en demander plus!"
+  degree: 5
+  image: grolsch.jpg
