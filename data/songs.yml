@@ -337,3 +337,32 @@ datasette_powerballad:
   album: People without mouths
   uri: https://soundcloud.com/datashat/power-ballad
   image: datasette_powerballad.jpg
+
+datasette_musicfourteen:
+  artist: Datasette
+  song: Music Fourteen
+  album: Datasette
+  uri: https://datassette.bandcamp.com/track/minus-fourteen
+  image: datasette_musicfourteen.jpg
+
+ellafitzgerald_stellabystarlight:
+  artist: Ella Fitzgerald
+  song: Stella By Starlight
+  album: "Clap Hands, Here Comes Charlie!"
+  uri: https://www.discogs.com/Ella-Fitzgerald-Clap-Hands-Here-Comes-Charlie/master/324954
+  image: ellafitzgerald_stellabystarlight.jpg
+
+
+alphawezen_permutation3:
+  artist: Alphawezen
+  song: Permutation3
+  album: Snow Glow
+  uri: https://www.beatport.com/release/snow-glow/205550
+  image: alphawezen_permutation3.jpg
+
+moonraker_thesewalls:
+  artist: Moonraker
+  song: These Walls
+  album: Nada Brahma
+  uri: https://itunes.apple.com/us/album/nada-brahma/id44038799
+  image: moonraker_thesewalls.jpg

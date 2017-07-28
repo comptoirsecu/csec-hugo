@@ -385,3 +385,11 @@ cuvee_jacobin:
   degree: 5.5
   image: cuvee_jacobin.jpg
   description: "Cuvée des Jacobins est une bière au style Lambic vieillie 18 mois dans des foudres de chêne et destinée au marché américain."
+
+whisky_bowmore:
+  name: Bowmore 12 ans
+  type: Whisky
+  subtype: Single malt
+  description: "Cette version incontournable de Bowmore, moyennement tourbée et florale, a été applaudie par les plus grands experts pour son équilibre et sa complexité, notamment Dave Broom et Michael Jackson."
+  degree: 40
+  image: whisky_bowmore.jpg

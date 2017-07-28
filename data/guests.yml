@@ -262,3 +262,17 @@ daniel_rezlan:
   uri: http://www.idecsi.com/about/about-idesci
   image: daniel_rezlan.jpg
   linkedin: https://www.linkedin.com/in/drezlan/
+
+
+carl_heberger:
+  name: Carl Heberger
+  description: "VP Security Solutions chez Radware"
+  linkedin: https://www.linkedin.com/in/carlherberger/
+  image: carl_heberger.jpg
+
+jeanian_boutin:
+  name: Jean-Ian Boutin
+  description: "Chercheur en malwares chez ESET"
+  twitter: jiboutin
+  linkedin: https://www.linkedin.com/in/jean-ian-boutin-62460b4
+  image: jeanian_boutin.jpg
