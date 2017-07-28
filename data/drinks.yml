@@ -7,13 +7,22 @@
 #   image: test.jpg
 #   description: Description text
 
+la_demembree:
+  name: "La Dément' Brée"
+  type: Bière
+  subtype: Ambrée
+  description: "Une bière ambrée aux arômes de caramel et de biscuit."
+  degree: 7
+  image: la_demembree.jpg
+
 underberg:
   name: Underberg
   type: Digestif
   subtype: Plantes
-  degree:
-  description:
+  degree: 44
+  description: "Digestif amer produit dans le Rhin et fait à partir d'herbes aromatiques provenant de 43 pays."
   image: underberg.jpg
+  country: Allemagne
 
 euphoria:
   name: Euphoria
@@ -21,6 +30,7 @@ euphoria:
   degree: 80
   description: "L’absinthe était la boisson reine du XIXème siècle, toutes les couches de la société en sont friandes car abordable et très psychoactive selon les recettes. Surnommée « la fée verte », l’absinthe était à la base un élixir médicinal. "
   image: euphoria.jpg
+  country: République Tchèque
 
 la_touraille:
   name: La Touraille

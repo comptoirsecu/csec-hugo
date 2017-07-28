@@ -22,23 +22,39 @@ tags:
   - nuit du hack
   - pses
   - SCPP
+
+authors:
+  - lois
+  - justin
+  - morgan
+  - youenn
+
+drinks:
+  - la_demembree
+
+chaptermarks:
+  "00:02:10": "Amazon S2N"
+  "00:10:06": "AvTest"
+  "00:13:39": "Hacking Team"
+  "00:22:36": "Justicier numérique"
+  "00:24:23": "Aéroport de Varsovie"
+  "00:26:27": "SCPP"
+  "00:28:18": "Code de bonne conduite dans le cyberespace"
+  "00:29:30": "Animal Farm"
+  "00:30:45": "Pause musicale avec Moscow Youth Cult – Tenebris"
+  "00:32:30": "Retour sur les conférences"
+  "01:07:09": "Outro musical avec [Moscow Youth Cult – Trancers"
+
+songs:
+  - moscowyouthcult_tenebris
+  - moscowyouthcult_trancers
+
 ---
 
 
 Au programme de cette épisode consacré à l'actualité de Juin:
 
-  * Amazon S2N **(2:10)**
-  * AvTest **(10:06)**
-  * Hacking Team **(13:39)**
-  * Justicier numérique **(22:36)**
-  * Aeroport de Varsovie  **(24:23)**
-  * SCPP **(26:27)**
-  * Code de bonne conduite dans le cyberespace **(28:18)**
-  * Animal Farm **(29:30)**
-  * Pause musicale avec [Moscow Youth Cult – Tenebris](https://iownyourecords.bandcamp.com/album/lux-ep) **(30:45)**
-  * Retour sur les conférences **(32:30)**
-  * Outro musical avec [Moscow Youth Cult – Trancers](https://iownyourecords.bandcamp.com/album/lux-ep)[ ](https://soundcloud.com/dancewiththedead/one-way-love-dance-with-the-dead-remix) **(01:07:49)**
-
+{{<chaptermarks>}}
 {{< podigee >}}
 
 

@@ -5,6 +5,20 @@
 #   image: test.jpg
 #   country: Suède
 
+moscowyouthcult_tenebris:
+  artist: Moscow Youth Cult
+  song: Tenebris
+  album: Lux EP
+  uri: https://iownyourecords.bandcamp.com/album/lux-ep
+  image: moscowyouthcult_tenebris.jpg
+
+moscowyouthcult_trancers:
+  artist: Moscow Youth Cult
+  song: Trancers
+  album: Lux EP
+  uri: https://iownyourecords.bandcamp.com/album/lux-ep
+  image: moscowyouthcult_tenebris.jpg
+
 anamanaguchi_popit:
   artist: Anamanaguchi
   song: Pop it (ABSRDST Remix)
