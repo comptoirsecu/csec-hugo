@@ -62,9 +62,3 @@ Bonne écoute !
   - [http://www.lefigaro.fr/assets/crue-siecle-paris/](http://www.lefigaro.fr/assets/crue-siecle-paris/)
 - Pour se former à la préparation de l'entreprise
   - [http://www.maitrisedescrises.com/1046-2/](http://www.maitrisedescrises.com/1046-2/)
-
-## Musique durant l’émission:
-
-  * [Clark – Matthiew Unburdened](http://throttleclark.com/music/)
-  * [Cluprate – Yin](https://culprate.bandcamp.com/album/deliverance)
-  * Musique de fin avec  [Receptor – Kurchatov](https://pro.beatport.com/track/kurchatov-original-mix/866507)
