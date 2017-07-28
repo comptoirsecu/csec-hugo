@@ -421,3 +421,13 @@ grolsch:
   description: "Une lager désaltérante qui saura rafraîchir vos après-midis ensoleillés, il ne faut pas lui en demander plus!"
   degree: 5
   image: grolsch.jpg
+
+
+peche_melbush:
+  name: "Pêche Mel Bush"
+  type: Bière
+  subtype: Lambic
+  country: Belgique
+  description: "Bière limpide à la robe orange tirant sur l'ambre qui se couvre d'une bonne couche de mousse dans le verre. Elle dégage des arômes puissants de pêches qui masquent complétement la présence du houblon et surtout de l'alcool. En bouche, on retrouve les influences de malt, toujours dominé par les saveurs fruitées et mielleuses de la pêche."
+  degree: 8.5
+  image: peche_melbush.jpg

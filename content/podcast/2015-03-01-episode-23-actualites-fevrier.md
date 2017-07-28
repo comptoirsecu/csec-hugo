@@ -24,6 +24,27 @@ tags:
   - podcast
   - SCADA
   - superfish
+
+authors:
+  - lois
+  - justin
+  - morgan
+  - youenn
+
+drinks:
+  - peche_melbush
+
+songs:
+  - crazydaylight_feelright
+
+chaptermarks:
+  "00:01:56": "Superfish"
+  "00:11:14": "Gemalto"
+  "00:22:28": "Darkleaks"
+  "00:29:59": "Projet Zéro"
+  "00:37:00": "Cyber Threat Intelligence Integration Center"
+  "00:46:36": "Anonymous Hack une pompe à essence"
+  "00:54:52": "Outro avec Crazy Daylight – Feel Right (Crazy Daylight Refunk)"
 ---
 
 Après les événements du FIC de ce début d'année, nous reprenons du service avec cette fois-ci, un épisode spécial sur l'actualité de Février 2015.
@@ -32,15 +53,7 @@ Nous pensons faire un deuxième flux RSS pour poster l'intégralité de nos inte
 
 # Au programme
 
-  * Superfish (**01:56**)
-  * Gemalto (**11:14**)
-  * Darkleaks (**22:28**)
-  * Projet Zero (**29:59**)
-  * Cyber Threat Intelligence Integration Center (**37:00**)
-  * Anonymous Hack une pompe à essence (**46:36**)
-  * outro avec [Crazy Daylight – Feel Right (Crazy Daylight Refunk)](https://soundcloud.com/crazy-daylight/feel-right-crazy-daylight-refunkdl-it-like-it-aint-no-thang) (**54:52**)
-
-
+{{<chaptermarks>}}
 {{< podigee >}}
 
 Bonne écoute !
