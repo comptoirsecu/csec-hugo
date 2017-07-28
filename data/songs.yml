@@ -5,6 +5,19 @@
 #   image: test.jpg
 #   country: Suède
 
+onewaylove_dancewiththedead:
+  artist: Dance with the dead
+  song: One way love (remix)
+  uri: https://www.youtube.com/watch?v=H6j0VPUNRpw
+  image: onewaylove_dancewiththedead.jpg
+
+champion_truesurvivor:
+  artist: Champion
+  song: True Survivor (bootleg)
+  album: Kung Fury Soundtrack
+  uri: https://soundcloud.com/championdnb/true-survivor-champion
+  image: champion_truesurvivor.jpg
+
 kimbra_slumlove:
   artist: Kimbra
   song: Slum Love

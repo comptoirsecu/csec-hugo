@@ -20,24 +20,39 @@ tags:
   - ransomwares
   - RSSI
   - VPN
+
+authors:
+  - justin
+  - morgan
+  - youenn
+
+chaptermarks:
+  "00:02:03": "Le RSSI dont vous êtes le héros"
+  "00:06:55": "Logjam"
+  "00:15:43": "Ransomwares, mieux vaut perdre ses données ou son argent ?"
+  "00:24:03": "Affaire Krach.in"
+  "00:33:14": "Pause musical avec True Survivor (Champion Bootleg)"
+  "00:35:36": "Silk Road : Ross Ulbricht condamné à la prison à vie"
+  "00:38:03": "Stalking Facebook"
+  "00:46:17": "US Also Tried Stuxnet Against North Korea"
+  "00:51:43": "Hola le VPN qui te backdoor"
+  "01:01:03": "Outro musical avec One way love - Dance with the Dead"
+
+drinks:
+  - euphoria
+
+songs:
+  - onewaylove_dancewiththedead
+  - champion_truesurvivor
 ---
 
 
 Nous revoilà suite à des vacances bien méritées! Au programme de cette épisode consacré à l'actualité de Mai:
 
-  * Le RSSI dont vous êtes le héros **(2:03)**
-  * Logjam **(6:55)**
-  * Ransomwares, mieux vaut perdre ses données ou son argent ? **(15:43)**
-  * Affaire Krach.in **(24:03)**
-  * Pause musical avec [True Survivor (Champion Bootleg)](https://soundcloud.com/championdnb/true-survivor-champion)  (33:14)
-  * Silk Road : Ross Ulbricht condamné à la prison à vie **(35:36)**
-  * Stalking Facebook **(38:03)**
-  * US Also Tried Stuxnet Against North Korea **(46:17)**
-  * Hola le VPN qui te backdoor **(51:43)**
-  * Outro musical avec [ONE WAY LOVE  – DANCE WITH THE DEAD ](https://soundcloud.com/dancewiththedead/one-way-love-dance-with-the-dead-remix) **(01:01:03)**
 
+{{<chaptermarks>}}
 
-  {{< podigee >}}
+{{< podigee >}}
 
 
 N'oubliez que vous pourrez nous retrouver:

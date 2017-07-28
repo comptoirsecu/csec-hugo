@@ -7,6 +7,13 @@
 #   image: test.jpg
 #   description: Description text
 
+euphoria:
+  name: Euphoria
+  type: Absinthe
+  degree: 80
+  description: "L’absinthe était la boisson reine du XIXème siècle, toutes les couches de la société en sont friandes car abordable et très psychoactive selon les recettes. Surnommée « la fée verte », l’absinthe était à la base un élixir médicinal. "
+  image: euphoria.jpg
+
 la_touraille:
   name: La Touraille
   type: Bière
