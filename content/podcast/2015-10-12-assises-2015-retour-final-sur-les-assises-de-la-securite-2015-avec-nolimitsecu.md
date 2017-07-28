@@ -18,6 +18,22 @@ tags:
   - conférences
   - nolimitsecu
   - ssi
+
+authors:
+  - lois
+  - justin
+  - morgan
+  - youenn
+
+guests:
+  - nolimitsecu
+  - jpgaulier
+
+drinks:
+  - evian
+
+songs:
+  - 20syl_kodama
 ---
 
 Voici le retour final sur les Assises de la Sécurité réalisé avec nos amis de [NoLimitSecu](http://www.nolimitsecu.fr/). Si vous ne connaissez pas leur podcast, foncez écouter!

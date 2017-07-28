@@ -431,3 +431,13 @@ peche_melbush:
   description: "Bière limpide à la robe orange tirant sur l'ambre qui se couvre d'une bonne couche de mousse dans le verre. Elle dégage des arômes puissants de pêches qui masquent complétement la présence du houblon et surtout de l'alcool. En bouche, on retrouve les influences de malt, toujours dominé par les saveurs fruitées et mielleuses de la pêche."
   degree: 8.5
   image: peche_melbush.jpg
+
+
+evian:
+  name: Evian
+  type: Eau
+  subtype: De source
+  country: France
+  description: "Goût d'eau...et de déchéance!"
+  degree: 0
+  image: evian.jpg
