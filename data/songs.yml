@@ -419,3 +419,9 @@ receptor_kurchatov:
   album: Obsessions
   uri: https://www.beatport.com/track/kurchatov-original-mix/866507
   image: receptor_kurchatov.jpg
+
+botox_bluesteel:
+  artist: "I'm a cliché (Feat. Anna Jean)"
+  song: Bot'Ox Blue Steel
+  image: botox_bluesteel.jpg
+  uri: https://soundcloud.com/imacliche/botox-blue-steel-featuring-1

@@ -23,6 +23,18 @@ tags:
   - Interview
   - pme
   - podcast
+
+guests:
+  - jacques_sebag
+  - jeannoel_degalzain
+authors:
+  - lois
+  - justin
+  - morgan
+  - youenn
+
+songs:
+  - botox_bluesteel
 ---
 
 

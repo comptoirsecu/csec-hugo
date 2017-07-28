@@ -7,6 +7,18 @@
 #   linkedin: https://www.linkedin.com/in/maitrisedescrises/
 #   email: test@example.com
 
+jacques_sebag:
+  name: Jacques Sebag
+  description: CEO de DenyAll
+  linkedin: https://www.linkedin.com/in/jacques-sebag-7768b7/
+  image: jacques_sebag.jpg
+
+jeannoel_degalzain:
+  name: Jean-Noël de Galzain
+  description: CEO de Wallix
+  linkedin: https://www.linkedin.com/in/jndegalzain/?ppe=1
+  image: jeannoel_degalzain.jpg
+
 romain_dnssec:
     description: >
         Spécialiste de la sécurité du DNS
