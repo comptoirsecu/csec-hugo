@@ -398,3 +398,24 @@ crazydaylight_feelright:
   song: Kodama
   uri: https://www.youtube.com/watch?v=65oZD-7gJYE
   image: 20syl_kodama.jpg
+
+clark_matthiewunburdened:
+  artist: Clark
+  album: Boddy Riddle
+  song: Matthiew Unburdened
+  uri: https://soundcloud.com/throttleclark/matthew-unburdened
+  image: clark_matthiewunburduned.jpg
+
+culprate_yin:
+  artist: Culprate
+  album: Deliverance
+  song: Yin
+  uri: https://culprate.bandcamp.com/album/deliverance
+  image: culprate_yin.jpg
+
+receptor_kurchatov:
+  artist: Receptor
+  song: Kurchatov
+  album: Obsessions
+  uri: https://www.beatport.com/track/kurchatov-original-mix/866507
+  image: receptor_kurchatov.jpg

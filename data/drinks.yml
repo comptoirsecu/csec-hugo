@@ -441,3 +441,12 @@ evian:
   description: "Goût d'eau...et de déchéance!"
   degree: 0
   image: evian.jpg
+
+biere_k:
+  name: K
+  type: Bière
+  subtype: Radler
+  country: France
+  degree: 5
+  description: "Bière fraiche au goût fruité, on en demande pas plus de cette radler."
+  image: biere_k.jpg

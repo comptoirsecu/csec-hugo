@@ -22,6 +22,19 @@ tags:
 guests:
   - vincent_balouet
 
+authors:
+  - lois
+  - justin
+  - morgan
+  - youenn
+
+drinks:
+  - biere_k
+
+songs:
+  - clark_matthiewunburdened
+  - culprate_yin
+  - receptor_kurchatov
 ---
 
 
