@@ -5,6 +5,20 @@
 #   image: test.jpg
 #   country: Suède
 
+carpenterbrut_turbokiller:
+  artist: Carpenter Brut
+  song: Turbo Killer
+  album: EP III
+  uri: http://carpenterbrut.bandcamp.com/album/ep-iii
+  image: carpenterbrut_turbokiller.jpg
+
+carpenterbrut_divisionruine:
+  artist: Carpenter Brut
+  song: Division Ruine
+  album: EP III
+  uri: http://carpenterbrut.bandcamp.com/album/ep-iii
+  image: carpenterbrut_turbokiller.jpg
+
 schematicwizard_generique:
     artist: Schematic Wizard (Youenn)
     song: Generique Comptoir Sécu

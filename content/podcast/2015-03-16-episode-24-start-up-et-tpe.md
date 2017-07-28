@@ -19,6 +19,31 @@ tags:
   - podcast
   - start-up
   - tpe
+
+authors:
+  - lois
+  - justin
+  - morgan
+  - youenn
+
+drinks:
+  - feu_follet
+songs:
+  - carpenterbrut_turbokiller
+  - carpenterbrut_divisionruine
+guests:
+  - erwan_moyon
+  - piouf
+
+chaptermarks:
+  "00:02:38": "Definition et présentation des invités"
+  "00:14:14": "Besoin en sécurité"
+  "00:42:00": "Pause musicale avec Division Ruine de Carpenter Brut"
+  "00:45:34": "Menaces, Vulnérabilités et Risques"
+  "01:10:20": "Contre-mesures"
+  "01:26:10": "Conclusions"
+  "01:28:39": "Musique de fin: Turbo Killer de Carpenter Brut"
+  "01:31:28": "Épilogue"
 ---
 
 Vous allez écouter le premier podcast qui enregistre une analyse de risque en live ! Un exercice plutôt compliqué, notamment pour réussir à cadrer l'analyse.
@@ -28,17 +53,7 @@ Le sujet de cet épisode portera sur la sécurité dans les start-up et les TPE.
   * [Erwan](https://twitter.com/emoyon) qui est co-fondateur et CEO de  [Workalize](http://www.workalize.fr/)
   * [Piouf](https://twitter.com/Mr_Piouf) du podcast  [Bazingcast](http://bazingcast.com/) qui nous parlera de son entreprise: [L'Atelier du mobile](http://www.atelierdumobile.com/web/index.php)
 
-Au programme :
-
-  * Définition et présentation des invités **(2:38)**
-  * Besoin en sécurité **(14:15)**
-  * Pause musicale avec [Division Ruine – Carpenter Brut](http://carpenterbrut.bandcamp.com/album/ep-iii) **(42:00)**
-  * Menaces, Vulnérabilités et Risques **(45:34)**
-  * Contre-mesures **(1:10:20)**
-  * Conclusion **(1:26:10)**
-  * Musique de fin: [Turbo Killer – Carpenter Brut](http://carpenterbrut.bandcamp.com/album/ep-iii) **(1:28:39)**
-  * Epilogue **(1:31:28)**
-
+{{<chaptermarks>}}
 
 {{< podigee >}}
 

@@ -7,6 +7,21 @@
 #   linkedin: https://www.linkedin.com/in/maitrisedescrises/
 #   email: test@example.com
 
+piouf:
+  name: Mr Piouf
+  twitter: Mr_Piouf
+  uri: http://www.atelierdumobile.com/web/index.php
+  image: piouf.jpg
+  description: "Membre du podcast  Bazingcast et fondateur de l'atelier du mobile"
+
+erwan_moyon:
+  name: Erwan Moyon
+  twitter: emoyon
+  uri: http://asgora.com/
+  image: erwan_moyon.jpg
+  linkedin: https://www.linkedin.com/in/erwanmoyon/?ppe=1
+  description: "Co-fondateur et CEO de  Workalize"
+
 jacques_sebag:
   name: Jacques Sebag
   description: CEO de DenyAll

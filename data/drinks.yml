@@ -7,6 +7,15 @@
 #   image: test.jpg
 #   description: Description text
 
+feu_follet:
+  name: Feu Follet
+  type: Bière
+  subtype: Rauchbier (fumée)
+  country: France
+  degree: 5.6
+  description: "Vous aimez le Lagavulin? Cette bière est faite pour vous! Brassée avec de l'orge cultivé et malté dans le Gard."
+  image: feu_follet.jpg
+
 corsendonk_blonde:
     name: Corsendonk Blonde
     type: Bière
