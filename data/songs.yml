@@ -5,6 +5,18 @@
 #   image: test.jpg
 #   country: Suède
 
+anamanaguchi_popit:
+  artist: Anamanaguchi
+  song: Pop it (ABSRDST Remix)
+  uri: https://soundcloud.com/anamanaguchi/pop-it-absrdst-remix
+  image: anamanaguchi_popit.jpg
+
+nineinchnails_ghostiiv:
+  artist: Nine Inch Nails
+  song: Ghost I IV
+  uri: https://www.discogs.com/Nine-Inch-Nails-Ghosts-I-IV/release/1262566
+  image: nineinchnails_ghostiiv.jpg
+
 onewaylove_dancewiththedead:
   artist: Dance with the dead
   song: One way love (remix)

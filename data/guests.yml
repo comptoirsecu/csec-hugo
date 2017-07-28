@@ -7,6 +7,12 @@
 #   linkedin: https://www.linkedin.com/in/maitrisedescrises/
 #   email: test@example.com
 
+h_miser:
+  name: Heat Miser
+  twitter: H_Miser
+  description: "Invité sur le développement sécurisé"
+  image: h_miser.jpg
+
 piouf:
   name: Mr Piouf
   twitter: Mr_Piouf

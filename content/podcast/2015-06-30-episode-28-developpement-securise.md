@@ -15,6 +15,25 @@ categories:
   - Emission
 tags:
   - developpement sécurisé
+
+authors:
+  - justin
+  - morgan
+  - youenn
+
+guests:
+  - h_miser
+
+songs:
+  - nineinchnails_ghostiiv
+  - anamanaguchi_popit
+
+drinks:
+  - underberg
+  - corona_extra
+
+chaptermarks:
+  "00:36:15": "Interlude musicale avec Nine Inch Nails – 7 Ghost I"
 ---
 
 
