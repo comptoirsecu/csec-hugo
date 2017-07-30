@@ -20,6 +20,14 @@ tags:
   - kaspersky
   - monaco
   - ssi
+
+authors:
+  - justin
+  - morgan
+  - youenn
+
+guests:
+  - cedric_cartau
 ---
 
 
