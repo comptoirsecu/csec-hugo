@@ -19,6 +19,23 @@ tags:
   - podcast
   - poker
   - ssi
+
+authors:
+  - lois
+  - justin
+  - morgan
+  - youenn
+
+guests:
+  - clement_notin
+  - farid_illikoud
+
+drinks:
+  - vana_tallinn
+
+songs:
+  - gogopenguin_onepercent
+  - chemicalbrothers_bornintheechoes
 ---
 
 
@@ -32,8 +49,3 @@ N'hésitez pas à nous faire des retours.
 Bonne écoute !
 
 {{< podigee >}}
-
-Les interludes musicales de l'épisode :
-
-  * [GoGo Penguin – One Percent](http://gogopenguin.bandcamp.com/album/v20-deluxe-edition)
-  * [The Chemical Brothers – Born In The Echoes](http://store.thechemicalbrothers.com/)

@@ -7,6 +7,20 @@
 #   linkedin: https://www.linkedin.com/in/maitrisedescrises/
 #   email: test@example.com
 
+clement_notin:
+  name: Clément Notin
+  twitter: cnotin
+  linkedin: https://www.linkedin.com/in/clementnotin/
+  description: "Pentester / Auditeur en Sécurité des Systèmes d'Information"
+  image: clement_notin.jpg
+
+
+farid_illikoud:
+  name: Farid Illikoud
+  linkedin: https://www.linkedin.com/in/fillikoud/
+  description: "CISO - Chief Information Security and Compliance Officer - Head of Risk Department chez PMU"
+  image: farid_illikoud.jpg
+
 h_miser:
   name: Heat Miser
   twitter: H_Miser

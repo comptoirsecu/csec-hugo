@@ -5,6 +5,20 @@
 #   image: test.jpg
 #   country: Suède
 
+gogopenguin_onepercent:
+  artist: Gogo Penguin
+  song: One percent
+  album: "v2​.​0 (Deluxe Edition)"
+  uri: https://gogopenguin.bandcamp.com/album/v20-deluxe-edition
+  image: gogopenguin_onepercent.jpg
+
+chemicalbrothers_bornintheechoes:
+  artist: The Chemical Brothers
+  song: Born in the Echoes
+  album: Born in the Echoes
+  image: chemicalbrothers_bornintheechoes.jpg
+  uri: https://www.discogs.com/fr/The-Chemical-Brothers-Born-In-The-Echoes/master/861123
+
 moscowyouthcult_tenebris:
   artist: Moscow Youth Cult
   song: Tenebris
