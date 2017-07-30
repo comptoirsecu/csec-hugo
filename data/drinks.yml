@@ -7,6 +7,23 @@
 #   image: test.jpg
 #   description: Description text
 
+san_miguel:
+  name: San Miguel
+  type: Bière
+  subtype: Blonde
+  degree: 5.4
+  description: "Une bière espagnole très désaltérante aux notes de citron."
+  image: san_miguel.jpg
+
+
+la_bavaisienne:
+  name: La Bavaisienne
+  type: Bière
+  subtype: Blonde
+  degree: 6.5
+  description: "Une bière de dégustation avec des notes d'épices et de fruits. Un goût subtile et étonnant !"
+  image: la_bavaisienne.jpg
+
 la_demembree:
   name: "La Dément' Brée"
   type: Bière

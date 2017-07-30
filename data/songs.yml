@@ -5,6 +5,13 @@
 #   image: test.jpg
 #   country: Suède
 
+modestep_makeyoumine:
+  artist: Modestep
+  song: Make you Mine
+  album: "London Road (Bonus Version)"
+  uri: https://itunes.apple.com/gb/album/london-road-bonus-version/id968440539
+  image: modestep_makeyoumine.jpg
+
 gogopenguin_onepercent:
   artist: Gogo Penguin
   song: One percent

@@ -7,6 +7,18 @@
 #   linkedin: https://www.linkedin.com/in/maitrisedescrises/
 #   email: test@example.com
 
+cedric_cartau:
+  name: Cédric Carteau
+  linkedin: https://www.linkedin.com/in/c%C3%A9dric-cartau-1a665130/?ppe=1
+  description: "Responsable Sécurité Système d'Information at CHU Nantes"
+  image: cedric_cartau.jpg
+
+philippe_loudenot:
+  name: Philippe Loudenot
+  linkedin: https://www.linkedin.com/in/philippeloudenot/?ppe=1
+  description: "FSSI aux Ministères sociaux"
+  image: philippe_loudenot.jpg
+
 clement_notin:
   name: Clément Notin
   twitter: cnotin

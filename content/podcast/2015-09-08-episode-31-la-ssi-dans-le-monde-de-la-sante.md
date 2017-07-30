@@ -22,6 +22,23 @@ tags:
   - podcast
   - santé
   - ssi
+
+authors:
+  - lois
+  - justin
+  - morgan
+  - youenn
+
+guests:
+  - philippe_loudenot
+  - cedric_cartau
+
+drinks:
+  - la_bavaisienne
+  - san_miguel
+
+songs:
+  - modestep_makeyoumine
 ---
 
 Pour cet épisode 31, nous nous sommes penchés sur la sécurité dans le monde de la santé. Ainsi, nous avons reçu deux invités pour échanger avec nous sur le sujet :
@@ -34,7 +51,3 @@ N'hésitez pas à nous faire des retours.
 Bonne écoute !
 
 {{< podigee >}}
-
-Les interludes musicales de l'épisode :
-
-  * [Modestep – Make You Mine](https://itunes.apple.com/gb/album/london-road-bonus-version/id968440539)
