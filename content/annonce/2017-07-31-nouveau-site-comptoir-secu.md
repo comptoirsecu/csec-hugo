@@ -9,25 +9,25 @@ categories:
  - site
 ---
 
-Nous vous l'avons "teasé" depuis des semaines, pour ne pas dire des mois, enfin, le voila: Le nouvelle version de notre site internet!
+Nous vous l'avons "teasé" depuis des semaines, pour ne pas dire des mois, enfin, le voilà: Le nouvelle version de notre site internet!
 
-Cela faisait quelques temps que nous souhaitions nous séparer de cette passoire qu'est Wordpress (et son cortège de plugins plus ou moins maintenus), les gros problèmes de performances dû a des plugins trop gourmands sur un serveur trop fébriles nous ont enfin poussé a se lancer.
+Cela faisait quelques temps que nous souhaitions nous séparer de cette passoire qu'est WordPress (et son cortège de plugins plus ou moins maintenus), les gros problèmes de performances dû a des plugins trop gourmands sur un serveur trop fébriles nous ont enfin poussé à se lancer.
 
 Ce nouveau site est entièrement statique...bon..ok...sauf les commentaires.
 
 Pour les curieux sur les détails techniques, voici un aperçu:
 
-Pour le moment nous n'avons pas trouvé de mailleurs alternative au système de commentaire wordpress que le moteur open-source [ISSO](https://posativ.org/isso/). Il tourne sur une instance ec2 "Micro" ce qui devrait nous permettre de rester sur le plan gratuit d'AWS. Nous ne voulions pas de Disqus, qui dans son plan gratuit impose l'affichage de publicité, en plus d'être bourré de trackers, ce qui allourdit considérablement les pages web qui l'utilisent. J'ai bien vu 2-3 autres moteurs intriguants, comme celui se reposant sur [AWS Lambda](https://github.com/jimpick/lambda-comments) mais cela me semble pour le moment un peu trop artisanal. Les systèmes "statiques" utilisant les [Githubs comments](http://donw.io/post/github-comments/) ou les pull requests semblent bien trop contraignants en l'état.
+Pour le moment nous n'avons pas trouvé de meilleurs alternative au système de commentaire wordpress que le moteur open-source [ISSO](https://posativ.org/isso/). Il tourne sur une instance ec2 "Micro" ce qui devrait nous permettre de rester sur le plan gratuit d'AWS. Nous ne voulions pas de Disqus, qui dans son plan gratuit impose l'affichage de publicité, en plus d'être bourré de trackers, ce qui alourdit considérablement les pages web qui l'utilisent. J'ai bien vu 2-3 autres moteurs intriguants, comme celui se reposant sur [AWS Lambda](https://github.com/jimpick/lambda-comments) mais cela me semble pour le moment un peu trop artisanal. Les systèmes "statiques" utilisant les [GitHub comments](http://donw.io/post/github-comments/) ou les pull requests semblent bien trop contraignants en l'état.
 
 Nous avons également changé de lecteur audio pour passer à celui de [Podigee](https://www.podigee.com/en/podcast-player/), qui a le bon goût de proposer automatiquement un lien de téléchargement directe, ainsi que de supporter le chapitrage.
 
-Au niveau de la génération du site, nous utilisons [Hugo](https://gohugo.io/), qui ne fait que monter en popularité et finira, je pense, par décrocher le monopole de [Jekyll](https://jekyllrb.com/) à un moment ou un autre. Cela ne serait-ce que pour la rapidité de géneration des pages et ses capacité de génerations avec les ["custom formats"](https://gohugo.io/templates/output-formats/).
+Au niveau de la génération du site, nous utilisons [Hugo](https://gohugo.io/), qui ne fait que monter en popularité et finira, je pense, par décrocher le monopole de [Jekyll](https://jekyllrb.com/) à un moment ou un autre. Cela ne serait-ce que pour la rapidité de génération des pages et ses capacité de génerations avec les ["custom formats"](https://gohugo.io/templates/output-formats/).
 
 Au niveau de l'apparence visuel, c'est grosso-modo du fait maison en s'appuyant sur le framework CSS [Foundation](http://foundation.zurb.com/sites/docs/).
 
-Pour l'optimisation du css, javascript et html, la génération et compression des vignettes, et j'en passe, nous nous servons de [Gulp](https://gulpjs.com/).
+Pour l'optimisation du CSS, javascript et HTML, la génération et compression des vignettes, et j'en passe, nous nous servons de [Gulp](https://gulpjs.com/).
 
-Pour ce qui est de l'hébergement, c'est une combinaison entre [Github](https://github.com/comptoirsecu/csec-hugo) qui héberge notre code source et [Netlify](https://www.netlify.com/) qui, en réaction de chaque commit, le récupère, le compile et le déploie.
+Pour ce qui est de l'hébergement, c'est une combinaison entre [GitHub](https://github.com/comptoirsecu/csec-hugo) qui héberge notre code source et [Netlify](https://www.netlify.com/) qui, en réaction de chaque commit, le récupère, le compile et le déploie.
 
 Seule ombre au tableau, nous utilisons désormais [Google Analytics](https://www.google.com/analytics/) pour avoir un aperçu sur les statistiques du site. Nous passerons si possible sur un système self-hosted à l'avenir, du genre de [Piwik](https://piwik.org/). Pour le moment nous nous contenterons de donner notre âme à Google.
 
@@ -51,9 +51,9 @@ Vous retrouvez enfin nos dernier contenu par catégorie:
 
 Vous pouvez accéder aux archive de chacun de ces contenus assez facilement via le menu en haut du site, qui inclue également un accès à nos (vieux) articles mais aussi à une toute nouvelle rubrique: Le registre!
 
-Et oui, vous en rêviez (ou pas), on l'a fait! Désormais, chaque nouveau billet annonçant un sechebdo, épisode du comptoir ou vidéo incluera dans ses métadonnées
+Et oui, vous en rêviez (ou pas), on l'a fait! Désormais, chaque nouveau billet annonçant un SECHebdo, épisode du comptoir ou vidéo inclura dans ses métadonnées
 
-* les [membres du ComptoirSécu](/authors) qui y ont participés,
+* les [membres du Comptoir Sécu](/authors) qui y ont participés,
 
 ![authors](/images/misc/new_site3.jpg)
 
