@@ -8,14 +8,13 @@ categories:
  - blog
  - site
 ---
-
-Nous vous l'avons "teasé" depuis des semaines, pour ne pas dire des mois, enfin, le voilà: La nouvelle version de notre site internet!
+Nous vous l'avons "teasé" depuis des semaines, pour ne pas dire des mois, enfin, le voilà : La nouvelle version de notre site internet!
 
 Cela faisait quelques temps que nous souhaitions nous séparer de cette passoire qu'est WordPress (et son cortège de plugins plus ou moins maintenus), les gros problèmes de performances dû a des plugins trop gourmands sur un serveur trop fébriles nous ont enfin poussé à se lancer.
 
 Ce nouveau site est entièrement statique...bon..ok...sauf les commentaires.
 
-Pour les curieux sur les détails techniques, voici un aperçu:
+Pour les curieux sur les détails techniques, voici un aperçu :
 
 Pour le moment nous n'avons pas trouvé de meilleurs alternative au système de commentaires wordpress que le moteur open-source [ISSO](https://posativ.org/isso/). Il tourne sur une instance ec2 "Micro" ce qui devrait nous permettre de rester sur le plan gratuit d'AWS. Nous ne voulions pas de Disqus, qui dans son plan gratuit impose l'affichage de publicité, en plus d'être bourré de trackers, ce qui alourdit considérablement les pages web qui l'utilisent. J'ai bien vu 2-3 autres moteurs intriguants, comme celui se reposant sur [AWS Lambda](https://github.com/jimpick/lambda-comments) mais cela me semble pour le moment un peu trop artisanal. Les systèmes "statiques" utilisant les [GitHub comments](http://donw.io/post/github-comments/) ou les pull requests semblent bien trop contraignants en l'état.
 
@@ -47,7 +46,7 @@ Vous retrouvez enfin nos derniers contenus par catégorie:
 
 * Les derniers épisodes du comptoir, incluant les hors-séries comme nos couvertures des conférence sécu;
 * Les SECHebdo, revue d'actualité hebdomadaire (ou presque);
-* Les vidéos, que ce soit les SECompris, SEClairs, PoC, ou peut-être des Points Sécu et autres nouveaux formats?
+* Les vidéos, que ce soit les SECompris, SEClairs, PoC, ou peut-être des Points Sécu et autres nouveaux formats.
 
 Vous pouvez accéder aux archives de chacun de ces contenus assez facilement via le menu en haut du site, qui inclue également un accès à nos (vieux) articles mais aussi à une toute nouvelle rubrique: Le registre!
 
@@ -80,6 +79,6 @@ Nous avons également profité du changement de notre lecteur audio pour implém
 
 Nous avons d'autres surprises sous le coude, certaines déjà mises en place comme l'affichage du site lors d'un live. D'autres encore en préparation comme le support du format [AMP](https://www.ampproject.org/learn/overview/) pour charger les pages encore plus vite sur mobile.
 
-Un autre avantage indéniable de cette nouvelle architecture, c'est la capacité que vous avez à contribuer! En effet, le code source étant maintenant disponible publiquement sur [GitHub](https://github.com), n'importe qui peut nous proposer des [pull requests](https://help.github.com/articles/about-pull-requests/).
+Un autre avantage indéniable de cette nouvelle architecture, c'est la capacité que vous avez à contribuer! En effet, le code source étant maintenant disponible publiquement sur [GitHub](https://github.com/comptoirsecu/csec-hugo), n'importe qui peut nous proposer des [pull requests](https://help.github.com/articles/about-pull-requests/).
 
 Vous vous sentez de réaliser le chapitrage des anciens épisodes? Nous avons fait une coquille dans un article ou les métadonnées? Vous avez trouvé un moyen facile d'implémenter la pagination dans les registres? Faites nous une [pull request](http://blog.zenika.com/2017/01/24/pull-request-demystifie/) et participer à l'amélioration du comptoir!
