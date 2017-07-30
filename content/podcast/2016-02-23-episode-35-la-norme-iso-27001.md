@@ -21,6 +21,24 @@ tags:
   - risques
   - RSSI
   - SMSI
+
+authors:
+  - lois
+  - justin
+  - morgan
+  - youenn
+
+guests:
+  - alexandre_fernandeztoro
+
+songs:
+  - cherryboyfunction_mountainfunkdxoriginal
+  - thedeathset_aproblemisaproblem
+
+drinks:
+  - edelweiss
+  - pelforth_blonde
+  - queuedecharrue_rouge
 ---
 
 {{% warning %}}
@@ -32,8 +50,3 @@ Lors de cet épisode, nous avons voulu aborder le sujet de l'ISO 27001, non pas 
 Bonne écoute à vous !
 
 {{< podigee >}}
-
-Les interludes musicales de l'épisode :
-
-  * [Cherryboy Function – Montain Funk DX Original Mix](https://pro.beatport.com/track/mountain-funk-dx-original-mix/675910)
-  * [The Death Set – A Problem Is A Problem It Don't Matter Where You From](https://ninjatune.net/release/the-death-set/michel-poiccard)

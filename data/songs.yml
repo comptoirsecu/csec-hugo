@@ -5,6 +5,50 @@
 #   image: test.jpg
 #   country: Suède
 
+thedeathset_aproblemisaproblem:
+  artist: The Death Set
+  song: "A problem is a problem it does not matter where you're from"
+  album: "Michel Poiccard"
+  uri: https://ninjatune.net/release/the-death-set/michel-poiccard
+  image: thedeathset_aproblemisaproblem.jpg
+
+cherryboyfunction_mountainfunkdxoriginal:
+  artist: Cherry Boy Function
+  song: Mountain funk DX (Original mix)
+  uri: https://www.beatport.com/track/mountain-funk-dx-original-mix/675910
+
+celldweller_endofanempire:
+  artist: Celldweller
+  song: End of an empire
+  uri: https://www.youtube.com/watch?v=O1G7ICUttPA
+  image: celldweller_endofanempire.jpg
+
+darabosbeata_jinglebell:
+  artist: Darabos Beata
+  song: Jingle Bell
+  uri: https://soundcloud.com/darabos-beata/10-jingle-bell
+
+thedillingerescapeplan_deadashistory:
+  artist: The Dillinger Escape Plan
+  song: Dead as History
+  album: Ire Works
+  uri: https://www.discogs.com/fr/Dillinger-Escape-Plan-Ire-Works/master/2792
+  image: thedillingerescapeplan_deadashistory.jpg
+
+thedillingerescapeplan_mouthofghosts:
+  artist: The Dillinger Escape Plan
+  song: Mouth of Ghosts
+  album: Ire Works
+  uri: https://www.discogs.com/fr/Dillinger-Escape-Plan-Ire-Works/master/2792
+  image: thedillingerescapeplan_deadashistory.jpg
+
+thomasbarrandon_contrivance:
+  artist: Thomas Barrandon
+  song: Contrivance
+  album: The Quiet Earth
+  uri: https://thomasbarrandon.bandcamp.com/album/the-quiet-earth
+  image: thomasbarrandon_contrivance.jpg
+
 modestep_makeyoumine:
   artist: Modestep
   song: Make you Mine

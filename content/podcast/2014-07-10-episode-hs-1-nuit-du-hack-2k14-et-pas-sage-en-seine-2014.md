@@ -39,6 +39,16 @@ chaptermarks:
   "01:43:48": "Finale avec une musique de Cristobal Tapia De Veer & Jessica Gets Off"
   "01:44:39": "Interview au McDo"
   "01:45:57": "Musique de fin:  Cristobal Tapia De Veer & Utopia Finale"
+
+guests:
+  - jaysonstreet
+  - zakaria_rachid
+  - wilfrid_blanc
+  - korben
+
+songs:
+  - sldghmr_diy
+  - cristobal_utopiafinale
 ---
 Nous revoilà déjà pour un épisode hors série sur la Nuit du hack et Pas Sage en Seine.
 

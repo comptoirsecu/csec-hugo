@@ -19,6 +19,22 @@ tags:
   - psco
   - service de confiance
   - signature électronique
+
+authors:
+  - lois
+  - justin
+  - youenn
+drinks:
+  - desperados_black
+  - grimbergen_blonde
+
+songs:
+  - thedillingerescapeplan_deadashistory
+  - thedillingerescapeplan_mouthofghosts
+
+guests:
+  - frederic_duflot
+  - jerome_bordier
 ---
 
 
@@ -37,8 +53,3 @@ De plus, la société de Jérôme Bordier, SEALWeb, recrute en ce moment des ing
 {{< podigee >}}
 
 Bonne écoute !
-
-Les interludes musicales de l'épisode :
-
-  * [The Dillinger Escape Plan – Dead As History](http://www.dillingerescapeplan.org/content/ire-works)
-  * [The Dillinger Escape Plan – Mouth of Ghosts](http://www.dillingerescapeplan.org/content/ire-works)
