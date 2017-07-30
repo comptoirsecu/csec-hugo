@@ -20,12 +20,23 @@ tags:
   - conférence
   - monaco
   - ssi
+
+authors:
+  - justin
+  - morgan
+  - youenn
+
+guests:
+  - farid_illikoud
+  - matthieu_garin
+
+
 ---
 
 En direct des Assises 2015, nous faisons un retour sur cette première journée de cette conférence à Monaco entourée de 2 invités, un RSSI et un offreur :
 
   * Farid Illikoud, RSSI du PMU
-  * [Mathieu Garin](https://twitter.com/matthieugarin), consultant chez Solucom
+  * Mathieu Garin, consultant chez Solucom
 
 N'hésitez pas à venir nous voir aux Assises, ou nous donner un retour.
 

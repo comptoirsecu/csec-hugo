@@ -7,6 +7,13 @@
 #   linkedin: https://www.linkedin.com/in/maitrisedescrises/
 #   email: test@example.com
 
+matthieu_garin:
+  name: Matthieu Garin
+  linkedin: "Senior Manager chez Wavestone (ex Solucom)"
+  twitter: matthieugarin
+  description: "https://www.linkedin.com/in/matthieu-garin-3336481/"
+  image: matthieu_garin.jpg
+
 cedric_cartau:
   name: Cédric Carteau
   linkedin: https://www.linkedin.com/in/c%C3%A9dric-cartau-1a665130/?ppe=1
@@ -16,7 +23,7 @@ cedric_cartau:
 philippe_loudenot:
   name: Philippe Loudenot
   linkedin: https://www.linkedin.com/in/philippeloudenot/?ppe=1
-  description: "FSSI aux Ministères sociaux"
+  description: "Fonctionnaire de Sécurité des Systèmes d'Information (FSSI) pour les ministères chargés des Affaires sociales"
   image: philippe_loudenot.jpg
 
 clement_notin:
