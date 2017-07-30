@@ -1,5 +1,5 @@
 ---
-title: "Bienvenu sur le nouveau site du Comptoir Sécu!"
+title: "Bienvenue sur le nouveau site du Comptoir Sécu!"
 subheadline: "Au menu: JAMStack avec Hugo, Netlify, Foundation, etc."
 publisher: morgan
 date: 2017-07-31
