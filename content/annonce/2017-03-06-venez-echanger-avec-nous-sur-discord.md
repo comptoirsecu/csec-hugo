@@ -16,7 +16,7 @@ tags:
 ---
 
 
-Dorénavant, il sera possible à la communauté Comptoir-Sécu de discuter facilement par le biais de notre serveur Discord! Pour nous rejoindre, rien de plus simple, il suffit de vous créer un compte Discord et d'aller sur <https://discord.comptoirsecu.fr>.
+Dorénavant, il sera possible à la communauté Comptoir-Sécu de discuter facilement par le biais de notre serveur Discord! Pour nous rejoindre, rien de plus simple, il suffit de vous créer un compte Discord et d'aller sur <http://discord.comptoirsecu.fr>.
 
 
 
