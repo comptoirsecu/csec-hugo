@@ -26,7 +26,6 @@ tags:
   - NSA
   - OWASP
   - PDoS
-  - podcast
   - SECHebdo
   - ShadowBroker
   - SwitHack
@@ -48,6 +47,9 @@ authors:
    - morgan
    - lois
    - justin
+
+guests:
+  - swithak
 ---
 
 
