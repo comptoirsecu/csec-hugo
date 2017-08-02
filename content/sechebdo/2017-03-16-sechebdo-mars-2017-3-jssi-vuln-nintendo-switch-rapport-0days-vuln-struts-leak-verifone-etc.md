@@ -38,7 +38,7 @@ Nous venons de tourner le troisième SEC Hebdo du mois de mars 2017 en Live ! C
 {{< podigee >}}
 
 
-Notre discord : <https://discord.comptoirsecu.fr>
+Notre discord : <http://discord.comptoirsecu.fr>
 
 A bientôt pour d'autres émissions/podcasts!
 

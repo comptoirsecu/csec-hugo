@@ -47,7 +47,7 @@ Les vacances sont finis de notre côté : on est donc de retour avec un nouvel �
 
 {{< podigee >}}
 
-Notre discord : <https://discord.comptoirsecu.fr>
+Notre discord : <http://discord.comptoirsecu.fr>
 
 A bientôt pour d'autres émissions/podcasts!
 

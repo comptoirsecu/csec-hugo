@@ -43,7 +43,7 @@ Nous venons de tourner le premier SECHebdo du mois de mai 2017 sur Youtube. Comm
 
 {{< podigee >}}
 
-Notre discord : <https://discord.comptoirsecu.fr>
+Notre discord : <http://discord.comptoirsecu.fr>
 
 A bientôt pour d'autres émissions/podcasts!
 

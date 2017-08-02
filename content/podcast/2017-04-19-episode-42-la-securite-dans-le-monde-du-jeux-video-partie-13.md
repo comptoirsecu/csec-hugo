@@ -55,4 +55,4 @@ Bonne écoute à vous !
 
 P.S: Cette semaine, il n'y aura pas de SECHebdo
 
-Notre discord pour échanger : <https://discord.comptoirsecu.fr>
+Notre discord pour échanger : <http://discord.comptoirsecu.fr>

@@ -50,7 +50,7 @@ Nous venons de tourner le quatrième SECHebdo du mois de mars 2017 sur Youtube. 
 
 {{< podigee >}}
 
-Notre discord : <https://discord.comptoirsecu.fr>
+Notre discord : <http://discord.comptoirsecu.fr>
 
 A bientôt pour d'autres émissions/podcasts!
 

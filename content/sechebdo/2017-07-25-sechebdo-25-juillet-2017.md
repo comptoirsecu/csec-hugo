@@ -40,7 +40,7 @@ Nous venons de tourner un nouveau SECHebdo en live sur Youtube. Comme d'habitude
 
 {{< podigee >}}
 
-Notre discord : <https://discord.comptoirsecu.fr>
+Notre discord : <http://discord.comptoirsecu.fr>
 
 A bientôt pour d'autres émissions/podcasts!
 
