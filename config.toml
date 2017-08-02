@@ -35,8 +35,8 @@ name = "podcastFeed"
 mediatype = "application/rss"
 Path = "/feed/"
 baseName = "podcast"
-[outputFormats.Feed]
-name = "Feed"
+[outputFormats.RSSFeed]
+name = "RSSFeed"
 mediatype = "application/rss"
 Path = "/feed/"
 baseName = "all"
@@ -59,7 +59,7 @@ notAlternative = true
   delimiter = ""
 
 [outputs]
-home = [ "HTML", "podcastFeed", "Feed", "Headers", "Redirects"]
+home = [ "HTML", "podcastFeed", "Headers", "Redirects", "RSSFeed"]
 page = [ "HTML"]
 
 
