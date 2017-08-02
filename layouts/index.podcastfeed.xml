@@ -60,7 +60,7 @@
         {{ range first 30 .Site.Taxonomies.categories.podcast.Pages }}
           {{ $img := or .Params.image "/images/covers/default.jpg" }}
         <item>
-            <title>{{chomp "<![CDATA[\n"}}{{ .Title }}{{chomp "]]>\n"}}</title>
+            <title>{{ .Title }}</title>
             <link>{{ .Permalink }}</link>
             <pubDate>{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" .Date }}</pubDate>
             <!-- <comments>{{ .Permalink }}#comments</comments> -->
