@@ -4,7 +4,7 @@ title: "[SEC Hebdo] Mars 2017 - 1"
 subheadline: "CloudBleed, SHAttered, Let’s Encrypt & Phishing, LED-it Go, Sécurité des gestionnaires de mots de passe, etc."
 publisher: lois
 date: 2017-03-02T00:00:00+00:00
-video: https://www.youtube.com/embed/iMxqFpOtuvw
+video: "iMxqFpOtuvw"
 
 aliases: /2017/03/sec-hebdo-mars-2017-1-cloudbleed-shattered-lets-encrypt-phishing-led-it-go-securite-des-gestionnaires-de-mots-de-passe-etc/
 podcast:

@@ -37,7 +37,7 @@ chaptermarks:
   - "00:51:55|Ashley Madison va devoir dédommager financièrement les victimes du piratage de son site"
   - "00:56:15|Découverte de la semaine: Humble Bundle Books sur la cybersécurité"
 
-video: https://www.youtube.com/embed/nbOJ7wwQdhs
+video: "nbOJ7wwQdhs"
 ---
 
 

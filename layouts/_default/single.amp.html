@@ -1,0 +1,45 @@
+<!doctype html>
+<html amp lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <title>Hello, AMPs</title>
+    {{ with  .OutputFormats.Get "HTML" -}}
+    <link rel="canonical" href="{{ .Permalink }}">
+    {{- end }}
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    {{ partial "header-boilerplate.amp.html" . }}
+  </head>
+  <body>
+    <a href="{{ .Site.BaseURL }}">
+    <amp-img src="/images/header.jpg" alt="Le Comptoir Sécu" height="196" width="1024" layout="responsive"></amp-img></a>
+<div id="article">
+    <h1>{{ .Title }}</h1>
+    {{- with .Params.subheadline }}
+    <h2 class="subheadline">{{ . }}</h2>
+    {{ end -}}
+
+    {{- if or (eq .Section "video") (eq .Section "sechebdo") }}
+    <amp-youtube
+    data-videoid="{{ .Params.Video }}"
+    layout="responsive"
+    width="480" height="270"></amp-youtube>
+    {{- else -}}
+    {{- $img := or .Params.image "/images/covers/default.jpg" -}}
+    {{- $imgprefix := substr $img 0 -4 -}}
+    <amp-img src="{{ $imgprefix }}.jpg"
+    srcset="{{ $imgprefix }}-small.jpg 384w,
+            {{ $imgprefix }}-medium.jpg 640w,
+            {{ $imgprefix }}-large.jpg 1024w" alt="{{ .Title }}" height="576" width="1024" layout="responsive"></amp-img>
+    {{ end -}}
+    {{ .Content | replaceRE "(?m)(?s:<script.+?</script>)" "" | htmlUnescape | safeHTML }}
+    {{- with .Params.podcast.feed }}
+      <amp-audio width="400" height="50" src="{{ . }}">
+        <div fallback>
+          <p>Désolé, votre navigateur ne supporte pas le lecteur audio HTML5</p>
+        </div>
+    </amp-audio>
+    {{ end -}}
+  </div>
+  </body>
+</html>

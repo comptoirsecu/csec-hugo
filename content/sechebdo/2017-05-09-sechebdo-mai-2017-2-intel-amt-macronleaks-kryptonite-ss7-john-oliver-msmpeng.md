@@ -4,7 +4,7 @@ title: "[SECHebdo] Mai 2017 - 2"
 subheadline: "Intel AMT, MacronLeaks, Kryptonite, SS7, John Oliver, MsMpEng"
 publisher: justin
 date: 2017-05-09
-video: https://www.youtube.com/embed/pJvi6gJYCVY
+video: "pJvi6gJYCVY"
 
 aliases: /2017/05/sechebdo-mai-2017-2-intel-amt-macronleaks-kryptonite-ss7-john-oliver-msmpeng/
 image: /images/covers/2017-05-sechebdo-2017-05-09-vignette.jpg

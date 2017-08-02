@@ -18,7 +18,7 @@
       </header>
       {{ if or (eq .Section "video") (eq .Section "sechebdo") }}
         <div class="responsive-embed widescreen">
-          <iframe width="560" height="315" src="{{ .Params.Video }}" frameborder="0" allowfullscreen></iframe>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ .Params.Video }}" frameborder="0" allowfullscreen></iframe>
         </div>
       {{ else }}
       <img src="{{with .Params.image }}{{ . }}{{ else }}/images/default.jpg{{end}}" />

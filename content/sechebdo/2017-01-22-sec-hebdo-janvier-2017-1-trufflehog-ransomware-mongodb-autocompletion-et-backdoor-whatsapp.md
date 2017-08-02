@@ -22,7 +22,7 @@ tags:
   - trufflehog
   - whatsapp
   - wordpress
-video: https://www.youtube.com/embed/78kgDmpSwN8
+video: "78kgDmpSwN8"
 
 
 authors:

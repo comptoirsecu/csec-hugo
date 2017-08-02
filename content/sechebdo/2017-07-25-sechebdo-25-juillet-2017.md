@@ -31,7 +31,7 @@ chaptermarks:
   - "00:29:05|Orpheus Lyre"
   - "00:37:05|Decouverte de la semaine: Briar"
 
-video: https://www.youtube.com/embed/0glcussnb18
+video: "0glcussnb18"
 ---
 
 Nous venons de tourner un nouveau SECHebdo en live sur Youtube. Comme d'habitude, si vous avez raté l'enregistrement, vous pouvez le retrouver sur notre chaîne Youtube (vidéo ci-dessus) ou bien au format podcast audio:
