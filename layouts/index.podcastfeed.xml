@@ -13,7 +13,6 @@
     <channel>
         <atom:link href="{{ .Site.BaseURL }}/feed/podcast.xml" rel="self" type="application/rss+xml" />
 
-
         <link>{{ .Site.BaseURL }}</link>
         <language>fr</language>
         <managingEditor>{{ .Site.Params.Contact }} ({{ .Site.Params.Author }})</managingEditor>
@@ -59,8 +58,9 @@
         <sy:updateFrequency>1</sy:updateFrequency>
         <itunes:explicit>no</itunes:explicit>
         {{ range first 30 .Site.Taxonomies.categories.podcast.Pages }}
+          {{ $img := or .Params.image "/images/covers/default.jpg" }}
         <item>
-            <title>{{ .Title }}</title>
+            <title>{{chomp "<![CDATA[\n"}}{{ .Title }}{{chomp "]]>\n"}}</title>
             <link>{{ .Permalink }}</link>
             <pubDate>{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" .Date }}</pubDate>
             <!-- <comments>{{ .Permalink }}#comments</comments> -->
@@ -68,15 +68,16 @@
             <description>
               {{chomp "<![CDATA[\n"}}{{ htmlUnescape .Content | plainify }}{{chomp "]]>\n"}}
             </description>
+            <content:encoded>{{chomp "<![CDATA[\n"}}<img src="{{ $.Site.BaseURL }}{{ $img }}" class="webfeedsFeaturedVisual" /><br />{{ .Content | htmlUnescape | safeHTML }}{{chomp "]]>\n"}}</content:encoded>
             <enclosure url="{{ .Params.podcast.feed }}" length="1" type="audio/mp3"/>
             <itunes:author>{{ $.Site.Params.Author }}</itunes:author>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:subtitle>{{ .Params.Subheadline }}</itunes:subtitle>
+            <itunes:subtitle>{{chomp "<![CDATA[\n"}}{{ .Params.Subheadline }}{{chomp "]]>\n"}}</itunes:subtitle>
             <itunes:summary>
                 {{chomp "<![CDATA[\n"}}{{ htmlUnescape .Content  | plainify }}{{chomp "]]>\n"}}
             </itunes:summary>
             <!--<itunes:duration>{{ .Params.podcast.feed }}</itunes:duration>-->
-            <itunes:keywords>{{ delimit .Params.tags ", " }}</itunes:keywords>
+            <itunes:keywords>{{chomp "<![CDATA[\n"}}{{ delimit .Params.tags ", " }}{{chomp "]]>\n"}}</itunes:keywords>
             {{ $img := or .Params.image "/images/covers/default.jpg" }}
             <itunes:image href="{{ $.Site.BaseURL }}{{ $img }}" />
             <category>{{ .Section }}</category>
