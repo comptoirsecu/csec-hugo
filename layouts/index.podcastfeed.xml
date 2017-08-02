@@ -12,7 +12,6 @@
     xml:lang='en-US'>
     <channel>
         <atom:link href="{{ .Site.BaseURL }}/feed/podcast.xml" rel="self" type="application/rss+xml" />
-        <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=comptoirsecu&amp;popout=1&amp;url=http%3A%2F%2Fwww.comptoirsecu.fr%2F&amp;language=fr_FR&amp;category=audio&amp;title=Le+Comptoir+S%C3%A9cu&amp;description=Le+podcast+qui+traite+des+enjeux+de+la+s%C3%A9curit%C3%A9+informatique.+Podcast+en+CC-BY-NC-SA&amp;tags=blog%2Cpodcast" type="text/html" />
 
 
         <link>{{ .Site.BaseURL }}</link>
