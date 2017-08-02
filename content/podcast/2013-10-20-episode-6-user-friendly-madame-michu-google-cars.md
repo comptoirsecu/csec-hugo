@@ -25,8 +25,8 @@ tags:
   - User
 
 chaptermarks:
-  "00:01:14": Des news
-  "00:15:06": Une pause musicale avec DJ-PIE - Desert Twerk
+  - "00:01:14|Des news"
+  - "00:15:06|Une pause musicale avec DJ-PIE - Desert Twerk"
   - "00:18:23|Débat: La sécurité peut-elle être user-friendly?"
   - "00:39:28|What's Next: Les Google Cars"
 

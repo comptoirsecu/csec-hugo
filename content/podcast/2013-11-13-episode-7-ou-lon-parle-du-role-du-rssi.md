@@ -35,10 +35,10 @@ songs:
   - yoon_nur_secuemremix
 
 chaptermarks:
-  "00:01:11": Revue d'actualité
-  "00:30:56": Un échange sur le rôle du RSSI
-  "00:42:15": Une pause musicale avec un extrait Daed - Sentient 
-  "01:17:34": Une nouvelle interview d'un étudiant de l'EGE
+  - "00:01:11|Revue d'actualité"
+  - "00:30:56|Un échange sur le rôle du RSSI"
+  - "00:42:15|Une pause musicale avec un extrait Daed - Sentient "
+  - "01:17:34|Une nouvelle interview d'un étudiant de l'EGE"
 ---
 Voilà le premier épisode du mois de Novembre, avec un peu de retard.
 

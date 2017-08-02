@@ -28,14 +28,14 @@ authors:
  - justin
 
 chaptermarks:
-  "00:02:10": Malware Mac
-  "00:05:30": Intel AMT
-  "00:11:18": Bypass 2FA par SMS via SS7
-  "00:17:00": Hack de Macron? MacronLeaks
-  "00:25:20": Nouvelle Vulnérabilité Critique Sur Windows Par Project Zero
-  "00:35:20": Google Oauth
-  "00:40:00": John oliver et net neutrality
-  "00:45:00": CVE-2016-10229
+  - "00:02:10|Malware Mac"
+  - "00:05:30|Intel AMT"
+  - "00:11:18|Bypass 2FA par SMS via SS7"
+  - "00:17:00|Hack de Macron? MacronLeaks"
+  - "00:25:20|Nouvelle Vulnérabilité Critique Sur Windows Par Project Zero"
+  - "00:35:20|Google Oauth"
+  - "00:40:00|John oliver et net neutrality"
+  - "00:45:00|CVE-2016-10229"
   - "00:48:00|Découverte de la semaine: Kryptonite"
 ---
 
