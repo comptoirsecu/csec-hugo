@@ -24,13 +24,13 @@ tags:
   - SSL
 
 chaptermarks:
-  "00:01:22": "Les news du moment"
-  "00:23:55": "Annonce des futurs évènements"
-  "00:24:25": "Dossier: La continuité d'activité"
-  "01:17:57": "Interlude musicale avec Omega Danzer - Dynamic Danzer"
-  "01:19:52": "What's Next: Heartbleed"
-  "01:37:20": "Le mot de la fin"
-  "01:42:17": "Musique de fin avec Electric Children - Car Jack"
+  - "00:01:22|Les news du moment"
+  - "00:23:55|Annonce des futurs évènements"
+  - "00:24:25|Dossier: La continuité d'activité"
+  - "01:17:57|Interlude musicale avec Omega Danzer - Dynamic Danzer"
+  - "01:19:52|What's Next: Heartbleed"
+  - "01:37:20|Le mot de la fin"
+  - "01:42:17|Musique de fin avec Electric Children - Car Jack"
 
 authors:
   - justin

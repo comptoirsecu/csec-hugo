@@ -33,7 +33,7 @@ drinks:
   - corona_extra
 
 chaptermarks:
-  "00:36:15": "Interlude musicale avec Nine Inch Nails – 7 Ghost I"
+  - "00:36:15|Interlude musicale avec Nine Inch Nails – 7 Ghost I"
 ---
 
 

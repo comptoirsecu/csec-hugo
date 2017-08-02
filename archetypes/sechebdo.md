@@ -24,7 +24,7 @@ authors:
   - lois
 
 chaptermarks:
-  "00:01:30": "Titre"
+  - "00:01:30|Titre"
 
 video: https://www.youtube.com/embed/CODECODECODE
 ---

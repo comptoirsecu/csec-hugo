@@ -36,14 +36,14 @@ guests:
   - piouf
 
 chaptermarks:
-  "00:02:38": "Definition et présentation des invités"
-  "00:14:14": "Besoin en sécurité"
-  "00:42:00": "Pause musicale avec Division Ruine de Carpenter Brut"
-  "00:45:34": "Menaces, Vulnérabilités et Risques"
-  "01:10:20": "Contre-mesures"
-  "01:26:10": "Conclusions"
-  "01:28:39": "Musique de fin: Turbo Killer de Carpenter Brut"
-  "01:31:28": "Épilogue"
+  - "00:02:38|Definition et présentation des invités"
+  - "00:14:14|Besoin en sécurité"
+  - "00:42:00|Pause musicale avec Division Ruine de Carpenter Brut"
+  - "00:45:34|Menaces, Vulnérabilités et Risques"
+  - "01:10:20|Contre-mesures"
+  - "01:26:10|Conclusions"
+  - "01:28:39|Musique de fin: Turbo Killer de Carpenter Brut"
+  - "01:31:28|Épilogue"
 ---
 
 Vous allez écouter le premier podcast qui enregistre une analyse de risque en live ! Un exercice plutôt compliqué, notamment pour réussir à cadrer l'analyse.

@@ -45,11 +45,11 @@ guests:
   - genma
 
 chaptermarks:
-  "00:01:45": "Les news du moment"
-  "00:24:25": "Dossier: Les hackers dans la culture pop"
-  "01:24:30": "Interlude musicale avec Angus And Julia Stone – Say It Right (The Algorithm Remix)"
-  "01:27:00": "Interview de Genma"
-  "01:41:00": "Musique de fin avec Alunageorge - You know you like it"
+  - "00:01:45|Les news du moment"
+  - "00:24:25|Dossier: Les hackers dans la culture pop"
+  - "01:24:30|Interlude musicale avec Angus And Julia Stone – Say It Right (The Algorithm Remix)"
+  - "01:27:00|Interview de Genma"
+  - "01:41:00|Musique de fin avec Alunageorge - You know you like it"
 ---
 
 Aujourd'hui c'est un épisode un peu spécial et plus léger que d'habitude puisqu'il s'agit d'un épisode consacré aux hackers dans la culture pop !

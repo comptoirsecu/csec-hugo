@@ -36,7 +36,7 @@ chaptermarks:
   "00:35:20": Google Oauth
   "00:40:00": John oliver et net neutrality
   "00:45:00": CVE-2016-10229
-  "00:48:00": "Découverte de la semaine: Kryptonite"
+  - "00:48:00|Découverte de la semaine: Kryptonite"
 ---
 
 

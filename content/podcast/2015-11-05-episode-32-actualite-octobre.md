@@ -34,14 +34,14 @@ drinks:
   - lindemans_spontabasil
 
 chaptermarks:
-  "00:01:35": "Le e-Pickpocketing gagne en puissance"
-  "00:08:20": "Safe Harbor"
-  "00:17:33": "Facebook alertera les utilisateurs lors d’espionnage d’Etat"
-  "00:23:17": "La guerre du mot de passe continu"
-  "00:30:08": "Stratégie numérique"
-  "00:34:58": "Le Deep Web français violement attaqué"
-  "00:42:55": "Flash News"
-  "00:44:30": "Outro musical avec Thomas Barrandon – Contrivance"
+  - "00:01:35|Le e-Pickpocketing gagne en puissance"
+  - "00:08:20|Safe Harbor"
+  - "00:17:33|Facebook alertera les utilisateurs lors d’espionnage d’Etat"
+  - "00:23:17|La guerre du mot de passe continu"
+  - "00:30:08|Stratégie numérique"
+  - "00:34:58|Le Deep Web français violement attaqué"
+  - "00:42:55|Flash News"
+  - "00:44:30|Outro musical avec Thomas Barrandon – Contrivance"
 ---
 
 {{<chaptermarks>}}

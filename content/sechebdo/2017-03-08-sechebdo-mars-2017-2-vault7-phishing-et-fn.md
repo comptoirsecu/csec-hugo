@@ -21,12 +21,12 @@ tags:
   - wikileaks
 
 chaptermarks:
-  "00:03:42": "Wikileaks balance les pokemons de la CIA Vault7"
-  "00:28:23": "Un spammer fait fuiter tous ses backups sur internet"
-  "00:36:14": "Ransomware satan analysé"
-  "00:41:25": "85 vulnérabilités dans les NAS WD pas encore patchées"
-  "00:44:06": "Collard publie ses mdp sur twitter"
-  "00:53:43": "Un rapport sur l'impact du piratage de nos futurs robots"
+  - "00:03:42|Wikileaks balance les pokemons de la CIA Vault7"
+  - "00:28:23|Un spammer fait fuiter tous ses backups sur internet"
+  - "00:36:14|Ransomware satan analysé"
+  - "00:41:25|85 vulnérabilités dans les NAS WD pas encore patchées"
+  - "00:44:06|Collard publie ses mdp sur twitter"
+  - "00:53:43|Un rapport sur l'impact du piratage de nos futurs robots"
 
 
 authors:

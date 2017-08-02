@@ -34,10 +34,10 @@ songs:
   - gramophonedzie_whydontyou
 
 chaptermarks:
-  "00:01:19": "Dossier: Shellshock"
-  "00:31:12": "Interlude musicale avec  The Pineapple Thief – Alone At Sea"
-  "00:34:10": "Annonce pour les Assises de la Sécurité"
-  "00:39:51": "Musique de fin avec Gramophonedzie – Why Don't You"
+  - "00:01:19|Dossier: Shellshock"
+  - "00:31:12|Interlude musicale avec  The Pineapple Thief – Alone At Sea"
+  - "00:34:10|Annonce pour les Assises de la Sécurité"
+  - "00:39:51|Musique de fin avec Gramophonedzie – Why Don't You"
 
 drinks:
   - sankteriks_rauchbier

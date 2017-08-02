@@ -28,14 +28,14 @@ authors:
   - lois
 
 chaptermarks:
-  "00:02:59": "Vulnérabilité NTLM"
-  "00:13:45": "Vulnérabilité Cisco WebEx Extension Chrome et Firefox"
-  "00:21:15": "Google abandonne le 2FA par SMS au profit du prompt mobile"
-  "00:27:03": "Le gouvernement américain interdit l'utilisation de Kaspersky au sein de ses agences fédérales"
-  "00:37:50": "22 000 personnes acceptent de récurer les chiottes en ne lisant pas les conditions de service du Wifi"
-  "00:45:40": "Les coûts d'une cyberattaque"
-  "00:51:55": "Ashley Madison va devoir dédommager financièrement les victimes du piratage de son site"
-  "00:56:15": "Découverte de la semaine: Humble Bundle Books sur la cybersécurité"
+  - "00:02:59|Vulnérabilité NTLM"
+  - "00:13:45|Vulnérabilité Cisco WebEx Extension Chrome et Firefox"
+  - "00:21:15|Google abandonne le 2FA par SMS au profit du prompt mobile"
+  - "00:27:03|Le gouvernement américain interdit l'utilisation de Kaspersky au sein de ses agences fédérales"
+  - "00:37:50|22 000 personnes acceptent de récurer les chiottes en ne lisant pas les conditions de service du Wifi"
+  - "00:45:40|Les coûts d'une cyberattaque"
+  - "00:51:55|Ashley Madison va devoir dédommager financièrement les victimes du piratage de son site"
+  - "00:56:15|Découverte de la semaine: Humble Bundle Books sur la cybersécurité"
 
 video: https://www.youtube.com/embed/nbOJ7wwQdhs
 ---

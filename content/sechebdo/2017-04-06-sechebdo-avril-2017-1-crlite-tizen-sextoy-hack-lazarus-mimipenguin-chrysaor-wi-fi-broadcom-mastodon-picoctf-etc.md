@@ -31,15 +31,15 @@ tags:
   - Wi-fi
 
 chaptermarks:
-  "00:01:28": "CRLite, va-t-on enfin vérifier la validité des certificats correctement"
-  "00:04:58": "L'OS Tizen de Samsung et ses 40 failles"
-  "00:12:08": "Méfie toi des sextoys connectés, encore plus si ils ont une caméra"
-  "00:15:04": "Publication du rapport rapport de Kaspersky sur le groupe Lazarus"
-  "00:23:20": "Google et Lookout découvre un malware android très avancé"
-  "00:27:38": "Le microgiciel des puces Wi-fi Broadcom vulnérable"
-  "00:34:23": "Un petit mot sur Mastodon"
-  "00:41:38": "Les candidatures pour le prix de l'Innovation sont ouvertes jusqu'à la fin du mois"
-  "00:43:58": "En vrac : Mimipenguin & Picoctf"
+  - "00:01:28|CRLite, va-t-on enfin vérifier la validité des certificats correctement"
+  - "00:04:58|L'OS Tizen de Samsung et ses 40 failles"
+  - "00:12:08|Méfie toi des sextoys connectés, encore plus si ils ont une caméra"
+  - "00:15:04|Publication du rapport rapport de Kaspersky sur le groupe Lazarus"
+  - "00:23:20|Google et Lookout découvre un malware android très avancé"
+  - "00:27:38|Le microgiciel des puces Wi-fi Broadcom vulnérable"
+  - "00:34:23|Un petit mot sur Mastodon"
+  - "00:41:38|Les candidatures pour le prix de l'Innovation sont ouvertes jusqu'à la fin du mois"
+  - "00:43:58|En vrac : Mimipenguin & Picoctf"
 
 
 authors:

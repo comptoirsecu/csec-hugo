@@ -38,13 +38,13 @@ songs:
   - crazydaylight_feelright
 
 chaptermarks:
-  "00:01:56": "Superfish"
-  "00:11:14": "Gemalto"
-  "00:22:28": "Darkleaks"
-  "00:29:59": "Projet Zéro"
-  "00:37:00": "Cyber Threat Intelligence Integration Center"
-  "00:46:36": "Anonymous Hack une pompe à essence"
-  "00:54:52": "Outro avec Crazy Daylight – Feel Right (Crazy Daylight Refunk)"
+  - "00:01:56|Superfish"
+  - "00:11:14|Gemalto"
+  - "00:22:28|Darkleaks"
+  - "00:29:59|Projet Zéro"
+  - "00:37:00|Cyber Threat Intelligence Integration Center"
+  - "00:46:36|Anonymous Hack une pompe à essence"
+  - "00:54:52|Outro avec Crazy Daylight – Feel Right (Crazy Daylight Refunk)"
 ---
 
 Après les événements du FIC de ce début d'année, nous reprenons du service avec cette fois-ci, un épisode spécial sur l'actualité de Février 2015.

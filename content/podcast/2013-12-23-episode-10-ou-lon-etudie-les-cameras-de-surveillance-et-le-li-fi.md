@@ -40,10 +40,10 @@ drinks:
 
 
 chaptermarks:
-  "00:01:40": "Revue d'actualité"
-  "00:33:43": "Dossier sur les caméras de surveillance"
-  "01:04:05": "Une  pause musicale avec [Home Alone- 5oh!"
-  "01:06:51": "What's Next: Le Li-Fi"
+  - "00:01:40|Revue d'actualité"
+  - "00:33:43|Dossier sur les caméras de surveillance"
+  - "01:04:05|Une  pause musicale avec Home Alone- 5oh!"
+  - "01:06:51|What's Next: Le Li-Fi"
 ---
 Avec un peu de retard dans la programmation nous vous livrons pour Noël un nouvel épisode tout propre !
 

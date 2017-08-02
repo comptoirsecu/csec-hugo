@@ -37,13 +37,13 @@ guests:
   - geremy_benkirane
 
 chaptermarks:
-  "00:02:07": "Début de la rétrospective"
-  "00:38:25": "Pause musicale avec Le Castle Vania – Nobody Gets Out Alive (Noisia Remix)"
-  "00:39:27": "Retours du public"
-  "00:40:18": "Suite de notre rétrospective"
-  "01:22:17": "Musique de fin avec Submotion Orchestra – Bring Back The Wolf "
-  "01:23:34": "Bonus"
-  "01:24:04": "Musique de clôture avec  Brodinski Feat. Louisahhh! – Let The Beat Control Your Body"
+  - "00:02:07|Début de la rétrospective"
+  - "00:38:25|Pause musicale avec Le Castle Vania – Nobody Gets Out Alive (Noisia Remix)"
+  - "00:39:27|Retours du public"
+  - "00:40:18|Suite de notre rétrospective"
+  - "01:22:17|Musique de fin avec Submotion Orchestra – Bring Back The Wolf "
+  - "01:23:34|Bonus"
+  - "01:24:04|Musique de clôture avec  Brodinski Feat. Louisahhh! – Let The Beat Control Your Body"
 
 songs:
   - catslevania_nobodygetsoutalive

@@ -40,11 +40,11 @@ guests:
   - emeric_laroche
 
 chaptermarks:
-  "00:02:22": "Les news du moment"
-  "00:33:30": "Dossier: Différence public/privé pour un responsable sécurité avec le FSSI adjoint du mindef"
-  "01:12:25": "Interlude musicale avec Rapture de Savant"
-  "01:12:25": "What's Next: Les réseaux mesh et MaidSafe"
-  "01:36:13": "Musique de fin avec I want un Smoothie"
+  - "00:02:22|Les news du moment"
+  - "00:33:30|Dossier: Différence public/privé pour un responsable sécurité avec le FSSI adjoint du mindef"
+  - "01:12:25|Interlude musicale avec Rapture de Savant"
+  - "01:12:25|What's Next: Les réseaux mesh et MaidSafe"
+  - "01:36:13|Musique de fin avec I want un Smoothie"
 
 ---
 

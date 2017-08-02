@@ -31,16 +31,16 @@ tags:
   - SwitHack
 
 chaptermarks:
-  "00:01:50": "Retour d'un auditeur, SwitHak, sur la conférence de l'ANSSI"
-  "00:23:50": "Certificate Authority Authorization"
-  "00:27:38": "ShadowBroker ont leaké les outils d'EquationGroup de la NSA"
-  "00:32:32": "Un hacker déclenche les sirènes d'une ville"
-  "00:36:58": "0Day Office utilisé dans la nature, attention aux pièces jointes!"
-  "00:42:29": "Brickerbot, le cousin de Mirai"
-  "00:50:23": "AMA Lulzsec"
-  "00:54:06": "Macron et la sécurité"
-  "00:59:00": "En bref, OWASP 2017 RC1"
-  "01:02:49": "Dossier sur Alternative Telecom"
+  - "00:01:50|Retour d'un auditeur, SwitHak, sur la conférence de l'ANSSI"
+  - "00:23:50|Certificate Authority Authorization"
+  - "00:27:38|ShadowBroker ont leaké les outils d'EquationGroup de la NSA"
+  - "00:32:32|Un hacker déclenche les sirènes d'une ville"
+  - "00:36:58|0Day Office utilisé dans la nature, attention aux pièces jointes!"
+  - "00:42:29|Brickerbot, le cousin de Mirai"
+  - "00:50:23|AMA Lulzsec"
+  - "00:54:06|Macron et la sécurité"
+  - "00:59:00|En bref, OWASP 2017 RC1"
+  - "01:02:49|Dossier sur Alternative Telecom"
 
 
 authors:

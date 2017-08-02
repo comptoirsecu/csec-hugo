@@ -30,12 +30,12 @@ authors:
   - youenn
 
 chaptermarks:
-  "00:03:03": "Présentation des Assises"
-  "00:09:20": "Interview de Guillaume Poupard"
-  "00:16:56": "Retour sur l'événement"
-  "00:33:15": "Interview du vainqueur du prix de l'innovation 2013 – Intralinks"
-  "00:53:58": " Interview du vainqueur du prix de l'innovation 2014 – IDECSI"
-  "01:09:07": "Musique de fin avec Datasette – Power Ballad"
+  - "00:03:03|Présentation des Assises"
+  - "00:09:20|Interview de Guillaume Poupard"
+  - "00:16:56|Retour sur l'événement"
+  - "00:33:15|Interview du vainqueur du prix de l'innovation 2013 – Intralinks"
+  - "00:53:58| Interview du vainqueur du prix de l'innovation 2014 – IDECSI"
+  - "01:09:07|Musique de fin avec Datasette – Power Ballad"
 
 guests:
   - guillaume_poupard

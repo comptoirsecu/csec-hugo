@@ -24,12 +24,12 @@ authors:
   - morgan
 
 chaptermarks:
-  "00:01:00": "Grosse fuite de donnée en Suède"
-  "00:12:00": "Hansa / AlphaBay"
-  "00:19:30": "Comment ne pas faire de la SSI avec BKK"
-  "00:24:56": "CopyKittens"
-  "00:29:05": "Orpheus Lyre"
-  "00:37:05": "Decouverte de la semaine: Briar"
+  - "00:01:00|Grosse fuite de donnée en Suède"
+  - "00:12:00|Hansa / AlphaBay"
+  - "00:19:30|Comment ne pas faire de la SSI avec BKK"
+  - "00:24:56|CopyKittens"
+  - "00:29:05|Orpheus Lyre"
+  - "00:37:05|Decouverte de la semaine: Briar"
 
 video: https://www.youtube.com/embed/0glcussnb18
 ---

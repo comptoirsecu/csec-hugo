@@ -85,8 +85,11 @@
             "description": "{{ $.Scratch.Get "description" }}",
         {{ with $.Page.Params.chaptermarks }}
             "chaptermarks": [
-              {{ range $start, $chapter :=  . }}
-              { "start": "{{ $start }}", "title": "{{ $chapter }}"},
+              {{ range  . }}
+                {{ $entry := split . "|" }}
+                {{ $start := index $entry 0 }}
+                {{ $chapter := index $entry 1 }}
+                { "start": "{{ $start }}", "title": "{{ $chapter }}"},
               {{ end }}
             ],
         {{ end }}

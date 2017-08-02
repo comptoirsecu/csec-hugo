@@ -41,11 +41,11 @@ authors:
   - youenn
 
 chaptermarks:
-  "00:02:24": "Début du dossier"
-  "00:23:55": "Pause Musicale avec Datasette – Music Fourteen"
-  "00:26:01": "Suite du dossier"
-  "00:55:55": "Outro"
-  "00:57:09": "Musique de fin avec Ella Fitzgerald - Stella By Starlight"
+  - "00:02:24|Début du dossier"
+  - "00:23:55|Pause Musicale avec Datasette – Music Fourteen"
+  - "00:26:01|Suite du dossier"
+  - "00:55:55|Outro"
+  - "00:57:09|Musique de fin avec Ella Fitzgerald - Stella By Starlight"
 
 
 songs:

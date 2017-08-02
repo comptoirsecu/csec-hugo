@@ -37,11 +37,11 @@ songs:
   - mrbill_soretro
 
 chaptermarks:
-  "00:01:48": "Les news du moment"
-  "00:42:30": "Dossier: Le BYOD"
-  "01:14:00": "Interlude musicale: L'été indien d'Alexandre Gagoug"
-  "01:16:20": "What's Next: Le BYOID"
-  "01:36:00": "Musique de fin avec So Retro de Mr Bill et the Algorithm"
+  - "00:01:48|Les news du moment"
+  - "00:42:30|Dossier: Le BYOD"
+  - "01:14:00|Interlude musicale: L'été indien d'Alexandre Gagoug"
+  - "01:16:20|What's Next: Le BYOID"
+  - "01:36:00|Musique de fin avec So Retro de Mr Bill et the Algorithm"
 ---
 
 Le numéro 17 est prêt pour vos oreilles. Suite au bon conseils de nos ami du [podgast](http://www.podgast.net/) nous avons fait un épisode spécial Suze !

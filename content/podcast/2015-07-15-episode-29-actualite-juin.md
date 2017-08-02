@@ -33,17 +33,17 @@ drinks:
   - la_demembree
 
 chaptermarks:
-  "00:02:10": "Amazon S2N"
-  "00:10:06": "AvTest"
-  "00:13:39": "Hacking Team"
-  "00:22:36": "Justicier numérique"
-  "00:24:23": "Aéroport de Varsovie"
-  "00:26:27": "SCPP"
-  "00:28:18": "Code de bonne conduite dans le cyberespace"
-  "00:29:30": "Animal Farm"
-  "00:30:45": "Pause musicale avec Moscow Youth Cult – Tenebris"
-  "00:32:30": "Retour sur les conférences"
-  "01:07:09": "Outro musical avec [Moscow Youth Cult – Trancers"
+  - "00:02:10|Amazon S2N"
+  - "00:10:06|AvTest"
+  - "00:13:39|Hacking Team"
+  - "00:22:36|Justicier numérique"
+  - "00:24:23|Aéroport de Varsovie"
+  - "00:26:27|SCPP"
+  - "00:28:18|Code de bonne conduite dans le cyberespace"
+  - "00:29:30|Animal Farm"
+  - "00:30:45|Pause musicale avec Moscow Youth Cult – Tenebris"
+  - "00:32:30|Retour sur les conférences"
+  - "01:07:09|Outro musical avec [Moscow Youth Cult – Trancers"
 
 songs:
   - moscowyouthcult_tenebris

@@ -41,11 +41,11 @@ songs:
   - goto80_heyhey
 
 chaptermarks:
-  "00:02:00": "Revue d'actualité"
-  "00:34:49": "Dossier sur les Darknets"
-  "01:22:41": "Une  pause musicale avec Miniroc – BitterBleeps"
-  "01:26:05": "What's Next : Les monnaies alternatives numériques"
-  "01:30:00": "Outro avec Goto80 – Hey Hey"
+  - "00:02:00|Revue d'actualité"
+  - "00:34:49|Dossier sur les Darknets"
+  - "01:22:41|Une  pause musicale avec Miniroc – BitterBleeps"
+  - "01:26:05|What's Next : Les monnaies alternatives numériques"
+  - "01:30:00|Outro avec Goto80 – Hey Hey"
 ---
 
 {{< chaptermarks >}}

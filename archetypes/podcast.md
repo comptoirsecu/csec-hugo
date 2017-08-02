@@ -19,7 +19,7 @@ authors:
   - lois
 
 chaptermarks:
-  "00:01:30": "Titre"
+  - "00:01:30|Titre"
 
 drinks:
   - delirium_nocturnum

@@ -44,11 +44,11 @@ drinks:
   - abbaye_velours
 
 chaptermarks:
-  "00:01:39": "Revue d'actualité"
-  "00:33:19": "Dossier SCADA par notre invité"
-  "01:07:59": "Pause musicale avec  Semiologist Feat. Lysergist"
-  "01:09:55": "What's Next: Les objets connectés"
-  "01:20:33": "Outro avec  Mitch Murder – Mute City"
+  - "00:01:39|Revue d'actualité"
+  - "00:33:19|Dossier SCADA par notre invité"
+  - "01:07:59|Pause musicale avec  Semiologist Feat. Lysergist"
+  - "01:09:55|What's Next: Les objets connectés"
+  - "01:20:33|Outro avec  Mitch Murder – Mute City"
 ---
 Bonne année à toutes et tous !
 

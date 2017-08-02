@@ -28,7 +28,7 @@ drinks:
 chaptermarks:
   "00:01:58": La rubrique news
   "00:20:27": Interlude musicale
-  "00:23:56": "Débat: Peut-on avoir encore confiance dans la cryptographie"
+  - "00:23:56|Débat: Peut-on avoir encore confiance dans la cryptographie"
   "00:56:03": Une interview d’un étudiant
 
 authors:

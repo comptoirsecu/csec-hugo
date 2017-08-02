@@ -41,11 +41,11 @@ songs:
   - cube_blipblop
 
 chaptermarks:
-  "00:01:47": "Revue d'actualité"
-  "00:26:53": "Dossier de l'invité sur l'identité numérique"
-  "01:10:25": "Une pause musicale avec Star Modele - Le matos (remix instrumental)"
-  "01:13:50": "What's Next: Les bitcoins"
-  "01:38:50": " La musique de fin avec !Cube – Blipblop Memories"
+  - "00:01:47|Revue d'actualité"
+  - "00:26:53|Dossier de l'invité sur l'identité numérique"
+  - "01:10:25|Une pause musicale avec Star Modele - Le matos (remix instrumental)"
+  - "01:13:50|What's Next: Les bitcoins"
+  - "01:38:50| La musique de fin avec !Cube – Blipblop Memories"
 ---
 Le premier podcast de Décembre est arrivé !
 

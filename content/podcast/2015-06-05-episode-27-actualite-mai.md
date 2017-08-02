@@ -27,16 +27,16 @@ authors:
   - youenn
 
 chaptermarks:
-  "00:02:03": "Le RSSI dont vous êtes le héros"
-  "00:06:55": "Logjam"
-  "00:15:43": "Ransomwares, mieux vaut perdre ses données ou son argent ?"
-  "00:24:03": "Affaire Krach.in"
-  "00:33:14": "Pause musical avec True Survivor (Champion Bootleg)"
-  "00:35:36": "Silk Road : Ross Ulbricht condamné à la prison à vie"
-  "00:38:03": "Stalking Facebook"
-  "00:46:17": "US Also Tried Stuxnet Against North Korea"
-  "00:51:43": "Hola le VPN qui te backdoor"
-  "01:01:03": "Outro musical avec One way love - Dance with the Dead"
+  - "00:02:03|Le RSSI dont vous êtes le héros"
+  - "00:06:55|Logjam"
+  - "00:15:43|Ransomwares, mieux vaut perdre ses données ou son argent ?"
+  - "00:24:03|Affaire Krach.in"
+  - "00:33:14|Pause musical avec True Survivor (Champion Bootleg)"
+  - "00:35:36|Silk Road : Ross Ulbricht condamné à la prison à vie"
+  - "00:38:03|Stalking Facebook"
+  - "00:46:17|US Also Tried Stuxnet Against North Korea"
+  - "00:51:43|Hola le VPN qui te backdoor"
+  - "01:01:03|Outro musical avec One way love - Dance with the Dead"
 
 drinks:
   - euphoria
