@@ -24,7 +24,7 @@ authors:
   - morgan
   - youenn
 
-title: "[Épisode 43] La sécurité dans le monde du jeu-vidéo - Partie 3 sur 3"
+title: "[Épisode 44] La sécurité dans le monde du jeu-vidéo - Partie 3 sur 3"
 
 drinks:
   - saint_stefanus
