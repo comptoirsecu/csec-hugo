@@ -6,16 +6,16 @@
 <meta property="og:image" content="{{ .Site.BaseURL }}{{ $imgprefix }}-medium.jpg" />
 <meta property="og:locale" content="fr_FR" />
 <meta property="og:site_name" content="Le Comptoir Sécu" />
-<meta property="og:description" content="{{ .Summary }}" />
+<meta property="og:description" content="{{ with .Params.subheadline }}{{ . }} : {{ end }}{{ .Summary }}" />
 {{ range .Params.tags }}
   <meta property="article:tag" content="{{ . }}" />
 {{ end }}
 <meta property="article:section" content="{{ .Section }}" />
-<meta property="article:published_time" content="{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" .Date}}" />
+<meta property="article:published_time" content="{{ dateFormat "2006-01-02T15:04:05-07:00" .Date}}" />
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="Le Comptoir Sécu" />
-<meta name="twitter:description" content="{{ .Summary }}" />
+<meta name="twitter:description" content="{{ with .Params.subheadline }}{{ . }} : {{ end }}{{ .Summary }}" />
 <meta name="twitter:title" content="{{ .Title }}" />
 <meta name="twitter:image" content="{{ .Site.BaseURL }}{{ $imgprefix }}-medium.jpg" />
 <meta name="twitter:creator" content="@comptoirsecu" />
