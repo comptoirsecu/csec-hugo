@@ -62,6 +62,18 @@ a { color: #3498DB; text-decoration: none;}
   background-size: 1.3em 1.3em;
   background-image: url("/images/logo-white.png");
 }
+.callout {
+  border: 3px solid grey;
+  padding: 0 0.5em 0.3em 0.5em;
+  margin: 0.5em;
+  color: white;
+  background-color: #3498DB;
+}
+.callout h5 {
+  font-size: 1.2em;
+  margin-bottom: 0;
+  margin-top: 0.2em;
+}
 </style>
 {{ if in .Params.categories "Podcast" }}
   <script async custom-element="amp-audio" src="https://cdn.ampproject.org/v0/amp-audio-0.1.js"></script>

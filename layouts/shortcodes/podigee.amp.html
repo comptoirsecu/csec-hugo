@@ -1,0 +1,17 @@
+{{- if .Get "file" -}}
+  {{ $.Scratch.Set "file" (.Get "file") }}
+{{- else if (.Get 0) -}}
+  {{ $.Scratch.Set "file" (.Get 0) }}
+{{- else if $.Page.Params.Podcast.File -}}
+  {{- $.Scratch.Set "file" $.Page.Params.Podcast.File -}}
+{{- else if $.Page.Params.Podcast.Feed -}}
+  {{- $.Scratch.Set "file" $.Page.Params.Podcast.Feed -}}
+{{- else -}}
+  {{- $.Scratch.Set "file" "" -}}
+{{- end -}}
+
+  <center><amp-audio width="300" height="50" src="{{ $.Scratch.Get "file" }}">
+    <div fallback>
+      <p>Désolé, votre navigateur ne supporte pas le lecteur audio HTML5</p>
+    </div>
+</amp-audio></center>

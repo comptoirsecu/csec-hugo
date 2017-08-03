@@ -6,7 +6,7 @@
         {{- $entry := split . "|" -}}
         {{- $start := index $entry 0 -}}
         {{- $chapter := index $entry 1 -}}
-        <li>{{ $chapter }} <strong><a href="#t={{$start | safeURL}}" onclick="location.reload()">({{$start}})</a></strong></li>
+        <li><i>({{$start}})</i> {{ $chapter }} </li>
         {{- end -}}
   </ul>
 </p>

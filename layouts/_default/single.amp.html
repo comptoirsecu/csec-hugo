@@ -42,14 +42,7 @@
     {{ end -}}
   </div>
 <div id="article">
-    {{ .Content | replaceRE "(?m)(?s:<script.+?</script>)" "" | replaceRE "<a href=\"#t=.+?\" onclick=\"location.reload\\(\\)\">(.+)</a>" "$1" | htmlUnescape | safeHTML }}
-    {{- with .Params.podcast.feed }}
-      <center><amp-audio width="300" height="50" src="{{ . }}">
-        <div fallback>
-          <p>Désolé, votre navigateur ne supporte pas le lecteur audio HTML5</p>
-        </div>
-    </amp-audio></center>
-    {{ end -}}
+    {{ .Content }}
 
 
   </div>
