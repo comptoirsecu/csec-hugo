@@ -7,7 +7,7 @@ publisher: comptoirsecu
 
 aliases: /2016/03/sequana-crue-de-seine-jour-7-debut-de-la-decrue/
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS19.2016-03-15.CRUE2016_07.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.HS19.2016-03-15.CRUE2016_07.mp3
 
 views: 1816
 image: /images/covers/2016-03-jet-seine-1.jpg

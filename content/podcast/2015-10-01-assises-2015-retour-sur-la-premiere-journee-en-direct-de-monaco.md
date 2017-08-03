@@ -8,7 +8,7 @@ publisher: comptoirsecu
 
 aliases: /2015/10/assises-2015-retour-sur-la-premiere-journee-en-direct-de-monaco/
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS06.2015-10-01.ASSISES2015_JOUR1.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.HS06.2015-10-01.ASSISES2015_JOUR1.mp3
 views: 2025
 image: /images/covers/2015-10-assies-com.jpg
 categories:

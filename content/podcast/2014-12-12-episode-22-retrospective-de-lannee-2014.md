@@ -7,7 +7,7 @@ publisher: comptoirsecu
 
 aliases: /2014/12/episode-22-retrospective-de-lannee-2014/
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP22.2014-11-03.RETROSPECTIVE_2014.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP22.2014-11-03.RETROSPECTIVE_2014.mp3
 views: 7705
 
 image: /images/covers/2014-12-tech-trends-2014.jpg

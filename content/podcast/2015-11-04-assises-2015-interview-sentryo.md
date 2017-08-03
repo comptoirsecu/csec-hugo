@@ -8,7 +8,7 @@ publisher: comptoirsecu
 aliases: /2015/11/assises-2015-interview-sentryo/
 views: 1771
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.INTERVIEWS_ASSISES.2015.LAURENT_HAUSERMANN.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.INTERVIEWS_ASSISES.2015.LAURENT_HAUSERMANN.mp3
 categories:
   - Podcast
   - Hors-Serie

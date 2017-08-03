@@ -7,7 +7,7 @@ date: 2017-02-13T00:00:00+00:00
 
 aliases: /2017/02/seclair-02-leffacement-securise/
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS35.2017-02-13.SEClair_Effacement_Securise.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.HS35.2017-02-13.SEClair_Effacement_Securise.mp3
 image: /images/covers/2017-02-SEClair-02-Effacement-securise-vignette-lowres-v2.jpg
 categories:
   - Podcast

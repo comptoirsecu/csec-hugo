@@ -7,7 +7,7 @@ date: 2017-01-22T00:00:00+00:00
 
 aliases: /2017/01/sec-hebdo-janvier-2017-1-trufflehog-ransomware-mongodb-autocompletion-et-backdoor-whatsapp/
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS31.2016-01-22.SECHebdo_Janv_2017-1.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.HS31.2016-01-22.SECHebdo_Janv_2017-1.mp3
 image: /images/covers/2017-01-SECHebdo-Jan-2017-1-vignette.jpg
 categories:
   - Podcast

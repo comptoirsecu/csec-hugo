@@ -6,7 +6,7 @@ publisher: comptoirsecu
 
 aliases: /2016/07/episode-38-lanonymat/
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP38.2016-07-11.ANONYMAT.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP38.2016-07-11.ANONYMAT.mp3
 views: 3983
 image: /images/covers/2016-07-anonymat.jpg
 categories:

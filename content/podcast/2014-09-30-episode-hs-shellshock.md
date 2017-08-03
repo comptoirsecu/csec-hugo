@@ -8,7 +8,7 @@ publisher: comptoirsecu
 aliases: /2014/09/episode-hs-shellshock/
 views: 5179
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS02.2014-09-30.SHELLSHOCK.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.HS02.2014-09-30.SHELLSHOCK.mp3
 image: /images/covers/2014-09-SS_Logo_edited-1.jpg
 categories:
   - Podcast

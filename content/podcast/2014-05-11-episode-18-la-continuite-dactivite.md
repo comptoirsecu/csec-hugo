@@ -8,7 +8,7 @@ publisher: comptoirsecu
 aliases: /2014/05/episode-18-la-continuite-dactivite/
 views: 3854
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP18.2014-05-10.PCA.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP18.2014-05-10.PCA.mp3
 image: /images/covers/2014-05-46602302.jpg
 categories:
   - Podcast

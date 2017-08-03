@@ -5,7 +5,7 @@ date: 2013-10-20T21:16:10+00:00
 publisher: comptoirsecu
 
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP06.2013-10-20.USER_FRIENDLY.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP06.2013-10-20.USER_FRIENDLY.mp3
 aliases: /2013/10/episode-6-user-friendly-madame-michu-google-cars/
 views: 1946
 

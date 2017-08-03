@@ -8,7 +8,7 @@ publisher: comptoirsecu
 aliases: /2014/09/episode-20-fssi-maidsafe-et-jennifer-lawrence/
 views: 4364
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP20.2014-09-24.FSSI.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP20.2014-09-24.FSSI.mp3
 image: /images/covers/2014-09-015.jpg
 categories:
   - Podcast

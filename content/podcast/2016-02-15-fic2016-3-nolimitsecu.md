@@ -7,7 +7,7 @@ publisher: comptoirsecu
 
 aliases: /2016/02/fic2016-3-nolimitsecu/
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS11.2016-01-25.FIC2016.NoLimit_S%c3%a9cu.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.HS11.2016-01-25.FIC2016.NoLimit_S%c3%a9cu.mp3
 views: 1439
 image: /images/covers/2016-02-Capture.jpg
 categories:

@@ -7,7 +7,7 @@ publisher: comptoirsecu
 
 aliases: /2013/12/episode-10-ou-lon-etudie-les-cameras-de-surveillance-et-le-li-fi/
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP10.2013-12-22.CAMERA.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP10.2013-12-22.CAMERA.mp3
 views: 5898
 image: /images/covers/2013-12-TEASER.EP101.jpg
 categories:

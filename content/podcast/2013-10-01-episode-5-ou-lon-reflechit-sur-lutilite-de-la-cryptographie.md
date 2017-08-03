@@ -6,7 +6,7 @@ date: 2013-10-01T00:00:00+00:00
 aliases: /2013/10/episode-5-ou-lon-reflechit-sur-lutilite-de-la-cryptographie/
 
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP05.2013-09-27.CRYPTOGRAPHIE.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP05.2013-09-27.CRYPTOGRAPHIE.mp3
 
 categories:
   - Podcast

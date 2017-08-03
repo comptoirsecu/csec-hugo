@@ -7,7 +7,7 @@ publisher: comptoirsecu
 
 aliases: /2015/12/episode-34-actualite-de-decembre/
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP34.2015-12-29.ACTU_DECEMBRE.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP34.2015-12-29.ACTU_DECEMBRE.mp3
 views: 2088
 image: /images/covers/2015-12-decembre-final.jpg
 categories:

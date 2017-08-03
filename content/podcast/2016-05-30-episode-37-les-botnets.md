@@ -7,7 +7,7 @@ publisher: comptoirsecu
 
 aliases: /2016/05/episode-37-les-botnets/
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP37.2016-05-23.BOTNETS.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP37.2016-05-23.BOTNETS.mp3
 views: 3284
 image: /images/covers/2016-05-botnet.jpg
 categories:

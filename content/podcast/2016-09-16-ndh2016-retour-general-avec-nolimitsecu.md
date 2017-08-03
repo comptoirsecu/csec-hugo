@@ -6,7 +6,7 @@ publisher: comptoirsecu
 
 aliases: /2016/09/ndh2016-retour-general-avec-nolimitsecu/
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS27.2016-07-02.NDH2k16_NoLimitSecu.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.HS27.2016-07-02.NDH2k16_NoLimitSecu.mp3
 views: 1164
 image: /images/covers/2016-09-ndh2k16.jpg
 categories:

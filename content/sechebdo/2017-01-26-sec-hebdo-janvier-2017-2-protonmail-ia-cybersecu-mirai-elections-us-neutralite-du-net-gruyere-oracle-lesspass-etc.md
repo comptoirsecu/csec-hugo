@@ -8,7 +8,7 @@ video: "3CVMKBpkcs4"
 
 aliases: /2017/01/sec-hebdo-janvier-2017-2-protonmail-ia-cybersecu-mirai-elections-us-neutralite-du-net-gruyere-oracle-lesspass-etc/
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS32.2016-01-25.SECHebdo_Janv_2017-2.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.HS32.2016-01-25.SECHebdo_Janv_2017-2.mp3
 image: /images/covers/2017-01-2017-01-25-20-13-50-vignette.jpg
 categories:
   - Podcast

@@ -9,7 +9,7 @@ publisher: comptoirsecu
 aliases: /2016/10/assises2016-interview-de-cryptosense-prix-de-linnovation-et-sentryo-gagnant-2015/
 views: 1040
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.INTERVIEWS_ASSISES.2016.PRIX_INNOVATION.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.INTERVIEWS_ASSISES.2016.PRIX_INNOVATION.mp3
 image: /images/covers/2016-10-assises2016.jpg
 categories:
   - Podcast

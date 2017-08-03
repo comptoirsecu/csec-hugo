@@ -7,7 +7,7 @@ publisher: comptoirsecu
 aliases: /2015/04/episode-25-actualite-mars/
 views: 5824
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP25.2015-04-06.ACTU_MARS2015.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP25.2015-04-06.ACTU_MARS2015.mp3
 image: /images/covers/2015-04-sony-northkorea-hack.jpg
 categories:
   - Podcast

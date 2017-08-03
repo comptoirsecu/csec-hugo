@@ -6,7 +6,7 @@ aliases: /2017/07/sechebdo-18-juillet-2017-ntlm-relay-cisco-webex-google-2fa-tos
 date: 2017-07-18
 image:  /images/covers/2017-07-18.jpg
 podcast:
-    feed: https://media.blubrry.com/comptoirsecu/s/podcast.comptoirsecu.fr/CSEC.SECHebdo.2017-07-18.mp3
+    feed: https://podcast.comptoirsecu.fr/CSEC.SECHebdo.2017-07-18.mp3
     description: "SECHebdo est une revue de l'actualité cybersécurité réalisé en live sur Youtube, généralement le mardi soir."
 categories:
  - Podcast

@@ -7,7 +7,7 @@ publisher: comptoirsecu
 
 aliases: /2014/01/episode-12-ou-lon-parle-des-darknets-et-des-alt-coins/
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP12.2014-01-24.DARKNETS.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP12.2014-01-24.DARKNETS.mp3
 views: 6872
 
 image: /images/covers/2014-01-tor_browser_logo_by_j_bob-d5gjqrq.jpg

@@ -8,7 +8,7 @@ publisher: comptoirsecu
 aliases: /2016/03/sequana-crue-de-seine-jour-2-edifications-partir-ou-rester/
 views: 2027
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS15.2016-03-08.CRUE2016_02.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.HS15.2016-03-08.CRUE2016_02.mp3
 image: /images/covers/2016-03-les-berges-de-la-seine-a-paris_4030743.jpg
 categories:
   - Podcast

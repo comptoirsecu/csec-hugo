@@ -34,11 +34,11 @@
     {{ end -}}
     {{ .Content | replaceRE "(?m)(?s:<script.+?</script>)" "" | htmlUnescape | safeHTML }}
     {{- with .Params.podcast.feed }}
-      <amp-audio width="400" height="50" src="{{ . }}">
+      <center><amp-audio width="300" height="50" src="{{ . }}">
         <div fallback>
           <p>Désolé, votre navigateur ne supporte pas le lecteur audio HTML5</p>
         </div>
-    </amp-audio>
+    </amp-audio></center>
     {{ end -}}
   </div>
   </body>

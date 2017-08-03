@@ -5,7 +5,7 @@ publisher:
 date: {{ dateFormat "2006-01-02" .Date }}
 image:  /images/covers/{{ dateFormat "2006-01-02" .Date }}.jpg
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/filename.mp3
+  feed: https://podcast.comptoirsecu.fr/filename.mp3
 categories:
   - SEClair
   - SECompris

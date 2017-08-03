@@ -8,7 +8,7 @@ publisher: comptoirsecu
 
 aliases: /2015/03/episode-hs-interviews-hexatrust-exportation/
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS05.2015-03-10.SUITE_INTERVIEW_ASSISES.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.HS05.2015-03-10.SUITE_INTERVIEW_ASSISES.mp3
 views: 5873
 
 image: /images/covers/2015-03-Logo_hexatrust2.jpg

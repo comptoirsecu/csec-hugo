@@ -9,7 +9,7 @@ publisher: comptoirsecu
 aliases: /2014/11/episode-21-ebola-la-gestion-des-pandemies-en-entreprise/
 views: 6066
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP21.2014-11-03.PANDEMIE_EBOLA.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP21.2014-11-03.PANDEMIE_EBOLA.mp3
 image: /images/covers/2014-11-o-EBOLA-VIRUS-facebook.jpg
 categories:
   - Podcast
