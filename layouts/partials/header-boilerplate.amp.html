@@ -19,7 +19,7 @@ body { background-color: #ECF0F1; color: #0a0a0a;
   overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; hyphens: auto; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 #article { padding: 0em 1em 0 1em; }
-#headings { background-color: #0a0a0a; font-family: 'Roboto Slab', Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;}
+#headings { background-color: #0a0a0a; font-family: 'Roboto Slab', Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; padding-top: 0.3em;}
 #headings h1 { color: #ECF0F1; padding-left: 0.5em; padding-right: 0.5em;}
 h1 {font-size: 1.2em; }
 h2 { font-size: 1.1em; }
@@ -32,6 +32,36 @@ a { color: #3498DB; text-decoration: none;}
 #metadatas { background-color: #d7dadb; color: #8a8a8a; font-size: 0.8em; padding: 0.2em 0.5em 0.2em 0.5em;}
 #metadatas a { color: #E74C3C; }
 #metadatas .tags  { display: none; }
+.hero-section-text {
+  color: white;
+  text-shadow: 1px 1px 2px #000;
+}
+.hero-section-text h1 {
+  font-size: 2em;
+  margin-bottom: 0;
+}
+.hero-section-text h5 {
+  margin-top: 0;
+  font-size: 1em;
+}
+.hero-section {
+  background: url("/images/hero-blue.jpg") 50% no-repeat;
+  background-size: cover;
+  height: 25vh;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  padding-left: 5%;
+}
+.logo {
+  display: inline-block;
+  width: 1.3em;
+  height: 1.3em;
+  margin-right: 0.3em;
+  background-size: 1.3em 1.3em;
+  background-image: url("/images/logo-white.png");
+}
 </style>
 {{ if in .Params.categories "Podcast" }}
   <script async custom-element="amp-audio" src="https://cdn.ampproject.org/v0/amp-audio-0.1.js"></script>

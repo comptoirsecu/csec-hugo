@@ -13,9 +13,18 @@
 
   </head>
   <body>
+          <a href="{{ .Site.BaseURL }}">
+    <div class="hero-section">
+
+      <div class="hero-section-text">
+        <h1><i class="logo"></i><strong>Le Comptoir Sécu</strong></h1>
+        <h5>Parlons cybersécurité...autour d'un verre!</h5>
+      </div>
+
+    </div>
+        </a>
     <div id="headings">
-    <a href="{{ .Site.BaseURL }}">
-    <amp-img src="/images/header.jpg" alt="Le Comptoir Sécu" height="196" width="1024" layout="responsive"></amp-img></a>
+
     <h1>{{ .Title }}</h1>
     {{- with .Params.subheadline }}
     <h2 class="subheadline">{{ . }}</h2>
