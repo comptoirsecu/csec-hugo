@@ -2,13 +2,15 @@
 <html amp lang="fr">
   <head>
     <meta charset="utf-8">
-    <script async src="https://cdn.ampproject.org/v0.js"></script>
     <title>Hello, AMPs</title>
     {{ with  .OutputFormats.Get "HTML" -}}
     <link rel="canonical" href="{{ .Permalink }}">
     {{- end }}
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    {{ partial "meta-social.html" . }}
     {{ partial "header-boilerplate.amp.html" . }}
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+
   </head>
   <body>
     <div id="headings">
@@ -43,5 +45,20 @@
 
   </div>
   {{ partial "metadata.html" . }}
+  <amp-analytics type="googleanalytics">
+<script type="application/json">
+{
+  "vars": {
+    "account": "{{ .Site.Params.GoogleAnalyticsID }}"
+  },
+  "triggers": {
+    "trackPageview": {
+      "on": "visible",
+      "request": "pageview"
+    }
+  }
+}
+</script>
+</amp-analytics>
   </body>
 </html>
