@@ -15,14 +15,23 @@
 
 
 <style amp-custom>
-#article { padding: 1em; background-color: #ECF0F1; color: #0a0a0a;}
+body { background-color: #ECF0F1; color: #0a0a0a;
+  overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; hyphens: auto; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+#article { padding: 0em 1em 0 1em; }
+#headings { background-color: #0a0a0a; font-family: 'Roboto Slab', Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;}
+#headings h1 { color: #ECF0F1; padding-left: 0.5em; padding-right: 0.5em;}
 h1 {font-size: 1.2em; }
 h2 { font-size: 1.1em; }
 h3 { font-size: 1em; }
 h4 { font-size: 0.9em; }
 h5 { font-size: 0.8em; }
 h6 { font-size: 0.7em; }
-.subheadline { font-size: 0.9em; color: #5a5a5a; }
+a { color: #3498DB; text-decoration: none;}
+.subheadline { font-size: 0.9em; color: #cacaca; padding-left: 0.8em; padding-right: 0.5em;}
+#metadatas { background-color: #d7dadb; color: #8a8a8a; font-size: 0.8em; padding: 0.2em 0.5em 0.2em 0.5em;}
+#metadatas a { color: #E74C3C; }
+#metadatas .tags  { display: none; }
 </style>
 {{ if in .Params.categories "Podcast" }}
   <script async custom-element="amp-audio" src="https://cdn.ampproject.org/v0/amp-audio-0.1.js"></script>

@@ -49,7 +49,7 @@
   {{ end }}
   {{ with .Params.tags }}
   {{ $len := len . }}
-  <p><i class="fa fa-tag"></i> Tags:  {{ range $i, $tag := . }}
+  <p class="tags"><i class="fa fa-tag"></i> Tags:  {{ range $i, $tag := . }}
             <span class="label"><a href="/tags/{{ $tag | urlize}}">{{ $tag }}</a></span>
             {{ end }}
   </p>
