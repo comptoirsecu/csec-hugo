@@ -491,7 +491,7 @@ thead { color: $carmin; }
     justify-content: space-between;
     align-items: baseline;
     .bio {
-      @include breakpoint(medium) { margin-left: 1.5em; }
+      @include breakpoint(medium) { margin-left: 1em; }
       @include breakpoint(small only) {
         flex: 1 100%;
         text-align: center;
