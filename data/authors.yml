@@ -24,6 +24,7 @@ comptoirsecu:
   twitter: "@comptoirsecu"
   image: comptoirsecu.jpg
   youtube: UCF-ljS9G2ABgsN7P83WDFhQ
+  staff: true
 
 justin:
     description: >
@@ -34,6 +35,7 @@ justin:
     youtube: 'UCe-0FAoHZyDLPMLHnYAuXsw'
     image: justin-ganivet.jpg
     linkedin: https://www.linkedin.com/company-beta/3578276/
+    staff: true
 
 lois:
     description: >
@@ -43,6 +45,7 @@ lois:
     twitter: "@lsamain"
     linkedin: https://www.linkedin.com/in/lsamain
     image: lois-samain.jpg
+    staff: true
 
 morgan:
     description: >
@@ -52,6 +55,7 @@ morgan:
     twitter: "@morganhotonnier"
     linkedin: https://www.linkedin.com/in/morganhotonnier
     image: morgan-hotonnier.jpg
+    staff: true
 
 
 youenn:
@@ -62,6 +66,7 @@ youenn:
     twitter: "@schematicwizard"
     uri: 'http://ypiolet.fr'
     image: youenn-piolet.jpg
+    staff: true
 
 simon:
     description: >
@@ -69,3 +74,12 @@ simon:
     name: Simon Lacoste
     linkedin: 'simonlacoste'
     image: simon-lacoste.jpg
+    staff: true
+    inactive: true
+
+swithak:
+  name: SwitHak
+  description: "Professionnel de la sécurité informatique, passionné par tout ce qui touche directement et indirectement à ce domaine : Législations (nationales et internationales), logiciels malveillants, actualités, vie privée, géopolitique, etc."
+  twitter: SwitHak
+  uri: https://swithak.github.io/
+  image: swithak.jpg

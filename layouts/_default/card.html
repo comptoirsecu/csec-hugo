@@ -24,6 +24,14 @@
     {{ if ne .Section "sechebdo" }}
     <h6 class="subheader">{{ .Params.subheadline }}</h6>
     {{ end }}
+    {{ if eq .Section "blog" }}
+      {{ if .Params.Publisher }}
+        {{ $publisher := index .Site.Data.authors .Params.publisher }}
+        <p class="community-author"><a href="/authors/#{{.Params.publisher}}">{{ $publisher.name }}</a></p>
+      {{ else }}
+        par <a href="/authors/comptoirsecu">l'équipe du Comptoir Sécu</a>
+      {{ end }}
+    {{ end }}
   </header>
 
   <main class="card-section">
