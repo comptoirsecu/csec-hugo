@@ -444,7 +444,7 @@ $card-border-bottom-size: 5px;
     border-bottom-color: #6c6c74;
 }
 
-
+.blog-section .authors a { color: $teal; }
 .sechebdo-section {
   border-bottom-width: $card-border-bottom-size;
   border-bottom-color: #d6b486;
@@ -483,7 +483,7 @@ $card-border-bottom-size: 5px;
 thead { color: $carmin; }
 
 
-#about-author {
+.about-author {
   .bio-social-container {
     display: flex;
     flex-direction: row;

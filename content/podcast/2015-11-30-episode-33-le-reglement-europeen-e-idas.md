@@ -2,7 +2,7 @@
 
 title: "[Épisode 33] Le réglement européen eIDAS"
 date: 2015-11-30T08:30:34+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2015/11/episode-33-le-reglement-europeen-e-idas/

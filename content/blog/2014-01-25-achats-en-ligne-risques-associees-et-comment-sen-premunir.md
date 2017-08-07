@@ -2,7 +2,8 @@
 
 title: "Achats en ligne : Risques associées et comment s’en prémunir"
 date: 2014-01-25T09:30:14+00:00
-publisher: morgan
+authors:
+ - morgan
 
 
 aliases: /2014/01/achats-en-ligne-risques-associees-et-comment-sen-premunir/

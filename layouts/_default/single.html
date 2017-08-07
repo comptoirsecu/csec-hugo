@@ -16,12 +16,15 @@
           <h5 class="subheader">{{ . }}</h5>
         {{ end }}
         {{ if eq .Section "blog" }}
-          {{ if .Params.Publisher }}
-            {{ $publisher := index .Site.Data.authors .Params.publisher }}
-            <p class="community-author"><span class="label secondary"><i class="fa fa-users"></i> blog communautaire</span> Publié par <a href="/authors/#{{.Params.publisher}}">{{ $publisher.name }}</a> </p>
-          {{ else }}
-            par <a href="/authors/comptoirsecu">l'équipe du Comptoir Sécu</a>
+        {{ if .Params.Authors }}
+          {{ $len := sub (len .Params.Authors) 1  }}
+          {{ range $i, $a :=  .Params.Authors }}
+            {{ $author := index $.Site.Data.authors $a }}
+             <a href="/authors/{{$a}}/#{{$a}}">{{ if ne $author.staff true }}<span class="label secondary"><i class="fa fa-users"></i></span> {{ end }}{{ $author.name }}</a>{{ if lt $i (sub $len 1) }}, {{ else }}{{ if lt $i $len }} et {{ end }}{{ end }}
           {{ end }}
+        {{ else }}
+          par <a href="/authors/comptoirsecu">l'équipe du Comptoir Sécu</a>
+        {{ end }}
         {{ end }}
       </header>
       {{ if or (eq .Section "video") (eq .Section "sechebdo") }}

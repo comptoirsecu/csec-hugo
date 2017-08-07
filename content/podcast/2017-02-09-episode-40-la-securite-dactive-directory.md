@@ -2,7 +2,7 @@
 
 title: "[Épisode 40] La sécurité d'Active Directory"
 subheadline: "Si l'AD est compromis, c'est Game Over"
-publisher: comptoirsecu
+
 date: 2017-02-09T00:00:00+00:00
 
 aliases: /2017/02/episode-40-la-securite-dactive-directory/

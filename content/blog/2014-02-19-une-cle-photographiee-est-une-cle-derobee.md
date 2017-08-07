@@ -2,7 +2,8 @@
 
 title: "Une clé photographiée est une clé dérobée"
 date: 2014-02-19T11:28:23+00:00
-publisher: morgan
+authors:
+ - morgan
 
 
 aliases: /2014/02/une-cle-photographiee-est-une-cle-derobee/

@@ -2,7 +2,8 @@
 
 title: "Les français sont-ils vraiment prêts à abandonner leur vie privée ?"
 date: 2014-02-26T09:25:38+00:00
-publisher: morgan
+authors:
+ - morgan
 
 
 aliases: /2014/02/les-francais-sont-ils-vraiment-prets-a-abandonner-leur-vie-privee/

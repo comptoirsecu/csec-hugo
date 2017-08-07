@@ -2,7 +2,7 @@
 
 title: "[Épisode 11] SCADA, objets connectés"
 date: 2014-01-14T10:00:13+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2014/01/episode-11-ou-lon-parle-de-scada-et-des-objets-connectes/

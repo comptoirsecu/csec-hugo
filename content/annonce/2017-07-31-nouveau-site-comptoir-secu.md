@@ -1,12 +1,18 @@
 ---
 title: "Bienvenue sur le nouveau site du Comptoir Sécu!"
 subheadline: "Au menu: JAMStack avec Hugo, Netlify, Foundation, etc."
-publisher: morgan
+authors:
+ - morgan
 date: 2017-07-31
-categories:
- - annonce
- - blog
- - site
+tags:
+  - JAMStack
+  - Hugo
+  - Netlify
+  - Foundation
+  - ISSO
+  - Podigee
+  - Gulp
+  - 
 ---
 Nous vous l'avons "teasé" depuis des semaines, pour ne pas dire des mois, enfin, le voilà : la nouvelle version de notre site internet!
 

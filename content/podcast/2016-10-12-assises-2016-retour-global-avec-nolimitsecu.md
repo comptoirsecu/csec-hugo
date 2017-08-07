@@ -2,7 +2,7 @@
 
 title: "Assises 2016 : Retour global avec NoLimitSécu"
 date: 2016-10-12T21:40:50+00:00
-publisher: comptoirsecu
+
 
 aliases: /2016/10/assises-2016-retour-global-avec-nolimitsecu/
 podcast:

@@ -2,7 +2,7 @@
 
 title: "[FIC2016] 2  – Jérémie Zimmermann – Nicolas Diaz"
 date: 2016-02-08T08:49:58+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2016/02/fic2016-2-jeremie-zimmermann-nicolas-diaz/

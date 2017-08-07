@@ -2,7 +2,8 @@
 
 title: "Facebook se met à l’authentification forte"
 date: 2013-12-09T09:30:51+00:00
-publisher: morgan
+authors:
+ - morgan
 
 
 aliases: /2013/12/facebook-se-met-a-lauthentification-forte/

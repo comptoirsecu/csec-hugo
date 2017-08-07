@@ -2,7 +2,7 @@
 
 title: "[Sequana] Crue de Seine – Jour 3 –  Mettre à l’abri l’essentiel"
 date: 2016-03-09T09:00:58+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2016/03/sequana-crue-de-seine-jour-3-mettre-a-labri-lessentiel/

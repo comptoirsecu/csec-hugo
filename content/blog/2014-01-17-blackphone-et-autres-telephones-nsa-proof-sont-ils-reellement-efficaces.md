@@ -2,7 +2,8 @@
 
 title: "Blackphone et autres téléphones 'NSA-proof' : Sont-ils réellement efficaces ?"
 date: 2014-01-17T09:30:19+00:00
-publisher: morgan
+authors:
+ - morgan
 
 
 aliases: /2014/01/blackphone-et-autres-telephones-nsa-proof-sont-ils-reellement-efficaces/

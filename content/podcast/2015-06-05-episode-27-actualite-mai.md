@@ -1,7 +1,7 @@
 ---
 title: "[Épisode 27] Actualité Mai"
 date: 2015-06-05T09:43:11+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2015/06/episode-27-actualite-mai/

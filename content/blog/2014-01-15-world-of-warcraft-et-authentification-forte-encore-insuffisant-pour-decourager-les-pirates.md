@@ -2,7 +2,8 @@
 
 title: "World of Warcraft et authentification forte : encore insuffisant pour décourager les pirates"
 date: 2014-01-15T13:30:50+00:00
-publisher: morgan
+authors:
+ - morgan
 
 
 aliases: /2014/01/world-of-warcraft-et-authentification-forte-encore-insuffisant-pour-decourager-les-pirates/
@@ -29,7 +30,7 @@ Comment est-ce possible ? Voici le cheminement :
   6. Pendant ce temps le malware à mis un code erroné dans la fenêtre de WoW et vous avez donc une erreur au moment du login.
   7. Vous ressayez plusieurs fois, pensant faire une erreur de frappe, le malware continue de changer le code, l’authentification ne marche pas, vous pensez avoir un problème avec votre compte.
   8. Pendant ce temps l’attaquant vide votre inventaire et surtout vos précieuses pièces d’or
-  
+
 L’exemple est tiré de l’article, mais peut être adapté pour voler le code que vous recevez par votre banque par SMS lorsque vous faites un paiement 3DSecure.
 
 Pour mitiger ce type d’attaque, il faut que le second facteur soit envoyé à minima par un autre équipement, le mieux étant qu’il soit carrément envoyé depuis un autre canal de communication. Par là j’entends, s’il est envoyé par deux ordinateurs différents, mais que les deux utilisent la même connexion réseau, un man-in-the-middle reste envisageable.

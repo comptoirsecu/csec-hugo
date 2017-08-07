@@ -2,7 +2,8 @@
 
 title: "3 étapes pour mieux préserver sa vie privée"
 date: 2014-01-30T09:30:41+00:00
-publisher: morgan
+authors:
+ - morgan
 
 
 aliases: /2014/01/3-etapes-pour-mieux-preserver-sa-vie-privee/

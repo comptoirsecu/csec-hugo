@@ -2,7 +2,8 @@
 
 title: "Sécurité Bitcoin : Introduction"
 date: 2014-01-09T09:30:54+00:00
-publisher: morgan
+authors:
+ - morgan
 
 
 aliases: /2014/01/securite-bitcoin-1-introduction/

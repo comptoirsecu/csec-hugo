@@ -2,7 +2,8 @@
 
 title: "Coinbase nous expose ses nouvelles mesures de sécurité"
 date: 2014-01-16T09:30:51+00:00
-publisher: morgan
+authors:
+ - morgan
 
 
 aliases: /2014/01/coinbase-nous-expose-ses-nouvelles-mesures-de-securite/

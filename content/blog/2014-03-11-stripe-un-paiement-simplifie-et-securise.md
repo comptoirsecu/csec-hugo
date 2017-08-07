@@ -2,7 +2,8 @@
 
 title: "Stripe, Un paiement simplifié et sécurisé ?"
 date: 2014-03-11T20:49:27+00:00
-publisher: justin
+authors:
+ - justin
 
 
 aliases: /2014/03/stripe-un-paiement-simplifie-et-securise/

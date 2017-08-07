@@ -2,7 +2,8 @@
 
 title: "SafePlug : Ai-je pensé à activer Tor ?"
 date: 2013-12-10T09:30:32+00:00
-publisher: morgan
+authors:
+ - morgan
 
 
 aliases: /2013/12/safeplug-ai-je-pense-a-activer-tor/

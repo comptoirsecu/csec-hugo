@@ -1,7 +1,7 @@
 ---
 title: '[SECHebdo] 25 Juillet 2017'
 subheadline: "AlphaBay, Hansa, Orpheus Lyre, Briar, etc."
-publisher: comptoirsecu
+
 date: 2017-07-25
 image:  /images/covers/2017-07-25.jpg
 podcast:

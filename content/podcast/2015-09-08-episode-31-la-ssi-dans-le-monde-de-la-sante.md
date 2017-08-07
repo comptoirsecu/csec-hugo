@@ -2,7 +2,7 @@
 
 title: "[Épisode 31] La SSI dans le monde de la santé"
 date: 2015-09-08T20:12:26+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2015/09/episode-31-la-ssi-dans-le-monde-de-la-sante/

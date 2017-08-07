@@ -2,7 +2,8 @@
 
 title: "Metapapier, bloquez WiFi et GSM avec un papier peint !"
 date: 2014-02-14T09:25:45+00:00
-publisher: morgan
+authors:
+ - morgan
 
 
 aliases: /2014/02/metapapier-bloquez-wifi-et-gsm-avec-un-papier-peint/

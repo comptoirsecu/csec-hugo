@@ -2,7 +2,8 @@
 
 title: "Sécurité et full disclosure, doit-on tout dévoiler ?"
 date: 2014-01-23T20:30:58+00:00
-publisher: morgan
+authors:
+ - morgan
 subheadline: Quand la communication responsable ne fonctionne plus, un cas d’école avec SnapChat
 
 aliases: /2014/01/securite-et-full-disclosure-doit-on-tout-devoiler/

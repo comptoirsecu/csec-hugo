@@ -14,9 +14,13 @@
   </p>
 
   {{ if eq .Section "blog"}}
-    {{ with .Params.publisher }}
-      {{ $publisher := index $.Site.Data.authors . }}
-      {{ partial "metadata-about-author.html" (dict "key" . "value" $publisher "site" $.Site) }}
+    {{ with .Params.authors }}
+      <h5>À propos de l'auteur :</h5>
+      {{ $len := sub (len .) 1  }}
+      {{ range $i, $a :=  . }}
+        {{ $author := index $.Site.Data.authors $a }}
+        {{ partial "metadata-about-author.html" (dict "key" $a "value" $author "site" $.Site) }}
+      {{ end }}
     {{ end }}
   {{ else }}
     {{ with .Params.authors }}

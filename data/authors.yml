@@ -21,7 +21,7 @@ comptoirsecu:
   description: "Fondateurs de l'association Le Comptoir Sécu"
   uri: http://www.comptoirsecu.fr/
   email: contact@comptoirsecu.fr
-  twitter: "@comptoirsecu"
+  twitter: "comptoirsecu"
   image: comptoirsecu.jpg
   youtube: UCF-ljS9G2ABgsN7P83WDFhQ
   staff: true
@@ -32,7 +32,7 @@ justin:
         Co-fondateur et président de l'association Le Comptoir Sécu
     email: justin@comptoirsecu.fr
     name: Justin Ganivet
-    twitter: "@izura"
+    twitter: "izura"
     youtube: 'UCe-0FAoHZyDLPMLHnYAuXsw'
     youtube_name: "Le Point Sécu"
     image: justin-ganivet.jpg
@@ -45,7 +45,7 @@ lois:
         Co-fondateur et secrétaire de l'association Le Comptoir Sécu
     email: lois@comptoirsecu.fr
     name: Loïs Samain
-    twitter: "@lsamain"
+    twitter: "lsamain"
     linkedin: https://www.linkedin.com/in/lsamain
     image: lois-samain.jpg
     staff: true
@@ -56,7 +56,7 @@ morgan:
         Co-fondateur et vice-président de l'association Le Comptoir Sécu
     email: morgan@comptoirsecu.fr
     name: Morgan Hotonnier
-    twitter: "@morganhotonnier"
+    twitter: "morganhotonnier"
     linkedin: https://www.linkedin.com/in/morganhotonnier
     image: morgan-hotonnier.jpg
     staff: true
@@ -67,7 +67,7 @@ youenn:
         Sondier et trésorier de l'association Le Comptoir Sécu
     email: youenn@comptoirsecu.fr
     name: Youenn Piolet
-    twitter: "@schematicwizard"
+    twitter: "schematicwizard"
     uri: 'http://ypiolet.fr'
     image: youenn-piolet.jpg
     staff: true

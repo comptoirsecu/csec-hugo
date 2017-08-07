@@ -2,7 +2,8 @@
 
 title: "SECompris : Les One Time Passwords, ou 'tokens'"
 date: 2014-03-13T09:25:05+00:00
-publisher: morgan
+authors:
+ - morgan
 
 
 aliases: /2014/03/secompris-1-les-one-time-passwords-ou-tokens/

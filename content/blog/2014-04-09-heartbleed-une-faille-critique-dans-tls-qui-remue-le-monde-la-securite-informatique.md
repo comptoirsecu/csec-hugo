@@ -2,7 +2,8 @@
 
 title: "Heartbleed: une faille critique dans OpenSSL qui remue le monde de la sécurité informatique"
 date: 2014-04-09T13:44:55+00:00
-publisher: justin
+authors:
+ - justin
 
 
 aliases: /2014/04/heartbleed-une-faille-critique-dans-tls-qui-remue-le-monde-la-securite-informatique/

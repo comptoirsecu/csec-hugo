@@ -2,7 +2,7 @@
 
 title: "[Épisode 41] Le SIEM & le SOC"
 
-publisher: comptoirsecu
+
 date: 2017-03-22T00:00:00+00:00
 
 aliases: /2017/03/episode-41-le-siem-le-soc/

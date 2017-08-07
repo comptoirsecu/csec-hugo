@@ -2,8 +2,8 @@
 
 title: "CAPTCHAs publicitaires : Adblock ne pourra rien pour vous !"
 date: 2014-02-21T09:25:36+00:00
-publisher: morgan
-
+authors:
+ - morgan
 
 aliases: /2014/02/captchas-publicitaires-adblock-ne-pourra-rien-pour-vous/
 views: 2092

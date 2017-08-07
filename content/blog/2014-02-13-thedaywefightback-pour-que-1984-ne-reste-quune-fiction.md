@@ -2,7 +2,8 @@
 
 title: "TheDayWeFightBack, Pour que 1984 ne reste qu'une fiction"
 date: 2014-02-13T09:25:13+00:00
-publisher: morgan
+authors:
+ - morgan
 
 
 aliases: /2014/02/thedaywefightback-pour-que-1984-ne-reste-quune-fiction/

@@ -2,7 +2,8 @@
 
 title: "Vulnérabilité critique découverte dans Flash, ça faisait longtemps... non je plaisante !"
 date: 2014-02-06T09:25:13+00:00
-publisher: morgan
+authors:
+ - morgan
 
 
 aliases: /2014/02/vulnerabilite-critique-decouverte-dans-flash-ca-faisait-longtemps-non-je-plaisante/

@@ -1,12 +1,11 @@
 ---
 title: "Ouverture du blog communautaire!"
 subheadline: "Nous profitons de la nouvelle architecture du site facilitant les contributions pour vous tendre la plume. Tous à vos pull-requests!"
-publisher: comptoirsecu
+authors:
+ - morgan
 date: 2017-08-09
 image:  /images/covers/2017-08-09.jpg
-categories:
- - annonce
- - blog
+
 ---
 
 Comme expliqué dans l'article [annonçant la création du nouveau site](/annonce/bienvenue-sur-le-nouveau-site-du-comptoir-sécu/), l'intégralité du code source est désormais publiquement disponible sur Github. Cela signifie que vous pouvez lancer une copie du site chez nous et contribuer, par l'intermédiaire des [pull requests](https://blog.zenika.com/2017/01/24/pull-request-demystifie/), à son amélioration.

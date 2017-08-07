@@ -1,7 +1,8 @@
 ---
 title: "NameTag : Souriez, vous êtes identifié !"
 date: 2014-01-14T17:30:16+00:00
-publisher: morgan
+authors:
+ - morgan
 
 
 aliases: /2014/01/nametag-souriez-vous-etes-identifie/

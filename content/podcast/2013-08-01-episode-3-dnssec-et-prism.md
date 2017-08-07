@@ -1,7 +1,7 @@
 ---
 title: "[Épisode 3] DNSSEC et PRISM"
 subheadline: "Présentation du protocole DNSSEC par un expert"
-publisher: comptoirsecu
+
 date: 2013-08-01T00:00:00+00:00
 
 aliases: /2013/08/episode-3-dnssec-et-prism/

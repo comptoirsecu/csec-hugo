@@ -2,8 +2,8 @@
 
 title: "Découvrez le Nymi : L’authentification par électrocardiogramme !"
 date: 2013-12-11T09:30:05+00:00
-publisher: morgan
-
+authors:
+ - morgan
 
 aliases: /2013/12/decouvrez-le-nymi-lauthentification-par-electrocardiogramme/
 views: 665

@@ -3,7 +3,7 @@
 title: "Nuit du Hack 2016 - 3 : Sécurité du protocole Zigbee"
 subheadline: Interview de Renaud Lifchitz
 date: 2016-09-16T19:26:26+00:00
-publisher: comptoirsecu
+
 
 aliases: /2016/09/ndh2016-3-securite-du-protocole-zigbee-avec-renaud-lifchitz/
 podcast:

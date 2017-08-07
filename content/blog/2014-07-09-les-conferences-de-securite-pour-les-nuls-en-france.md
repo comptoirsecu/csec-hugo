@@ -2,7 +2,8 @@
 
 title: "Les conférences de Sécurité pour les Nuls (en France)"
 date: 2014-07-09T18:30:29+00:00
-publisher: lois
+authors:
+ - lois
 
 
 aliases: /2014/07/les-conferences-de-securite-pour-les-nuls-en-france/

@@ -2,7 +2,8 @@
 
 title: "Voitures intelligentes, la surveillance augmente, pour la sécurité on repassera"
 date: 2014-02-20T10:35:16+00:00
-publisher: morgan
+authors:
+ - morgan
 
 
 aliases: /2014/02/voitures-intelligentes-la-surveillance-augmente-pour-la-securite-on-repassera/

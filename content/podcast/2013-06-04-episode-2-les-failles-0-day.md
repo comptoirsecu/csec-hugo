@@ -1,6 +1,6 @@
 ---
 title: "[Épisode 2] Les failles 0 day"
-publisher: comptoirsecu
+
 date: 2013-06-04T00:00:00+00:00
 
 aliases: /2013/06/podcast-episode-2-les-failles-0-day/

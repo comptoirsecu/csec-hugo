@@ -2,7 +2,7 @@
 
 title: "Nuit du Hack 2016 : Retour général avec NoLimitSecu"
 date: 2016-09-16T19:36:51+00:00
-publisher: comptoirsecu
+
 
 aliases: /2016/09/ndh2016-retour-general-avec-nolimitsecu/
 podcast:

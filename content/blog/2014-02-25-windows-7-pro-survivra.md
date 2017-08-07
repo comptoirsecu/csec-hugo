@@ -2,7 +2,8 @@
 
 title: "Windows 7 pro survivra"
 date: 2014-02-25T09:46:19+00:00
-publisher: justin
+authors:
+ - justin
 
 
 aliases: /2014/02/windows-7-pro-survivra/

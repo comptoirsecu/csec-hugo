@@ -2,7 +2,8 @@
 
 title: "La fin du bitcoin ?"
 date: 2014-03-04T10:00:05+00:00
-publisher: justin
+authors:
+ - justin
 
 
 aliases: /2014/03/la-fin-du-bitcoin/
