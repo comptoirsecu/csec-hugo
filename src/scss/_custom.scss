@@ -191,7 +191,7 @@ hyphens: auto;
   }
 }
 
-#annonce, #live {
+.annonce, #live {
   h1, h2, h3, h4, h5, h6 {
     color: $carmin;
   }
@@ -202,6 +202,10 @@ hyphens: auto;
   .label.secondary {
     color: $white;
   }
+}
+
+.annonce-old {
+  h1, h2, h3, h4, h5, h6, a { color: $black; margin-bottom: 0; }
 }
 
 .callout.warning a {
@@ -470,3 +474,5 @@ $card-border-bottom-size: 5px;
 .community-author a { color: $teal; }
 
 .label.disabled { background-color: $dark-gray; }
+
+.annonce-old .label { margin-left: 0.7em; }
