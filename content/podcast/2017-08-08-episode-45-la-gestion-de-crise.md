@@ -1,11 +1,11 @@
 ---
 title: "[Épisode 45] La gestion de crise"
-subheadline: "Avec un RETEX sur un exercice de gestion de crise SSI sur toute la Polynésie française"
+subheadline: "RETEX sur un exercice de gestion de crise SSI touchant toute la Polynésie française"
 publisher: comptoirsecu
 date: 2017-08-08
 image:  /images/covers/gestion_crise.jpg
 podcast:
-  feed: https://podcast.comptoirsecu.fr/FILE.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP45.2017-08-07.MAITRISE_DU_RISQUE.mp3
 
 draft: true
 
@@ -35,11 +35,17 @@ songs:
 
 ---
 
-Dans ce 45ème épisode, nous avons la chance de retrouver Vincent Balouet pour nous parler de gestion de crise.
+Pour ce 45ème épisode, nous avons eu la chance de retrouver Vincent Balouet pour
+échanger sur la gestion de crise.
 
-Il a organisé en 2017, avec le soutien du Haut Commissariat de la Polynésie Française, un exercice de gestion de crise et de coordination mixte Public/Privé sur le thème de l’éventualité d’une Cyber-attaque touchant une partie significative des infrastructures informatiques de la Polynésie, durant 2 jours et une nuit.
+En 2017, avec le soutien du Haut Commissariat de la Polynésie Française, Vincent
+a organisé un exercice de gestion de crise et de coordination mixte Public/Privé.
+Le thème : l’éventualité d’une cyber-attaque touchant une partie significative
+des infrastructures informatiques de la Polynésie, durant 2 jours et une nuit.
 
-Dans la première partie de l'émission, nous avons donc échangé sur le gestion de crise de façon générique et sur la seconde partie, un retour d'expérience sur l'exercice.
+Dans la première partie de l'émission, nous échangeons sur la gestion de crise
+via une approche générique. En seconde partie, Vincent nous apporte son retour
+d'expérience sur l'exercice.
 
 Bonne écoute !
 
