@@ -27,7 +27,11 @@
     {{ if eq .Section "blog" }}
       {{ if .Params.Publisher }}
         {{ $publisher := index .Site.Data.authors .Params.publisher }}
+        {{ if $publisher.staff }}
         <p class="community-author"><a href="/authors/#{{.Params.publisher}}">{{ $publisher.name }}</a></p>
+        {{ else  }}
+        <p class="community-author"><span class="label secondary"><i class="fa fa-users"></i></span><a href="/authors/#{{.Params.publisher}}"> {{ $publisher.name }}</a></p>
+        {{ end }}
       {{ else }}
         par <a href="/authors/comptoirsecu">l'équipe du Comptoir Sécu</a>
       {{ end }}
