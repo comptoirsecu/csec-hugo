@@ -271,13 +271,4 @@ Webographie :
 
 -   [*https://www.cyberscoop.com/wannacry-monero-bitcoin/*](https://www.cyberscoop.com/wannacry-monero-bitcoin/)
 
-A propos de l’auteur
-
-Professionnel de la sécurité informatique, passionné par tout ce qui
-touche directement et indirectement à ce domaine : Législations
-(nationales et internationales), logiciels malveillants, actualités, vie
-privée, géopolitique, etc.
-
-***[@SwitHak](https://twitter.com/SwitHak/)***
-
 # Carte finale des transactions

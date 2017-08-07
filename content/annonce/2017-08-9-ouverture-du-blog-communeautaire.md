@@ -36,6 +36,6 @@ Le principe est simple: il vous est maintenant possible de soumettre des article
 
 Nous ne demandons aucune contrepartie à la publication, vous êtes tout à fait libre de poster votre article à d'autres endroits, comme votre blog personnel, qui sera référencé si vous le souhaitez sur votre fiche contributeur. Si cela peut en motiver certains, nous réfléchissons aussi à ajouter un status spécial contributeur à notre canal Discord ;).
 
-Afin d'inaugurer cette nouvelle approche, un fidèle "pilier de bar", Swithak, alias Mii, nous a fait le plaisir de fournir un récent articles de retour sur #Wannacry.
+Afin d'inaugurer cette nouvelle approche, un fidèle "pilier de bar", Swithak, alias Mii, nous a fait le plaisir de fournir un récent article de retour sur  [#Wannacry - Mais où sont partis les bitcoins ? ](/blog/2017-08-08-wannacry-mais-ou-sont-partis-les-bitcoins/).
 
 Nous esperons que vous serez nombreux à tenter l'aventure et contribuer à la vie de ce nouveau blog communautaire. N'hésitez pas à venir nous contacter sur Discord si vous souhaitez de l'aide pour votre pull-request, notamment sur la mise en page de votre article et les illustrations. Nous ferons bientôt un billet pour expliquer plus en détails la procédure à suivre.

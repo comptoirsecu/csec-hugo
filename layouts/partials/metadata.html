@@ -3,16 +3,21 @@
     {{ if .Params.date }}
       le {{ dateFormat "02/01/2006" .Params.date }}
     {{ end }}
-    {{ if .Params.Publisher }}
-      {{ $publisher := index .Site.Data.authors .Params.publisher }}
-      par <a href="/authors/#{{.Params.publisher}}">{{ $publisher.name }}</a>
-    {{ else }}
-      par <a href="/authors/comptoirsecu">l'équipe du Comptoir Sécu</a>
+    {{ if ne .Section "blog" }}
+      {{ if .Params.Publisher }}
+        {{ $publisher := index .Site.Data.authors .Params.publisher }}
+        par <a href="/authors/#{{.Params.publisher}}">{{ $publisher.name }}</a>
+      {{ else }}
+        par <a href="/authors/comptoirsecu">l'équipe du Comptoir Sécu</a>
+      {{ end }}
     {{ end }}
   </p>
 
   {{ if eq .Section "blog"}}
-    <h5>À propos de l'auteur</h5>
+    {{ with .Params.publisher }}
+      {{ $publisher := index $.Site.Data.authors . }}
+      {{ partial "metadata-about-author.html" (dict "key" . "value" $publisher "site" $.Site) }}
+    {{ end }}
   {{ else }}
     {{ with .Params.authors }}
       <p><i class="fa fa-user"></i> Contributeurs:
