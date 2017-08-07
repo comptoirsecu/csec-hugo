@@ -16,8 +16,8 @@
           {{ if .HasChildren }}
           <ul class="vertical menu">
             {{ range .Children }}
-            <li>
-              <a href="{{ .URL }}">{{ .Name }}</a>
+            <li {{ if eq .Name "Blog communeautaire" }}id="menu-highlight"{{end}}>
+              <a href="{{ .URL }}" >{{ .Name }}</a>
             </li>
             {{ end }}
           </ul>

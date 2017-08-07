@@ -458,3 +458,15 @@ $card-border-bottom-size: 5px;
 .poc-category {
     border-bottom-color: #3dbb7e;
 }
+
+
+#menu-highlight {
+  background-color: $carmin !important;
+  a { color: white !important; }
+
+}
+.community .label { color: $white;}
+
+.community-author a { color: $teal; }
+
+.label.disabled { background-color: $dark-gray; }

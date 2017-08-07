@@ -14,7 +14,11 @@
           {{ if eq .Title "Videos"}}
             Vidéos
           {{else}}
-            {{ .Title  | humanize | pluralize }}
+            {{ if eq .Title "Blogs" }}
+              Blog communeautaire du Comptoir
+            {{ else }}
+              {{ .Title  | humanize | pluralize }}
+            {{ end }}
           {{end}}
         {{end}}
       {{end}}</h2>
