@@ -11,7 +11,6 @@ tags:
   - ISSO
   - Podigee
   - Gulp
-  -
 ---
 Nous vous l'avons "teasé" depuis des semaines, pour ne pas dire des mois, enfin, le voilà : la nouvelle version de notre site internet!
 
