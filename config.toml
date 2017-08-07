@@ -85,7 +85,7 @@ guest = "guests"
           identifier = "annonce"
           url = "/annonce/"
       [[menu.left]]
-          name= "Blog communeautaire"
+          name= "Blog communautaire"
           parent = "blog"
           weight = 22
           identifier = "article"

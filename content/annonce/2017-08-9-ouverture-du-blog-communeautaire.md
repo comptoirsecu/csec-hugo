@@ -1,5 +1,5 @@
 ---
-title: "Ouverture du blog communeautaire!"
+title: "Ouverture du blog communautaire!"
 subheadline: "Nous profitons de la nouvelle architecture du site facilitant les contributions pour vous tendre la plume. Tous à vos pull-requests!"
 publisher: comptoirsecu
 date: 2017-08-09
@@ -28,14 +28,14 @@ Mais je m'égare, ce billet est la pour vous annoncer un autre type de collabora
 
 Les plus anciens d'entre vous se souviennent sûrement de notre période "presse écrite". En plus des contenus audio, nous produisions aussi des articles publiés sur notre site. Il faut avouer que nous n'avons pas écrit depuis un bon bout de temps, non pas par manque d'intérêt, mais tout simplement parce que cela prend du temps et que nous avions préféré nous concentré sur notre activité principale: les podcasts.
 
-Toujours à la recherche de nouveaux moyens de renforcer la communeauté du Comptoir Sécu en vous donnant les moyens de vous exprimer et de contribuer à l'aventure, nous avons donc décidé de reconvertir notre ancienne section "article" en un [blog communeautaire](/blog/)!
+Toujours à la recherche de nouveaux moyens de renforcer la communeauté du Comptoir Sécu en vous donnant les moyens de vous exprimer et de contribuer à l'aventure, nous avons donc décidé de reconvertir notre ancienne section "article" en un [blog communautaire](/blog/)!
 
-![Blog communeautaire](/images/misc/2017-08-09-blog-communeautaire.jpg)
+![Blog communautaire](/images/misc/2017-08-09-blog-communautaire.jpg)
 
-Le principe est simple: il vous est maintenant possible de soumettre des articles par l'intermédiaire d'un pull-request. Nous ferons office de "comité éditorial", pour nous assurer que le contenu rentre dans nos thématiques. Le contenu validé sera publié sur le site dans la section [blog communeautaire](/blog), et apparaîtra dans notre [flux rss global](/feed/all.xml). L'auteur sera clairement affiché en entête de l'affiche et sera présent dans notre registre des [contributeurs](/authors/).
+Le principe est simple: il vous est maintenant possible de soumettre des articles par l'intermédiaire d'un pull-request. Nous ferons office de "comité éditorial", pour nous assurer que le contenu rentre dans nos thématiques. Le contenu validé sera publié sur le site dans la section [blog communautaire](/blog), et apparaîtra dans notre [flux rss global](/feed/all.xml). L'auteur sera clairement affiché en entête de l'affiche et sera présent dans notre registre des [contributeurs](/authors/).
 
 Nous ne demandons aucune contrepartie à la publication, vous êtes tout à fait libre de poster votre article à d'autres endroits, comme votre blog personnel, qui sera référencé si vous le souhaitez sur votre fiche contributeur. Si cela peut en motiver certains, nous réfléchissons aussi à ajouter un status spécial contributeur à notre canal Discord ;).
 
 Afin d'inaugurer cette nouvelle approche, un fidèle "pilier de bar", Swithak, alias Mii, nous a fait le plaisir de fournir un récent articles de retour sur #Wannacry.
 
-Nous esperons que vous serez nombreux à tenter l'aventure et contribuer à la vie de ce nouveau blog communeautaire. N'hésitez pas à venir nous contacter sur Discord si vous souhaitez de l'aide pour votre pull-request, notamment sur la mise en page de votre article et les illustrations. Nous ferons bientôt un billet pour expliquer plus en détails la procédure à suivre.
+Nous esperons que vous serez nombreux à tenter l'aventure et contribuer à la vie de ce nouveau blog communautaire. N'hésitez pas à venir nous contacter sur Discord si vous souhaitez de l'aide pour votre pull-request, notamment sur la mise en page de votre article et les illustrations. Nous ferons bientôt un billet pour expliquer plus en détails la procédure à suivre.
