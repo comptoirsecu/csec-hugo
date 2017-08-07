@@ -1,7 +1,7 @@
 ---
 
 title: "Venez échanger avec nous sur Discord!"
-
+subheadline: "Vous pouvez désormais venir discuter avec nous, à l'oral comme à l'écrit, sur http://discord.comptoirsecu.fr"
 publisher: morgan
 date: 2017-03-06T00:00:00+00:00
 
