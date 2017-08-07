@@ -1,8 +1,7 @@
 ---
 title: "Ouverture du blog communautaire!"
 subheadline: "Nous profitons de la nouvelle architecture du site facilitant les contributions pour vous tendre la plume. Tous à vos pull-requests!"
-authors:
- - morgan
+publisher: morgan
 date: 2017-08-09
 image:  /images/covers/2017-08-09.jpg
 
@@ -27,7 +26,7 @@ Mais je m'égare, ce billet est la pour vous annoncer un autre type de collabora
 
 Les plus anciens d'entre vous se souviennent sûrement de notre période "presse écrite". En plus des contenus audio, nous produisions aussi des articles publiés sur notre site. Il faut avouer que nous n'avons pas écrit depuis un bon bout de temps, non pas par manque d'intérêt, mais tout simplement parce que cela prend du temps et que nous avions préféré nous concentré sur notre activité principale: les podcasts.
 
-Toujours à la recherche de nouveaux moyens de renforcer la communeauté du Comptoir Sécu en vous donnant les moyens de vous exprimer et de contribuer à l'aventure, nous avons donc décidé de reconvertir notre ancienne section "article" en un [blog communautaire](/blog/)!
+Toujours à la recherche de nouveaux moyens de renforcer la communauté du Comptoir Sécu en vous donnant les moyens de vous exprimer et de contribuer à l'aventure, nous avons donc décidé de reconvertir notre ancienne section "article" en un [blog communautaire](/blog/)!
 
 ![Blog communautaire](/images/misc/2017-08-09-blog-communautaire.jpg)
 

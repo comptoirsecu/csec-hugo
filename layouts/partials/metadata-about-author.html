@@ -6,7 +6,7 @@
     <!--user info name, bio and location-->
     <section class="bio-social-container">
       <div class="bio">
-        <h4>{{ .value.name }}</h4>
+        <h4>{{ .value.name }} {{ if .value.staff }}<span class="label"><i class="fa fa-beer"></i> Staff</span>{{ else }}<span class="label secondary"><i class="fa fa-users"></i> communauté</span>{{ end }}</h4>
       </div>
       <!--card's socail icons-->
       <div class="social">

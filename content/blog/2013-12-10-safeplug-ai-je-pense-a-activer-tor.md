@@ -15,7 +15,7 @@ tags:
   - SafePlug
   - Tor
 ---
-Non ce n'est pas le dernier sextoy à la mode dans la communeauté SSI ! Safeplug est [un "pont tor" pour $49](http://gigaom.com/2013/11/21/say-hello-to-safeplug-pogoplugs-49-tor-in-a-box-for-anonymous-surfing/).
+Non ce n'est pas le dernier sextoy à la mode dans la communauté SSI ! Safeplug est [un "pont tor" pour $49](http://gigaom.com/2013/11/21/say-hello-to-safeplug-pogoplugs-49-tor-in-a-box-for-anonymous-surfing/).
 
 ![safeplug](/images/misc/2014-01-safeplug_620px.jpg)
 

@@ -2,7 +2,6 @@
 title: "Wannacry, mais où sont donc partis les Bitcoins?"
 authors:
   - swithak
-  - morgan
 date: 2017-08-08
 image:
 categories:

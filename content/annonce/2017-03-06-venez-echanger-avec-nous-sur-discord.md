@@ -2,8 +2,7 @@
 
 title: "Venez échanger avec nous sur Discord!"
 subheadline: "Vous pouvez désormais venir discuter avec nous, à l'oral comme à l'écrit, sur http://discord.comptoirsecu.fr"
-authors:
- - morgan
+publisher: morgan
 date: 2017-03-06T00:00:00+00:00
 
 aliases: /2017/03/venez-echanger-avec-nous-sur-discord/
