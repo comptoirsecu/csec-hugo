@@ -1,5 +1,5 @@
 <article class="card {{ .Section }}-section {{ range .Params.Categories }} {{. | lower }}-category{{end}}" style="height: 100%;">
-    <a href="{{ .Permalink }}">
+    <a href="{{ .URL }}">
       {{ $img := or .Params.image "/images/covers/default.jpg" }}
       {{ $imgprefix := substr $img 0 -4 }}
       <picture>
@@ -20,7 +20,7 @@
       </picture>
     </a>
   <header class="card-divider">
-    <h5><a href="{{ .Permalink }}">{{ .Title }}</a></h5>
+    <h5><a href="{{ .URL }}">{{ .Title }}</a></h5>
     {{ if ne .Section "sechebdo" }}
     <h6 class="subheader">{{ .Params.subheadline }}</h6>
     {{ end }}

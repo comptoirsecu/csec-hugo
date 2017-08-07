@@ -4,7 +4,7 @@
 <div class="row align-middle t1">
   <div class="show-for-medium medium-1 align-justify align-middle column">
     {{if .PrevInSection}}
-      <a href="{{.PrevInSection.Permalink}}" class="button expanded hollow"><i class="fa fa-chevron-left"></i></a>
+      <a href="{{.PrevInSection.URL}}" class="button expanded hollow"><i class="fa fa-chevron-left"></i></a>
     {{end}}
   </div>
 
@@ -42,19 +42,19 @@
 
   <div class="show-for-medium medium-1 align-justify column">
     {{if .NextInSection }}
-      <a href="{{.NextInSection.Permalink}}" class="button expanded hollow"><i class="fa fa-chevron-right"></i></a>
+      <a href="{{.NextInSection.URL}}" class="button expanded hollow"><i class="fa fa-chevron-right"></i></a>
     {{end}}
   </div>
 </div>
 <div class="row align-center">
   <div class="small-6 medium-5 column">
     {{if .PrevInSection}}
-    <center><a href="{{.PrevInSection.Permalink}}" class="button expanded hollow"><i class="fa fa-arrow-left"></i></a></center>
+    <center><a href="{{.PrevInSection.URL}}" class="button expanded hollow"><i class="fa fa-arrow-left"></i></a></center>
     {{end}}
   </div>
   <div class="small-6 medium-5 column">
     {{if .NextInSection}}
-    <center><a href="{{.NextInSection.Permalink}}" class="button expanded hollow"><i class="fa fa-arrow-right"></i></a></center>
+    <center><a href="{{.NextInSection.URL}}" class="button expanded hollow"><i class="fa fa-arrow-right"></i></a></center>
     {{end}}
   </div>
 </div>
