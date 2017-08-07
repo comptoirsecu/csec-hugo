@@ -14,10 +14,10 @@
   <div class="card-section card-bio">
     <h4>{{ .value.name }}</h4>
     {{ if ne .value.name "Équipe du ComptoirSécu" }}
-      {{ if .value.inactive }}
-      <span class="label disabled"><i class="fa fa-volume-off"></i> Inactif</span>
-      {{ else }}
+      {{ if .value.active }}
       <span class="label"><i class="fa fa-volume-up"></i> Actif</span>
+      {{ else }}
+      <span class="label disabled"><i class="fa fa-volume-off"></i> Inactif</span>
       {{ end }}
     {{ end }}
   </div>

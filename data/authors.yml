@@ -25,6 +25,7 @@ comptoirsecu:
   image: comptoirsecu.jpg
   youtube: UCF-ljS9G2ABgsN7P83WDFhQ
   staff: true
+  active: true
 
 justin:
     description: >
@@ -36,6 +37,7 @@ justin:
     image: justin-ganivet.jpg
     linkedin: https://www.linkedin.com/company-beta/3578276/
     staff: true
+    active: true
 
 lois:
     description: >
@@ -46,6 +48,7 @@ lois:
     linkedin: https://www.linkedin.com/in/lsamain
     image: lois-samain.jpg
     staff: true
+    active: true
 
 morgan:
     description: >
@@ -56,7 +59,7 @@ morgan:
     linkedin: https://www.linkedin.com/in/morganhotonnier
     image: morgan-hotonnier.jpg
     staff: true
-
+    active: true
 
 youenn:
     description: >
@@ -67,6 +70,7 @@ youenn:
     uri: 'http://ypiolet.fr'
     image: youenn-piolet.jpg
     staff: true
+    active: true
 
 simon:
     description: >
@@ -75,7 +79,7 @@ simon:
     linkedin: 'simonlacoste'
     image: simon-lacoste.jpg
     staff: true
-    inactive: true
+    active: false
 
 swithak:
   name: SwitHak

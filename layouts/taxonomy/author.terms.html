@@ -5,7 +5,16 @@
     <h2 class="text-center">L'équipe Comptoir Sécu</h2>
     <div class="row small-up-1 medium-up-2 large-up-3 align-left">
       {{ range $key, $value :=  .Site.Data.authors }}
-        {{ if  $value.staff }}
+        {{ if  (and $value.staff $value.active) }}
+        <div class="column column-block">
+          {{ partial "author.html" (dict "key" $key "value" $value "site" $.Site) }}
+        </div>
+        {{ end }}
+
+      {{ end }}
+
+      {{ range $key, $value :=  .Site.Data.authors }}
+        {{ if  (and $value.staff (eq $value.active false)) }}
         <div class="column column-block">
           {{ partial "author.html" (dict "key" $key "value" $value "site" $.Site) }}
         </div>
