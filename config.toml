@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://www.comptoirsecu.fr"
 languageCode = "fr-FR"
 title = "Le Comptoir Sécu"
 MetaDataFormat = "yaml"
