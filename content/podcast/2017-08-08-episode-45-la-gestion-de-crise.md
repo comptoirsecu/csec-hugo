@@ -12,6 +12,7 @@ draft: true
 categories:
   - Podcast
   - Emission
+
 tags:
   - gestion de crise
   - Polynésie française
@@ -24,7 +25,9 @@ authors:
   - lois
 
 drinks:
-  - delirium_nocturnum
+  - pietra_bionda
+  - grimbergen_blonde
+  - pilsner_urquell
 
 guests:
   - vincent_balouet
