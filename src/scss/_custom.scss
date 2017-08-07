@@ -130,7 +130,7 @@ hyphens: auto;
   padding: 2em 10% 4em 10%;
 }
 
-#metadatas
+.card-divider.metadatas
 {
   background-color: $metadata-background-color;
   color: $metadata-color;
@@ -138,6 +138,7 @@ hyphens: auto;
     color: $metadata-link-color;
   }
   .label a { color: $white; }
+  h5 { color: $dark-gray;}
 }
 
 .round-avatar {
@@ -469,10 +470,13 @@ $card-border-bottom-size: 5px;
   a { color: white !important; }
 
 }
-.community .label { color: $white;}
 
 .community-author a { color: $teal; }
 
 .label.disabled { background-color: $dark-gray; }
 
 .annonce-old .label { margin-left: 0.7em; }
+
+.label.secondary { color: $white; }
+
+thead { color: $carmin; }
