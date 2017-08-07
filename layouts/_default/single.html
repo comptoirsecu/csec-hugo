@@ -15,6 +15,14 @@
         {{ with .Params.subheadline }}
           <h5 class="subheader">{{ . }}</h5>
         {{ end }}
+        {{ if eq .Section "blog" }}
+          {{ if .Params.Publisher }}
+            {{ $publisher := index .Site.Data.authors .Params.publisher }}
+            <p class="community-author"><span class="label secondary"><i class="fa fa-users"></i> blog communeautaire</span> Publié par <a href="/authors/#{{.Params.publisher}}">{{ $publisher.name }}</a> </p>
+          {{ else }}
+            par <a href="/authors/comptoirsecu">l'équipe du Comptoir Sécu</a>
+          {{ end }}
+        {{ end }}
       </header>
       {{ if or (eq .Section "video") (eq .Section "sechebdo") }}
         <div class="responsive-embed widescreen">
