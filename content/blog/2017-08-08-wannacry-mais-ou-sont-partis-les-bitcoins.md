@@ -13,7 +13,6 @@ tags:
   - Bitcoin
   - Ransomware
   - Blanchiment
-draft: true
 ---
 
 # Genèse de l’histoire
