@@ -36,7 +36,9 @@ Nous venons de tourner le quatrième SEC Hebdo du mois de février 2017 en Live!
 
 {{< podigee >}}
 
-{% include alert alert='Suite à un problème technique (noise gate un peu trop violente), la voix de Morgan est parfois entrecoupée de courts silences. nous ne pouvons malheureusement rien y faire a posteriori. Nous ferons en sorte de régler le souci pour le prochain enregistrement.' %}
+{{< warning >}}
+Suite à un problème technique (noise gate un peu trop violente), la voix de Morgan est parfois entrecoupée de courts silences. nous ne pouvons malheureusement rien y faire a posteriori. Nous ferons en sorte de régler le souci pour le prochain enregistrement.
+{{< /warning >}}
 
 
 A bientôt pour d'autres émissions/podcasts!
