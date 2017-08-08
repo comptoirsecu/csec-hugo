@@ -7,7 +7,7 @@ image:  /images/covers/2017-08-09.jpg
 
 ---
 
-Comme expliqué dans l'article [annonçant la création du nouveau site](/annonce/bienvenue-sur-le-nouveau-site-du-comptoir-sécu/), l'intégralité du code source est désormais publiquement disponible sur Github. Cela signifie que vous pouvez lancer une copie du site chez nous et contribuer, par l'intermédiaire des [pull requests](https://blog.zenika.com/2017/01/24/pull-request-demystifie/), à son amélioration.
+Comme expliqué dans l'article [annonçant la création du nouveau site](/annonce/bienvenue-sur-le-nouveau-site-du-comptoir-sécu/), l'intégralité du code source est désormais publiquement disponible sur Github. Cela signifie que vous pouvez lancer une copie du site chez vous et contribuer, par l'intermédiaire des [pull requests](https://blog.zenika.com/2017/01/24/pull-request-demystifie/), à son amélioration.
 
 Nous avons d'ailleurs quelques ["soucis"](https://github.com/comptoirsecu/csec-hugo/issues) qui ne demandent qu'à être résolus ;).
 
