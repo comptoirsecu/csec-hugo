@@ -37,9 +37,7 @@ De nombreuses victimes ont payé cette rançon, mais n’ont pas reçu le
 précieux sésame permettant de déchiffrer leurs données.
 
 Si vous voulez en savoir plus sur WannaCry, j’ai déjà publié un gros
-article dessus disponible à cette adresse :
-
-[*https://swithak.github.io/*](https://swithak.github.io/)
+article dessus disponible sur [*https://swithak.github.io/*](https://swithak.github.io/)
 
 # Les Bitcoins des victimes
 
@@ -152,7 +150,8 @@ contrôles automatiques pour les transactions de montants élevés.
 
 Appliqué aux Bitcoins, ça ressemble dans notre cas à :
 
-Figure 1: Portefeuilles BTC WannaCry, 20170308@8h00
+{{< img src="Wallets_BTC_WannaCry-Date_20170308-Time_08H00.png" desc="Figure 1: Portefeuilles BTC WannaCry, 20170308@8h00" >}}
+
 
 Premier niveau, on voit trois portefeuilles où se trouvent les Bitcoins.
 Deuxième niveau, ils transfèrent l’intégralité de ces trois
@@ -179,14 +178,16 @@ Et ce n’est que pour le premier niveau, car pour la troisième étape, ils
 partagent encore, mais il n’y a plus de suite logique dans ces derniers.
 C’est là où intervient la phase d’Empilement :
 
-Figure 2:Portefeuilles BTC WannaCry, 20170308@13H00
+
+{{< img src="Wallets_BTC_WannaCry-Date_20170308-Time_13H02png.png" desc="Figure 2: Portefeuilles BTC WannaCry, 20170308@13H00" >}}
+
 
 Malgré le fait qu’il n’y ait pas de suite logique, j’ai tout de même
 remarqué des schémas intéressants :
 
 ### Divisions successives
 
-Figure 3: Partage BTC WannaCry, divisions successives
+{{< img src="Wallets_BTC_WannaCry-Divisions-Successives.png" desc="Figure 3: Partage BTC WannaCry, divisions successives" >}}
 
 Chaque fois que le montant est divisé par 2, une grosse partie (&gt;90%)
 va dans une adresse et le reste va dans une autre, l’adresse ayant les
@@ -195,7 +196,8 @@ d’origine soit vide. On peut résumer cela à des divisions successives.
 
 ### Éclatement
 
-Figure 4: Partage des Bitcoins WannaCry, éclatement
+{{< img src="Wallets_BTC_WannaCry-Eclatement.png" desc="Figure 4: Partage des Bitcoins WannaCry, éclatement">}}
+
 
 J’ai observé l’éclatement d’un portefeuille en plusieurs dizaines de
 petites transactions. Cette méthode permet de multiplier
@@ -236,7 +238,8 @@ en détails et j’ai donc perdu leurs traces.
 
 ### Carte finale des transactions suivies
 
-Figure 5: WannaCry Bitcoin, FINAL, 2010308@17H30
+{{< img src="Wallets_BTC_WannaCry-Date_20170308-Time_17H30.png" desc="Figure 5: WannaCry Bitcoin, FINAL, 2010308@17H30">}}
+
 
 # Commentaire
 
@@ -256,10 +259,9 @@ Merci à [*@x0rz*](https://twitter.com/x0rz) et
 Le mystère des Bitcoins des rançons de WannaCry reste entier, du moins
 pour le moment.
 
-**S**wit**H**ak
 
-Webographie :
-=============
+# Webographie :
+
 
 -   [*https://fr.wikipedia.org/wiki/Blanchiment\_d%27argent*](https://fr.wikipedia.org/wiki/Blanchiment_d%27argent)
 
@@ -268,5 +270,3 @@ Webographie :
 -   [*https://twitter.com/SwitHak/status/892997075113267200*](https://twitter.com/SwitHak/status/892997075113267200)
 
 -   [*https://www.cyberscoop.com/wannacry-monero-bitcoin/*](https://www.cyberscoop.com/wannacry-monero-bitcoin/)
-
-# Carte finale des transactions
