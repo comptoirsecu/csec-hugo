@@ -3,11 +3,10 @@ title: "[Épisode 45] La gestion de crise"
 subheadline: "RETEX sur un exercice de gestion de crise SSI touchant toute la Polynésie française"
 publisher: comptoirsecu
 date: 2017-08-08
-image:  /images/covers/gestion_crise.jpg
+image:  /images/covers/2017-08-08-gestion_crise.jpg
 podcast:
   feed: https://podcast.comptoirsecu.fr/CSEC.EP45.2017-08-07.MAITRISE_DU_RISQUE.mp3
 
-draft: true
 
 categories:
   - Podcast

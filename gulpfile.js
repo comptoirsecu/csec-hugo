@@ -80,7 +80,7 @@ gulp.task('img:misc', ['img:misc:gif'], function() {
   .pipe(plugins.responsive({'*.{jpg,jpeg,png}':
       { quality: 50, width: 1000, rename:
           { extname: '.jpg',
-          //prefix: new Date().toISOString().split('T')[0] + '-'
+          prefix: new Date().toISOString().split('T')[0] + '-'
           }
       }},
   {
@@ -122,7 +122,7 @@ gulp.task('img:covers', function() {
         height: 1080,
         rename: {
           extname: '.jpg',
-          //prefix: new Date().toISOString().split('T')[0] + '-'
+          prefix: new Date().toISOString().split('T')[0] + '-'
         }
     },{
       width: 384,
@@ -131,6 +131,7 @@ gulp.task('img:covers', function() {
         //prefix: new Date().toISOString().split('T')[0] + '-',
         suffix: '-small',
         extname: '.jpg',
+        prefix: new Date().toISOString().split('T')[0] + '-'
       },
       // format option can be omitted because
       // format of output image is detected from new filename
@@ -145,6 +146,7 @@ gulp.task('img:covers', function() {
         //prefix: new Date().toISOString().split('T')[0] + '-',
         suffix: '-medium',
         extname: '.jpg',
+        prefix: new Date().toISOString().split('T')[0] + '-'
       },
       progressive: true,
       quality: 60,
@@ -155,6 +157,7 @@ gulp.task('img:covers', function() {
         //prefix: new Date().toISOString().split('T')[0] + '-',
         suffix: '-large',
         extname: '.jpg',
+        prefix: new Date().toISOString().split('T')[0] + '-'
       },
       progressive: true,
       quality: 60,
@@ -165,6 +168,7 @@ gulp.task('img:covers', function() {
         //prefix: new Date().toISOString().split('T')[0] + '-',
         suffix: '-medium',
         extname: '.webp',
+        prefix: new Date().toISOString().split('T')[0] + '-'
       },
       quality: 50,
     }, {
@@ -174,6 +178,7 @@ gulp.task('img:covers', function() {
         //prefix: new Date().toISOString().split('T')[0] + '-',
         suffix: '-large',
         extname: '.webp',
+        prefix: new Date().toISOString().split('T')[0] + '-'
       },
       quality: 50,
     }],
