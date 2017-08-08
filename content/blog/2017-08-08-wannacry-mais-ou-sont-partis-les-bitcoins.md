@@ -3,7 +3,7 @@ title: "Wannacry, mais où sont donc partis les Bitcoins?"
 authors:
   - swithak
 date: 2017-08-08
-image:
+image: /images/covers/2017-08-08-bitcoin-laundering.jpg
 categories:
   - Article
 tags:
