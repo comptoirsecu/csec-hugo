@@ -23,9 +23,9 @@ faille dans le protocole SMBv1 pour s’installer, ensuite il recherche
 les hôtes proches. S’il en trouve, il les infecte aussi. Une fois cette
 première étape effectuée, il va alors chiffrer des documents bien
 spécifiques. Après le chiffrement de vos fichiers, il vous est demandé
-de vous acquitter du paiement d’une rançon d’un montant de 300\$
+de vous acquitter du paiement d’une rançon d’un montant de 300$
 (environ 267€) si vous payez dans les 3 jours. Passé cette échéance, le
-montant double pour 600\$ (environ 535€).
+montant double pour 600$ (environ 535€).
 
 # Bitcoin ?
 
@@ -59,7 +59,7 @@ Bitcoin suivantes :
 
 
 Le matin du 03 Août 2017, les portefeuilles où reposaient les rançons
-payées (un peu plus de \$142,000.00 USD) subissent des retraits
+payées (un peu plus de $142,000.00 USD) subissent des retraits
 successifs.
 
 ***03H06 :***
@@ -164,15 +164,15 @@ Nous n’avons désormais plus 3 adresses à surveiller mais 9 :
   Portefeuille 1                           |115p7UMMngoj1pMvkpHijcRdfJNXj6LrLn  |0 BTC
   Portefeuille 2                           |12t9YDPgwueZ9NyMgw519p7AA8isjr6SMw  |0 BTC
   Portefeuille 3                           |13AM4VW2dhxYgXeQepoHkHSQuy6NgaEb94  |0 BTC
-  Portefeuille WSH\_1 1                    |1Q8maVpVNAZbPiavySQz9JaiwsfhbT9vBz  |7.32042682 BTC
-  Portefeuille WSH\_1 2                    |18gsrbQsTY7HzYVZEbvtVBfhywpQk6No2Q  |0.01511375 BTC
-  Portefeuille WSH\_1 3                    |14Y8rfeRAcZkGqG451UGk1epq5zw3dVQif  |7.05953352 BTC
-  Portefeuille WSH\_2 1                    |1JC41YHmjKEcW1rLH6pmMWEFHkoNwSmhnC  |0.01227173 BTC
-  Portefeuille WSH\_2 2                    |16dfTuSx4f78eQ81PzTgBtBDyZ7QhNZ8Vy  |9.02796322 BTC
-  Portefeuille WSH\_2 3                    |1FQQ86tMuvhQ4Ruyggbb8j7iaNfUZ69gpY  |8.71529348 BTC
-  Portefeuille WSH\_3 1                    |1ARirZgU4q61sSjVK2iB8BEYC5w2B8ZnE9  |0.10287428 BTC
-  Portefeuille WSH\_3 2                    |1H68h8qsVkMUgY8khcdFpbHV22cCnC74dk  |9.56285137 BTC
-  Portefeuille WSH\_3 3                    |1M1CfXLynR6vqbjwTqSiiLRVDQZEXHHJbb  |10.05800019 BTC
+  Portefeuille WSH_1 1                    |1Q8maVpVNAZbPiavySQz9JaiwsfhbT9vBz  |7.32042682 BTC
+  Portefeuille WSH_1 2                    |18gsrbQsTY7HzYVZEbvtVBfhywpQk6No2Q  |0.01511375 BTC
+  Portefeuille WSH_1 3                    |14Y8rfeRAcZkGqG451UGk1epq5zw3dVQif  |7.05953352 BTC
+  Portefeuille WSH_2 1                    |1JC41YHmjKEcW1rLH6pmMWEFHkoNwSmhnC  |0.01227173 BTC
+  Portefeuille WSH_2 2                    |16dfTuSx4f78eQ81PzTgBtBDyZ7QhNZ8Vy  |9.02796322 BTC
+  Portefeuille WSH_2 3                    |1FQQ86tMuvhQ4Ruyggbb8j7iaNfUZ69gpY  |8.71529348 BTC
+  Portefeuille WSH_3 1                    |1ARirZgU4q61sSjVK2iB8BEYC5w2B8ZnE9  |0.10287428 BTC
+  Portefeuille WSH_3 2                    |1H68h8qsVkMUgY8khcdFpbHV22cCnC74dk  |9.56285137 BTC
+  Portefeuille WSH_3 3                    |1M1CfXLynR6vqbjwTqSiiLRVDQZEXHHJbb  |10.05800019 BTC
 
 Et ce n’est que pour le premier niveau, car pour la troisième étape, ils
 partagent encore, mais il n’y a plus de suite logique dans ces derniers.
