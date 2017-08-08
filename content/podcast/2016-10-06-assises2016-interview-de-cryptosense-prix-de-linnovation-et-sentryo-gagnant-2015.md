@@ -3,7 +3,7 @@
 title: "Assises 2016 : Interview de Cryptosense et Sentryo"
 subheadline: Respectivement gagnants du prix de l'Innovation des Assises de 2016 et 2015
 date: 2016-10-06T18:01:24+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2016/10/assises2016-interview-de-cryptosense-prix-de-linnovation-et-sentryo-gagnant-2015/

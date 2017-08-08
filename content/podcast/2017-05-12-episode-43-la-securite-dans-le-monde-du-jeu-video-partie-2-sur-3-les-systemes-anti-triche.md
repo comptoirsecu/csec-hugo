@@ -12,7 +12,7 @@ date: 2017-05-12
 image: /images/covers/2017-05-12.jpg
 podcast:
   feed: https://podcast.comptoirsecu.fr/CSEC.EP43.2017-05-04.JEUX_VIDEO-2.mp3
-publisher: comptoirsecu
+
 
 aliases: /2017/05/episode-43-la-securite-dans-le-monde-du-jeux-video-partie-23-les-systemes-anti-triches/
 subheadline: "Les systèmes anti-triche"

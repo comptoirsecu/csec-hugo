@@ -2,7 +2,7 @@
 
 title: "[Épisode 42] La sécurité dans le monde du jeux vidéo"
 subheadline: "Partie 1/3"
-publisher: comptoirsecu
+
 date: 2017-04-19T00:00:00+00:00
 
 aliases: /2017/04/episode-42-la-securite-dans-le-monde-du-jeux-video-partie-13/

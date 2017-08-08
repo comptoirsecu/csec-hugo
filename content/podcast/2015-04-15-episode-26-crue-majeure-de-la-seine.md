@@ -1,7 +1,7 @@
 ---
 title: "[Épisode 26] Crue Majeure de la Seine"
 date: 2015-04-15T17:23:05+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2015/04/episode-26-crue-majeure-de-la-seine/

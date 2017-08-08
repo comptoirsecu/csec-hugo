@@ -2,7 +2,7 @@
 
 title: "[Épisode 39] Mirai, le botnet d'objets connectés"
 date: 2016-10-31T22:42:42+00:00
-publisher: comptoirsecu
+
 
 aliases: /2016/10/episode-39-mirai-le-botnet-dobjets-connectes/
 podcast:

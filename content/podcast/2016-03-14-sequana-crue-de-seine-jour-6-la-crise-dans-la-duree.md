@@ -2,7 +2,7 @@
 
 title: "[Sequana] Crue de Seine – Jour 6 – La crise dans la durée"
 date: 2016-03-14T09:00:49+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2016/03/sequana-crue-de-seine-jour-6-la-crise-dans-la-duree/

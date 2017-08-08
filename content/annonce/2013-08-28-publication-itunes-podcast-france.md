@@ -1,13 +1,13 @@
 ---
 title: "Publication Itunes Podcast France"
-
+subheadline: "Nous sommes enfin publié sur iTunes. Il est temps de nous ajouter à votre lecteur favoris!"
 publisher: lois
 date: 2013-08-28T00:00:00+00:00
 
 aliases: /images/2013/08/publication-itunes-podcast-france/
 
-categories:
-  - Annonce
+tags:
+  - itunes
 ---
 
 

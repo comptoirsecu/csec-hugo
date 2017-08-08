@@ -9,3 +9,8 @@
 
 /feed/podcast       /feed/podcast.xml     301
 /feed               /feed/all.xml         301
+/article            /blog                 301
+/pantheon           /page/pantheon        301
+/apropos            /page/apropos         301
+/contact            /page/contact         301
+/article/*          /blog/:splat          301

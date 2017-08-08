@@ -13,6 +13,13 @@
   <!--user info name, bio and location-->
   <div class="card-section card-bio">
     <h4>{{ .value.name }}</h4>
+    {{ if and (.value.staff ) (ne .key "comptoirsecu") }}
+      {{ if .value.active }}
+      <span class="label"><i class="fa fa-volume-up"></i> Actif</span>
+      {{ else }}
+      <span class="label disabled"><i class="fa fa-volume-off"></i> Inactif</span>
+      {{ end }}
+    {{ end }}
   </div>
   <div class="card-section card-desc">
     {{ with .value.description }}

@@ -4,17 +4,33 @@
 <div class="row align-middle t1">
   <div class="show-for-medium medium-1 align-justify align-middle column">
     {{if .PrevInSection}}
-      <a href="{{.PrevInSection.Permalink}}" class="button expanded hollow"><i class="fa fa-chevron-left"></i></a>
+      <a href="{{.PrevInSection.URL}}" class="button expanded hollow"><i class="fa fa-chevron-left"></i></a>
     {{end}}
   </div>
 
   <section class=" small-12 medium-10 large-10 column">
     <article class="card">
       <header class="card-divider">
-        <h2>{{ .Title }}</h2>
+        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
         {{ with .Params.subheadline }}
           <h5 class="subheader">{{ . }}</h5>
         {{ end }}
+        <p class="post-header-metadata">
+        {{ if eq .Section "blog" }}
+        {{ if .Params.Authors }}
+          {{ $len := sub (len .Params.Authors) 1  }}
+          {{ range $i, $a :=  .Params.Authors }}
+            {{ $author := index $.Site.Data.authors $a }}
+             <a href="/authors/{{$a}}/#{{$a}}">{{ if $author.staff }}<span class="label"><i class="fa fa-beer"></i></span> {{ else }}<span class="label secondary"><i class="fa fa-users"></i></span> {{ end }}{{ $author.name }}</a>{{ if lt $i (sub $len 1) }}, {{ else }}{{ if lt $i $len }} et {{ end }}{{- end -}}
+          {{ end -}},
+        {{ else -}}
+          par <a href="/authors/comptoirsecu">l'équipe du Comptoir Sécu</a>
+        {{- end -}}
+        {{- end -}}
+        {{- if .Params.date -}}
+        le {{ dateFormat "02/01/2006" .Params.date }}
+        {{ end }}
+        </p>
       </header>
       {{ if or (eq .Section "video") (eq .Section "sechebdo") }}
         <div class="responsive-embed widescreen">
@@ -34,19 +50,19 @@
 
   <div class="show-for-medium medium-1 align-justify column">
     {{if .NextInSection }}
-      <a href="{{.NextInSection.Permalink}}" class="button expanded hollow"><i class="fa fa-chevron-right"></i></a>
+      <a href="{{.NextInSection.URL}}" class="button expanded hollow"><i class="fa fa-chevron-right"></i></a>
     {{end}}
   </div>
 </div>
 <div class="row align-center">
   <div class="small-6 medium-5 column">
     {{if .PrevInSection}}
-    <center><a href="{{.PrevInSection.Permalink}}" class="button expanded hollow"><i class="fa fa-arrow-left"></i></a></center>
+    <center><a href="{{.PrevInSection.URL}}" class="button expanded hollow"><i class="fa fa-arrow-left"></i></a></center>
     {{end}}
   </div>
   <div class="small-6 medium-5 column">
     {{if .NextInSection}}
-    <center><a href="{{.NextInSection.Permalink}}" class="button expanded hollow"><i class="fa fa-arrow-right"></i></a></center>
+    <center><a href="{{.NextInSection.URL}}" class="button expanded hollow"><i class="fa fa-arrow-right"></i></a></center>
     {{end}}
   </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 title: "[Épisode 25] Actualité Mars"
 date: 2015-04-07T13:13:37+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2015/04/episode-25-actualite-mars/

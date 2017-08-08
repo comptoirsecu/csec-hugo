@@ -2,7 +2,7 @@
 
 title: "[Sequana] Crue de Seine – Jour 10 –  Qui va payer ?"
 date: 2016-03-18T09:00:52+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2016/03/sequana-crue-de-seine-jour-10-qui-va-payer/

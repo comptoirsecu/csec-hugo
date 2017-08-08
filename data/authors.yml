@@ -21,47 +21,57 @@ comptoirsecu:
   description: "Fondateurs de l'association Le Comptoir Sécu"
   uri: http://www.comptoirsecu.fr/
   email: contact@comptoirsecu.fr
-  twitter: "@comptoirsecu"
+  twitter: "comptoirsecu"
   image: comptoirsecu.jpg
   youtube: UCF-ljS9G2ABgsN7P83WDFhQ
+  staff: true
+  active: true
 
 justin:
     description: >
         Co-fondateur et président de l'association Le Comptoir Sécu
     email: justin@comptoirsecu.fr
     name: Justin Ganivet
-    twitter: "@izura"
+    twitter: "izura"
     youtube: 'UCe-0FAoHZyDLPMLHnYAuXsw'
+    youtube_name: "Le Point Sécu"
     image: justin-ganivet.jpg
     linkedin: https://www.linkedin.com/company-beta/3578276/
+    staff: true
+    active: true
 
 lois:
     description: >
         Co-fondateur et secrétaire de l'association Le Comptoir Sécu
     email: lois@comptoirsecu.fr
     name: Loïs Samain
-    twitter: "@lsamain"
+    twitter: "lsamain"
     linkedin: https://www.linkedin.com/in/lsamain
     image: lois-samain.jpg
+    staff: true
+    active: true
 
 morgan:
     description: >
         Co-fondateur et vice-président de l'association Le Comptoir Sécu
     email: morgan@comptoirsecu.fr
     name: Morgan Hotonnier
-    twitter: "@morganhotonnier"
+    twitter: "morganhotonnier"
     linkedin: https://www.linkedin.com/in/morganhotonnier
     image: morgan-hotonnier.jpg
-
+    staff: true
+    active: true
 
 youenn:
     description: >
         Sondier et trésorier de l'association Le Comptoir Sécu
     email: youenn@comptoirsecu.fr
     name: Youenn Piolet
-    twitter: "@schematicwizard"
+    twitter: "schematicwizard"
     uri: 'http://ypiolet.fr'
     image: youenn-piolet.jpg
+    staff: true
+    active: true
 
 simon:
     description: >
@@ -69,3 +79,12 @@ simon:
     name: Simon Lacoste
     linkedin: 'simonlacoste'
     image: simon-lacoste.jpg
+    staff: true
+    active: false
+
+swithak:
+  name: SwitHak
+  description: "Professionnel de la sécurité informatique, passionné par tout ce qui touche directement et indirectement à ce domaine : Législations (nationales et internationales), logiciels malveillants, actualités, vie privée, géopolitique, etc."
+  twitter: SwitHak
+  uri: https://swithak.github.io/
+  image: swithak.jpg

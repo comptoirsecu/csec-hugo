@@ -2,7 +2,7 @@
 
 title: "[Épisode 38] L'Anonymat"
 date: 2016-07-12T14:54:55+00:00
-publisher: comptoirsecu
+
 
 aliases: /2016/07/episode-38-lanonymat/
 podcast:

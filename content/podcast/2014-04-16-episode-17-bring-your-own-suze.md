@@ -2,7 +2,7 @@
 
 title: "[Épisode 17] Bring Your Own Suze"
 date: 2014-04-16T11:44:51+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2014/04/episode-17-bring-your-own-suze/

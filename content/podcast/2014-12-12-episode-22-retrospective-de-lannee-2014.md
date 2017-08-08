@@ -2,7 +2,7 @@
 
 title: "[Épisode 22] Notre rétrospective de l'année 2014"
 date: 2014-12-12T11:52:26+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2014/12/episode-22-retrospective-de-lannee-2014/

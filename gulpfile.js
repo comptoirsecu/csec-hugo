@@ -78,7 +78,7 @@ gulp.task('img:misc:gif', function () {
 gulp.task('img:misc', ['img:misc:gif'], function() {
   return  gulp.src(img.misc.src + "*.{png,jpg,jpeg}")
   .pipe(plugins.responsive({'*.{jpg,jpeg,png}':
-      { quality: 50, width: 1000, rename:
+      {  width: 1000, rename:
           { extname: '.jpg',
           prefix: new Date().toISOString().split('T')[0] + '-'
           }
