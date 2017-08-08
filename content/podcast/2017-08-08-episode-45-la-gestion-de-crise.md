@@ -55,4 +55,4 @@ Bonne écoute !
 
 # Ressources :
 
-  * [Reportage sur le bilan de l'exercice de crise](https://www.youtube.com/watch?v=-swZlNeHMs8U)
+  * [Reportage sur le bilan de l'exercice de crise](https://youtu.be/swZlNeHMs8U)
