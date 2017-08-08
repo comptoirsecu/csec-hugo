@@ -1,5 +1,5 @@
 <footer class="card-divider metadatas">
-  <p><i class="fa fa-pencil"></i> Publié
+  <p><i class="fa fa-pencil fa-fw"></i> Publié
     {{ if .Params.date }}
       le {{ dateFormat "02/01/2006" .Params.date }}
     {{ end }}
@@ -24,7 +24,7 @@
     {{ end }}
   {{ else }}
     {{ with .Params.authors }}
-      <p><i class="fa fa-user"></i> Contributeurs:
+      <p><i class="fa fa-user fa-fw"></i> Contributeurs:
         {{ $len := sub (len .) 1  }}
         {{ range $i, $a :=  . }}
           {{ $author := index $.Site.Data.authors $a }}
@@ -34,7 +34,7 @@
       </p>
     {{ end }}
     {{ with .Params.guests }}
-      <p><i class="fa fa-user-plus"></i> Invités:
+      <p><i class="fa fa-user-plus fa-fw"></i> Invités:
         {{ $len := sub (len .) 1  }}
         {{ range $i, $g := . }}
             {{ $guest := index $.Site.Data.guests $g }}
@@ -43,7 +43,7 @@
       </p>
     {{ end }}
     {{ with .Params.songs }}
-      <p><i class="fa fa-music"></i> Interludes:
+      <p><i class="fa fa-music fa-fw"></i> Interludes:
         {{ $len := sub (len .) 1  }}
         {{ range $i, $s := . }}
             {{ $song := index $.Site.Data.songs $s }}
@@ -52,7 +52,7 @@
       </p>
     {{ end }}
     {{ with .Params.drinks }}
-      <p><i class="fa fa-glass"></i> Dégustations:
+      <p><i class="fa fa-glass fa-fw"></i> Dégustations:
         {{ $len := sub (len .) 1  }}
         {{ range $i, $d := . }}
             {{ $drink := index $.Site.Data.drinks $d }}
@@ -62,7 +62,7 @@
     {{ end }}
     {{ with .Params.tags }}
     {{ $len := len . }}
-    <p class="tags"><i class="fa fa-tag"></i> Tags:  {{ range $i, $tag := . }}
+    <p class="tags"><i class="fa fa-tag fa-fw"></i> Tags:  {{ range $i, $tag := . }}
               <span class="label"><a href="/tags/{{ $tag | urlize}}">{{ $tag }}</a></span>
               {{ end }}
     </p>
