@@ -6,7 +6,7 @@ $metadata-background-color: #d7dadb;
 $metadata-color: $dark-gray;
 $metadata-link-color: $carmin;
 
-$hero-height: 35vh;
+$hero-height: 27vh;
 $hero-section-text: $white;
 $hero-logo-image: '/images/logo-white.png';
 $hero-background-image: '/images/hero-blue.jpg';
@@ -73,6 +73,7 @@ article main
   background: url($hero-background-image) 50% no-repeat;
   background-size: cover;
   height: $hero-height;
+  min-height: 120px;
   text-align: left;
   display: flex;
   align-items: center;
@@ -548,3 +549,11 @@ thead { color: $carmin; }
 }
 
 figcaption { text-align: center; margin: 1em; }
+
+.callout .date-tag {
+  float: right;
+  font-size: 0.8em;
+  color: $dark-gray;
+  right: -90%;
+  top: -10%;
+}

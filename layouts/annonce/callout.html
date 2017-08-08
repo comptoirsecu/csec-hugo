@@ -1,5 +1,7 @@
 <div class="annonce callout t1">
-  <h4><span class="label secondary"><i class="fa fa-bullhorn"></i> Annonce</span> {{ .Title }}</h4>
+  <div class="date-tag"><span>{{- if .Params.date -}}{{ dateFormat "02/01/2006" .Params.date }}{{ end }}</span></div>
+
+  <h4><a href="{{ .URL }}"><span class="label secondary"><i class="fa fa-bullhorn"></i> Annonce</span> {{ .Title }}</a></h4>
   <p>{{ .Params.Subheadline }}</p>
   <a class="button secondary expanded hollow" href="{{ .URL }}">Lire</a>
 </div>
