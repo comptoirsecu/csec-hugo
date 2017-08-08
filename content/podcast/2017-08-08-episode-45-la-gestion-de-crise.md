@@ -52,3 +52,8 @@ d'expérience sur l'exercice.
 Bonne écoute !
 
 {{< podigee >}}
+
+# Ressources :
+
+  * Reportage sur le bilan de l'exercice
+      * [Reportage télévisé] (https://www.youtube.com/watch?v=-swZlNeHMs8U)
