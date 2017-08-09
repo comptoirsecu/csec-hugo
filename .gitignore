@@ -2,6 +2,7 @@ public/
 .DS_Store
 .idea
 Thumbs.db
+npm-debug.log
 node_modules/
 static/css/app.css
 static/js/app.js
