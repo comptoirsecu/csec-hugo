@@ -259,6 +259,9 @@ Merci à [*@x0rz*](https://twitter.com/x0rz) et
 Le mystère des Bitcoins des rançons de WannaCry reste entier, du moins
 pour le moment.
 
+# Update 2017-08-09
+Quelqu'un a [*payé une rançon de 0.09 BTC*](https://blockchain.info/address/115p7UMMngoj1pMvkpHijcRdfJNXj6LrLn) cet après-midi. L'argent est toujours sur le porte-feuille en attente d'être transféré. Cependant, il y a peu de chance que les responsables de #WannaCry réitèrent le circuit de blanchiment pour moins de $300. Même s'il y avait plus, cela serait un risque démesuré, du moins à mon sens.
+
 
 # Webographie :
 
@@ -270,3 +273,5 @@ pour le moment.
 -   [*https://twitter.com/SwitHak/status/892997075113267200*](https://twitter.com/SwitHak/status/892997075113267200)
 
 -   [*https://www.cyberscoop.com/wannacry-monero-bitcoin/*](https://www.cyberscoop.com/wannacry-monero-bitcoin/)
+
+-   [*https://twitter.com/SwitHak/status/895285846802345984*](https://twitter.com/SwitHak/status/895285846802345984)
