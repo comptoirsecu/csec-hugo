@@ -2,7 +2,7 @@
 
 title: "Nuit du Hack 2016 - 2 : Interview inversé avec JP Gaulier"
 date: 2016-09-16T19:16:37+00:00
-publisher: comptoirsecu
+
 
 aliases: /2016/09/ndh2016-2-interview-inverse-avec-jp-gaulier/
 podcast:

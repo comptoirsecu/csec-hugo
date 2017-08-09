@@ -3,7 +3,7 @@
 title: "[Épisode 21] Ébola"
 subheadline: La gestion des pandémies en entreprise
 date: 2014-11-04T00:25:27+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2014/11/episode-21-ebola-la-gestion-des-pandemies-en-entreprise/

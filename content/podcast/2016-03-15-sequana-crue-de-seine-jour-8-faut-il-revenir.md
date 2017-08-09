@@ -2,7 +2,7 @@
 
 title: "[Sequana] Crue de Seine – Jour 8 –  Faut il revenir ?"
 date: 2016-03-15T09:00:50+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2016/03/sequana-crue-de-seine-jour-8-faut-il-revenir/

@@ -1,0 +1,5 @@
+<div class="annonce-old small callout t1">
+    <div class="date-tag"><span>{{- if .Params.date -}}{{ dateFormat "02/01/2006" .Params.date }}{{ end }}</span></div>
+  <a href="{{ .URL }}">
+  <h6><span class="label disabled"><i class="fa fa-bullhorn"></i> Annonce</span> {{ .Title }}</h6></a>
+</div>

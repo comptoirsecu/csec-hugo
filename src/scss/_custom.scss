@@ -6,7 +6,7 @@ $metadata-background-color: #d7dadb;
 $metadata-color: $dark-gray;
 $metadata-link-color: $carmin;
 
-$hero-height: 35vh;
+$hero-height: 27vh;
 $hero-section-text: $white;
 $hero-logo-image: '/images/logo-white.png';
 $hero-background-image: '/images/hero-blue.jpg';
@@ -48,20 +48,20 @@ article main
   ul, ol {
     text-align: left;
     /* These are technically the same, but use both */
-overflow-wrap: break-word;
-word-wrap: break-word;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
 
--ms-word-break: break-all;
-/* This is the dangerous one in WebKit, as it breaks things wherever */
-word-break: break-all;
-/* Instead use this non-standard one: */
-word-break: break-word;
+    -ms-word-break: break-all;
+    /* This is the dangerous one in WebKit, as it breaks things wherever */
+    word-break: break-all;
+    /* Instead use this non-standard one: */
+    word-break: break-word;
 
-/* Adds a hyphen where the word breaks, if supported (No Blink) */
--ms-hyphens: auto;
--moz-hyphens: auto;
--webkit-hyphens: auto;
-hyphens: auto;
+    /* Adds a hyphen where the word breaks, if supported (No Blink) */
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
   }
 
   .callout {
@@ -73,6 +73,7 @@ hyphens: auto;
   background: url($hero-background-image) 50% no-repeat;
   background-size: cover;
   height: $hero-height;
+  min-height: 120px;
   text-align: left;
   display: flex;
   align-items: center;
@@ -82,6 +83,7 @@ hyphens: auto;
   .hero-section-text {
     color: $hero-section-text;
     text-shadow: 1px 1px 2px $black;
+    a { color: #fff;}
   }
 
   .logo {
@@ -130,7 +132,7 @@ hyphens: auto;
   padding: 2em 10% 4em 10%;
 }
 
-#metadatas
+.card-divider.metadatas
 {
   background-color: $metadata-background-color;
   color: $metadata-color;
@@ -138,6 +140,7 @@ hyphens: auto;
     color: $metadata-link-color;
   }
   .label a { color: $white; }
+  h5, h6 { color: $dark-gray;}
 }
 
 .round-avatar {
@@ -191,7 +194,7 @@ hyphens: auto;
   }
 }
 
-#annonce, #live {
+.annonce, #live {
   h1, h2, h3, h4, h5, h6 {
     color: $carmin;
   }
@@ -202,6 +205,10 @@ hyphens: auto;
   .label.secondary {
     color: $white;
   }
+}
+
+.annonce-old {
+  h1, h2, h3, h4, h5, h6, a { color: $black; margin-bottom: 0; }
 }
 
 .callout.warning a {
@@ -326,6 +333,7 @@ hyphens: auto;
           padding-left: 0;
           .avatar {
             svg { width: 3em; }
+
           }
 
           .text-wrapper {
@@ -438,7 +446,7 @@ $card-border-bottom-size: 5px;
     border-bottom-color: #6c6c74;
 }
 
-
+.blog-section .authors a { color: $teal; }
 .sechebdo-section {
   border-bottom-width: $card-border-bottom-size;
   border-bottom-color: #d6b486;
@@ -457,4 +465,96 @@ $card-border-bottom-size: 5px;
 }
 .poc-category {
     border-bottom-color: #3dbb7e;
+}
+
+
+#menu-highlight {
+  background-color: $carmin !important;
+  a { color: white !important; }
+
+}
+
+.community-author a { color: $teal; }
+
+.label.disabled { background-color: $dark-gray; }
+
+.annonce-old .label { margin-left: 0.7em; }
+
+.label.secondary { color: $white; }
+
+thead { color: $carmin; }
+
+
+.about-author {
+  .bio-social-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: baseline;
+    .bio {
+      @include breakpoint(medium) { margin-left: 1em; }
+      @include breakpoint(small only) {
+        flex: 1 100%;
+        text-align: center;
+      }
+      h4 { color: $black; }
+    }
+    .social {
+      @include breakpoint(small only) {
+        flex: 1 100%;
+        margin: auto;
+        text-align: center;
+      }
+    }
+  }
+
+  .avatar-description-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+
+    .avatar {
+      flex: 0 150px;
+      margin: auto;
+
+      .round-avatar {
+
+        border-radius: 50%;
+        width: $card-user-container-image-size /2;
+        height: $card-user-container-image-size /2;
+        padding: rem-calc(10);
+
+      }
+    }
+
+    .description {
+      @include breakpoint(small only) {
+        flex: 1 100%;
+        margin: auto;
+        padding: 1em;
+        text-align: justify;
+      }
+      @include breakpoint(medium) {
+        flex: 4;
+      }
+      color: $black;
+
+      text-justify: inter-word;
+    }
+
+  }
+
+}
+
+figcaption { text-align: center; margin: 1em; }
+
+.callout .date-tag {
+  float: right;
+  font-size: 0.8em;
+  color: $dark-gray;
+  right: -90%;
+  top: -10%;
 }

@@ -1,5 +1,5 @@
 <article class="card {{ .Section }}-section {{ range .Params.Categories }} {{. | lower }}-category{{end}}" style="height: 100%;">
-    <a href="{{ .Permalink }}">
+    <a href="{{ .URL }}">
       {{ $img := or .Params.image "/images/covers/default.jpg" }}
       {{ $imgprefix := substr $img 0 -4 }}
       <picture>
@@ -20,9 +20,22 @@
       </picture>
     </a>
   <header class="card-divider">
-    <h5><a href="{{ .Permalink }}">{{ .Title }}</a></h5>
+    <h5><a href="{{ .URL }}">{{ .Title }}</a></h5>
     {{ if ne .Section "sechebdo" }}
     <h6 class="subheader">{{ .Params.subheadline }}</h6>
+    {{ end }}
+    {{ if eq .Section "blog" }}
+      <p class="authors">
+      {{ if .Params.Authors }}
+        {{ $len := sub (len .Params.Authors) 1  }}
+        {{ range $i, $a :=  .Params.Authors }}
+          {{ $author := index $.Site.Data.authors $a }}
+           <a href="/authors/{{$a}}/#{{$a}}">{{ if $author.staff }}<span class="label"><i class="fa fa-beer"></i></span> {{ else }}<span class="label secondary"><i class="fa fa-users"></i></span> {{ end }}{{ $author.name }}</a>{{ if lt $i (sub $len 1) }}, {{ else }}{{ if lt $i $len }} et {{ end }}{{ end }}
+        {{ end }}
+      {{ else }}
+        par <a href="/authors/comptoirsecu">l'équipe du Comptoir Sécu</a>
+      {{ end }}
+      </p>
     {{ end }}
   </header>
 

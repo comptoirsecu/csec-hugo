@@ -2,7 +2,7 @@
 
 title: "[FIC2016] 3 – NolimitSecu"
 date: 2016-02-15T10:16:48+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2016/02/fic2016-3-nolimitsecu/

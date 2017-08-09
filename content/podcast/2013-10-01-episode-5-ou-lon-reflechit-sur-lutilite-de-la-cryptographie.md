@@ -1,6 +1,6 @@
 ---
 title: "[Épisode 5] Utilité de la cryptographie"
-publisher: comptoirsecu
+
 
 date: 2013-10-01T00:00:00+00:00
 aliases: /2013/10/episode-5-ou-lon-reflechit-sur-lutilite-de-la-cryptographie/

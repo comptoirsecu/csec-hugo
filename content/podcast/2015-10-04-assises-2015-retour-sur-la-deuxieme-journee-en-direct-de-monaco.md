@@ -3,7 +3,7 @@
 title: "[Assises 2015] Retour sur la deuxième journée"
 subheadline: En direct de Monaco
 date: 2015-10-04T18:06:45+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2015/10/assises-2015-retour-sur-la-deuxieme-journee-en-direct-de-monaco/

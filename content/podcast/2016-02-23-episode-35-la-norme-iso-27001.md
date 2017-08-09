@@ -2,7 +2,7 @@
 
 title: "[Épisode 35] La norme ISO 27001"
 date: 2016-02-23T09:30:33+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2016/02/episode-35-la-norme-iso-27001/
