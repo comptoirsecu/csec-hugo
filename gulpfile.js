@@ -186,7 +186,7 @@ gulp.task('img:covers', function() {
     // Global configuration for all images
     // Strip all metadata
     withMetadata: false,
-    crop: true,
+    crop: 'attention',
     flatten: true,
     background: "#0a0a0a",
     // Do not emit the error when image is enlarged.
