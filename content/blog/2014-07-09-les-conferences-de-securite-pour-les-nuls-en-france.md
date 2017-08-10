@@ -116,7 +116,7 @@ Autre particularité de cette conférence, durant les conférences de sécurité
 - Lieu: Grand Palais, Lille
 - Lien : <http://www.forum-fic.com/>
 - Public : 3500
-- Payant
+- Gratuit
 
 Le FIC est une conférence créée en 2007 par le général d’armée (2S) Marc Watin-Augouard. Son objectif est d’aborder la cybersécurité sous un angle stratégique, en mettant l’accent sur les enjeux géopolitiques, sociologiques, juridiques, managériaux, technologiques liés à la confiance dans le cyberespace, mais en même temps opérationnel.
 
