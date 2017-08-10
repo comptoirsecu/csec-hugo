@@ -378,7 +378,8 @@ swithak:
   image: swithak.jpg
 
 snip:
-  name: Snip'
+  name: "Snip'"
   description: "Consultant en infrastructure et protection des données."
   twitter: sniperovitch
   uri: https://keybase.io/sniperovitch
+  image: snip.jpg
