@@ -2,6 +2,15 @@ language: node_js
 sudo: true
 dist: trusty
 
+env:
+  - CXX=g++-4.8
+addons:
+  apt:
+    sources:
+      - ubuntu-toolchain-r-test
+    packages:
+      - g++-4.8
+
 install:
   - npm install -g gulp
   - npm install
@@ -10,4 +19,5 @@ install:
   - dpkg -i hugo_0.26_Linux-32bit.deb
 
 script:
+  - hugo
   - gulp build
