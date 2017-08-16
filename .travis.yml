@@ -1,0 +1,13 @@
+language: node_js
+sudo: true
+dist: trusty
+
+install:
+  - npm install -g gulp
+  - npm install
+  - apt get install wget -y
+  - curl -O https://github.com/gohugoio/hugo/releases/download/v0.26/hugo_0.26_Linux-32bit.deb
+  - dpkg -i hugo_0.26_Linux-32bit.deb
+
+script:
+  - gulp build
