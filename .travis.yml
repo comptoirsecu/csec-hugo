@@ -6,8 +6,9 @@ node_js:
   - "node"
 
 env:
-  - CXX=g++-4.8
-  - HUGO_VERSION=0.26
+  - CXX=g++-4.8 HUGO_VERSION=0.26
+
+
 addons:
   apt:
     sources:
@@ -44,5 +45,4 @@ before_script:
   - export PATH=$PATH:$PWD/binaries/
 
 script:
-  - ./hugo
   - gulp build

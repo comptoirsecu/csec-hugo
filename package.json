@@ -9,6 +9,7 @@
   "author": "Le Comptoir Sécu",
   "license": "ISC",
   "dependencies": {
+    "babel-core": "^6.26.0",
     "foundation-sites": "^6.3.1"
   },
   "devDependencies": {
