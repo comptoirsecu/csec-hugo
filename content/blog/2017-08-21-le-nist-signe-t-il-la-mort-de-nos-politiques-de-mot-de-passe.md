@@ -26,7 +26,7 @@ Il n’est aucunement question de remettre en cause la robustesse d’un mot de 
 
 Il est surtout question de repositionner cette mesure de sécurité (le mot de passe) dans le cadre [des menaces][menace] auxquelles le système d’information est exposé, ainsi que vis-à-vis des mesures complémentaires de protection.
 
-Bref, il s’agit de confronter l’avantage réel de la composition compliquée et du renouvellement périodique du mot de passe aux contraintes qu’ils induisent.
+Bref, il s’agit de confronter l’avantage réel de la politique de mot de passe aux contraintes qu’elle induit.
 
 # Les règles de composition disparaissent
 
