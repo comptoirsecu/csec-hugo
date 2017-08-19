@@ -44,7 +44,7 @@ Puisqu’il n’y a plus de complexité inhérente à la composition, l’utilis
 
 # Le débat de la liste noire
 
-Troy et ses 330 millions de mots de passe à blacklister se heurtent à l’utilisabilité d’un tel système ainsi qu’à [la preuve du faible gain][blacklist] procuré par les listes noires (au-delà des valeurs les plus usitées, qui sont [obligatoires][nist]).
+Troy et ses 330 millions de mots de passe à blacklister se heurtent à l’utilisabilité d’un tel système (quel client accepterait de se faire refouler plusieurs mot de passe de suite au motif qu’ils ont fuité ailleurs ?) ainsi qu’à [la preuve du faible gain][blacklist] procuré par les listes noires (au-delà des valeurs les plus usitées, qui sont [obligatoires][nist]).
 
 Pour évaluer la robustesse d’un mot de passe issu du cerveau humain, l’on doit fournir à l’utilisateur une indication visuelle pour éclairer son choix. On pense alors à [zxcvbn][zxcvbn].
 
