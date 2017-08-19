@@ -1,60 +1,60 @@
-{{ if .Get "title" }}
-  {{ $.Scratch.Set "title" (.Get "title") }}
-{{ else if $.Page.Params.Podcast.Title }}
-  {{ $.Scratch.Set "title" $.Page.Params.Podcast.Title }}
-{{ else }}
-  {{ $.Scratch.Set "title" $.Page.Title }}
-{{ end }}
+{{- if .Get "title" -}}
+  {{- $.Scratch.Set "title" (.Get "title") -}}
+{{- else if $.Page.Params.Podcast.Title -}}
+  {{- $.Scratch.Set "title" $.Page.Params.Podcast.Title -}}
+{{- else -}}
+  {{- $.Scratch.Set "title" $.Page.Title -}}
+{{- end }}
 
-{{ if .Get "subtitle" }}
-  {{ $.Scratch.Set "subtitle" (.Get "subtitle") }}
-{{ else if $.Page.Params.Podcast.Subtitle }}
-  {{ $.Scratch.Set "subtitle" $.Page.Params.Podcast.Subtitle }}
-{{ else if $.Page.Params.Subheadline }}
-  {{ $.Scratch.Set "subtitle" $.Page.Params.Subheadline }}
-{{ else }}
-  {{ $.Scratch.Set "subtitle"  "" }}
-{{ end }}
+{{- if .Get "subtitle" -}}
+  {{- $.Scratch.Set "subtitle" (.Get "subtitle") -}}
+{{- else if $.Page.Params.Podcast.Subtitle -}}
+  {{- $.Scratch.Set "subtitle" $.Page.Params.Podcast.Subtitle -}}
+{{- else if $.Page.Params.Subheadline -}}
+  {{- $.Scratch.Set "subtitle" $.Page.Params.Subheadline -}}
+{{- else -}}
+  {{- $.Scratch.Set "subtitle"  "" -}}
+{{- end -}}
 
-{{ if .Get "description" }}
+{{- if .Get "description" -}}
   {{ $.Scratch.Set "description"  (.Get "description")  }}
-{{ else if $.Page.Params.Podcast.Description }}
-  {{ $.Scratch.Set "description" $.Page.Params.Podcast.Description }}
-{{ else if $.Page.Description }}
-  {{ $.Scratch.Set "description" $.Page.Description }}
-{{ else }}
-  {{ $.Scratch.Set "description" "" }}
-{{ end }}
+{{- else if $.Page.Params.Podcast.Description -}}
+  {{- $.Scratch.Set "description" $.Page.Params.Podcast.Description -}}
+{{- else if $.Page.Description -}}
+  {{- $.Scratch.Set "description" $.Page.Description -}}
+{{- else -}}
+  {{- $.Scratch.Set "description" "" -}}
+{{- end -}}
 
-{{ if .Get "cover" }}
+{{- if .Get "cover" -}}
   {{ $.Scratch.Set "cover" (.Get "cover") }}
-{{ else if $.Page.Params.Podcast.Cover }}
-  {{ $.Scratch.Set "cover" $.Page.Params.Podcast.Cover}}
-{{ else if $.Page.Params.Image }}
-  {{ $.Scratch.Set "cover" $.Page.Params.Image }}
-{{ else }}
-  {{ $.Scratch.Set "cover" "/images/logo.png" }}
-{{ end }}
+{{- else if $.Page.Params.Podcast.Cover -}}
+  {{- $.Scratch.Set "cover" $.Page.Params.Podcast.Cover -}}
+{{- else if $.Page.Params.Image -}}
+  {{- $.Scratch.Set "cover" $.Page.Params.Image -}}
+{{- else -}}
+  {{- $.Scratch.Set "cover" "/images/logo.png" -}}
+{{- end -}}
 
-{{ if .Get "feed" }}
+{{- if .Get "feed" -}}
   {{ $.Scratch.Set "feed" (.Get "feed") }}
-{{ else if $.Page.Params.Podcast.Feed }}
-  {{ $.Scratch.Set "feed" $.Page.Params.Podcast.Feed }}
-{{ else }}
-  {{ $.Scratch.Set "feed" }}
-{{ end }}
+{{- else if $.Page.Params.Podcast.Feed -}}
+  {{- $.Scratch.Set "feed" $.Page.Params.Podcast.Feed -}}
+{{- else -}}
+  {{- $.Scratch.Set "feed" -}}
+{{- end -}}
 
-{{ if .Get "file" }}
+{{- if .Get "file" -}}
   {{ $.Scratch.Set "file" (.Get "file") }}
-{{ else if .Get 0 }}
+{{- else if (.Get 0) -}}
   {{ $.Scratch.Set "file" (.Get 0) }}
-{{ else if $.Page.Params.Podcast.File }}
-  {{ $.Scratch.Set "file" $.Page.Params.Podcast.File }}
-{{ else if $.Page.Params.Podcast.Feed }}
-  {{ $.Scratch.Set "file" $.Page.Params.Podcast.Feed }}
-{{ else }}
-  {{ $.Scratch.Set "file" "" }}
-{{ end }}
+{{- else if $.Page.Params.Podcast.File -}}
+  {{- $.Scratch.Set "file" $.Page.Params.Podcast.File -}}
+{{- else if $.Page.Params.Podcast.Feed -}}
+  {{- $.Scratch.Set "file" $.Page.Params.Podcast.Feed -}}
+{{- else -}}
+  {{- $.Scratch.Set "file" "" -}}
+{{- end -}}
 <script>
   window.podigee = {
           "options": {
@@ -85,8 +85,11 @@
             "description": "{{ $.Scratch.Get "description" }}",
         {{ with $.Page.Params.chaptermarks }}
             "chaptermarks": [
-              {{ range $start, $chapter :=  . }}
-              { "start": "{{ $start }}", "title": "{{ $chapter }}"},
+              {{ range  . }}
+                {{ $entry := split . "|" }}
+                {{ $start := index $entry 0 }}
+                {{ $chapter := index $entry 1 }}
+                { "start": "{{ $start }}", "title": "{{ $chapter }}"},
               {{ end }}
             ],
         {{ end }}

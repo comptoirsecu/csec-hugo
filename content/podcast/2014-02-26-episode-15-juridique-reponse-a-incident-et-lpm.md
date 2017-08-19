@@ -3,13 +3,13 @@
 title: "[Épisode 15] Juridique"
 subheadline: réponse à incident et LPM
 date: 2014-02-26T10:00:21+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2014/02/episode-15-juridique-reponse-a-incident-et-lpm/
 views: 5598
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP15.2014-02-25.REPONSE_A_INCIDENTS.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP15.2014-02-25.REPONSE_A_INCIDENTS.mp3
 image: /images/covers/2014-02-Nike_libation_Apollo_Louvre_Ma965.jpg
 categories:
   - Podcast
@@ -39,11 +39,11 @@ authors:
   - youenn
 
 chaptermarks:
-  "00:01:55": "Les news du moment"
-  "00:43:15": "Dossier: Les aspects juridique de la sécurité avec Barbara Louis-Sidney"
-  "01:14:27": "Quelques bonnes adresses parisiennes pour les amateurs de Rhum sur fond musical de C418"
-  "01:18:55": "What's Next spécial LPM, la loi de programmation militaire"
-  "01:41:42": "Le mot de la fin et un extrait de Supersquatting par Dubmood et Zabutom, compositeurs suédois mythiques de la demoscene ayant notamment travaillé avec l'incontournable team Razor1911"
+  - "00:01:55|Les news du moment"
+  - "00:43:15|Dossier: Les aspects juridique de la sécurité avec Barbara Louis-Sidney"
+  - "01:14:27|Quelques bonnes adresses parisiennes pour les amateurs de Rhum sur fond musical de C418"
+  - "01:18:55|What's Next spécial LPM, la loi de programmation militaire"
+  - "01:41:42|Le mot de la fin et un extrait de Supersquatting par Dubmood et Zabutom, compositeurs suédois mythiques de la demoscene ayant notamment travaillé avec l'incontournable team Razor1911"
 ---
 
 Après beaucoup de retard, voici  le 15e épisode du Comptoir Sécu !

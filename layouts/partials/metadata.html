@@ -1,57 +1,71 @@
-<footer class="card-divider" id="metadatas">
-  <p><i class="fa fa-pencil"></i> Publié
+<footer class="card-divider metadatas">
+  <p><i class="fa fa-pencil fa-fw"></i> Publié
     {{ if .Params.date }}
       le {{ dateFormat "02/01/2006" .Params.date }}
     {{ end }}
-    {{ if .Params.Publisher }}
-      {{ $publisher := index .Site.Data.authors .Params.publisher }}
-      par <a href="/authors/#{{.Params.publisher}}">{{ $publisher.name }}</a>
-    {{ else }}
-      par <a href="/authors/comptoirsecu">l'équipe du Comptoir Sécu</a>
+    {{ if ne .Section "blog" }}
+      {{ if .Params.Publisher }}
+        {{ $publisher := index .Site.Data.authors .Params.publisher }}
+        par <a href="/authors/#{{.Params.publisher}}">{{ $publisher.name }}</a>
+      {{ else }}
+        par <a href="/authors/comptoirsecu">l'équipe du Comptoir Sécu</a>
+      {{ end }}
     {{ end }}
   </p>
-  {{ with .Params.authors }}
-    <p><i class="fa fa-user"></i> Contributeurs:
+
+  {{ if eq .Section "blog"}}
+    {{ with .Params.authors }}
+      <h5>À propos de l'auteur :</h5>
       {{ $len := sub (len .) 1  }}
       {{ range $i, $a :=  . }}
         {{ $author := index $.Site.Data.authors $a }}
-         <a href="/authors/{{$a}}/#{{$a}}">{{ $author.name }}</a>{{ if lt $i (sub $len 1) }}, {{ else }}{{ if lt $i $len }} et {{ else }}.{{ end }}{{ end }}
+        {{ partial "metadata-about-author.html" (dict "key" $a "value" $author "site" $.Site) }}
+      {{ end }}
+    {{ end }}
+  {{ else }}
+    {{ with .Params.authors }}
+      <p><i class="fa fa-user fa-fw"></i> Contributeurs:
+        {{ $len := sub (len .) 1  }}
+        {{ range $i, $a :=  . }}
+          {{ $author := index $.Site.Data.authors $a }}
+           <a href="/authors/{{$a}}/#{{$a}}">{{ $author.name }}</a>{{ if lt $i (sub $len 1) }}, {{ else }}{{ if lt $i $len }} et {{ else }}.{{ end }}{{ end }}
 
-      {{ end }}
+        {{ end }}
+      </p>
+    {{ end }}
+    {{ with .Params.guests }}
+      <p><i class="fa fa-user-plus fa-fw"></i> Invités:
+        {{ $len := sub (len .) 1  }}
+        {{ range $i, $g := . }}
+            {{ $guest := index $.Site.Data.guests $g }}
+            <a href="/guests/{{ $g | urlize}}/#{{ $g | urlize}}">{{ $guest.name }}</a>{{ if lt $i (sub $len 1) }}, {{ else }}{{ if lt $i $len }} et {{ else }}.{{ end }}{{ end }}
+        {{ end }}
+      </p>
+    {{ end }}
+    {{ with .Params.songs }}
+      <p><i class="fa fa-music fa-fw"></i> Interludes:
+        {{ $len := sub (len .) 1  }}
+        {{ range $i, $s := . }}
+            {{ $song := index $.Site.Data.songs $s }}
+            <a href="/songs/{{ $s | urlize}}/#{{ $s | urlize}}">{{ $song.song }} ({{ $song.artist}})</a>{{ if lt $i (sub $len 1) }}, {{ else }}{{ if lt $i $len }} et {{ else }}.{{ end }}{{ end }}
+        {{ end }}
+      </p>
+    {{ end }}
+    {{ with .Params.drinks }}
+      <p><i class="fa fa-glass fa-fw"></i> Dégustations:
+        {{ $len := sub (len .) 1  }}
+        {{ range $i, $d := . }}
+            {{ $drink := index $.Site.Data.drinks $d }}
+            <a href="/drinks/{{ $d | urlize}}/#{{ $d | urlize}}">{{ $drink.name }}</a>{{ if lt $i (sub $len 1) }}, {{ else }}{{ if lt $i $len }} et {{ else }}.{{ end }}{{ end }}
+        {{ end }}
+      </p>
+    {{ end }}
+    {{ with .Params.tags }}
+    {{ $len := len . }}
+    <p class="tags"><i class="fa fa-tag fa-fw"></i> Tags:  {{ range $i, $tag := . }}
+              <span class="label"><a href="/tags/{{ $tag | urlize}}">{{ $tag }}</a></span>
+              {{ end }}
     </p>
-  {{ end }}
-  {{ with .Params.guests }}
-    <p><i class="fa fa-user-plus"></i> Invités:
-      {{ $len := sub (len .) 1  }}
-      {{ range $i, $g := . }}
-          {{ $guest := index $.Site.Data.guests $g }}
-          <a href="/guests/{{ $g | urlize}}/#{{ $g | urlize}}">{{ $guest.name }}</a>{{ if lt $i (sub $len 1) }}, {{ else }}{{ if lt $i $len }} et {{ else }}.{{ end }}{{ end }}
-      {{ end }}
-    </p>
-  {{ end }}
-  {{ with .Params.songs }}
-    <p><i class="fa fa-music"></i> Interludes:
-      {{ $len := sub (len .) 1  }}
-      {{ range $i, $s := . }}
-          {{ $song := index $.Site.Data.songs $s }}
-          <a href="/songs/{{ $s | urlize}}/#{{ $s | urlize}}">{{ $song.song }} ({{ $song.artist}})</a>{{ if lt $i (sub $len 1) }}, {{ else }}{{ if lt $i $len }} et {{ else }}.{{ end }}{{ end }}
-      {{ end }}
-    </p>
-  {{ end }}
-  {{ with .Params.drinks }}
-    <p><i class="fa fa-glass"></i> Dégustations:
-      {{ $len := sub (len .) 1  }}
-      {{ range $i, $d := . }}
-          {{ $drink := index $.Site.Data.drinks $d }}
-          <a href="/drinks/{{ $d | urlize}}/#{{ $d | urlize}}">{{ $drink.name }}</a>{{ if lt $i (sub $len 1) }}, {{ else }}{{ if lt $i $len }} et {{ else }}.{{ end }}{{ end }}
-      {{ end }}
-    </p>
-  {{ end }}
-  {{ with .Params.tags }}
-  {{ $len := len . }}
-  <p><i class="fa fa-tag"></i> Tags:  {{ range $i, $tag := . }}
-            <span class="label"><a href="/tags/{{ $tag | urlize}}">{{ $tag }}</a></span>
-            {{ end }}
-  </p>
+    {{ end }}
   {{ end }}
 </footer>

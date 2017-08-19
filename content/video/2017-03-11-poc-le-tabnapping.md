@@ -8,7 +8,7 @@ subheadline: "Attention, un onglet peut en cacher un autre!"
 tags:
 - TODO
 title: "[PoC] Le Tabnapping"
-video: https://www.youtube.com/embed/L4orJ_Rk1sY
+video: "L4orJ_Rk1sY"
 authors:
   - morgan
 ---

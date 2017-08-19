@@ -1,12 +1,12 @@
 ---
 title: "[Épisode 30] l'ARJEL"
 date: 2015-08-07T17:58:49+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2015/08/episode-30-larjel/
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP30.2015-08-07.ARJEL.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP30.2015-08-07.ARJEL.mp3
 views: 3470
 image: /images/covers/2015-08-arjel-final.jpg
 categories:

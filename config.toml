@@ -11,7 +11,7 @@ disableAliases = true
 
 [params]
 live = false
-live_id = "0glcussnb18"
+live_id = "uMZHWSQVa4o"
 
 override_fonts = true
 fontbody = "Roboto"
@@ -35,8 +35,8 @@ name = "podcastFeed"
 mediatype = "application/rss"
 Path = "/feed/"
 baseName = "podcast"
-[outputFormats.Feed]
-name = "Feed"
+[outputFormats.RSSFeed]
+name = "RSSFeed"
 mediatype = "application/rss"
 Path = "/feed/"
 baseName = "all"
@@ -59,8 +59,8 @@ notAlternative = true
   delimiter = ""
 
 [outputs]
-home = [ "HTML", "podcastFeed", "Feed", "Headers", "Redirects"]
-page = [ "HTML"]
+home = [ "HTML", "podcastFeed", "Headers", "Redirects", "RSSFeed"]
+page = [ "HTML", "AMP"]
 
 
 [taxonomies]
@@ -77,7 +77,7 @@ guest = "guests"
       pre = "fa-pencil"
       weight = 20
       identifier = "blog"
-      url = "/article/"
+      url = "/blog/"
       [[menu.left]]
           name= "Annonces"
           parent = "blog"
@@ -85,11 +85,11 @@ guest = "guests"
           identifier = "annonce"
           url = "/annonce/"
       [[menu.left]]
-          name= "Articles"
+          name= "Blog communautaire"
           parent = "blog"
           weight = 22
           identifier = "article"
-          url = "/article/"
+          url = "/blog/"
   [[menu.left]]
       name = "Podcasts"
       pre = "fa-microphone"
@@ -103,7 +103,7 @@ guest = "guests"
           identifier = "emission"
           url = "/categories/emission/"
       [[menu.left]]
-          name = "Hors Séries"
+          name = "Hors-Séries"
           parent = "podcast"
           weight = 32
           identifier = "hors-serie"
@@ -150,7 +150,7 @@ guest = "guests"
       weight = 60
       identifier = "registre"
       [[menu.left]]
-          name= "Membres"
+          name= "Contributeurs"
           parent = "registre"
           weight = 61
           identifier = "membres"

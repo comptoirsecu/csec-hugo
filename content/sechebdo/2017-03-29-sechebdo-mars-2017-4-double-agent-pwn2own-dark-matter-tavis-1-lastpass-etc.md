@@ -4,11 +4,11 @@ title: "[SecHebdo] Mars 2017 - 4"
 subheadline: "Double Agent, Malware PLC Siemens, Leak Yahoo, Tavis & Lastpass, Pwn2Own, Dark Matter, etc."
 publisher: lois
 date: 2017-03-29T00:00:00+00:00
-video: https://www.youtube.com/embed/0doY-9thArc
+video: "0doY-9thArc"
 
 aliases: /2017/03/sechebdo-mars-2017-4-double-agent-pwn2own-dark-matter-tavis-1-lastpass-etc/
 podcast:
-    feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS41.2017-03-28.SECHebdo_Mar_2017-4.mp3
+    feed: https://podcast.comptoirsecu.fr/CSEC.HS41.2017-03-28.SECHebdo_Mar_2017-4.mp3
 image: /images/covers/2017-03-sechebdo-2017-03-28-vignette.jpg
 categories:
   - Podcast
@@ -31,13 +31,13 @@ tags:
   - Yahoo!
 
 chaptermarks:
-  "00:01:36": "DoubleAgent: Montagne ou Taupiniere ?"
-  "00:12:20": "Sécurité industrielle : Malware sur les PLC Siemens "
-  "00:17:16": "Tavis met son nez dans Lastpass et trouve quelque truffes"
-  "00:32:41": "CIA Vault 7 Episode 2 : Dark Matter"
-  "00:37:54": "Chantage de pirates d'effacer le contenu iCloud à distance"
-  "00:51:29": "Troll: Gilbert Collard VS la DGSI... euh Siri"
-  "00:53:16": "Découverte de la semaine: Clair"
+  - "00:01:36|DoubleAgent: Montagne ou Taupiniere ?"
+  - "00:12:20|Sécurité industrielle : Malware sur les PLC Siemens "
+  - "00:17:16|Tavis met son nez dans Lastpass et trouve quelque truffes"
+  - "00:32:41|CIA Vault 7 Episode 2 : Dark Matter"
+  - "00:37:54|Chantage de pirates d'effacer le contenu iCloud à distance"
+  - "00:51:29|Troll: Gilbert Collard VS la DGSI... euh Siri"
+  - "00:53:16|Découverte de la semaine: Clair"
 
 
 authors:
@@ -50,7 +50,7 @@ Nous venons de tourner le quatrième SECHebdo du mois de mars 2017 sur Youtube. 
 
 {{< podigee >}}
 
-Notre discord : <https://discord.comptoirsecu.fr>
+Notre discord : <http://discord.comptoirsecu.fr>
 
 A bientôt pour d'autres émissions/podcasts!
 

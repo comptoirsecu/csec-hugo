@@ -2,12 +2,12 @@
 
 title: "[Épisode 34] Actualité de Décembre"
 date: 2015-12-31T21:55:52+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2015/12/episode-34-actualite-de-decembre/
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP34.2015-12-29.ACTU_DECEMBRE.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP34.2015-12-29.ACTU_DECEMBRE.mp3
 views: 2088
 image: /images/covers/2015-12-decembre-final.jpg
 categories:
@@ -36,15 +36,15 @@ songs:
   - celldweller_endofanempire
 
 chaptermarks:
-  "00:00:00": "Intro musical avec Darabos Beata – Jingle Bell"
-  "00:01:11": "Les jouets connectés"
-  "00:05:07": "ZeroDB : La base de donnée que vous avez le droit de leaker"
-  "00:07:50": "Le ransomware Linux.Encoder"
-  "00:13:00": "Fondateur du bitcoin enfin révélé ?"
-  "00:18:52:": "Idée Cadeau : Qwertycard"
-  "00:23:55": "Le DHS et son nouveau programme NCATS de tests de pénétration gratuit"
-  "00:29:16": "Flash News"
-  "00:33:12": "Outro musical avec Celldweller – End of an Empire"
+  - "00:00:00|Intro musical avec Darabos Beata – Jingle Bell"
+  - "00:01:11|Les jouets connectés"
+  - "00:05:07|ZeroDB : La base de donnée que vous avez le droit de leaker"
+  - "00:07:50|Le ransomware Linux.Encoder"
+  - "00:13:00|Fondateur du bitcoin enfin révélé ?"
+  - "00:18:52|Idée Cadeau : Qwertycard"
+  - "00:23:55|Le DHS et son nouveau programme NCATS de tests de pénétration gratuit"
+  - "00:29:16|Flash News"
+  - "00:33:12|Outro musical avec Celldweller – End of an Empire"
 ---
 
 Toute l'équipe du Comptoir Sécu vous souhaite de joyeuses fêtes ! Espérons que l'année vous réserve pleine de bonnes choses aussi bien professionnellement que personnellement.

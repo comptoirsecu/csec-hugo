@@ -2,12 +2,12 @@
 
 title: "[Épisode 17] Bring Your Own Suze"
 date: 2014-04-16T11:44:51+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2014/04/episode-17-bring-your-own-suze/
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP17.2014-04-15.BYOS.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP17.2014-04-15.BYOS.mp3
 views: 15663
 image: /images/covers/2014-04-suze.jpg
 categories:
@@ -37,11 +37,11 @@ songs:
   - mrbill_soretro
 
 chaptermarks:
-  "00:01:48": "Les news du moment"
-  "00:42:30": "Dossier: Le BYOD"
-  "01:14:00": "Interlude musicale: L'été indien d'Alexandre Gagoug"
-  "01:16:20": "What's Next: Le BYOID"
-  "01:36:00": "Musique de fin avec So Retro de Mr Bill et the Algorithm"
+  - "00:01:48|Les news du moment"
+  - "00:42:30|Dossier: Le BYOD"
+  - "01:14:00|Interlude musicale: L'été indien d'Alexandre Gagoug"
+  - "01:16:20|What's Next: Le BYOID"
+  - "01:36:00|Musique de fin avec So Retro de Mr Bill et the Algorithm"
 ---
 
 Le numéro 17 est prêt pour vos oreilles. Suite au bon conseils de nos ami du [podgast](http://www.podgast.net/) nous avons fait un épisode spécial Suze !

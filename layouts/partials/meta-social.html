@@ -1,0 +1,29 @@
+<meta property="og:title" content="{{ .Title }} (Le Comptoir Sécu)" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="{{ .Permalink }}" />
+{{ $img := or .Params.image "/images/covers/default.jpg" }}
+{{ $imgprefix := substr $img 0 -4 }}
+<meta property="og:image" content="{{ .Site.BaseURL }}{{ $imgprefix }}-medium.jpg" />
+<meta property="og:locale" content="fr_FR" />
+<meta property="og:site_name" content="Le Comptoir Sécu" />
+<meta property="og:description" content="{{ with .Params.subheadline }}{{ . }} : {{ end }}{{ .Summary }}" />
+{{ range .Params.tags }}
+  <meta property="article:tag" content="{{ . }}" />
+{{ end }}
+<meta property="article:section" content="{{ .Section }}" />
+<meta property="article:published_time" content="{{ dateFormat "2006-01-02T15:04:05-07:00" .Date}}" />
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="Le Comptoir Sécu" />
+<meta name="twitter:description" content="{{ with .Params.subheadline }}{{ . }} : {{ end }}{{ .Summary }}" />
+<meta name="twitter:title" content="{{ .Title }}" />
+<meta name="twitter:image" content="{{ .Site.BaseURL }}{{ $imgprefix }}-medium.jpg" />
+<meta name="twitter:creator" content="@comptoirsecu" />
+
+{{ with .Params.podcast }}
+  <meta property="og:audio" content="{{ .feed }}" />
+{{ end }}
+
+{{ with .Params.video }}
+  <meta property="og:video" content="https://www.youtube.com/embed/{{ . }}" />
+{{ end }}

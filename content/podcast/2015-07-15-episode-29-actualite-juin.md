@@ -2,12 +2,12 @@
 
 title: "[Épisode 29] Actualité Juin"
 date: 2015-07-15T15:26:41+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2015/07/episode-29-actualite-juin/
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP29.2015-07-15.ACTU_JUIN.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP29.2015-07-15.ACTU_JUIN.mp3
 views: 3650
 image: /images/covers/2015-07-hacked-team.jpg
 categories:
@@ -33,17 +33,17 @@ drinks:
   - la_demembree
 
 chaptermarks:
-  "00:02:10": "Amazon S2N"
-  "00:10:06": "AvTest"
-  "00:13:39": "Hacking Team"
-  "00:22:36": "Justicier numérique"
-  "00:24:23": "Aéroport de Varsovie"
-  "00:26:27": "SCPP"
-  "00:28:18": "Code de bonne conduite dans le cyberespace"
-  "00:29:30": "Animal Farm"
-  "00:30:45": "Pause musicale avec Moscow Youth Cult – Tenebris"
-  "00:32:30": "Retour sur les conférences"
-  "01:07:09": "Outro musical avec [Moscow Youth Cult – Trancers"
+  - "00:02:10|Amazon S2N"
+  - "00:10:06|AvTest"
+  - "00:13:39|Hacking Team"
+  - "00:22:36|Justicier numérique"
+  - "00:24:23|Aéroport de Varsovie"
+  - "00:26:27|SCPP"
+  - "00:28:18|Code de bonne conduite dans le cyberespace"
+  - "00:29:30|Animal Farm"
+  - "00:30:45|Pause musicale avec Moscow Youth Cult – Tenebris"
+  - "00:32:30|Retour sur les conférences"
+  - "01:07:09|Outro musical avec [Moscow Youth Cult – Trancers"
 
 songs:
   - moscowyouthcult_tenebris

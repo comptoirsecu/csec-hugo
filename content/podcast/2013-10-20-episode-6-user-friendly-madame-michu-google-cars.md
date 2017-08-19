@@ -2,10 +2,10 @@
 
 title: "[Épisode 6] User-friendly, Madame Michu  Google Cars"
 date: 2013-10-20T21:16:10+00:00
-publisher: comptoirsecu
+
 
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP06.2013-10-20.USER_FRIENDLY.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP06.2013-10-20.USER_FRIENDLY.mp3
 aliases: /2013/10/episode-6-user-friendly-madame-michu-google-cars/
 views: 1946
 
@@ -25,10 +25,10 @@ tags:
   - User
 
 chaptermarks:
-  "00:01:14": Des news
-  "00:15:06": Une pause musicale avec DJ-PIE - Desert Twerk
-  "00:18:23": "Débat: La sécurité peut-elle être user-friendly?"
-  "00:39:28": "What's Next: Les Google Cars"
+  - "00:01:14|Des news"
+  - "00:15:06|Une pause musicale avec DJ-PIE - Desert Twerk"
+  - "00:18:23|Débat: La sécurité peut-elle être user-friendly?"
+  - "00:39:28|What's Next: Les Google Cars"
 
 authors:
   - justin

@@ -1,0 +1,66 @@
+<!doctype html>
+<html amp lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <title>Hello, AMPs</title>
+    {{ with  .OutputFormats.Get "HTML" -}}
+    <link rel="canonical" href="{{ .Permalink }}">
+    {{- end }}
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    {{ partial "meta-social.html" . }}
+    {{ partial "header-boilerplate.amp.html" . }}
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+
+  </head>
+  <body>
+          <a href="{{ .Site.BaseURL }}">
+    <div class="hero-section">
+
+      <div class="hero-section-text">
+        <h1><i class="logo"></i><strong>Le Comptoir Sécu</strong></h1>
+        <h5>Parlons cybersécurité...autour d'un verre!</h5>
+      </div>
+
+    </div>
+        </a>
+    <div id="headings">
+
+    <h1>{{ .Title }}</h1>
+    {{- with .Params.subheadline }}
+    <h2 class="subheadline">{{ . }}</h2>
+    {{ end -}}
+
+    {{- if or (eq .Section "video") (eq .Section "sechebdo") }}
+    <amp-youtube data-videoid="{{ .Params.Video }}" layout="responsive" width="480" height="270"></amp-youtube>
+    {{- else -}}
+    {{- $img := or .Params.image "/images/covers/default.jpg" -}}
+    {{- $imgprefix := substr $img 0 -4 -}}
+    <amp-img src="{{ $imgprefix }}.jpg"
+    srcset="{{ $imgprefix }}-small.jpg 384w,
+            {{ $imgprefix }}-medium.jpg 640w,
+            {{ $imgprefix }}-large.jpg 1024w" alt="{{ .Title }}" height="576" width="1024" layout="responsive"></amp-img>
+    {{ end -}}
+  </div>
+<div id="article">
+    {{ .Content }}
+
+
+  </div>
+  {{ partial "metadata.html" . }}
+  <amp-analytics type="googleanalytics">
+<script type="application/json">
+{
+  "vars": {
+    "account": "{{ .Site.Params.GoogleAnalyticsID }}"
+  },
+  "triggers": {
+    "trackPageview": {
+      "on": "visible",
+      "request": "pageview"
+    }
+  }
+}
+</script>
+</amp-analytics>
+  </body>
+</html>

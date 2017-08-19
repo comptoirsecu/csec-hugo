@@ -1,11 +1,14 @@
 <!DOCTYPE html>
-<html class="no-js" lang="fr" prefix="og: http://ogp.me/ns#">
+<html class="no-js" lang="fr" prefix="og: http://ogp.me/ns#" itemtype="http://schema.org/Article">
 <head>
     {{ partial "meta.html" . }}
-
+    {{ partial "meta-social.html" . }}
     <!-- <base href="{{ .Site.BaseURL }}"> -->
     <title>{{ .Title }} : Le Comptoir Sécu</title>
     <link rel="canonical" href="{{ .Permalink }}">
+    {{ with  .OutputFormats.Get "AMP" -}}
+    <link rel="amphtml" href="{{ .Permalink }}">
+    {{- end }}
     <link href="/feed/all.xml" rel="alternate" type="application/rss+xml" title="Le Comptoir Sécu - Toutes nos publications" />
     <link href="/feed/podcast.xml" rel="alternate" type="application/rss+xml" title="Le Comptoir Sécu - Nos podcasts" />
 

@@ -2,13 +2,13 @@
 
 title: "[Épisode 11] SCADA, objets connectés"
 date: 2014-01-14T10:00:13+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2014/01/episode-11-ou-lon-parle-de-scada-et-des-objets-connectes/
 views: 2903
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP11.2014-01-13.SCADA.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP11.2014-01-13.SCADA.mp3
 image: /images/covers/2014-01-5307999284_4e7cc2766a_o.jpg
 categories:
   - Podcast
@@ -44,11 +44,11 @@ drinks:
   - abbaye_velours
 
 chaptermarks:
-  "00:01:39": "Revue d'actualité"
-  "00:33:19": "Dossier SCADA par notre invité"
-  "01:07:59": "Pause musicale avec  Semiologist Feat. Lysergist"
-  "01:09:55": "What's Next: Les objets connectés"
-  "01:20:33": "Outro avec  Mitch Murder – Mute City"
+  - "00:01:39|Revue d'actualité"
+  - "00:33:19|Dossier SCADA par notre invité"
+  - "01:07:59|Pause musicale avec  Semiologist Feat. Lysergist"
+  - "01:09:55|What's Next: Les objets connectés"
+  - "01:20:33|Outro avec  Mitch Murder – Mute City"
 ---
 Bonne année à toutes et tous !
 

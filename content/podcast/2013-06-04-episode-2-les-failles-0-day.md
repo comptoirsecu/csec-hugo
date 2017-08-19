@@ -1,12 +1,12 @@
 ---
 title: "[Épisode 2] Les failles 0 day"
-publisher: comptoirsecu
+
 date: 2013-06-04T00:00:00+00:00
 
 aliases: /2013/06/podcast-episode-2-les-failles-0-day/
 
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP02.2013-06-04.ZERODAY.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP02.2013-06-04.ZERODAY.mp3
 
 categories:
   - Podcast

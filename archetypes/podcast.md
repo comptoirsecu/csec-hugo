@@ -1,11 +1,11 @@
 ---
 title: "[Épisode XX] TITRE"
 subheadline: ""
-publisher: comptoirsecu
+publisher:
 date: {{ dateFormat "2006-01-02" .Date }}
 image:  /images/covers/{{ dateFormat "2006-01-02" .Date }}.jpg
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/FILE.mp3
+  feed: https://podcast.comptoirsecu.fr/FILE.mp3
 categories:
   - Podcast
   - Emission
@@ -19,7 +19,7 @@ authors:
   - lois
 
 chaptermarks:
-  "00:01:30": "Titre"
+  - "00:01:30|Titre"
 
 drinks:
   - delirium_nocturnum

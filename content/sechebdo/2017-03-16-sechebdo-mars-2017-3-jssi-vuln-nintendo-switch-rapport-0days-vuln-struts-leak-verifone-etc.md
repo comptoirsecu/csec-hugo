@@ -4,11 +4,11 @@ title: "[SECHebdo] Mars 2017 - 3"
 subheadline: "JSSI, Vuln. Nintendo Switch, Rapport 0Days, Vuln. Struts, Leak Verifone, etc."
 publisher: lois
 date: 2017-03-16T00:00:00+00:00
-video: https://www.youtube.com/embed/AaMfGmXx2gE
+video: "AaMfGmXx2gE"
 
 aliases: /2017/03/sechebdo-mars-2017-3-jssi-vuln-nintendo-switch-rapport-0days-vuln-struts-leak-verifone-etc/
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS40.2017-03-14.SECHebdo_Mar_2017-3.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.HS40.2017-03-14.SECHebdo_Mar_2017-3.mp3
 image: /images/covers/2017-03-sechebdo-2017-03-14-vignette.jpg
 categories:
   - Podcast
@@ -38,7 +38,7 @@ Nous venons de tourner le troisième SEC Hebdo du mois de mars 2017 en Live ! C
 {{< podigee >}}
 
 
-Notre discord : <https://discord.comptoirsecu.fr>
+Notre discord : <http://discord.comptoirsecu.fr>
 
 A bientôt pour d'autres émissions/podcasts!
 

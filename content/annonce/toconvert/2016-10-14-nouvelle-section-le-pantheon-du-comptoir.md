@@ -18,7 +18,8 @@ tags:
 ---
 
 
-Aujourd'hui, pas de nouvel épisode, mais une nouvelle section dans notre site :** [Le Panthéon du Comptoir](https://www.comptoirsecu.fr/pantheon/)**.
+
+Aujourd'hui, pas de nouvel épisode, mais une nouvelle section dans notre site : **[Le Panthéon du Comptoir](https://www.comptoirsecu.fr/page/pantheon/)**.
 
 Sur cette page vous retrouverez les personnes qui, bien que ne faisant pas partie de l’équipe, ont contribué, à leur manière, à nous améliorer.
 

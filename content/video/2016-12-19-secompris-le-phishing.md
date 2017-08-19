@@ -21,7 +21,7 @@ tags:
   - Vishing
   - Whaling
   - Youtube
-video: https://www.youtube.com/embed/mqrt9rYzvRY
+video: "mqrt9rYzvRY"
 
 authors:
   - morgan

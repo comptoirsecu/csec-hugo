@@ -387,7 +387,7 @@ maredsous_triple:
   subtype: Triple
   degree: 10
   country: Belgique
-  description: Bière de type abbaye à fermentation haute, de couleur abricot-orange. Sa mousse est blanche fine et onctueuse. Sa saveur est corsée, bien en bouche, et légèrement épicée. Son goût est levurée acre et fruité, avec une post-amertume équilibrée.
+  description: "Bière de type abbaye à fermentation haute, de couleur abricot-orange. Sa mousse est blanche fine et onctueuse. Sa saveur est corsée, bien en bouche, et légèrement épicée. Son goût est levurée acre et fruité, avec une post-amertume équilibrée."
   image: maredsous_triple.jpg
 
 fond_de_culotte:
@@ -423,7 +423,7 @@ mythos:
   degree: 4.7
   country: Grèce
   image: mythos.jpg
-  description: D'une couleur blonde dorée, elle présente une mousse crémeuse, et des arômes complexes. Bien équilibrée, et légèrement sucrée, la Mythos est très rafraichissante.
+  description: "D'une couleur blonde dorée, elle présente une mousse crémeuse, et des arômes complexes. Bien équilibrée, et légèrement sucrée, la Mythos est très rafraichissante."
 
 
 goudale:
@@ -463,7 +463,7 @@ swedish_elkbrew:
   country: Suède
   degree: 7.5
   image: swedish_elkbrew.jpg
-  description: Bière qui n'a d'intéressant que le nom et l'étiquette, passez votre chemin
+  description: "Bière qui n'a d'intéressant que le nom et l'étiquette, passez votre chemin..."
 
 
 cabernetdanjou_bbrose:
@@ -483,7 +483,7 @@ cocillana-ethyfin:
   degree: 98%
   country: Suède
   image: cocillana-ethyfin.jpg
-  description: Médicament habituellement utilisé pour soulager la toux. On peut sentir son action en moins d'une heure ! Incroyable !
+  description: "Médicament habituellement utilisé pour soulager la toux. On peut sentir son action en moins d'une heure ! Incroyable !"
 
 leffe_blonde:
   name: Leffe
@@ -516,7 +516,7 @@ saintbernardus_blanche:
   name: Saint Bernardus Blanche
   type: Bière
   subtype: "Witbier / Blanche"
-  description: "Au nez, elle dégage des arômes de fruits, d'agrumes, de malt, de coriandre et de levure.En bouche, on y retrouve des saveurs d'agrumes, d'orange, de malt, de coriandre et de levure."
+  description: "Au nez, elle dégage des arômes de fruits, d'agrumes, de malt, de coriandre et de levure. En bouche, on y retrouve des saveurs d'agrumes, d'orange, de malt, de coriandre et de levure."
   country: Belgique
   degree: 5.5
   image: saintbernardus_blanche.jpg
@@ -567,3 +567,12 @@ biere_k:
   degree: 5
   description: "Bière fraiche au goût fruité, on en demande pas plus de cette radler."
   image: biere_k.jpg
+
+pilsner_urquell:
+  name: Pilsner Urquell
+  type: Bière
+  subtype: Blonde
+  country: République Tchèque
+  degree: 4.4
+  description: "Bière florale désaltérante venant de Plzeň. Dorée, vivante et pleine d'âme. Fin sèche et amère."
+  image: pilsner_urquell.jpg

@@ -3,13 +3,13 @@
 title: "[Épisode 21] Ébola"
 subheadline: La gestion des pandémies en entreprise
 date: 2014-11-04T00:25:27+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2014/11/episode-21-ebola-la-gestion-des-pandemies-en-entreprise/
 views: 6066
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP21.2014-11-03.PANDEMIE_EBOLA.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP21.2014-11-03.PANDEMIE_EBOLA.mp3
 image: /images/covers/2014-11-o-EBOLA-VIRUS-facebook.jpg
 categories:
   - Podcast
@@ -41,11 +41,11 @@ authors:
   - youenn
 
 chaptermarks:
-  "00:02:24": "Début du dossier"
-  "00:23:55": "Pause Musicale avec Datasette – Music Fourteen"
-  "00:26:01": "Suite du dossier"
-  "00:55:55": "Outro"
-  "00:57:09": "Musique de fin avec Ella Fitzgerald - Stella By Starlight"
+  - "00:02:24|Début du dossier"
+  - "00:23:55|Pause Musicale avec Datasette – Music Fourteen"
+  - "00:26:01|Suite du dossier"
+  - "00:55:55|Outro"
+  - "00:57:09|Musique de fin avec Ella Fitzgerald - Stella By Starlight"
 
 
 songs:

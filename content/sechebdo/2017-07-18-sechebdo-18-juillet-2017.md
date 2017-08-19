@@ -1,12 +1,12 @@
 ---
 title: '[SECHebdo] 18 Juillet 2017'
 subheadline: "NTLM Relay, Cisco WebEX, Google 2FA, ToS, Coût d'une cyberattaque, HumbleBundle, etc."
-publisher: comptoirsecu
+
 aliases: /2017/07/sechebdo-18-juillet-2017-ntlm-relay-cisco-webex-google-2fa-tos-cout-dune-cyberattaque-humblebundle-etc/
 date: 2017-07-18
 image:  /images/covers/2017-07-18.jpg
 podcast:
-    feed: https://media.blubrry.com/comptoirsecu/s/podcast.comptoirsecu.fr/CSEC.SECHebdo.2017-07-18.mp3
+    feed: https://podcast.comptoirsecu.fr/CSEC.SECHebdo.2017-07-18.mp3
     description: "SECHebdo est une revue de l'actualité cybersécurité réalisé en live sur Youtube, généralement le mardi soir."
 categories:
  - Podcast
@@ -28,16 +28,16 @@ authors:
   - lois
 
 chaptermarks:
-  "00:02:59": "Vulnérabilité NTLM"
-  "00:13:45": "Vulnérabilité Cisco WebEx Extension Chrome et Firefox"
-  "00:21:15": "Google abandonne le 2FA par SMS au profit du prompt mobile"
-  "00:27:03": "Le gouvernement américain interdit l'utilisation de Kaspersky au sein de ses agences fédérales"
-  "00:37:50": "22 000 personnes acceptent de récurer les chiottes en ne lisant pas les conditions de service du Wifi"
-  "00:45:40": "Les coûts d'une cyberattaque"
-  "00:51:55": "Ashley Madison va devoir dédommager financièrement les victimes du piratage de son site"
-  "00:56:15": "Découverte de la semaine: Humble Bundle Books sur la cybersécurité"
+  - "00:02:59|Vulnérabilité NTLM"
+  - "00:13:45|Vulnérabilité Cisco WebEx Extension Chrome et Firefox"
+  - "00:21:15|Google abandonne le 2FA par SMS au profit du prompt mobile"
+  - "00:27:03|Le gouvernement américain interdit l'utilisation de Kaspersky au sein de ses agences fédérales"
+  - "00:37:50|22 000 personnes acceptent de récurer les chiottes en ne lisant pas les conditions de service du Wifi"
+  - "00:45:40|Les coûts d'une cyberattaque"
+  - "00:51:55|Ashley Madison va devoir dédommager financièrement les victimes du piratage de son site"
+  - "00:56:15|Découverte de la semaine: Humble Bundle Books sur la cybersécurité"
 
-video: https://www.youtube.com/embed/nbOJ7wwQdhs
+video: "nbOJ7wwQdhs"
 ---
 
 
@@ -47,7 +47,7 @@ Les vacances sont finis de notre côté : on est donc de retour avec un nouvel �
 
 {{< podigee >}}
 
-Notre discord : <https://discord.comptoirsecu.fr>
+Notre discord : <http://discord.comptoirsecu.fr>
 
 A bientôt pour d'autres émissions/podcasts!
 

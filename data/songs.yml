@@ -550,3 +550,17 @@ botox_bluesteel:
   song: Bot'Ox Blue Steel
   image: botox_bluesteel.jpg
   uri: https://soundcloud.com/imacliche/botox-blue-steel-featuring-1
+
+facesontv_itscomingin:
+  artist: Faces On Tv
+  song: It's coming in
+  album: Traveling Blind
+  uri: http://www.bilborecords.be/faces-on-tv-traveling-blind-digi-cd?language=en
+  image: facesontv_itscomingin.jpg
+
+roedeers_perkunas:
+  artist: Roe Deers
+  song: Perkūnas (Runemark Remark)
+  album: Autumn Plants
+  uri: https://www.beatport.com/track/perkunas-runemark-remark/8268103
+  image: roedeers_perkunas.jpg

@@ -2,13 +2,13 @@
 
 title: "[Épisode 7] Rôle du RSSI"
 date: 2013-11-13T09:50:40+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2013/11/episode-7-ou-lon-parle-du-role-du-rssi/
 views: 2991
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP07.2013-11-13.RSSI.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP07.2013-11-13.RSSI.mp3
 categories:
   - Podcast
   - Emission
@@ -35,10 +35,10 @@ songs:
   - yoon_nur_secuemremix
 
 chaptermarks:
-  "00:01:11": Revue d'actualité
-  "00:30:56": Un échange sur le rôle du RSSI
-  "00:42:15": Une pause musicale avec un extrait Daed - Sentient 
-  "01:17:34": Une nouvelle interview d'un étudiant de l'EGE
+  - "00:01:11|Revue d'actualité"
+  - "00:30:56|Un échange sur le rôle du RSSI"
+  - "00:42:15|Une pause musicale avec un extrait Daed - Sentient "
+  - "01:17:34|Une nouvelle interview d'un étudiant de l'EGE"
 ---
 Voilà le premier épisode du mois de Novembre, avec un peu de retard.
 

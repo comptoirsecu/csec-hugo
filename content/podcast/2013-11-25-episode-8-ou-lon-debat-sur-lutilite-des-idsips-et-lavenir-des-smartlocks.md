@@ -3,13 +3,13 @@
 title: "[Épisode 8] Utilité des IDS/IPS"
 subheadline: et avenir des smartlocks
 date: 2013-11-25T08:53:01+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2013/11/episode-8-ou-lon-debat-sur-lutilite-des-idsips-et-lavenir-des-smartlocks/
 views: 2108
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP08.2013-11-22.IDS.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP08.2013-11-22.IDS.mp3
 image: /images/covers/2013-11-SMARTLOCK.jpg
 categories:
   - Podcast
@@ -42,11 +42,11 @@ songs:
   - 2080_en2080
 
 chaptermarks:
-  "00:01:47": "Revue d'actualité"
-  "00:25:53": "Une pause musicale avec 2080 - En 2080"
-  "00:27:50": "Débat sur les IDS/IPS"
-  "01:01:03": "Une seconde pause musicale avec Bitcrusher - 64.865457,-19.556783"
-  "01:01:54": "What's Next : Les smartlock, ces nouvelles serrures technologiques"
+  - "00:01:47|Revue d'actualité"
+  - "00:25:53|Une pause musicale avec 2080 - En 2080"
+  - "00:27:50|Débat sur les IDS/IPS"
+  - "01:01:03|Une seconde pause musicale avec Bitcrusher - 64.865457,-19.556783"
+  - "01:01:54|What's Next : Les smartlock, ces nouvelles serrures technologiques"
 ---
 Voici le deuxième podcast du mois de Novembre.
 

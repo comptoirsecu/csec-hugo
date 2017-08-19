@@ -1,13 +1,13 @@
 ---
 title: "[Épisode 25] Actualité Mars"
 date: 2015-04-07T13:13:37+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2015/04/episode-25-actualite-mars/
 views: 5824
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP25.2015-04-06.ACTU_MARS2015.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP25.2015-04-06.ACTU_MARS2015.mp3
 image: /images/covers/2015-04-sony-northkorea-hack.jpg
 categories:
   - Podcast
@@ -34,15 +34,15 @@ drinks:
   - la_touraille
 
 chaptermarks:
-  "00:01:50": "Attaque sur la Corée du Nord"
-  "00:06:16": "Slack"
-  "00:19:30": "DEFNET"
-  "00:23:30": "Poseidon"
-  "00:29:03": "Apple Supprime les antivirus de l'Apple Store"
-  "00:36:08": "Cour de Justice Européenne sur les échanges de données avec l'US"
-  "00:39:00": "LABIO piraté"
-  "00:41:57": "Tindr détourné"
-  "00:45:20": "Outro avec Kimbra – Slum Love"
+  - "00:01:50|Attaque sur la Corée du Nord"
+  - "00:06:16|Slack"
+  - "00:19:30|DEFNET"
+  - "00:23:30|Poseidon"
+  - "00:29:03|Apple Supprime les antivirus de l'Apple Store"
+  - "00:36:08|Cour de Justice Européenne sur les échanges de données avec l'US"
+  - "00:39:00|LABIO piraté"
+  - "00:41:57|Tindr détourné"
+  - "00:45:20|Outro avec Kimbra – Slum Love"
 ---
 
 Voici le nouvel épisode qui résume l'actualité du mois de Mars.

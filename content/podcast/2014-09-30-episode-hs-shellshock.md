@@ -2,13 +2,13 @@
 
 title: "Analyses: ShellShock"
 date: 2014-09-30T01:32:14+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2014/09/episode-hs-shellshock/
 views: 5179
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS02.2014-09-30.SHELLSHOCK.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.HS02.2014-09-30.SHELLSHOCK.mp3
 image: /images/covers/2014-09-SS_Logo_edited-1.jpg
 categories:
   - Podcast
@@ -34,10 +34,10 @@ songs:
   - gramophonedzie_whydontyou
 
 chaptermarks:
-  "00:01:19": "Dossier: Shellshock"
-  "00:31:12": "Interlude musicale avec  The Pineapple Thief – Alone At Sea"
-  "00:34:10": "Annonce pour les Assises de la Sécurité"
-  "00:39:51": "Musique de fin avec Gramophonedzie – Why Don't You"
+  - "00:01:19|Dossier: Shellshock"
+  - "00:31:12|Interlude musicale avec  The Pineapple Thief – Alone At Sea"
+  - "00:34:10|Annonce pour les Assises de la Sécurité"
+  - "00:39:51|Musique de fin avec Gramophonedzie – Why Don't You"
 
 drinks:
   - sankteriks_rauchbier

@@ -2,12 +2,12 @@
 
 title: "[Épisode 40] La sécurité d'Active Directory"
 subheadline: "Si l'AD est compromis, c'est Game Over"
-publisher: comptoirsecu
+
 date: 2017-02-09T00:00:00+00:00
 
 aliases: /2017/02/episode-40-la-securite-dactive-directory/
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP40.2017-02-09.ACTIVE_DIRECTORY.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP40.2017-02-09.ACTIVE_DIRECTORY.mp3
 image: /images/covers/2017-02-AD.jpg
 categories:
   - Podcast

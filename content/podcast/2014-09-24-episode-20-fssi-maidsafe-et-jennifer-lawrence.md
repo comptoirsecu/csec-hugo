@@ -2,13 +2,13 @@
 
 title: "[Épisode 20] FSSI, Maidsafe et Jennifer Lawrence"
 date: 2014-09-24T19:37:01+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2014/09/episode-20-fssi-maidsafe-et-jennifer-lawrence/
 views: 4364
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP20.2014-09-24.FSSI.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP20.2014-09-24.FSSI.mp3
 image: /images/covers/2014-09-015.jpg
 categories:
   - Podcast
@@ -40,11 +40,11 @@ guests:
   - emeric_laroche
 
 chaptermarks:
-  "00:02:22": "Les news du moment"
-  "00:33:30": "Dossier: Différence public/privé pour un responsable sécurité avec le FSSI adjoint du mindef"
-  "01:12:25": "Interlude musicale avec Rapture de Savant"
-  "01:12:25": "What's Next: Les réseaux mesh et MaidSafe"
-  "01:36:13": "Musique de fin avec I want un Smoothie"
+  - "00:02:22|Les news du moment"
+  - "00:33:30|Dossier: Différence public/privé pour un responsable sécurité avec le FSSI adjoint du mindef"
+  - "01:12:25|Interlude musicale avec Rapture de Savant"
+  - "01:12:25|What's Next: Les réseaux mesh et MaidSafe"
+  - "01:36:13|Musique de fin avec I want un Smoothie"
 
 ---
 

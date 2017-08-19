@@ -2,12 +2,12 @@
 
 title: "[Épisode 12] Darknets, Alt-Coins"
 date: 2014-01-27T09:30:59+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2014/01/episode-12-ou-lon-parle-des-darknets-et-des-alt-coins/
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP12.2014-01-24.DARKNETS.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP12.2014-01-24.DARKNETS.mp3
 views: 6872
 
 image: /images/covers/2014-01-tor_browser_logo_by_j_bob-d5gjqrq.jpg
@@ -41,11 +41,11 @@ songs:
   - goto80_heyhey
 
 chaptermarks:
-  "00:02:00": "Revue d'actualité"
-  "00:34:49": "Dossier sur les Darknets"
-  "01:22:41": "Une  pause musicale avec Miniroc – BitterBleeps"
-  "01:26:05": "What's Next : Les monnaies alternatives numériques"
-  "01:30:00": "Outro avec Goto80 – Hey Hey"
+  - "00:02:00|Revue d'actualité"
+  - "00:34:49|Dossier sur les Darknets"
+  - "01:22:41|Une  pause musicale avec Miniroc – BitterBleeps"
+  - "01:26:05|What's Next : Les monnaies alternatives numériques"
+  - "01:30:00|Outro avec Goto80 – Hey Hey"
 ---
 
 {{< chaptermarks >}}

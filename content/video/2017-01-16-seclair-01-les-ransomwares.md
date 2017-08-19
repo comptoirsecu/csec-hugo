@@ -7,7 +7,7 @@ date: 2017-01-16T00:00:00+00:00
 
 aliases: /2017/01/seclair-01-les-ransomwares/
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS30.2016-01-16.SEClair_Les_Ransomwares.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.HS30.2016-01-16.SEClair_Les_Ransomwares.mp3
   descripton: "SEClair est une variante un peu plus courte que SECompris (et avec beaucoup, beaucoup plus de cuts).
 
     Je vous cache pas que c'est un essai, n'hésitez pas à me dire dans les commentaires ce que vous en pensez. Je me dis que ça va peut-être un peu trop vite niveau information à assimiler.
@@ -24,7 +24,7 @@ tags:
   - SEClair
   - virus
   - Youtube
-video: https://www.youtube.com/embed/3tA1x3LhXy0
+video: "3tA1x3LhXy0"
 
 authors:
   - morgan

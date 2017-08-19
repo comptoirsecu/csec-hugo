@@ -5,7 +5,7 @@ publisher:
 date: {{ dateFormat "2006-01-02" .Date }}
 image:  /images/covers/{{ dateFormat "2006-01-02" .Date }}.jpg
 podcast:
-    feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/FILE.mp3
+    feed: https://podcast.comptoirsecu.fr/FILE.mp3
     description: "SECHebdo est une revue de l'actualité cybersécurité réalisé en live sur Youtube, généralement le mardi soir."
 categories:
  - Podcast
@@ -24,9 +24,9 @@ authors:
   - lois
 
 chaptermarks:
-  "00:01:30": "Titre"
+  - "00:01:30|Titre"
 
-video: https://www.youtube.com/embed/CODECODECODE
+video: "CODECODECODE"
 ---
 
 Nous venons de tourner un nouveau SECHebdo en live sur Youtube. Comme d'habitude, si vous avez raté l'enregistrement, vous pouvez le retrouver sur notre chaîne Youtube (vidéo ci-dessus) ou bien au format podcast audio:
@@ -35,7 +35,7 @@ Nous venons de tourner un nouveau SECHebdo en live sur Youtube. Comme d'habitude
 
 {{< podigee >}}
 
-Notre discord : <https://discord.comptoirsecu.fr>
+Notre discord : <http://discord.comptoirsecu.fr>
 
 A bientôt pour d'autres émissions/podcasts!
 

@@ -2,12 +2,12 @@
 
 title: "[Épisode 28] Développement sécurisé"
 date: 2015-06-30T21:22:14+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2015/06/episode-28-developpement-securise/
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP28.2015-06-29.DEVELOPPEMENT_SECURISE.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP28.2015-06-29.DEVELOPPEMENT_SECURISE.mp3
 views: 5440
 image: /images/covers/2015-06-ed87467131fcadd9a103440dc51500b6_large.jpg
 categories:
@@ -33,7 +33,7 @@ drinks:
   - corona_extra
 
 chaptermarks:
-  "00:36:15": "Interlude musicale avec Nine Inch Nails – 7 Ghost I"
+  - "00:36:15|Interlude musicale avec Nine Inch Nails – 7 Ghost I"
 ---
 
 

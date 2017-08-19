@@ -3,12 +3,12 @@
 title: "[Épisode 9] Guerre pour l'identité numérique"
 subheadline: et l'avenir des bitcoins
 date: 2013-12-06T09:00:22+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2013/12/episode-9-ou-lon-parle-de-la-guerre-pour-lidentite-numerique-et-des-bitcoins/
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP09.2013-12-05.IDENTITE_NUMERIQUE.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP09.2013-12-05.IDENTITE_NUMERIQUE.mp3
 views: 3044
 image: /images/covers/2013-12-TEASER.EP09.jpg
 categories:
@@ -41,11 +41,11 @@ songs:
   - cube_blipblop
 
 chaptermarks:
-  "00:01:47": "Revue d'actualité"
-  "00:26:53": "Dossier de l'invité sur l'identité numérique"
-  "01:10:25": "Une pause musicale avec Star Modele - Le matos (remix instrumental)"
-  "01:13:50": "What's Next: Les bitcoins"
-  "01:38:50": " La musique de fin avec !Cube – Blipblop Memories"
+  - "00:01:47|Revue d'actualité"
+  - "00:26:53|Dossier de l'invité sur l'identité numérique"
+  - "01:10:25|Une pause musicale avec Star Modele - Le matos (remix instrumental)"
+  - "01:13:50|What's Next: Les bitcoins"
+  - "01:38:50| La musique de fin avec !Cube – Blipblop Memories"
 ---
 Le premier podcast de Décembre est arrivé !
 

@@ -2,12 +2,12 @@
 
 title: "[Épisode 35] La norme ISO 27001"
 date: 2016-02-23T09:30:33+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2016/02/episode-35-la-norme-iso-27001/
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP35.2016-02-21.ISO_27001.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP35.2016-02-21.ISO_27001.mp3
 views: 2509
 image: /images/covers/2016-02-ISO-27001.jpg
 categories:

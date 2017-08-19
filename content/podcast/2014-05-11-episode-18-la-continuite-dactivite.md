@@ -2,13 +2,13 @@
 
 title: "[Épisode 18] La continuité d'activité"
 date: 2014-05-11T23:21:43+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2014/05/episode-18-la-continuite-dactivite/
 views: 3854
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP18.2014-05-10.PCA.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP18.2014-05-10.PCA.mp3
 image: /images/covers/2014-05-46602302.jpg
 categories:
   - Podcast
@@ -24,13 +24,13 @@ tags:
   - SSL
 
 chaptermarks:
-  "00:01:22": "Les news du moment"
-  "00:23:55": "Annonce des futurs évènements"
-  "00:24:25": "Dossier: La continuité d'activité"
-  "01:17:57": "Interlude musicale avec Omega Danzer - Dynamic Danzer"
-  "01:19:52": "What's Next: Heartbleed"
-  "01:37:20": "Le mot de la fin"
-  "01:42:17": "Musique de fin avec Electric Children - Car Jack"
+  - "00:01:22|Les news du moment"
+  - "00:23:55|Annonce des futurs évènements"
+  - "00:24:25|Dossier: La continuité d'activité"
+  - "01:17:57|Interlude musicale avec Omega Danzer - Dynamic Danzer"
+  - "01:19:52|What's Next: Heartbleed"
+  - "01:37:20|Le mot de la fin"
+  - "01:42:17|Musique de fin avec Electric Children - Car Jack"
 
 authors:
   - justin

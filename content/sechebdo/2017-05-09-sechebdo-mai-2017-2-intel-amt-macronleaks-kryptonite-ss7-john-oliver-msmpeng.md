@@ -4,12 +4,12 @@ title: "[SECHebdo] Mai 2017 - 2"
 subheadline: "Intel AMT, MacronLeaks, Kryptonite, SS7, John Oliver, MsMpEng"
 publisher: justin
 date: 2017-05-09
-video: https://www.youtube.com/embed/pJvi6gJYCVY
+video: "pJvi6gJYCVY"
 
 aliases: /2017/05/sechebdo-mai-2017-2-intel-amt-macronleaks-kryptonite-ss7-john-oliver-msmpeng/
 image: /images/covers/2017-05-sechebdo-2017-05-09-vignette.jpg
 podcast:
-    feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.SECHebdo.2017-05-09.mp3
+    feed: https://podcast.comptoirsecu.fr/CSEC.SECHebdo.2017-05-09.mp3
     description: "SECHebdo est une revue de l'actualité cybersécurité réalisé en live sur Youtube, généralement le mardi soir."
 categories:
  - Podcast
@@ -28,15 +28,15 @@ authors:
  - justin
 
 chaptermarks:
-  "00:02:10": Malware Mac
-  "00:05:30": Intel AMT
-  "00:11:18": Bypass 2FA par SMS via SS7
-  "00:17:00": Hack de Macron? MacronLeaks
-  "00:25:20": Nouvelle Vulnérabilité Critique Sur Windows Par Project Zero
-  "00:35:20": Google Oauth
-  "00:40:00": John oliver et net neutrality
-  "00:45:00": CVE-2016-10229
-  "00:48:00": "Découverte de la semaine: Kryptonite"
+  - "00:02:10|Malware Mac"
+  - "00:05:30|Intel AMT"
+  - "00:11:18|Bypass 2FA par SMS via SS7"
+  - "00:17:00|Hack de Macron? MacronLeaks"
+  - "00:25:20|Nouvelle Vulnérabilité Critique Sur Windows Par Project Zero"
+  - "00:35:20|Google Oauth"
+  - "00:40:00|John oliver et net neutrality"
+  - "00:45:00|CVE-2016-10229"
+  - "00:48:00|Découverte de la semaine: Kryptonite"
 ---
 
 
@@ -46,7 +46,7 @@ Nous venons de tourner le second SECHebdo du mois de mai 2017 sur Youtube. Comme
 
 {{< podigee >}}
 
-Notre discord : <https://discord.comptoirsecu.fr>
+Notre discord : <http://discord.comptoirsecu.fr>
 
 A bientôt pour d'autres émissions/podcasts!
 

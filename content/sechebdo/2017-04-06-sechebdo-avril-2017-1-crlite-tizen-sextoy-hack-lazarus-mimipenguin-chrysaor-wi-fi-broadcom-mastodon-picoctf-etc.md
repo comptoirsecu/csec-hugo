@@ -4,11 +4,11 @@ title: "[SECHebdo] Avril 2017 - 1"
 subheadline: "CRLite, Tizen, Hack de sextoys, Lazarus, Mimipenguin, Chrysaor, Wi-Fi Broadcom, Mastodon, PicoCTF, etc."
 publisher: lois
 date: 2017-04-06T00:00:00+00:00
-video: https://www.youtube.com/embed/n-yEw7qZYUU
+video: "n-yEw7qZYUU"
 
 aliases: /2017/04/sechebdo-avril-2017-1-crlite-tizen-sextoy-hack-lazarus-mimipenguin-chrysaor-wi-fi-broadcom-mastodon-picoctf-etc/
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS42.2017-04-05.SECHebdo_Avril_2017-1.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.HS42.2017-04-05.SECHebdo_Avril_2017-1.mp3
 image: /images/covers/2017-04-sechebdo-2017-Avril-1.jpg
 categories:
   - Podcast
@@ -31,15 +31,15 @@ tags:
   - Wi-fi
 
 chaptermarks:
-  "00:01:28": "CRLite, va-t-on enfin vérifier la validité des certificats correctement"
-  "00:04:58": "L'OS Tizen de Samsung et ses 40 failles"
-  "00:12:08": "Méfie toi des sextoys connectés, encore plus si ils ont une caméra"
-  "00:15:04": "Publication du rapport rapport de Kaspersky sur le groupe Lazarus"
-  "00:23:20": "Google et Lookout découvre un malware android très avancé"
-  "00:27:38": "Le microgiciel des puces Wi-fi Broadcom vulnérable"
-  "00:34:23": "Un petit mot sur Mastodon"
-  "00:41:38": "Les candidatures pour le prix de l'Innovation sont ouvertes jusqu'à la fin du mois"
-  "00:43:58": "En vrac : Mimipenguin & Picoctf"
+  - "00:01:28|CRLite, va-t-on enfin vérifier la validité des certificats correctement"
+  - "00:04:58|L'OS Tizen de Samsung et ses 40 failles"
+  - "00:12:08|Méfie toi des sextoys connectés, encore plus si ils ont une caméra"
+  - "00:15:04|Publication du rapport rapport de Kaspersky sur le groupe Lazarus"
+  - "00:23:20|Google et Lookout découvre un malware android très avancé"
+  - "00:27:38|Le microgiciel des puces Wi-fi Broadcom vulnérable"
+  - "00:34:23|Un petit mot sur Mastodon"
+  - "00:41:38|Les candidatures pour le prix de l'Innovation sont ouvertes jusqu'à la fin du mois"
+  - "00:43:58|En vrac : Mimipenguin & Picoctf"
 
 
 authors:
@@ -53,7 +53,7 @@ Nous venons de tourner le premier SECHebdo du mois d'avril 2017 sur Youtube. Com
 {{< podigee >}}
 
 
-Notre discord : <https://discord.comptoirsecu.fr>
+Notre discord : <http://discord.comptoirsecu.fr>
 
 A bientôt pour d'autres émissions/podcasts!
 

@@ -4,11 +4,11 @@ title: "[SECHebdo] Mars 2017 - 2"
 subheadline: "Vault7, 'Spam' City, Satan Ransomware, FNLeaks, Guerilla Paching, vote électronique, etc."
 publisher: justin
 date: 2017-03-08T00:00:00+00:00
-video: https://www.youtube.com/embed/fPRLnEHgpS0
+video: "fPRLnEHgpS0"
 
 aliases: /2017/03/sechebdo-mars-2017-2-vault7-phishing-et-fn/
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS39.2017-03-08.SECHebdo_Mar_2017-2.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.HS39.2017-03-08.SECHebdo_Mar_2017-2.mp3
 image: /images/covers/2017-03-sechebdo-2017-03-08-vignette.jpg
 categories:
   - Podcast
@@ -21,12 +21,12 @@ tags:
   - wikileaks
 
 chaptermarks:
-  "00:03:42": "Wikileaks balance les pokemons de la CIA Vault7"
-  "00:28:23": "Un spammer fait fuiter tous ses backups sur internet"
-  "00:36:14": "Ransomware satan analysé"
-  "00:41:25": "85 vulnérabilités dans les NAS WD pas encore patchées"
-  "00:44:06": "Collard publie ses mdp sur twitter"
-  "00:53:43": "Un rapport sur l'impact du piratage de nos futurs robots"
+  - "00:03:42|Wikileaks balance les pokemons de la CIA Vault7"
+  - "00:28:23|Un spammer fait fuiter tous ses backups sur internet"
+  - "00:36:14|Ransomware satan analysé"
+  - "00:41:25|85 vulnérabilités dans les NAS WD pas encore patchées"
+  - "00:44:06|Collard publie ses mdp sur twitter"
+  - "00:53:43|Un rapport sur l'impact du piratage de nos futurs robots"
 
 
 authors:

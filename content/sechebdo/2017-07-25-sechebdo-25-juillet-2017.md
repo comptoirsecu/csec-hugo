@@ -1,11 +1,11 @@
 ---
 title: '[SECHebdo] 25 Juillet 2017'
 subheadline: "AlphaBay, Hansa, Orpheus Lyre, Briar, etc."
-publisher: comptoirsecu
+
 date: 2017-07-25
 image:  /images/covers/2017-07-25.jpg
 podcast:
-    feed: https://media.blubrry.com/comptoirsecu/s/podcast.comptoirsecu.fr/CSEC.SECHebdo.2017-07-25.mp3
+    feed: https://podcast.comptoirsecu.fr/CSEC.SECHebdo.2017-07-25.mp3
     description: "SECHebdo est une revue de l'actualité cybersécurité réalisé en live sur Youtube, généralement le mardi soir."
 categories:
  - Podcast
@@ -24,14 +24,14 @@ authors:
   - morgan
 
 chaptermarks:
-  "00:01:00": "Grosse fuite de donnée en Suède"
-  "00:12:00": "Hansa / AlphaBay"
-  "00:19:30": "Comment ne pas faire de la SSI avec BKK"
-  "00:24:56": "CopyKittens"
-  "00:29:05": "Orpheus Lyre"
-  "00:37:05": "Decouverte de la semaine: Briar"
+  - "00:01:00|Grosse fuite de donnée en Suède"
+  - "00:12:00|Hansa / AlphaBay"
+  - "00:19:30|Comment ne pas faire de la SSI avec BKK"
+  - "00:24:56|CopyKittens"
+  - "00:29:05|Orpheus Lyre"
+  - "00:37:05|Decouverte de la semaine: Briar"
 
-video: https://www.youtube.com/embed/0glcussnb18
+video: "0glcussnb18"
 ---
 
 Nous venons de tourner un nouveau SECHebdo en live sur Youtube. Comme d'habitude, si vous avez raté l'enregistrement, vous pouvez le retrouver sur notre chaîne Youtube (vidéo ci-dessus) ou bien au format podcast audio:
@@ -40,7 +40,7 @@ Nous venons de tourner un nouveau SECHebdo en live sur Youtube. Comme d'habitude
 
 {{< podigee >}}
 
-Notre discord : <https://discord.comptoirsecu.fr>
+Notre discord : <http://discord.comptoirsecu.fr>
 
 A bientôt pour d'autres émissions/podcasts!
 

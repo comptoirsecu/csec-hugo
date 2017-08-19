@@ -2,12 +2,12 @@
 
 title: "[Épisode 10] Caméras de surveillance et Li-Fi"
 date: 2013-12-23T08:30:43+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2013/12/episode-10-ou-lon-etudie-les-cameras-de-surveillance-et-le-li-fi/
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP10.2013-12-22.CAMERA.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP10.2013-12-22.CAMERA.mp3
 views: 5898
 image: /images/covers/2013-12-TEASER.EP101.jpg
 categories:
@@ -40,10 +40,10 @@ drinks:
 
 
 chaptermarks:
-  "00:01:40": "Revue d'actualité"
-  "00:33:43": "Dossier sur les caméras de surveillance"
-  "01:04:05": "Une  pause musicale avec [Home Alone- 5oh!"
-  "01:06:51": "What's Next: Le Li-Fi"
+  - "00:01:40|Revue d'actualité"
+  - "00:33:43|Dossier sur les caméras de surveillance"
+  - "01:04:05|Une  pause musicale avec Home Alone- 5oh!"
+  - "01:06:51|What's Next: Le Li-Fi"
 ---
 Avec un peu de retard dans la programmation nous vous livrons pour Noël un nouvel épisode tout propre !
 

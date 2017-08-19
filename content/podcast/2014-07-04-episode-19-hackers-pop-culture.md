@@ -2,13 +2,13 @@
 
 title: "[Épisode 19] Hackers & Pop Culture"
 date: 2014-07-04T17:12:59+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2014/07/episode-19-hackers-pop-culture/
 views: 4711
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP19.2014-07-02.HACKERS_CULTURE_POP.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP19.2014-07-02.HACKERS_CULTURE_POP.mp3
 image: /images/covers/2014-05-hackers001.jpg
 categories:
   - Podcast
@@ -45,11 +45,11 @@ guests:
   - genma
 
 chaptermarks:
-  "00:01:45": "Les news du moment"
-  "00:24:25": "Dossier: Les hackers dans la culture pop"
-  "01:24:30": "Interlude musicale avec Angus And Julia Stone – Say It Right (The Algorithm Remix)"
-  "01:27:00": "Interview de Genma"
-  "01:41:00": "Musique de fin avec Alunageorge - You know you like it"
+  - "00:01:45|Les news du moment"
+  - "00:24:25|Dossier: Les hackers dans la culture pop"
+  - "01:24:30|Interlude musicale avec Angus And Julia Stone – Say It Right (The Algorithm Remix)"
+  - "01:27:00|Interview de Genma"
+  - "01:41:00|Musique de fin avec Alunageorge - You know you like it"
 ---
 
 Aujourd'hui c'est un épisode un peu spécial et plus léger que d'habitude puisqu'il s'agit d'un épisode consacré aux hackers dans la culture pop !

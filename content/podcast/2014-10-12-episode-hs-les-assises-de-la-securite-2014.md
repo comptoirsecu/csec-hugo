@@ -2,13 +2,13 @@
 
 title: "Retours: Les Assises de la Sécurité 2014"
 date: 2014-10-12T17:30:13+00:00
-publisher: comptoirsecu
+
 
 
 aliases: /2014/10/episode-hs-les-assises-de-la-securite-2014/
 views: 6225
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.HS03.2014-10-12.ASSISES.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.HS03.2014-10-12.ASSISES.mp3
 image: /images/covers/2014-10-811130317_138042_3712114333708565266.jpg
 categories:
   - Podcast
@@ -30,12 +30,12 @@ authors:
   - youenn
 
 chaptermarks:
-  "00:03:03": "Présentation des Assises"
-  "00:09:20": "Interview de Guillaume Poupard"
-  "00:16:56": "Retour sur l'événement"
-  "00:33:15": "Interview du vainqueur du prix de l'innovation 2013 – Intralinks"
-  "00:53:58": " Interview du vainqueur du prix de l'innovation 2014 – IDECSI"
-  "01:09:07": "Musique de fin avec Datasette – Power Ballad"
+  - "00:03:03|Présentation des Assises"
+  - "00:09:20|Interview de Guillaume Poupard"
+  - "00:16:56|Retour sur l'événement"
+  - "00:33:15|Interview du vainqueur du prix de l'innovation 2013 – Intralinks"
+  - "00:53:58| Interview du vainqueur du prix de l'innovation 2014 – IDECSI"
+  - "01:09:07|Musique de fin avec Datasette – Power Ballad"
 
 guests:
   - guillaume_poupard

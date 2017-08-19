@@ -1,12 +1,12 @@
 ---
 title: "[Épisode 5] Utilité de la cryptographie"
-publisher: comptoirsecu
+
 
 date: 2013-10-01T00:00:00+00:00
 aliases: /2013/10/episode-5-ou-lon-reflechit-sur-lutilite-de-la-cryptographie/
 
 podcast:
-  feed: https://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP05.2013-09-27.CRYPTOGRAPHIE.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.EP05.2013-09-27.CRYPTOGRAPHIE.mp3
 
 categories:
   - Podcast
@@ -26,10 +26,10 @@ drinks:
   - virgin_bloodymary
 
 chaptermarks:
-  "00:01:58": La rubrique news
-  "00:20:27": Interlude musicale
-  "00:23:56": "Débat: Peut-on avoir encore confiance dans la cryptographie"
-  "00:56:03": Une interview d’un étudiant
+  - "00:01:58|La rubrique news"
+  - "00:20:27|Interlude musicale"
+  - "00:23:56|Débat: Peut-on avoir encore confiance dans la cryptographie"
+  - "00:56:03|Une interview d’un étudiant"
 
 authors:
   - justin
