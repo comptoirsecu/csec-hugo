@@ -10,8 +10,8 @@ enableRobotsTXT = true
 disableAliases = true
 
 [params]
-live = false
-live_id = "uMZHWSQVa4o"
+# leave empty string when no upcoming live, else put youtube ID
+live = "ZMwqk9uDFqc"
 
 override_fonts = true
 fontbody = "Roboto"
