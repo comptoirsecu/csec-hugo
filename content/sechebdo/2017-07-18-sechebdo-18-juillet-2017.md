@@ -51,7 +51,7 @@ Notre discord : <http://discord.comptoirsecu.fr>
 
 A bientôt pour d'autres émissions/podcasts!
 
-# Liste des news:
+### Liste des sources :
 
 * Vulnérabilité NTLM (2:59)
     * [https://blog.preempt.com/new-ldap-rdp-relay-vulnerabilities-in-ntlm](https://blog.preempt.com/new-ldap-rdp-relay-vulnerabilities-in-ntlm)

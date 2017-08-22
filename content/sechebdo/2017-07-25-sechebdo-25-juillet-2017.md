@@ -44,8 +44,7 @@ Notre discord : <http://discord.comptoirsecu.fr>
 
 A bientôt pour d'autres émissions/podcasts!
 
-# Liste des news:
-
+### Liste des sources :
 
 * Grosse fuite de donnée en suédie (1:00)
     * [http://thehackernews.com/2017/07/sweden-data-breach.html](http://thehackernews.com/2017/07/sweden-data-breach.html)
