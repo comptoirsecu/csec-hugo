@@ -12,7 +12,7 @@ tags:
   - CNIL
 ---
 
-# À bas le renouvellement périodique à intervalle fixe !
+# Qué qui dit ?
 
 La nouvelle a défrayé la chronique : le dogme du mot de passe complexe de huit caractères s’effondre devant l’[analyse statistique de la Vérité][mesure]. Cela fait dix ans que l’on s’en doute et, pour reprendre la formule préférée des publicitaires : c’est prouvé scientifiquement. Plus besoin de se torturer l’esprit pour concevoir un mot de passe à la « 3v1L#P@ssword666 » et, au bout de trois mois, par un intense effort psychique, le transformer en « 3v1L#P@ssword667 ». Hourra !
 
@@ -20,35 +20,47 @@ Le NIST l’a annoncé, [Troy Hunt][troy] l’a relayé, mais vous trouverez un 
 
 [![Dilbert 10 Sept 2005](http://assets.amuniversal.com/e47ff0606d5001301d7a001dd8b71c47)][dilbert]
 
-# Mais pourquoi ? 
+# Ce que le NIST dit vraiment
 
 Il n’est aucunement question de remettre en cause la robustesse d’un mot de passe aléatoire de huit caractères contenant des minuscules, majuscules, chiffres, caractères spéciaux (dont les frimousses Unicode font partie), même si l’on porte aujourd’hui ce nombre à douze caractères. Il s’agit simplement de rappeler que la méthode de construction des mots de passe *n’est pas* aléatoire, car notre cerveau fonctionne par association de mémoire. [Des modèles se dégagent][hydraze], avec une majuscule au début et les chiffres plutôt vers la fin.
 
 Il est surtout question de repositionner cette mesure de sécurité (le mot de passe) dans le cadre [des menaces][menace] auxquelles le système d’information est exposé, ainsi que vis-à-vis des mesures complémentaires de protection.
 
-Bref, il s’agit de confronter l’avantage réel de la politique de mot de passe aux contraintes qu’elle induit.
+Si la presse dessine une oasis de la fin de l’enfer des mots de passe, la réalité de la norme est plus terne. Le NIST en enlève d’un côté pour ajouter de l’autre. L’on pourrait ainsi dire que :
 
-# Les règles de composition disparaissent
+1.	Les règles de composition se retirent au profit de l’emploi d’un composant graphique qui indique en temps réel la robustesse du mot de passe à l’utilisateur.
 
-Un mot de passe aléatoire et long, disons « qdztyomxpfei » serait plus sûr que « Pl@ton-428 » réutilisé sur trente-sept sites. Un scoop. 
+	Ce composant doit prendre en compte une liste noire de mots de passe basée sur les principaux mots de passe utilisés, sur les mots de passe faibles probables dans le contexte de l’application, sur les mots de passe compromis. Si la composition de la liste noire est laissée à l’argumentation du détenteur du système, sa présence et le refus des mots de passe qu’elle contient sont obligatoires.
 
-Les règles de composition se retirent au profit de l’emploi systématique d’un gestionnaire de mots de passe pour avoir un secret différent par système. Il s’agit d’amoindrir les conséquences d’une compromission unitaire, qu’elle résulte d’une interception, d’une divulgation, d’une divination ou d’une inférence.
+2. 	Le renouvellement périodique cède place au renouvellement lors de la suspicion de fraude. Il est donc nécessaire de s’équiper de systèmes qui détectent ce risque et provoquent le blocage du compte suspect ainsi que le renouvellement du mot de passe.
+
+3.	Les sessions doivent expirer, le délai dépend de la sensibilité des informations (30 jours, 30 minutes, 15 minutes). Certaines expirations peuvent solliciter l’utilisateur deux minutes avant l’expiration pour qu’il confirme son activité et n’aie pas à se réauthentifier, d’autres sont systématiques, auquel cas elles ne doivent pas être inférieures à une heure.
+
+4.	Le NIST rappelle aussi que les jetons (type OAuth) ne doivent pas être interprétés comme signalant la présence de l’utilisateur, donc qu’il faut les compléter par un autre moyen (deuxième facteur ou saisie du premier facteur) avant de donner accès à (ou de permettre des actions sur) des données sensibles.
+
+Cette mise à jour du NIST vient s’ajouter aux recommandations du Royaume-Uni, où le [NCSC][ncsc] invite les entreprises à mettre à la disposition des utilisateurs des gestionnaires de mots de passe. C’est l’occasion d’avoir un secret différent par système et d’amoindrir les conséquences d’une compromission unitaire, qu’elle résulte d’une interception, d’une divulgation, d’une divination ou d’une inférence.
 
 Il s’agit là d’une avancée considérable si l’on se place dans une stratégie de réduction du risque lié à l’usage des mots de passe. La vulnérabilité tirée de la paresse humaine est reportée sur l’accès au gestionnaire de mot de passe, donc notamment sur son exposition (en ligne ou hors-ligne), le secret qui le protège (clé, passphrase) et la robustesse du chiffrement utilisé. 
 
-# Plus d’astuce, mon petit ! Tu te débrouilles maintenant.
+# Ce que la loi française permet
 
-Fini le temps où il était possible d’introduire une astuce qui permettait de retrouver son mot de passe (si si, ça existe sous Windows 7), les indications semblaient trop claires pour les attaquants. Exit aussi les questions secrètes auxquelles l’on peut répondre avec le profil public de la personne.
+La CNIL a émis une [recommandation relative aux mots de passe][cnil] en janvier 2017, laquelle vient préciser l’obligation de protection des données personnelles visée par la loi. Autant dire qu’il vous faudra déployer de grands efforts pour justifier à un juge que vous y avez dérogé.
 
-Puisqu’il n’y a plus de complexité inhérente à la composition, l’utilisateur devrait se souvenir de son mot de passe.
+Dans l’hypothèse où le système d’authentification est pourvu d’un mécanisme d’anti-bruteforce, le mot de passe suivant est conforme à la réglementation : « J’suis trop fan du comptoir sécu ! » (vous noterez la vraie apostrophe inclinée, amateurs de [bépo](http://bepo.fr)). Vous avez donc l’obligation d’avoir trois types de caractères différents (minuscules, majuscules, chiffres, caractères spéciaux).
+
+En ce qui concerne le renouvellement, « la commission recommande que le responsable de traitement veille à imposer un renouvellement du mot de passe selon une périodicité pertinente et raisonnable, qui dépend notamment de la complexité imposée du mot de passe, des données traitées et des risques auxquels il est exposé ».
+
+Le « recommande » s’interprète ici comme le « SHOULD » des [RFC][rfc]. Je ne peux pas prononcer d’avis juridique qualifié, mais si vous disposez des systèmes de détection d’activités suspectes et de réinitialisation forcée, cela me semble conforme.
+
+D’autres réglementations propres à votre domaine d’activité peuvent aussi entraver la disparition du renouvellement périodique des mots de passe.
 
 # Le débat de la liste noire
 
-Troy et ses 330 millions de mots de passe à blacklister se heurtent à l’utilisabilité d’un tel système (quel client accepterait de se faire refouler plusieurs mot de passe de suite au motif qu’ils ont fuité ailleurs ?) ainsi qu’à [la preuve du faible gain][blacklist] procuré par les listes noires (au-delà des valeurs les plus usitées, qui sont [obligatoires][nist]).
+Troy et ses 330 millions de mots de passe à blacklister se heurtent à l’utilisabilité d’un tel système (quel client accepterait de se faire refouler plusieurs mots de passe de suite au motif qu’ils ont fuité ailleurs ?) ainsi qu’à [la preuve du faible gain][blacklist] procuré par les listes noires (au-delà des valeurs les plus usitées, qui sont [obligatoires][nist]). Avec ironie, cette étude sur le faible intérêt est citée dans les sources du NIST, qui a tout de même laissé la possibilité d’interdire l’usage de millions de mots de passe. Certaines voies sont impénétrables.
 
 Pour évaluer la robustesse d’un mot de passe issu du cerveau humain, l’on doit fournir à l’utilisateur une indication visuelle pour éclairer son choix. On pense alors à [zxcvbn][zxcvbn].
 
-Cependant, pour en revenir à Troy, dans le cadre actuel où les mots de passe sont réutilisés entre les systèmes, savoir que son mot de passe a été découvert peut avoir un sens, dans la mesure où la personne concernée peut s’inquiéter de l’impact réel de la divulgation et prendre les mesures qu’elle estime appropriées. 
+Cependant, pour en revenir à Troy, dans le cadre actuel où les mots de passe sont réutilisés entre les systèmes, savoir que son mot de passe a été découvert peut avoir un sens, dans la mesure où la personne concernée peut s’inquiéter de l’impact réel de la divulgation et prendre les mesures qu’elle estime appropriées. L’on préfèrera l’information à la contrainte.
 
 # Le renouvellement périodique perd la bataille
 
@@ -58,15 +70,9 @@ C’est l’occasion de rappeler que le renouvellement périodique ne doit pas �
 
 Toutefois, avec les bases de mot de passe qui s’enfuient par millions dans les profondeurs du deep dark web pour y mener une vie trépidante en compagnie des bitcoins sous la cape de Tor (ou comment placer les mots-clés de référencement en une phrase maligne), le renouvellement périodique demeure une bonne idée.
 
-# Détecter et réagir
-
-Pour envisager la suppression du renouvellement périodique, il est nécessaire d’être en mesure de détecter la compromission probable du mot de passe. 
-
-Pour les clients d’Office 365 disposant de la licence EMS (E5), Azure Active Directory est votre allié, avec pour limite qu’il est aveugle à l’activité de l’ADFS (qui gère l’authentification) que vous avez pris soin de conserver chez vous sans synchroniser les condensats de mot de passe chez Microsoft. Un petit [RTFM][o365] vous fera le plus grand bien.
-
-Il demeure essentiel d’être en mesure de forcer le renouvellement du mot de passe en cas de suspicion, chose que vous avez depuis belle lurette, en lecteur assidu de [l’OWASP][owasp], inclus dans les spécifications des applications qui réalisent une authentification interne.
-
 # Protégé par le deuxième facteur
+
+À toutes fins utiles, comme le rappelle [Alex Weinert][alex], le deuxième facteur n’est second que lorsque le premier existe. Il demeure vital que le mot de passe demeure secret et de le renouveler en cas de compromission suspectée ou avérée.
 
 En outre, pour réduire l’impact de la divulgation, de l’inférence ou de la divination d’un mot de passe, il est conseillé de requérir un deuxième facteur d’authentification. 
 
@@ -74,32 +80,23 @@ Si vous disposez des capacités de détection qui vous permettent d’attribuer 
 
 Sans cela, je vous déconseille de le rendre systématique sauf à disposer d’un jeton à clic, tel que l’envoi de la séquence par une pression sur une Yubikey (norme OATH) ou la validation d’une notification mobile du Microsoft Authenticator (ne fonctionne que pour les authentifications Azure).
 
-Quoi qu’il en soit, comme le rappelle [Alex Weinert][alex], le deuxième facteur n’est second que lorsque le premier existe. Il demeure vital que le mot de passe demeure secret et de le renouveler en cas de compromission suspectée ou avérée.
+# Je fais quoi avec tout ça ?
 
-# La réglementation dans tout ça ?
+« J’y pense… et puis j’oublie… » Pas tout à fait, quand même. Nous faisons face à quelques difficultés :
 
-La CNIL a émis une [recommandation relative aux mots de passe][cnil] en janvier 2017, laquelle vient préciser l’obligation de protection des données personnelles de la loi. Autant dire qu’il vous faudra déployer de grands efforts pour justifier à un juge que vous y avez dérogé.
+1.	Il faudra expliquer aux utilisateurs que ce n’est pas la fête du slip pour autant, que la simplification s’accompagne d’un renforcement de la surveillance, donc une traçabilité soutenue de leur activité, ce qui n’est pas sans poser question selon le milieu (pensez aux salariés protégés, aux avocats, aux journalistes pour qui toute trace présente un risque).
 
-Dans l’hypothèse où le système d’authentification est pourvu d’un mécanisme d’anti-bruteforce, le mot de passe suivant est conforme à la réglementation : « J’suis trop fan du comptoir sécu ! » (vous noterez la vraie apostrophe inclinée, amateurs de [bépo](http://bepo.fr)). Vous avez donc l’obligation d’avoir trois types de caractères différents (minuscules, majuscules, chiffres, caractères spéciaux).
+2.	Il faudra mettre en œuvre la sécurité opérationnelle et s’assurer de son efficacité pour identifier et bloquer les activités suspectes, ce qui signifie que les attaquants vont se faire encore plus discrets (mais bon, aujourd’hui, on ne les voit déjà pas…).
 
-Pour en revenir au renouvellement : « La commission recommande que le responsable de traitement veille à imposer un renouvellement du mot de passe selon une périodicité pertinente et raisonnable, qui dépend notamment de la complexité imposée du mot de passe, des données traitées et des risques auxquels il est exposé. »
+3.	Il faudra jongler avec la législation, ou espérer qu’à l’occasion des détails d’interprétation du règlement général de protection des données (personnelles et privées), l’Union européenne s’aligne sur ce nouveau dogme.
 
-Le « recommande » s’interprète ici comme le « SHOULD » des [RFC][rfc]. Je ne peux pas prononcer d’avis juridique qualifié, mais si vous disposez des systèmes de détection d’activités suspectes et de réinitialisation forcée, cela me semble conforme.
+4.	A-t-on les capacités techniques de forcer la réinitialisation d’un mot de passe dans l’ensemble des applications qui réalisent une authentification interne ? Évidemment, en lecteur assidu de l’[OWASP][owasp], cela fait belle lurette que c’est dans vos spécifications :D
 
-D’autres réglementations propres à votre domaine d’activité peuvent aussi entraver la disparition du renouvellement périodique des mots de passe.
+5.	On parle des mots de passe des utilisateurs. Vous pouvez toujours planquer ceux des comptes à privilèges dans un bastion avec un mécanisme de renouvellement automatique à brève échéance, sans oublier de renouveler en temps utile les comptes de service (ceux qui sont planqués en clair dans les fichiers de configuration des applications).
 
-# TL;DR
+Si d’aventure vous êtes client d’Office 365 et disposez de la licence EMS (E5), Azure Active Directory est votre allié, avec pour limite qu’il est aveugle à l’activité de l’ADFS (qui gère l’authentification) que vous avez pris soin de conserver chez vous sans synchroniser les condensats de mot de passe chez Microsoft. Un petit [RTFM][o365] vous fera le plus grand bien.
 
-En France, pour l’instant, le cas moyen (allez vraiment lire la [réglementation][cnil]) :
-
-* Un mécanisme anti-bruteforce
-* 8 caractères minimum
-** 5 si authentification à deux facteurs
-* 3/4 des classes de caractères : minuscules, majuscules, chiffres, caractères spéciaux 
-** sauf si authentification à deux facteurs
-* un renouvellement selon une périodicité pertinente et raisonnable
-
-Pour limiter le renouvellement, il vous faut des capacités de détection des compromissions.
+Bref, ce sujet pourrait mériter une note d’information de la part du RSSI.
 
 
 [alex]: https://blogs.microsoft.com/microsoftsecure/2017/06/05/three-basic-security-hygiene-tips-from-microsofts-identity-team/
@@ -110,6 +107,7 @@ Pour limiter le renouvellement, il vous faut des capacités de détection des co
 [hydraze]: http://www.passwordresearch.com/stats/statistic376.html
 [menace]: http://www.cerias.purdue.edu/site/blog/post/password-change-myths/
 [mesure]: https://www.cs.unc.edu/~reiter/papers/2010/CCS.pdf
+[ncsc]: https://www.ncsc.gov.uk/guidance/password-guidance-simplifying-your-approach
 [nist]: https://pages.nist.gov/800-63-3/sp800-63b/sec5_authenticators.html#memsecretver
 [o365]: https://docs.microsoft.com/en-us/azure/active-directory/active-directory-identityprotection
 [owasp]: https://www.owasp.org/index.php/Password_Storage_Cheat_Sheet
