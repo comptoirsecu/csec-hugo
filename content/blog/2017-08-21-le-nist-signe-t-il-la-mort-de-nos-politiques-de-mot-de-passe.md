@@ -80,6 +80,8 @@ Si vous disposez des capacités de détection qui vous permettent d’attribuer 
 
 Sans cela, je vous déconseille de le rendre systématique sauf à disposer d’un jeton à clic, tel que l’envoi de la séquence par une pression sur une Yubikey (norme OATH) ou la validation d’une notification mobile du Microsoft Authenticator (ne fonctionne que pour les authentifications Azure).
 
+[![Commitstrip password memory](http://www.commitstrip.com/wp-content/uploads/2015/08/Strip-Mots-de-passe-650-finalenglish1.jpg)][commitstrip]
+
 # Je fais quoi avec tout ça ?
 
 « J’y pense… et puis j’oublie… » Pas tout à fait, quand même. Nous faisons face à quelques difficultés :
@@ -102,6 +104,7 @@ Bref, ce sujet pourrait mériter une note d’information de la part du RSSI.
 [alex]: https://blogs.microsoft.com/microsoftsecure/2017/06/05/three-basic-security-hygiene-tips-from-microsofts-identity-team/
 [blacklist]: https://www.internetsociety.org/sites/default/files/usec2017_01_3_Habib_paper.pdf
 [cnil]: https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000033928007
+[commitstrip]: http://www.commitstrip.com/en/2015/08/19/password-memories/
 [dilbert]: http://dilbert.com/strip/2005-09-10
 [ftc]: https://www.ftc.gov/news-events/blogs/techftc/2016/03/time-rethink-mandatory-password-changes
 [hydraze]: http://www.passwordresearch.com/stats/statistic376.html
