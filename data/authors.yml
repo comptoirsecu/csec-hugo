@@ -88,3 +88,9 @@ swithak:
   twitter: SwitHak
   uri: https://swithak.github.io/
   image: swithak.jpg
+
+jil:
+  name: Jil
+  description: >
+      Couteau Suisse qui aiguise son prochain outil : le décapsuleur. Joue à pacman avec le contrôle interne, fait converger péniblement un SI entier vers les bonnes pratiques.
+  images: jil.jpg

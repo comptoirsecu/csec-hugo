@@ -3,7 +3,7 @@ title: "Le NIST signe-t-il l’arrêt de mort de nos politiques de mot de passe 
 authors:
   - jil
 date: 2017-08-21
-image: /images/covers/2017-08-08-bitcoin-laundering.jpg
+image: /images/covers/2017-08-26-password-policy-nist-medium.jpg
 categories:
   - Article
 tags:
