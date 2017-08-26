@@ -26,15 +26,15 @@ Il n’est aucunement question de remettre en cause la robustesse d’un mot de 
 
 Il est surtout question de repositionner cette mesure de sécurité (le mot de passe) dans le cadre [des menaces][menace] auxquelles le système d’information est exposé, ainsi que vis-à-vis des mesures complémentaires de protection.
 
-Si la presse dessine une oasis de la fin de l’enfer des mots de passe, la réalité de la norme est plus terne. Le NIST en enlève d’un côté pour ajouter de l’autre. L’on pourrait ainsi dire que :
+Si la presse dessine une oasis de la fin de l’enfer des mots de passe, la réalité de la norme est plus terne. Le NIST en enlève d’un côté pour en ajouter de l’autre. On pourrait ainsi dire que :
 
 1.	Les règles de composition se retirent au profit de l’emploi d’un composant graphique qui indique en temps réel la robustesse du mot de passe à l’utilisateur.
 
-	Ce composant doit prendre en compte une liste noire de mots de passe basée sur les principaux mots de passe utilisés, sur les mots de passe faibles probables dans le contexte de l’application, sur les mots de passe compromis. Si la composition de la liste noire est laissée à l’argumentation du détenteur du système, sa présence et le refus des mots de passe qu’elle contient sont obligatoires.
+	Ce composant doit prendre en compte une liste noire de mots de passe basée sur les principaux mots de passe utilisés, sur les mots de passe faibles et probables dans le contexte de l’application, sur les mots de passe compromis. Si la composition de la liste noire est laissée à l’argumentation du détenteur du système, sa présence et le refus des mots de passe qu’elle contient sont obligatoires.
 
 2. 	Le renouvellement périodique cède place au renouvellement lors de la suspicion de fraude. Il est donc nécessaire de s’équiper de systèmes qui détectent ce risque et provoquent le blocage du compte suspect ainsi que le renouvellement du mot de passe.
 
-3.	Les sessions doivent expirer, le délai dépend de la sensibilité des informations (30 jours, 30 minutes, 15 minutes). Certaines expirations peuvent solliciter l’utilisateur deux minutes avant l’expiration pour qu’il confirme son activité et n’aie pas à se réauthentifier, d’autres sont systématiques, auquel cas elles ne doivent pas être inférieures à une heure.
+3.	Les sessions doivent expirer, le délai dépend de la sensibilité des informations (30 jours, 30 minutes, 15 minutes). Certaines expirations peuvent solliciter l’utilisateur deux minutes avant l’expiration pour qu’il confirme son activité et n’aie pas à se réauthentifier, d’autres sont systématiques, auquel cas elles ne doivent pas être inférieures à une heure.
 
 4.	Le NIST rappelle aussi que les jetons (type OAuth) ne doivent pas être interprétés comme signalant la présence de l’utilisateur, donc qu’il faut les compléter par un autre moyen (deuxième facteur ou saisie du premier facteur) avant de donner accès à (ou de permettre des actions sur) des données sensibles.
 
