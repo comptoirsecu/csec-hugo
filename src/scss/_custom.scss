@@ -558,3 +558,19 @@ figcaption { text-align: center; margin: 1em; }
   right: -90%;
   top: -10%;
 }
+
+
+pre {
+  font-family: "Consolas, Monaco", "Lucida Console", "Liberation Mono", "DejaVu Sans Mono", "Bitstream", "Vera Sans Mono", "Courier New";
+  border: 1px solid #cacaca;
+  background-color: #e6e6e6;
+  color: #0a0a0a;
+  overflow-x: auto;
+  max-height: 500px;
+  padding: 1em;
+  margin: 1em;
+}
+
+pre code {
+  border: 0px;
+}
