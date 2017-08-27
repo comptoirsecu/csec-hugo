@@ -2,7 +2,7 @@
 title: "Le NIST signe-t-il l’arrêt de mort de nos politiques de mots de passe ?"
 authors:
   - jil
-date: 2017-08-21
+date: 2017-08-27
 image: /images/covers/2017-08-26-password-policy-nist.jpg
 categories:
   - Article
