@@ -3,7 +3,7 @@ title: "Le NIST signe-t-il l’arrêt de mort de nos politiques de mots de passe
 authors:
   - jil
 date: 2017-08-21
-image: /images/covers/2017-08-26-password-policy-nist-medium.jpg
+image: /images/covers/2017-08-26-password-policy-nist.jpg
 categories:
   - Article
 tags:
@@ -16,7 +16,7 @@ tags:
 
 La nouvelle a défrayé la chronique : le dogme du mot de passe complexe de huit caractères s’effondre devant l’[analyse statistique de la Vérité][mesure]. Cela fait dix ans que l’on s’en doute et, pour reprendre la formule préférée des publicitaires : c’est prouvé scientifiquement. Plus besoin de se torturer l’esprit pour concevoir un mot de passe à la « 3v1L#P@ssword666 » et, au bout de trois mois, par un intense effort psychique, le transformer en « 3v1L#P@ssword667 ». Hourra !
 
-Le NIST l’a annoncé, [Troy Hunt][troy] l’a relayé, mais vous trouverez un article très intéressant du côté de la [Federal Trade Commission][ftc], avec de nombreux renvois utiles. 
+Le NIST l’a annoncé, [Troy Hunt][troy] l’a relayé, mais vous trouverez un article très intéressant du côté de la [Federal Trade Commission][ftc], avec de nombreux renvois utiles.
 
 [![Dilbert 10 Sept 2005](http://assets.amuniversal.com/e47ff0606d5001301d7a001dd8b71c47)][dilbert]
 
@@ -40,7 +40,7 @@ Si la presse dessine une oasis de la fin de l’enfer des mots de passe, la réa
 
 Cette mise à jour du NIST vient s’ajouter aux recommandations du Royaume-Uni, où le [NCSC][ncsc] invite les entreprises à mettre à la disposition des utilisateurs des gestionnaires de mots de passe. C’est l’occasion d’avoir un secret différent par système et d’amoindrir les conséquences d’une compromission unitaire, qu’elle résulte d’une interception, d’une divulgation, d’une divination ou d’une inférence.
 
-Il s’agit là d’une avancée considérable si l’on se place dans une stratégie de réduction du risque lié à l’usage des mots de passe. La vulnérabilité tirée de la paresse humaine est reportée sur l’accès au gestionnaire de mot de passe, donc notamment sur son exposition (en ligne ou hors-ligne), le secret qui le protège (clé, phrase de passe) et la robustesse du chiffrement utilisé. 
+Il s’agit là d’une avancée considérable si l’on se place dans une stratégie de réduction du risque lié à l’usage des mots de passe. La vulnérabilité tirée de la paresse humaine est reportée sur l’accès au gestionnaire de mot de passe, donc notamment sur son exposition (en ligne ou hors-ligne), le secret qui le protège (clé, phrase de passe) et la robustesse du chiffrement utilisé.
 
 # Ce que la loi française permet
 
@@ -74,9 +74,9 @@ Toutefois, avec les bases de mot de passe qui s’enfuient par millions dans les
 
 À toutes fins utiles, comme le rappelle [Alex Weinert][alex], le deuxième facteur n’est second que lorsque le premier existe. Il demeure vital que le mot de passe demeure secret et de le renouveler en cas de compromission suspectée ou avérée.
 
-En outre, pour réduire l’impact de la divulgation, de l’inférence ou de la divination d’un mot de passe, il est conseillé de requérir un deuxième facteur d’authentification. 
+En outre, pour réduire l’impact de la divulgation, de l’inférence ou de la divination d’un mot de passe, il est conseillé de requérir un deuxième facteur d’authentification.
 
-Si vous disposez des capacités de détection qui vous permettent d’attribuer un niveau de risque à chaque authentification (nouveau terminal, accès via serveur mandataire, localisation inhabituelle, accès hors du réseau de l’entreprise, accès à une ressource critique, etc.), ce mécanisme un peu pénible peut être requis au-delà d’un niveau de risque pertinent. 
+Si vous disposez des capacités de détection qui vous permettent d’attribuer un niveau de risque à chaque authentification (nouveau terminal, accès via serveur mandataire, localisation inhabituelle, accès hors du réseau de l’entreprise, accès à une ressource critique, etc.), ce mécanisme un peu pénible peut être requis au-delà d’un niveau de risque pertinent.
 
 Sans cela, je vous déconseille de le rendre systématique sauf à disposer d’un jeton à clic, tel que l’envoi de la séquence par une pression sur une Yubikey (norme OATH) ou la validation d’une notification mobile du Microsoft Authenticator (ne fonctionne que pour les authentifications Azure).
 
