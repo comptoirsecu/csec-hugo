@@ -244,7 +244,7 @@ Examinons la première partie, c'est à dire les 5 premières lignes, je n'expli
 
 1. Sur un appel en entrée, tout de suite la première action est de décrocher.
 
-2. Ensuite renvoyer une connerie, ainsi l'appelant a l'impression que le poste n'est toujours pas décroché mais qu'il continue à sonner.
+2. Ensuite renvoyer une sonnerie, ainsi l'appelant a l'impression que le poste n'est toujours pas décroché mais qu'il continue à sonner.
 
 3. On attend 10 secondes (a peut pret 3 sonneries)
 
