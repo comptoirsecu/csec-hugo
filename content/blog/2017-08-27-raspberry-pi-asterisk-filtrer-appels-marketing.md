@@ -18,19 +18,21 @@ tags:
 
 ## Filter les appels des boites de Marketing
 
-Tout le monde à recu des appels de service de marketing, parfois cela frise le harcellement, l'idée est d'utiliser un Asterisk pour essayer de filtrer ces appels indésirables. Bien sur il est possible de s'inscrire sur bloctel [*http://www.bloctel.gouv.fr*](http://www.bloctel.gouv.fr) lancé dans le cadre de la loi Hamon sur la consommation, mais celui ci est confié à un opérateur privé (Opposetel), le fait qu'un organisme privé puisse donc en toute légalité collecter les informations nominatives et se constituer ainsi un fichier de mise en relation avec des numéros vérifiés peut poser quelques soucis à certains.
-Même si vous vous êtes inscrit sur bloctel celui ci ne filtre pas 100% des appels de services de tele-démarcharge puisque ces sociétés peuvent tout à fait refuser d'appliquer les filtres de bloctel, vous constatez donc que certains appels continuent à vous déranger.
-Nous allons donc voir un premier temps sur quel principe s'appuyer pour les filtrer, une fois la méthode connue celle ci est vérifiable avec un simple téléphone quand vous recevez un de ces appels, nous verrons donc dans un second temps comment automatiser cette méthode en la confiant à un Asterisk, nous verrons donc comment installer Asterisk sur un Raspberry Pi 3.
+Tout le monde a reçu des appels de service de marketing, parfois cela frise le harcèlement, l'idée est d'utiliser un Asterisk pour essayer de filtrer ces appels indésirables. Bien sur il est possible de s'inscrire sur bloctel [*http://www.bloctel.gouv.fr*](http://www.bloctel.gouv.fr) lancé dans le cadre de la loi Hamon sur la consommation, mais celui-ci est confié à un opérateur privé (Opposetel), le fait qu'un organisme privé puisse donc en toute légalité collecter les informations nominatives et se constituer ainsi un fichier de mise en relation avec des numéros vérifiés peut poser quelques soucis à certains.
+Même si vous vous êtes inscrit sur bloctel celui-ci ne filtre pas 100% des appels de services de démarcharge téléphonique puisque ces sociétés peuvent tout à fait refuser d'appliquer les filtres de bloctel, vous constatez donc que certains appels continuent à vous déranger.
+Nous allons donc voir dans un premier temps sur quel principe s'appuyer pour les filtrer, une fois la méthode connue celle-ci est vérifiable avec un simple téléphone quand vous recevez un de ces appels, nous verrons donc dans un second temps comment automatiser cette méthode en la confiant à un Asterisk, nous verrons donc comment installer Asterisk sur un Raspberry Pi 3.
 
 # La méthode
 
-La prochaine fois que vous recevez ce genre d'appel écoutez bien ce qui se passe au moment ou vous décrochez, vous allez constater que vous n'avez pas directement l'interlocuteur mais qu'en premier il y a une mise en relation, d'ou la petite attente et le cliquetis de la mise en relation.
+La prochaine fois que vous recevrez ce genre d'appel écoutez bien ce qui se passe au moment ou vous décrochez, vous allez constater que vous n'avez pas directement l'interlocuteur mais qu'en premier il y a une mise en relation, d'ou la petite attente et le cliquetis de la mise en relation.
 
 ## Vous n'etes pas directement appelé par un humain
 
-C'est parce que vous n'etes pas directement appelé par un humain, ces sociétés optimisent le temps de leur personnel d'appel, il est donc hors de question qu'un opérateur soit mis en relation avec un répondeur, pour cela ils utilisent un robot d'appel qui va essayer de déterminer si la ligne est décrochée par un répondeur ou par un humain, pour cela il va analyser ce qui se passe au moment ou la ligne est décrochée.
+C'est parce que vous n'êtes pas directement appelé par un humain, ces sociétés optimisent le temps de leur personnel d'appel, il est donc hors de question qu'un opérateur soit mis en relation avec un répondeur, pour cela ils utilisent un robot d'appel qui va essayer de déterminer si la ligne est décrochée par un répondeur ou par un humain en analysant ce qui se passe au moment où la ligne est décrochée.
 
 ***Si un humain décroche il y avoir une séquence qui ressemble à***
+
+   -   au moins une voir deux sonneries
 
    -   décrochage de la ligne
 
@@ -44,15 +46,15 @@ C'est parce que vous n'etes pas directement appelé par un humain, ces société
 
    -   Message du répondeur
 
-Le rôle du robot d'appel est donc d'essayer d'identifier une séquence qui va lui permettre de décider si il est en présence d'un humain ou d'un répondeur, pour cela il va analyser ces quelques secondes qui suivent le décrochage, c'est a dire la petite attente entre le décrochage et la voix humaine, si il pense être en relation avec un humain il fera la mise en relation, sinon il va raccrocher et passer à son numéro suivant.
+Le rôle du robot d'appel est donc d'essayer d'identifier une séquence qui va lui permettre de décider si il est en présence d'un humain où d'un répondeur, pour cela il va analyser ces quelques secondes qui suivent et précedent le décrochage, c'est à dire la petite attente entre le décrochage et la voix humaine, si il pense être en relation avec un humain il fera la mise en relation, sinon il va raccrocher et passer à son numéro suivant.
 
 ## Comment tromper le robot d'appel
 
-Sur le prochain appel faites le test, vous décrochez et vous ne dites rien, il y a de fortes chances que dans les 3 secondes le robot vous raccroche au nez ! C'est simple non ? Nous allons donc maintenant voir comment automatiser cette fonction grâce à Asterisk, en l'améliorant un peu pour vraiment tromper le robot, pour cela nous allons faire jouer une séquence a Asterisk qui va vraiment dire au robot qu'il n'a pas un humain en face de lui, voici ce que nous allons lui faire faire.
+Sur le prochain appel faites le test, vous décrochez rapidement à la première sonnerie et vous ne dites rien, il y a de fortes chances que dans les 3 secondes le robot vous raccroche au nez ! C'est simple non ? Nous allons donc maintenant voir comment automatiser cette fonction grâce à Asterisk, en l'améliorant un peu pour vraiment tromper le robot, pour cela nous allons faire jouer une séquence à Asterisk qui va vraiment dire au robot qu'il n'a pas un humain en face de lui, voiçi ce que nous allons lui faire faire.
 
 ***A l'instant ou l'appel entrant est détecté***
 
-   -   décrochage de la ligne
+   -   décrochage de la ligne, sans attendre
 
    -   Renvoyer à l'appelant une sonnerie d'attente
 
@@ -64,7 +66,7 @@ Placons nous dans le cas d'un humain pour comprendre ce qui va se passer pour l'
 
 ### Si un humain appelle
 
-L'humain ne va pas détecter le décrochage de la ligne puisque nous renvoyons tout de suite une sonnerie d'attente de 5 secondes, donc il a l'impression que la personne qu'il appelle met 5 secondes avant de décrocher. Comme au bout des 5 secondes nous faisons sonner les postes SIP si le poste est vraiment décroché la mise en relation est faite, sinon on renvoie sur un répondeur. Donc pour l'humain c'est une séquence tout a fait normal parce que son oreille ne capte pas le décrochage.
+L'humain ne va pas détecter le décrochage de la ligne puisque nous renvoyons tout de suite une sonnerie d'attente de 5 secondes, donc il a l'impression que la personne qu'il appelle met 5 secondes avant de décrocher. Comme au bout des 5 secondes nous faisons sonner les postes SIP si le poste est vraiment décroché la mise en relation est faite, sinon on renvoie sur un répondeur. Donc pour l'humain c'est une séquence tout à fait normale parce que son oreille ne capte pas le décrochage.
 
 ### Si un robot appelle
 
@@ -105,19 +107,19 @@ Ensuite il suffit de suivre la documentation pour installer l'image sur la carte
 
 * [*https://www.raspberrypi.org/documentation/installation/installing-images/README.md*](https://www.raspberrypi.org/documentation/installation/installing-images/README.md)
 
-Sur Mac ou linux il suffit d'utiliser la commande dd apres avoir identifié la device du lecteur SD, voici un exemple dans lequel le lecteur SD est sur la device /dev/rdisk2
+Sur Mac ou linux il faut utiliser la commande dd après avoir identifié la device du lecteur SD, voici un exemple dans lequel le lecteur SD est sur la device /dev/rdisk2
 
 `sudo dd bs=1m if=2017-08-16-raspbian-stretch.img of=/dev/rdisk2 conv=sync`
 
-Une fois l'opération terminée il suffit d'insérer la carte SD dans le raspberry pi, le brancher et c'est parti, il faudra mettre à jour par un petit upgrade afin d'être à jour et ensuite nous pouvons passer à l'installation de Asterisk et sa configuration.
+Une fois l'opération terminée il suffit d'insérer la carte SD dans le raspberry pi, le brancher et c'est parti, il faudra mettre à jour par un petit upgrade et ensuite nous pouvons passer à l'installation de Asterisk et sa configuration.
 
 ## Configuration de ligne Free en SIP
 
-Avant d'aller plus loin il est nécessaire de configurer sa ligne free afin qu'elle puisse être utilisée avec la VoIP, pour cela il faut aller dans la configuration de la freebox (sur le site de free) et activer le compte SIP.
+Avant d'aller plus loin il est nécessaire de configurer sa ligne Free afin qu'elle puisse être utilisée avec la VoIP, pour cela il faut aller dans la configuration de la freebox (sur le site de free) et activer le compte SIP.
 
 {{< img src="2017-08-26-freephonie.jpg" desc="Activation SIP Free" >}}
 
-Cela peut fonctionner aussi avec d'autres opérateur (aucun soucis avec une ligne de VoIP d'OVH par exemple), mais bien vérifier si c'est possible avant de se lancer, attention en ce qui concerne Free ils bloquent les appels sortant vers les mobiles, donc si vous voulez pouvoir continuer à appeler les mobiles il sera nécessaire d'ajouter un second compte SIP dans Asterisk qui sache le faire, un compte SIP OVH fera l'affaire par exemple.
+Cela peut fonctionner aussi avec d'autres opérateurs (aucun soucis avec une ligne de VoIP d'OVH par exemple), mais bien vérifier si c'est possible avant de se lancer, attention en ce qui concerne Free ils bloquent les appels sortant vers les mobiles, donc si vous voulez pouvoir continuer à appeler les mobiles il sera nécessaire d'ajouter un second compte SIP dans Asterisk qui sache le faire, un compte SIP OVH fera l'affaire par exemple.
 
 ## Asterisk
 
@@ -127,7 +129,7 @@ Aller il est temps de s'occuper de la configuration d'Asterisk, pour cela nous a
 
    -   ***extensions.conf*** : Contient les informations sur comment traiter les appels entrant ou sortant, c'est celui ci qui va nous intéresser pour bloquer les appels marketing
 
-   -   ***voicemail.conf*** : Contient les informations sur la boite mail pour l'envoie des messages du repondeur par mail comme fait Free.
+   -   ***voicemail.conf*** : Contient les informations sur la boite mail pour l'envoie des messages du répondeur par mail comme fait Free.
 
 
 ### Fichier sip.conf
@@ -208,19 +210,19 @@ qualify=yes
 
 #### Commentaires
 
-C'est la configuration d'un poste SIP, vous pouvez en configurer autant que vous souhaitez, voici quelques points a surveiller
+C'est la configuration d'un poste SIP, vous pouvez en configurer autant que vous souhaitez, voici quelques points à surveiller
 
 
 | Ligne | Détails |
 |---|---|
 | 001, 002 ... | N'essayez pas d'utiliser autre chose que des numéros pour cette configuration, cela risque de perdre Asterisk. |
-| secret=***MDPPOSTESIP*** | Ce mot de passe sera a configurer dans le poste SIP |
-| context=maison | Vous pouvez mettre ce que vous voulez comme context mais il faut faire attention à etre coherent à tous les endroits ou il est utilisé |
+| secret=***MDPPOSTESIP*** | Ce mot de passe sera à configurer dans le poste SIP |
+| context=maison | Vous pouvez mettre ce que vous voulez comme context mais il faut faire attention à etre coherent à tous les endroits où il est utilisé |
 
 
 ### Fichier extensions.conf
 
-Dans le fichier extensions.conf il faut laisser tout ce qu'il a placé par defaut et insérer sa configuration à la fin
+Dans le fichier extensions.conf il faut laisser tout ce qu'il a placé par défaut et insérer sa configuration à la fin
 
 ```
 [maison]
@@ -240,19 +242,19 @@ exten=>**1,n,VoiceMailMain(s001@default)
 exten=>**1,n,HangUp()
 ```
 
-Examinons la première partie, c'est à dire les 5 premières lignes, je n'expliquerai pas chaque commande Asterisk (par exemple Answer()) pour cela il suffit d'aller lire la documentation, mais on va plutot s'arreter sur la séquence.
+Examinons la première partie, c'est à dire les 5 premières lignes, je n'expliquerai pas chaque commande Asterisk (par exemple Answer()) pour cela il suffit d'aller lire la documentation, mais on va plutôt s'arreter sur la séquence.
 
 1. Sur un appel en entrée, tout de suite la première action est de décrocher.
 
 2. Ensuite renvoyer une sonnerie, ainsi l'appelant a l'impression que le poste n'est toujours pas décroché mais qu'il continue à sonner.
 
-3. On attend 10 secondes (a peut pret 3 sonneries)
+3. On attend 10 secondes (à peut prêt 3 sonneries)
 
 4. Puis on déclenche la sonnerie sur le poste SIP (ici le 001)
 
 5. Si pas de décrochage du poste alors on envoie le répondeur et le message sera envoyé par mail.
 
-Pour la compréhension du pourquoi de cette séquense se repporter au début de l'article.
+Pour la compréhension du pourquoi de cette séquense se reporter au début de l'article.
 
 Ensuite nous trouvons le plan de dial sur un appel sortant, et sur l'appel en local du **1 qui permet de consulter la messagerie**.
 
