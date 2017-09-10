@@ -546,10 +546,11 @@ receptor_kurchatov:
   image: receptor_kurchatov.jpg
 
 botox_bluesteel:
-  artist: "I'm a cliché (Feat. Anna Jean)"
-  song: Bot'Ox Blue Steel
+  artist: Botox
+  song: Blue Steel (Featuring Anna Jean)
+  uri: https://www.discogs.com/fr/Botox-Blue-Steel/release/2013328
   image: botox_bluesteel.jpg
-  uri: https://soundcloud.com/imacliche/botox-blue-steel-featuring-1
+  country: France
 
 facesontv_itscomingin:
   artist: Faces On Tv
@@ -564,3 +565,19 @@ roedeers_perkunas:
   album: Autumn Plants
   uri: https://www.beatport.com/track/perkunas-runemark-remark/8268103
   image: roedeers_perkunas.jpg
+
+dansdans_bloed:
+  artist: Dans Dans
+  song: Bloed En Dromen
+  album: "3 (UNDAY033D)"
+  uri: http://www.undayrecords.be/releasedetail.php?idn=UNDAY033D
+  country: Belgique
+  image: dandans_bloed.jpg
+
+yacht_theafterlife:
+  artist: YACHT
+  song: The Afterlife (Radio Edit)
+  album: The Afterlife
+  uri: https://yacht.bandcamp.com/album/the-afterlife
+  country: États-Unis
+  image: yacht_theafterlife.jpg
