@@ -6,7 +6,7 @@ date: 2015-03-16T14:08:58+00:00
 
 aliases: /2015/03/episode-24-start-up-et-tpe/
 podcast:
-  feed: https://podcast.comptoirsecu.fr/CSEC.EP24.2015-03-15.STARTUP_TPE.mp3
+  feed: https://podcasts.comptoirsecu.fr/CSEC.EP24.2015-03-15.STARTUP_TPE.mp3
 views: 5927
 
 image: /images/covers/2015-03-start-up-seed-funding-fonds-investissement-levee-©-Gorilla-Fotolia.com_.jpg

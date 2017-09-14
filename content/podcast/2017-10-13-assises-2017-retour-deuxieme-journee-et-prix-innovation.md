@@ -5,7 +5,7 @@ publisher: comptoirsecu
 date: 2017-10-13
 image:  /images/covers/2017-10-13-assises2017-alsid.jpg
 podcast:
-  feed: https://podcast.comptoirsecu.fr/CSEC.HS.2017-10-13.ASSISES2017_jour2.mp3
+  feed: https://podcasts.comptoirsecu.fr/HORS_SERIE/CSEC.HS30.2017-10-13.ASSISES_jour2.mp3
 categories:
   - Podcast
   - Hors-Serie

@@ -13,7 +13,7 @@ date: 2013-05-05T00:00:00+00:00
 aliases: /2013/05/podcast-episode-1-ssl-historique-faiblesses-et-avenir-2/
 image: /images/covers/2013-05-ssl-tls-transfert-securise.jpg
 podcast:
-  feed: https://podcast.comptoirsecu.fr/CSEC.EP01.2013-05-05.SSL.mp3
+  feed: https://podcasts.comptoirsecu.fr/CSEC.EP01.2013-05-05.SSL.mp3
 
 categories:
   - Podcast

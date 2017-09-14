@@ -5,7 +5,7 @@ publisher: comptoirsecu
 date: 2018-11-27
 image:  /images/covers/2018-11-27-sechebdo-vignette.jpg
 podcast:
-    feed: https://podcast.comptoirsecu.fr/CSEC.SECHebdo.2018-11-27.mp3
+    feed: https://podcasts.comptoirsecu.fr/SECHebdo/CSEC.SECHebdo.2018-11-27.mp3
     description: "Épisode du 27 11 2018 - SECHebdo est une revue de l'actualité cybersécurité réalisée en live sur Youtube, généralement le mardi soir."
 
 categories:

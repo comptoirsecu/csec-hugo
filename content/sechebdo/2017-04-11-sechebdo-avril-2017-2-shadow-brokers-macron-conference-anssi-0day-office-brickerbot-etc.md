@@ -9,7 +9,7 @@ video: "kN4oimOWA9o"
 aliases: /2017/04/sechebdo-avril-2017-2-shadow-brokers-macron-conference-anssi-0day-office-brickerbot-etc/
 image: /images/covers/2017-05-sechebdo-2017-04-11-vignette.jpg
 podcast:
-  feed: https://podcast.comptoirsecu.fr/CSEC.SECHebdo.2017-04-11.mp3
+  feed: https://podcasts.comptoirsecu.fr/SECHebdo/CSEC.SECHebdo.2017-04-11.mp3
 categories:
   - Podcast
   - SECHebdo

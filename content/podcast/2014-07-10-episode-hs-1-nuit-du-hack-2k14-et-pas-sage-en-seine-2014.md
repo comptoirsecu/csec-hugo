@@ -4,7 +4,7 @@ date: 2014-07-10T00:46:41+00:00
 
 aliases: /2014/07/episode-hs-1-nuit-du-hack-2k14-et-pas-sage-en-seine-2014/
 podcast:
-  feed: https://podcast.comptoirsecu.fr/CSEC.HS01.2014-07-10.NDH.mp3
+  feed: https://podcasts.comptoirsecu.fr/HORS_SERIE/CSEC.HS01.2014-07-10.NDH.mp3
 image: /images/covers/2014-07-P1000055-1.jpg
 categories:
   - Podcast

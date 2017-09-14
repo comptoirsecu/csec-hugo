@@ -6,7 +6,7 @@ date: 2015-08-07T17:58:49+00:00
 
 aliases: /2015/08/episode-30-larjel/
 podcast:
-  feed: https://podcast.comptoirsecu.fr/CSEC.EP30.2015-08-07.ARJEL.mp3
+  feed: https://podcasts.comptoirsecu.fr/CSEC.EP30.2015-08-07.ARJEL.mp3
 views: 3470
 image: /images/covers/2015-08-arjel-final.jpg
 categories:

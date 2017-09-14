@@ -9,7 +9,7 @@ date: 2013-11-25T08:53:01+00:00
 aliases: /2013/11/episode-8-ou-lon-debat-sur-lutilite-des-idsips-et-lavenir-des-smartlocks/
 views: 2108
 podcast:
-  feed: https://podcast.comptoirsecu.fr/CSEC.EP08.2013-11-22.IDS.mp3
+  feed: https://podcasts.comptoirsecu.fr/CSEC.EP08.2013-11-22.IDS.mp3
 image: /images/covers/2013-11-SMARTLOCK.jpg
 categories:
   - Podcast

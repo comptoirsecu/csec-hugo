@@ -8,7 +8,7 @@ date: 2014-09-30T01:32:14+00:00
 aliases: /2014/09/episode-hs-shellshock/
 views: 5179
 podcast:
-  feed: https://podcast.comptoirsecu.fr/CSEC.HS02.2014-09-30.SHELLSHOCK.mp3
+  feed: https://podcasts.comptoirsecu.fr/HORS_SERIE/CSEC.HS02.2014-09-30.SHELLSHOCK.mp3
 image: /images/covers/2014-09-SS_Logo_edited-1.jpg
 categories:
   - Podcast

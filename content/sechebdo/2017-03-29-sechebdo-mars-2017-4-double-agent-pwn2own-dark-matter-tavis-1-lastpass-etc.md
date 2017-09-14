@@ -8,7 +8,7 @@ video: "0doY-9thArc"
 
 aliases: /2017/03/sechebdo-mars-2017-4-double-agent-pwn2own-dark-matter-tavis-1-lastpass-etc/
 podcast:
-    feed: https://podcast.comptoirsecu.fr/CSEC.HS41.2017-03-28.SECHebdo_Mar_2017-4.mp3
+    feed: https://podcasts.comptoirsecu.fr/SECHebdo/CSEC.SECHebdo.2017-03-28.mp3
 image: /images/covers/2017-03-sechebdo-2017-03-28-vignette.jpg
 categories:
   - Podcast

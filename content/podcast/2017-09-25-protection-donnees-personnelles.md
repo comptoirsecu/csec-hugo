@@ -5,7 +5,7 @@ publisher: comptoirsecu
 date: 2017-09-24
 image:  /images/covers/2017-09-24-protection-donnees.jpg
 podcast:
-  feed: https://podcast.comptoirsecu.fr/CSEC.EP46.2017-09-11.PROTECTION_DONNEES.mp3
+  feed: https://podcasts.comptoirsecu.fr/CSEC.EP46.2017-09-11.PROTECTION_DONNEES.mp3
 categories:
   - Podcast
   - Emission

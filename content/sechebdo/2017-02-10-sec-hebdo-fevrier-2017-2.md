@@ -7,7 +7,7 @@ date: 2017-02-10T00:00:00+00:00
 video: "8UzOtXaYR9w"
 
 podcast:
-  feed: https://podcast.comptoirsecu.fr/CSEC.HS34.2017-02-09.SECHebdo_Fev_2017-2.mp3
+  feed: https://podcasts.comptoirsecu.fr/SECHebdo/CSEC.SECHebdo.2017-02-09.mp3
 aliases: /2017/02/sec-hebdo-fevrier-2017-2/
 image: /images/covers/2017-02-sechebdo-fev2.jpg
 categories:

@@ -7,7 +7,7 @@ date: 2015-04-15T17:23:05+00:00
 aliases: /2015/04/episode-26-crue-majeure-de-la-seine/
 views: 7623
 podcast:
-  feed: https://podcast.comptoirsecu.fr/CSEC.EP26.2015-04-06.CRUES_MAJEURES.mp3
+  feed: https://podcasts.comptoirsecu.fr/CSEC.EP26.2015-04-06.CRUES_MAJEURES.mp3
 categories:
   - Podcast
   - Emission

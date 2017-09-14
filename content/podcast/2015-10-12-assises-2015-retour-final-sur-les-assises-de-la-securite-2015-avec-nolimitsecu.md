@@ -7,7 +7,7 @@ date: 2015-10-12T11:04:19+00:00
 
 aliases: /2015/10/assises-2015-retour-final-sur-les-assises-de-la-securite-2015-avec-nolimitsecu/
 podcast:
-  feed: https://podcast.comptoirsecu.fr/CSEC.HS08.2015-10-12.ASSISES2015_JOUR3.mp3
+  feed: https://podcasts.comptoirsecu.fr/HORS_SERIE/CSEC.HS08.2015-10-12.ASSISES_JOUR3.mp3
 views: 2638
 image: /images/covers/2015-10-image3assises1.jpg
 categories:
