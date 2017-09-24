@@ -7,6 +7,15 @@
 #   image: test.jpg
 #   description: Description text
 
+pompom:
+  name: Pom-Pom
+  type: Bière
+  subtype: Blonde
+  degree: 4.8
+  country: Suède
+  description: "Bière à la fois acide et fruitée à base de pomegranate. Elle nous provient de la braserie Brasstacks située à Storvreta, en Suède!"
+  image: pompom.jpg
+
 pelforth_blonde:
   name: Pelforth Blonde
   type: Bière
