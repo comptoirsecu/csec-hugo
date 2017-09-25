@@ -1,7 +1,7 @@
 ---
 title: "[Épisode 46] Protection des données personnelles"
 subheadline: "Jeux de test et pseudonymisation, anonymisation, et plus encore!"
-publisher: morgan
+publisher: comptoirsecu
 date: 2017-09-24
 image:  /images/covers/2017-09-24-protection-donnees.jpg
 podcast:
@@ -13,15 +13,15 @@ tags:
   - Pseudonymisation
   - Anonymisation
   - Données personnelles
-  - GRPD
+  - RGPD
   - Barbe
 
 authors:
   - justin
   - morgan
-  - youenn
   - lois
-
+  - youenn
+  
 drinks:
   - corona_extra
   - goudale
@@ -34,11 +34,11 @@ guests:
 
 ---
 
-Qui dit épisode avec Jean Philippe Gaulier dit...interview inversé !
+Qui dit épisode avec Jean-Philippe Gaulier dit...interview inversé !
 
-Ce qui est gênant avec JP, c'est que l'on connait le sujet de départ...mais on ne sait jamais ou l'on va atterrir. Une fois qu'on a dit ça, l'avantage avec JP, c'est que ce n'est jamais barbant...sauf pour le micro ;).
+Ce qui est gênant avec JP, c'est que l'on connait le sujet de départ... mais on ne sait jamais où l'on va atterrir. Une fois qu'on a dit ça, l'avantage avec JP, c'est que ce n'est jamais barbant...sauf pour le micro ;).
 
-En l'occurence, le point de départ de cet épisode était la protection des données personnelles, et comment assurer cette protection lorsque la "dev" a besoin de jeux de tests reflétant fidèlement la production.
+En l'occurence, le point de départ de cet épisode était la protection des données personnelles, et comment assurer cette protection lorsque le "dev" a besoin de jeux de tests reflétant fidèlement la production.
 
 Pour ce qui est de comment cet épisode évolue et le reste du programme, on vous laisse découvrir !
 
