@@ -83,6 +83,7 @@ A bientôt pour d'autres émissions/podcasts!
     * [Showtime Websites Used to Mine Monero, Unclear If Hack or an Experiment](https://www.bleepingcomputer.com/news/security/showtime-websites-used-to-mine-monero-unclear-if-hack-or-an-experiment/)
     * [Coinhive Is Rapidly Becoming a Favorite Tool Among Malware Devs](https://www.bleepingcomputer.com/news/security/coinhive-is-rapidly-becoming-a-favorite-tool-among-malware-devs/)
     * [The Pirate Bay Website Runs a Cryptocurrency Miner (Updated)](https://torrentfreak.com/the-pirate-bay-website-runs-a-cryptocurrency-miner-170916/)
+    * [En Suède, une éolienne génère de la crypto monnaie pour financer la recherche sur le climat](http://www.numerama.com/sciences/292248-en-suede-une-eolienne-genere-de-la-crypto-monnaie-pour-financer-la-recherche-sur-le-climat.html)
     * [Strawpoll "Pour ou contre l'arrivée des cryptomineurs en remplacement des publicités pour financer les sites web?"](http://www.strawpoll.me/14017394/r)
 * La réforme du télétravail s'applique dès aujourd'hui en France
     * [Comment s'y prendre pour bénéficier du télétravail ?](http://www.lci.fr/conso-argent/comment-s-y-prendre-pour-beneficier-du-teletravail-demande-refus-patron-ordonnances-macron-reforme-du-code-du-travail-2065466.html)
