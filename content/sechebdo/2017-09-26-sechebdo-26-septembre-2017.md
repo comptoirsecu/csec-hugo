@@ -1,6 +1,6 @@
 ---
 title: '[SECHebdo] 26 Septembre 2017'
-subheadline: ""
+subheadline: "Soirée bar, Deloitte Pwned, CCleaner & trojan, MacOS & Keychain, Minage Monero CoinHive, Télétravail, Forseti, Humble Bundle Books, etc."
 publisher: comptoirsecu
 date: 2017-09-26
 image:  /images/covers/2017-09-26-sechebdo-2017-09-26-vignette.jpg
