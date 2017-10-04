@@ -1,6 +1,6 @@
 ---
 title: "Attention, un QRCode peut cacher un autre..."
-permalink: /concours_monaco_helicoptere/
+permalink: /QRCode_malveillant/
 image: /images/covers/2017-10-04-helicoptere.jpg
 ---
 
