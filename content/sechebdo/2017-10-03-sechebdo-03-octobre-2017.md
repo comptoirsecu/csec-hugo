@@ -54,7 +54,7 @@ A bientôt pour d'autres émissions/podcasts!
     * [3 simple steps to online safety](https://nakedsecurity.sophos.com/2017/10/02/3-simple-steps-to-online-safety/)
     * [Site officiel de l'European Cyber Security Month](https://cybersecuritymonth.eu/)
     * [Questionnaire level 1 de l'European Cyber Security Month](https://cybersecuritymonth.eu/references/quiz-demonstration/fr/security/level-1)
-    * [Commuiqué de presse de l'ANSSI, avec la liste des conférences françaises](https://www.ssi.gouv.fr/uploads/2017/10/communique-presse_mois_europeen_de_la_cybersecurite_2017.pdf)
+    * [Communiqué de presse de l'ANSSI, avec la liste des conférences françaises](https://www.ssi.gouv.fr/uploads/2017/10/communique-presse_mois_europeen_de_la_cybersecurite_2017.pdf)
 * Retour sur la conférence Exera
     * [Programme d'Exera](https://ufile.io/kjss5)
     * [Site officiel d'Exera](http://www.exera.com/)
@@ -62,7 +62,7 @@ A bientôt pour d'autres émissions/podcasts!
     * [How I hacked hundreds of companies through their helpdesk](https://medium.freecodecamp.org/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c)
 * Tinder : Draguez vous êtes surveillés...
     * [I asked Tinder for my data. It sent me 800 pages of my deepest, darkest secrets](https://www.theguardian.com/technology/2017/sep/26/tinder-personal-data-dating-app-messages-hacked-sold)
-    * [The Data Tinder Collects, Saves, and Uses](The Data Tinder Collects, Saves, and Uses)
+    * [The Data Tinder Collects, Saves, and Uses](https://www.schneier.com/blog/archives/2017/09/the_data_tinder.html)
 * Découverte de la semaine : OpenEx
     * [Site officiel d'OpenEx](https://www.openex.io/en/)
     * [Page officielle de l'association Luatix](http://www.luatix.org/fr/)
