@@ -43,11 +43,11 @@ guests:
 
 ---
 
-Pour ce 47ème épisode, nous avons voulu échanger d'un sujet qui fait couler beaucoup d'encres, mais qu'on voit malheureusement peu maitrisé (#bullshit) : le Dark Web.
+Pour ce 47ème épisode, nous avons voulu échanger sur un sujet qui fait couler beaucoup d'encre, mais qu'on voit malheureusement peu maitrisé (#bullshit) : le Dark Web.
 
 Ainsi, nous avons fait appel à Adrien Petit, qui travaille depuis de longues années sur ces différents réseaux pour qu'il nous éclaire sur ce monde qui semble si mystérieux et dangereux.
 
-Dans cet épisode, nous parlerons des caractéristiques du Dark Web, des différentes plateformes et communautés cybercriminelles underground et les réalités pour le RSSI.
+Dans cet épisode, nous parlerons des caractéristiques du Dark Web, des différentes plateformes & communautés cybercriminelles underground et les réalités pour le RSSI.
 
 Bonne écoute !
 
