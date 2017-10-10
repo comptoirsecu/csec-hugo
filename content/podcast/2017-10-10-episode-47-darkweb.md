@@ -53,4 +53,4 @@ Bonne écoute !
 
 {{< podigee >}}
 
-P.S: on est aux Assises cette semaine, donc n'hésitez pas à venir échanger avec nous pour ceux qui y seront ! Pour les autres, on essaiera de faire des retours rapide chaque soir de notre jourée sur Youtube, et le vendredi, une émission avec nos amis de NoLimitSecu est prévue !
+P.S: on est aux Assises cette semaine, donc n'hésitez pas à venir échanger avec nous pour ceux qui y seront ! Pour les autres, on essaiera de faire un retour rapide chaque soir (uniquement) sur Youtube, et le vendredi, une émission "Retour sur les Assises" est prévue avec nos amis de NoLimitSecu !
