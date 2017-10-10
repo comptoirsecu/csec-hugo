@@ -581,3 +581,35 @@ yacht_theafterlife:
   uri: https://yacht.bandcamp.com/album/the-afterlife
   country: États-Unis
   image: yacht_theafterlife.jpg
+
+autolux_robots:
+  artist: Autolux
+  song: Robots In The Garden
+  album: Future Perfect
+  uri: https://www.discogs.com/Autolux-Future-Perfect/master/42249
+  country: États-Unis
+  image: autolux.jpg
+
+jagajazzist_bookofglass:
+  artist: Jaga Jazzist
+  song: Book Of Glass (Edit)
+  album: One Armed Bandit
+  uri: https://jagajazzist.bandcamp.com/track/book-of-glass
+  country: Norvège
+  image: jaga.jpg
+
+braziliangirls_nevermetagerman:
+  artist: Brazilian Girls
+  song: Never Met A German
+  album: Talk To La Bomb
+  uri: https://www.discogs.com/Brazilian-Girls-Talk-To-La-Bomb/release/785281
+  country: États-Unis, Canada
+  image: braziliangirls.jpg
+
+licornes:
+  artist: Didi Chandouidoui
+  song: LES LICORNES EXISTENT (HUMAIN VS ALIEN)
+  album: N/A
+  uri: https://www.youtube.com/watch?v=JbHcWGMIcng
+  country: Camembert
+  image: licornes.jpg
