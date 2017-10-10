@@ -585,3 +585,12 @@ pilsner_urquell:
   degree: 4.4
   description: "Bière florale désaltérante venant de Plzeň. Dorée, vivante et pleine d'âme. Fin sèche et amère."
   image: pilsner_urquell.jpg
+
+biere_michard_ambre:
+  name: Michard Ambrée
+  type: Bière
+  subtype: Ambrée
+  country: France (Limoges)
+  degree: 5
+  description: "Bière au malt grillé, avec un goût caramel. Houblon aromatique allemand. Malt torréfié. Bière adoptée à 100% par le ComptoirSecu : merci à notre auditrice Nadège pour la découverte !"
+  image: biere-michard-ambree.jpg
