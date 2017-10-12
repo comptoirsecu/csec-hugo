@@ -27,7 +27,8 @@ authors:
 
 guests:
   - nadege_reynaud
-
+songs:
+  - datassette_metropolislighttransport
 ---
 
 C'est parti pour ce premier podcast de couverture des Assises de la Sécurité, édition 2017. Nous vous faisons un retour sur la première journée, au calme, autour d'un verre, bref, le retour aux sources en quelque sorte.
