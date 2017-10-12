@@ -456,18 +456,20 @@ gramophonedzie_whydontyou:
   image: gramophonedzie_whydontyou.jpg
 
 
-datasette_powerballad:
-  artist: Datasette
+datassette_powerballad:
+  artist: Datassette
   song: Power Ballad
   album: People without mouths
   uri: https://soundcloud.com/datashat/power-ballad
+  country: UK
   image: datasette_powerballad.jpg
 
-datasette_musicfourteen:
-  artist: Datasette
+datassette_musicfourteen:
+  artist: Datassette
   song: Music Fourteen
-  album: Datasette
+  album: Datassette
   uri: https://datassette.bandcamp.com/track/minus-fourteen
+  country: UK
   image: datasette_musicfourteen.jpg
 
 ellafitzgerald_stellabystarlight:
@@ -613,3 +615,11 @@ licornes:
   uri: https://www.youtube.com/watch?v=JbHcWGMIcng
   country: Camembert
   image: licornes.jpg
+
+datassette_metropolislighttransport
+  artist: Datassette
+  song: Metropolis Light Transport
+  album: Mannequin On The Run EP
+  uri: https://soundcloud.com/rebel-intelligence/datassette-metropolis-light-transport-ri005-b1
+  country: UK
+  image: datasette_mannequin.jpg
