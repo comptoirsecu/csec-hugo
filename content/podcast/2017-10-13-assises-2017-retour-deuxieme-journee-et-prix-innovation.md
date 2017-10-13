@@ -30,6 +30,8 @@ guests:
   - emmannuel_gras
   - luc_delsalle
 
+songs:
+  - datassette_metropolislighttransport
 ---
 
 Retour en "presque-direct" du Monte Carlo Bay pour ce deuxième jour Assises de la Sécurité, édition 2017. Pour ce deuxième jour, on a ramené plein de copains ! Nous avons donc en invité :
