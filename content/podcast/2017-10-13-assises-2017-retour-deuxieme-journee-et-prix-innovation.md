@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "[Assises 2017] Retours sur la deuxième journée"
 subheadline: "Avec les gagnants du prix de l'innovation"
 publisher: comptoirsecu
