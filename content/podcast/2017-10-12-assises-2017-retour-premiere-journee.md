@@ -3,7 +3,7 @@ title: "[Assises 2017] Retours sur la première journée"
 subheadline: "En presque-direct de Monaco"
 publisher: comptoirsecu
 date: 2017-10-12
-image:  /images/covers/2017-10-12-assises2017.jpg
+image: /images/covers/2017-10-12-assises2017.jpg
 podcast:
   feed: https://podcast.comptoirsecu.fr/CSEC.HS.2017-10-12.ASSISES2017_jour1.mp3
 categories:

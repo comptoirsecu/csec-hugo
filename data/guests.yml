@@ -396,3 +396,9 @@ adrien_petit:
   description: "Cybersecurity Development Manager chez GM Consultant"
   linkedin: https://www.linkedin.com/in/adrien-petit-83978619/
   image: adrien_petit.jpg
+
+emmanuel_germain:
+  name: "Emmanuel Germain"
+  linkedin: https://www.linkedin.com/in/emmanuel-germain-763a3b1/
+  description: "Directeur général adjoint de l'ANSSI"
+  image: emmanuel_germain.jpg
