@@ -52,7 +52,7 @@ A bientôt pour d'autres émissions/podcasts!
 
 ### Liste des sources :
 
-* Mois européen de la cybersécurité et (dé)sensibilisation
+* Ca Krack le WPA(2)
     * [Page officiele de Key Reinstallation Attacks (KRACKS)](https://www.krackattacks.com/)
     * [KRACK : plus de peur que de mal (pour l'instant) pour la faille WPA 2/WiFi](http://www.zdnet.fr/actualites/krack-plus-de-peur-que-de-mal-pour-l-instant-pour-la-faille-wpa-2-wifi-39858756.htm)
     * [Vendor Response Matrix for KRACK WPA2 (Key Reinstallation Attack)](https://github.com/kristate/krackinfo)
