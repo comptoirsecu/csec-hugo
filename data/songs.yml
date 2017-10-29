@@ -623,3 +623,28 @@ datassette_metropolislighttransport:
   uri: https://soundcloud.com/rebel-intelligence/datassette-metropolis-light-transport-ri005-b1
   country: UK
   image: datassette_mannequin.jpg
+
+thenotwist_runrunrun:
+  artist: The Notwist
+  song: Run Run Run
+  album: Close to the Glass
+  uri: https://alientransistor.com/shop/the-notwist-close-to-the-glass/
+  country: Allemagne
+  image: thenotwist_band.jpg
+
+thenotwist_kong:
+  artist: The Notwist
+  song: Kong
+  album: Close to the Glass
+  uri: https://alientransistor.com/shop/the-notwist-close-to-the-glass/
+  country: Allemagne
+  image: thenotwist_band.jpg
+
+polynation_sufi3:
+  artist: Polynation
+  song: Sufi Pt III (feat. Marlon Penn)
+  album: Sufi
+  uri: https://atomnation.bandcamp.com/album/sufi
+  country: Pays-Bas
+  image: polynation_sufi.jpg
+
