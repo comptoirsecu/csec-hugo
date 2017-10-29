@@ -402,3 +402,7 @@ emmanuel_germain:
   linkedin: https://www.linkedin.com/in/emmanuel-germain-763a3b1/
   description: "Directeur général adjoint de l'ANSSI"
   image: emmanuel_germain.jpg
+
+philippe_automaticien:
+  name: "Philippe"
+  description: "Automaticien"

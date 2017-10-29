@@ -594,3 +594,20 @@ biere_michard_ambre:
   degree: 5
   description: "Bière au malt grillé, avec un goût caramel. Houblon aromatique allemand. Malt torréfié. Bière adoptée à 100% par le ComptoirSecu : merci à notre auditrice Nadège pour la découverte !"
   image: biere-michard-ambree.jpg
+
+cidre_kerisac_brut:
+  name: Cidre Kerisac Brut
+  type: Cidre
+  subtype: Brut
+  country: France (Guenrouet)
+  degree: 4.5
+  description: "Cidre brut à partir de pommes à cidre issues des vergers bretons. Légère pointe d'acidité."
+  image: cidre_kerisac_brut.jpg
+
+petite_soeur_biere_saison:
+  name: "La p'tite soeur - Saison"
+  type: Bière
+  subtype: Saison
+  country: France (Sartrouville)
+  degree: 6.5
+  description: "Bière de Saison Belge ou « Farmhouse ale » elle présente la particularité d’être plus houblonnée qu’une saison classique. Bière aux céréales multiples (orge et blé), avec le Chinook un houblon américain qui lui confère un arôme d’agrume. Une amertume marquée et des arômes riches entre houblon et céréale."
