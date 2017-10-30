@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "[Épisode 48] La SSI dans le monde industriel"
 subheadline: "Echangeons avec un automaticien et un RSSI du monde industriel"
 publisher: comptoirsecu
