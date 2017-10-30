@@ -31,7 +31,7 @@ songs:
   - polynation_sufi3
 
 guests:
-  - alexandre_fernandeztoro
+  - alexandre_industriel
   - philippe_automaticien
 
 ---
