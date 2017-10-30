@@ -405,8 +405,8 @@ emmanuel_germain:
 
 philippe_automaticien:
   name: "Philippe"
-  description: "Automaticien"
+  description: "Responsable d'un service d'automatismes dans le monde industriel, dans le domaine de l'environnement"
 
 alexandre_industriel:
   name: "Alexandre"
-  description: "Responsable de la sécurité du système d'information (RSSI) dans le secteur industriel"
+  description: "Responsable de la sécurité des systèmes d'information dans le secteur industriel"
