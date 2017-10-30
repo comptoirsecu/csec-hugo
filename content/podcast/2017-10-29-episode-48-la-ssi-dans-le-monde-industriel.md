@@ -36,9 +36,9 @@ guests:
 
 ---
 
-Pour ce 48ème épisode, nous avons voulu faire une émission sur un secteur, l'industriel.
+Pour ce 48ème épisode, nous avons voulu faire une émission sur le secteur industriel.
 
-C'est un monde inconnu pour beaucoup d'entre nous qui ne faisons pas d'OT, et il nous semblait important d'échanger, avec non seulement un RSSI du monde industriel, mais de donner aussi la parole au métier : un automaticien.
+C'est un monde inconnu pour beaucoup d'entre nous et il nous semblait important d'échanger avec un RSSI du monde industriel, mais de donner aussi la parole au métier, l'automaticien.
 
 Dans cet épisode, nous échangeons donc sur le métier d'un automaticien et sa vision sur la SSI, de la mise en place de la sécurité dans les systèmes industriels, des différences et non-différences entre le monde tertiaire et le monde industriel, etc...
 
