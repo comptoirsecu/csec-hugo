@@ -73,6 +73,7 @@ A bientôt pour d'autres émissions/podcasts!
 * Les conséquences d'Equifax
     * [Equifax : des avertissements de longue date](http://www.lemagit.fr/actualites/450429121/Equifax-des-avertissements-de-longue-date)
     * [Seattle Woman Says Her Identity Has Been Stolen 15 Times Since Equifax Data Breach](https://www.huffingtonpost.com/entry/katie-van-fleet-equifax-stolen-identity_us_59f71d08e4b07fdc5fbf782d)
+    * [Transaction Support for Identity Management](https://www.fbo.gov/index?s=opportunity&mode=form&id=ea6f7d2c319f384e03e24ba0bdfad389&tab=core&tabmode=list&=)
 * La farandole des bug trackers compromis
     * [Microsoft Kept Secret That Its Bug-Tracking Database Was Hacked In 2013](https://amp.thehackernews.com/thn/2017/10/microsoft-bug-tracking-breach.html)
     * [A flaw in Google's bug database exposed private security vulnerability reports](http://www.zdnet.com/google-amp/article/google-bug-tracker-flaw-exposed-sensitive-security-vulnerability-reports/)
