@@ -11,6 +11,7 @@ tags:
   - Bitcoin
   - Ransomware
   - Blanchiment
+  - Laverie
 ---
 
 # Genèse de l’histoire
