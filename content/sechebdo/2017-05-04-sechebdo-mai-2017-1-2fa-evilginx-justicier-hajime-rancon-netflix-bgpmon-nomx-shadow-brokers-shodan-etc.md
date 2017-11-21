@@ -10,7 +10,7 @@ aliases: /2017/05/sechebdo-mai-2017-1-2fa-evilginx-justicier-hajime-rancon-netfl
 image: /images/covers/2017-05-sechebdo-2017-05-01.jpg
 podcast:
     feed: https://podcast.comptoirsecu.fr/CSEC.SECHebdo.2017-05-03.mp3
-    description: "SECHebdo est une revue de l'actualité cybersécurité réalisé en live sur Youtube, généralement le mardi soir."
+    description: "Épisode du 02 mai 2017 - SECHebdo est une revue de l'actualité cybersécurité réalisé en live sur Youtube, généralement le mardi soir."
 categories:
   - Podcast
   - SECHebdo
@@ -47,7 +47,7 @@ Notre discord : <http://discord.comptoirsecu.fr>
 
 A bientôt pour d'autres émissions/podcasts!
 
-# Liste des news:
+### Liste des sources :
 
   * Chronique sur le 2FA (2:02)
       * <http://www.martinvigo.com/design-flaws-lastpass-2fa-implementation/>

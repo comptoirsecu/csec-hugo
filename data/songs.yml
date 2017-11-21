@@ -456,18 +456,20 @@ gramophonedzie_whydontyou:
   image: gramophonedzie_whydontyou.jpg
 
 
-datasette_powerballad:
-  artist: Datasette
+datassette_powerballad:
+  artist: Datassette
   song: Power Ballad
   album: People without mouths
   uri: https://soundcloud.com/datashat/power-ballad
+  country: UK
   image: datasette_powerballad.jpg
 
-datasette_musicfourteen:
-  artist: Datasette
+datassette_musicfourteen:
+  artist: Datassette
   song: Music Fourteen
-  album: Datasette
+  album: Datassette
   uri: https://datassette.bandcamp.com/track/minus-fourteen
+  country: UK
   image: datasette_musicfourteen.jpg
 
 ellafitzgerald_stellabystarlight:
@@ -546,10 +548,11 @@ receptor_kurchatov:
   image: receptor_kurchatov.jpg
 
 botox_bluesteel:
-  artist: "I'm a cliché (Feat. Anna Jean)"
-  song: Bot'Ox Blue Steel
+  artist: Botox
+  song: Blue Steel (Featuring Anna Jean)
+  uri: https://www.discogs.com/fr/Botox-Blue-Steel/release/2013328
   image: botox_bluesteel.jpg
-  uri: https://soundcloud.com/imacliche/botox-blue-steel-featuring-1
+  country: France
 
 facesontv_itscomingin:
   artist: Faces On Tv
@@ -564,3 +567,84 @@ roedeers_perkunas:
   album: Autumn Plants
   uri: https://www.beatport.com/track/perkunas-runemark-remark/8268103
   image: roedeers_perkunas.jpg
+
+dansdans_bloed:
+  artist: Dans Dans
+  song: Bloed En Dromen
+  album: "3 (UNDAY033D)"
+  uri: http://www.undayrecords.be/releasedetail.php?idn=UNDAY033D
+  country: Belgique
+  image: dansdans_bloed.jpg
+
+yacht_theafterlife:
+  artist: YACHT
+  song: The Afterlife (Radio Edit)
+  album: The Afterlife
+  uri: https://yacht.bandcamp.com/album/the-afterlife
+  country: États-Unis
+  image: yacht_theafterlife.jpg
+
+autolux_robots:
+  artist: Autolux
+  song: Robots In The Garden
+  album: Future Perfect
+  uri: https://www.discogs.com/Autolux-Future-Perfect/master/42249
+  country: États-Unis
+  image: autolux.jpg
+
+jagajazzist_bookofglass:
+  artist: Jaga Jazzist
+  song: Book Of Glass (Edit)
+  album: One Armed Bandit
+  uri: https://jagajazzist.bandcamp.com/track/book-of-glass
+  country: Norvège
+  image: jaga.jpg
+
+braziliangirls_nevermetagerman:
+  artist: Brazilian Girls
+  song: Never Met A German
+  album: Talk To La Bomb
+  uri: https://www.discogs.com/Brazilian-Girls-Talk-To-La-Bomb/release/785281
+  country: États-Unis, Canada
+  image: braziliangirls.jpg
+
+licornes:
+  artist: Didi Chandouidoui
+  song: LES LICORNES EXISTENT (HUMAIN VS ALIEN)
+  album: N/A
+  uri: https://www.youtube.com/watch?v=JbHcWGMIcng
+  country: Camembert
+  image: licornes.jpg
+
+datassette_metropolislighttransport:
+  artist: Datassette
+  song: Metropolis Light Transport
+  album: Mannequin On The Run EP
+  uri: https://soundcloud.com/rebel-intelligence/datassette-metropolis-light-transport-ri005-b1
+  country: UK
+  image: datassette_mannequin.jpg
+
+thenotwist_runrunrun:
+  artist: The Notwist
+  song: Run Run Run
+  album: Close to the Glass
+  uri: https://alientransistor.com/shop/the-notwist-close-to-the-glass/
+  country: Allemagne
+  image: thenotwist_band.jpg
+
+thenotwist_kong:
+  artist: The Notwist
+  song: Kong
+  album: Close to the Glass
+  uri: https://alientransistor.com/shop/the-notwist-close-to-the-glass/
+  country: Allemagne
+  image: thenotwist_band.jpg
+
+polynation_sufi3:
+  artist: Polynation
+  song: Sufi Pt III (feat. Marlon Penn)
+  album: Sufi
+  uri: https://atomnation.bandcamp.com/album/sufi
+  country: Pays-Bas
+  image: polynation_sufi.jpg
+

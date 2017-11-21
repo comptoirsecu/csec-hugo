@@ -94,3 +94,9 @@ jil:
   description: >
       Couteau Suisse qui aiguise son prochain outil : le décapsuleur. Joue à pacman avec le contrôle interne, fait converger péniblement un SI entier vers les bonnes pratiques.
   images: jil.jpg
+
+
+ptro46:
+  name: Ptro46
+  description: "Professionnel du développement logiciel je m'intéresse fortement à la sécurité sous l'angle du développement"
+  image: ptro46.jpg

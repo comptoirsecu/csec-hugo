@@ -6,7 +6,7 @@ date: 2017-07-25
 image:  /images/covers/2017-07-25.jpg
 podcast:
     feed: https://podcast.comptoirsecu.fr/CSEC.SECHebdo.2017-07-25.mp3
-    description: "SECHebdo est une revue de l'actualité cybersécurité réalisé en live sur Youtube, généralement le mardi soir."
+    description: "Épisode du 25 juillet 2017 - SECHebdo est une revue de l'actualité cybersécurité réalisé en live sur Youtube, généralement le mardi soir."
 categories:
  - Podcast
  - SECHebdo
@@ -44,8 +44,7 @@ Notre discord : <http://discord.comptoirsecu.fr>
 
 A bientôt pour d'autres émissions/podcasts!
 
-# Liste des news:
-
+### Liste des sources :
 
 * Grosse fuite de donnée en suédie (1:00)
     * [http://thehackernews.com/2017/07/sweden-data-breach.html](http://thehackernews.com/2017/07/sweden-data-breach.html)

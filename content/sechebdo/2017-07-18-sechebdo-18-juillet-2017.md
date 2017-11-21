@@ -7,7 +7,7 @@ date: 2017-07-18
 image:  /images/covers/2017-07-18.jpg
 podcast:
     feed: https://podcast.comptoirsecu.fr/CSEC.SECHebdo.2017-07-18.mp3
-    description: "SECHebdo est une revue de l'actualité cybersécurité réalisé en live sur Youtube, généralement le mardi soir."
+    description: "Épisode du 18 juillet 2017 - SECHebdo est une revue de l'actualité cybersécurité réalisé en live sur Youtube, généralement le mardi soir."
 categories:
  - Podcast
  - SECHebdo
@@ -51,7 +51,7 @@ Notre discord : <http://discord.comptoirsecu.fr>
 
 A bientôt pour d'autres émissions/podcasts!
 
-# Liste des news:
+### Liste des sources :
 
 * Vulnérabilité NTLM (2:59)
     * [https://blog.preempt.com/new-ldap-rdp-relay-vulnerabilities-in-ntlm](https://blog.preempt.com/new-ldap-rdp-relay-vulnerabilities-in-ntlm)

@@ -42,14 +42,14 @@ authors:
 
 chaptermarks:
   - "00:02:24|Début du dossier"
-  - "00:23:55|Pause Musicale avec Datasette – Music Fourteen"
+  - "00:23:55|Pause Musicale avec Datassette – Music Fourteen"
   - "00:26:01|Suite du dossier"
   - "00:55:55|Outro"
   - "00:57:09|Musique de fin avec Ella Fitzgerald - Stella By Starlight"
 
 
 songs:
-  - datasette_musicfourteen
+  - datassette_musicfourteen
   - ellafitzgerald_stellabystarlight
 ---
 Nous voici de retour pour un dossier dédié à Ébola et la gestion des crises dédié aux pandémies en entreprise. Nous avons donc le plaisir de recevoir [Vincent Balouet](https://plus.google.com/u/0/+VincentBalouet/)[.](https://plus.google.com/u/0/110251727190072935740?prsrc=4)

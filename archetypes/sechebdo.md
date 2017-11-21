@@ -1,17 +1,18 @@
 ---
-title: '[SECHebdo] MOIS 2017 - XX'
+title: '[SECHebdo] XX XX 2017'
 subheadline: ""
-publisher:
+publisher: comptoirsecu
 date: {{ dateFormat "2006-01-02" .Date }}
-image:  /images/covers/{{ dateFormat "2006-01-02" .Date }}.jpg
+image:  /images/covers/{{ dateFormat "2006-01-02" .Date }}-sechebdo-{{ dateFormat "2006-01-02" .Date }}-vignette.jpg
 podcast:
-    feed: https://podcast.comptoirsecu.fr/FILE.mp3
-    description: "SECHebdo est une revue de l'actualité cybersécurité réalisé en live sur Youtube, généralement le mardi soir."
+    feed: https://podcast.comptoirsecu.fr/CSEC.SECHebdo.{{ dateFormat "2006-01-02" .Date }}.mp3
+    description: "Épisode du XX XX 2017 - SECHebdo est une revue de l'actualité cybersécurité réalisé en live sur Youtube, généralement le mardi soir."
+
 categories:
  - Podcast
  - SECHebdo
+
 tags:
- - Live
  - Neutrality
  - MacronLeaks
  - Kryptonite
@@ -39,7 +40,7 @@ Notre discord : <http://discord.comptoirsecu.fr>
 
 A bientôt pour d'autres émissions/podcasts!
 
-# Liste des news:
+### Liste des sources :
 
-  * mm:ss TITRE
-      * <http://>
+* Titre news
+    * [Titre_article](lien_article)

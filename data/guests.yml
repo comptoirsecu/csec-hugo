@@ -7,11 +7,18 @@
 #   linkedin: https://www.linkedin.com/in/maitrisedescrises/
 #   email: test@example.com
 
+
+nadege_reynaud:
+  name: Nadège Reynaud
+  linkedin: https://www.linkedin.com/in/nad%C3%A8ge-r-5867949/
+  description: Chief IT Security Officer at AMF
+  image: nadege_reynaud.jpg
+
 alexandre_fernandeztoro:
   name: Alexandre Fernandez Toro
   linkedin: https://www.linkedin.com/in/alexandre-fernandez-toro-517249/
   twitter: afernandez_toro
-  description: "Responsable sécurité du système d'information (RSSI) dans le secteur industriel, auteur de nombreux livres sur la SSI. Son dada? L'ISO 27000."
+  description: "Responsable de la sécurité du système d'information, auteur de nombreux livres sur la SSI. Son dada? L'ISO 27000."
   image: alexandre_fernandeztoro.jpg
 
 frederic_duflot:
@@ -383,3 +390,23 @@ snip:
   twitter: sniperovitch
   uri: https://keybase.io/sniperovitch
   image: snip.jpg
+
+adrien_petit:
+  name: "Adrien Petit"
+  description: "Cybersecurity Development Manager chez GM Consultant"
+  linkedin: https://www.linkedin.com/in/adrien-petit-83978619/
+  image: adrien_petit.jpg
+
+emmanuel_germain:
+  name: "Emmanuel Germain"
+  linkedin: https://www.linkedin.com/in/emmanuel-germain-763a3b1/
+  description: "Directeur général adjoint de l'ANSSI"
+  image: emmanuel_germain.jpg
+
+philippe_automaticien:
+  name: "Philippe"
+  description: "Responsable d'un service d'automatismes dans le monde industriel, dans le domaine de l'environnement"
+
+alexandre_industriel:
+  name: "Alexandre"
+  description: "Responsable de la sécurité des systèmes d'information dans le secteur industriel"

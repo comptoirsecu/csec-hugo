@@ -19,28 +19,24 @@ addons:
 notifications:
   webhooks:
     urls:
-      - https://discordapp.com/api/webhooks/347631273948479491/4wGTEwmPgA4AfTiHdIty2qszWdtNRve8LxRzfZqlgbIrbf7BSrJqg5zAa-szACKQSdD_
-    on_success: change # default: always
+      - https://discordapp.com/api/webhooks/347631273948479491/4wGTEwmPgA4AfTiHdIty2qszWdtNRve8LxRzfZqlgbIrbf7BSrJqg5zAa-szACKQSdD_/slack
+    on_success: always # default: always
     on_failure: always # default: always
     on_start: change   # default: never
     on_cancel: always # default: always
     on_error: always # default: always
 
-cache:
-  directories:
-    - "node_modules"
+cache: yarn
 
-before_install:
-  - npm i -g npm
 
 install:
-  - npm install
+  - yarn
   - wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
   - tar -xzf hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
   - chmod +x hugo
 
 before_script:
-  - npm install -g gulp-cli
+  - yarn global add gulp-cli
   - mkdir binaries && mv hugo binaries/
   - export PATH=$PATH:$PWD/binaries/
 
