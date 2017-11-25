@@ -154,7 +154,66 @@ Pour le premier cas, soit vous avez un certificat émis par une autorité de cer
 
 Le deuxième cas est le plus probable dans le sens où votre répartiteur de charge est configuré selon les préconisations de la sécu, qui dit : TLS 1.2 avec Perfect Forward Secrecy ou va crever !
 
-L’intégrateur va obtenir de l’assistance la liste des suites cryptographiques supportées et vous ne la trouvez pas dans celles autorisées sur le répartiteur. Ainsi, si vous [prenez une suite de TLS 1.0][suites] :
+Vous pouvez lister facilement les suites cryptographiques supportées avec nmap :
+
+	nmap --script ssl-enum-ciphers google.fr -p 443
+
+	Starting Nmap 7.40 ( https://nmap.org ) at 2017-11-25 20:13 CET
+	Nmap scan report for google.fr (216.58.206.227)
+	Host is up (0.027s latency).
+	Other addresses for google.fr (not scanned): 2a00:1450:4007:814::2003
+	rDNS record for 216.58.206.227: par10s34-in-f3.1e100.net
+	PORT    STATE SERVICE
+	443/tcp open  https
+	| ssl-enum-ciphers: 
+	|   TLSv1.0: 
+	|     ciphers: 
+	|       TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA (rsa 2048) - A
+	|       TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA (rsa 2048) - A
+	|       TLS_RSA_WITH_AES_128_CBC_SHA (rsa 2048) - A
+	|       TLS_RSA_WITH_AES_256_CBC_SHA (rsa 2048) - A
+	|       TLS_RSA_WITH_3DES_EDE_CBC_SHA (rsa 2048) - C
+	|     compressors: 
+	|       NULL
+	|     cipher preference: server
+	|     warnings: 
+	|       64-bit block cipher 3DES vulnerable to SWEET32 attack
+	|   TLSv1.1: 
+	|     ciphers: 
+	|       TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA (rsa 2048) - A
+	|       TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA (rsa 2048) - A
+	|       TLS_RSA_WITH_AES_128_CBC_SHA (rsa 2048) - A
+	|       TLS_RSA_WITH_AES_256_CBC_SHA (rsa 2048) - A
+	|       TLS_RSA_WITH_3DES_EDE_CBC_SHA (rsa 2048) - C
+	|     compressors: 
+	|       NULL
+	|     cipher preference: server
+	|     warnings: 
+	|       64-bit block cipher 3DES vulnerable to SWEET32 attack
+	|   TLSv1.2: 
+	|     ciphers: 
+	|       TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA (rsa 2048) - A
+	|       TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 (rsa 2048) - A
+	|       TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA (rsa 2048) - A
+	|       TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 (rsa 2048) - A
+	|       TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256 (rsa 2048) - A
+	|       TLS_RSA_WITH_3DES_EDE_CBC_SHA (rsa 2048) - C
+	|       TLS_RSA_WITH_AES_128_CBC_SHA (rsa 2048) - A
+	|       TLS_RSA_WITH_AES_128_GCM_SHA256 (rsa 2048) - A
+	|       TLS_RSA_WITH_AES_256_CBC_SHA (rsa 2048) - A
+	|       TLS_RSA_WITH_AES_256_GCM_SHA384 (rsa 2048) - A
+	|     compressors: 
+	|       NULL
+	|     cipher preference: client
+	|     warnings: 
+	|       64-bit block cipher 3DES vulnerable to SWEET32 attack
+	|_  least strength: C
+
+	Nmap done: 1 IP address (1 host up) scanned in 2.57 seconds
+
+Un autre outil utile, mais que nous n’utiliserons pas dans cet article, est `openssl s_client`.
+
+L’intégrateur va obtenir de l’assistance la liste des suites cryptographiques supportées par le client de son application et vous ne la trouvez pas dans celles autorisées sur le répartiteur. Ainsi, si vous [prenez une suite de TLS 1.0][suites] :
 
 	curl -vv --cipher DHE-RSA-AES128-SHA  https://www.google.fr
 	* Rebuilt URL to: https://www.google.fr/
