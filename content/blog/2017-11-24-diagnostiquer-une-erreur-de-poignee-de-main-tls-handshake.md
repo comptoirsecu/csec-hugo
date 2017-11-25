@@ -63,13 +63,13 @@ Mais bon, si c’était bien codé, ou si le message d’erreur était accessibl
 
 ## Si le répartiteur le veut bien
 
-Dans les journaux du répartiteur de charge, il devrait indique la raison de cette erreur. 
+Dans les journaux du répartiteur de charge, il devrait indiquer la raison de cette erreur. 
 
 Mais voilà, comme c’est un système qui ronronne comme le moteur d’une 2CV, son admin est parti pêcher le gardon dans la Creuse.
 
 ## Reproduire le problème
 
-Puisque le Consortium est un géant, et que vous n’êtes qu’un microbe, vous n’aurez pas droit à une conférence avec un vrai technicien qui va ouvrir un shell et lancer les commandes. La première étape consiste donc à faire ouvrir le flux pour une machine sous votre contrôle le temps de déboguer (parce que non, on n’ouvre pas un service au web à `any` quand on peut s’en affranchir). 
+Puisque le Consortium est un géant, et que vous n’êtes qu’un microbe, vous n’aurez pas droit à une conférence avec un vrai technicien qui va ouvrir un shell et lancer les commandes. La première étape consiste donc à faire ouvrir le flux pour une machine sous votre contrôle le temps de déboguer (parce que non, on n’ouvre pas un service web à `any` quand on peut s’en affranchir). 
 
 Soit dit en passant, vous risquez de ne pas pouvoir utiliser les machines internes sans vous faire des nœuds au cerveau en cas de problème de routage. En effet, quand le paquet par à droite et revient par la gauche, les firewalls jouent les Clint Eastwood.
 
