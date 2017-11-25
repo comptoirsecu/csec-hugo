@@ -7,6 +7,15 @@
 #   image: test.jpg
 #   description: Description text
 
+pompom:
+  name: Pom-Pom
+  type: Bière
+  subtype: Blonde
+  degree: 4.8
+  country: Suède
+  description: "Bière à la fois acide et fruitée à base de pomegranate. Elle nous provient de la braserie Brasstacks située à Storvreta, en Suède!"
+  image: pompom.jpg
+
 pelforth_blonde:
   name: Pelforth Blonde
   type: Bière
@@ -576,3 +585,29 @@ pilsner_urquell:
   degree: 4.4
   description: "Bière florale désaltérante venant de Plzeň. Dorée, vivante et pleine d'âme. Fin sèche et amère."
   image: pilsner_urquell.jpg
+
+biere_michard_ambre:
+  name: Michard Ambrée
+  type: Bière
+  subtype: Ambrée
+  country: France (Limoges)
+  degree: 5
+  description: "Bière au malt grillé, avec un goût caramel. Houblon aromatique allemand. Malt torréfié. Bière adoptée à 100% par le ComptoirSecu : merci à notre auditrice Nadège pour la découverte !"
+  image: biere-michard-ambree.jpg
+
+cidre_kerisac_brut:
+  name: Cidre Kerisac Brut
+  type: Cidre
+  subtype: Brut
+  country: France (Guenrouet)
+  degree: 4.5
+  description: "Cidre brut à partir de pommes à cidre issues des vergers bretons. Légère pointe d'acidité."
+  image: cidre_kerisac_brut.jpg
+
+petite_soeur_biere_saison:
+  name: "La p'tite soeur - Saison"
+  type: Bière
+  subtype: Saison
+  country: France (Sartrouville)
+  degree: 6.5
+  description: "Bière de Saison Belge ou « Farmhouse ale » elle présente la particularité d’être plus houblonnée qu’une saison classique. Bière aux céréales multiples (orge et blé), avec le Chinook un houblon américain qui lui confère un arôme d’agrume. Une amertume marquée et des arômes riches entre houblon et céréale."

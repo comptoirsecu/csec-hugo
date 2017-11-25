@@ -35,7 +35,7 @@ chaptermarks:
   - "00:16:56|Retour sur l'événement"
   - "00:33:15|Interview du vainqueur du prix de l'innovation 2013 – Intralinks"
   - "00:53:58| Interview du vainqueur du prix de l'innovation 2014 – IDECSI"
-  - "01:09:07|Musique de fin avec Datasette – Power Ballad"
+  - "01:09:07|Musique de fin avec Datassette – Power Ballad"
 
 guests:
   - guillaume_poupard
@@ -43,7 +43,7 @@ guests:
   - daniel_rezlan
 
 songs:
-  - datasette_powerballad
+  - datassette_powerballad
 ---
 
 Une semaine après les événements des assises de la sécurité, voici notre épisode spécial !
