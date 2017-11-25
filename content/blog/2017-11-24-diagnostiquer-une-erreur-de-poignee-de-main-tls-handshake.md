@@ -92,7 +92,7 @@ De là, vous extorquez au développeur de la banque d’identités (ah, pardon !
 
 On joue la requête qui est censée fonctionner :
 
-	curl -vv -d '{"liquide":["whisky"]}' https://id.ours-hiboux.tld/disambiguate
+	curl -vv -d '{"singularité":[{"œil":"borgne"}]}' https://id.ours-hiboux.tld/disambiguate
 	* Rebuilt URL to: https://www.google.fr/
 	*   Trying 2a00:1450:4007:809::2003...
 	* TCP_NODELAY set
