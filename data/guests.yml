@@ -355,7 +355,6 @@ daniel_rezlan:
   image: daniel_rezlan.jpg
   linkedin: https://www.linkedin.com/in/drezlan/
 
-
 carl_heberger:
   name: Carl Heberger
   description: "VP Security Solutions chez Radware"
@@ -410,3 +409,8 @@ philippe_automaticien:
 alexandre_industriel:
   name: "Alexandre"
   description: "Responsable de la sécurité des systèmes d'information dans le secteur industriel"
+
+jil:
+  name: Jil
+  description: "Couteau Suisse qui aiguise son prochain outil : le décapsuleur. Joue à pacman avec le contrôle interne, fait converger péniblement un SI entier vers les bonnes pratiques."
+  images: jil.jpg

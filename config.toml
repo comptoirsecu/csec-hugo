@@ -11,7 +11,7 @@ disableAliases = true
 
 [params]
 # leave empty string when no upcoming live, else put youtube ID
-live = "5Y4yfbrt_m8"
+live = ""
 
 override_fonts = true
 fontbody = "Roboto"
