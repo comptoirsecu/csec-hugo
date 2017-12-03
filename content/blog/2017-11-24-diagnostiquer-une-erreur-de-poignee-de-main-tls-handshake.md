@@ -2,7 +2,7 @@
 title: "Diagnostiquer une erreur lors de la poignée de main TLS"
 authors:
   - jil
-date: 2017-11-25
+date: 2017-12-03
 image: /images/covers/2017-11-25-tls-handshake-failure.jpg
 categories:
   - Article
@@ -258,7 +258,7 @@ Oui oui, ça arrive. Vous ajouter un cipher dans le répartiteur, vous lui enlev
 
 ### Interception
 
-En admettant que l’interception ne provoque pas d’erreur de certificat (retour au scénario 1), et que ça ne semble pas être un problème d’incompatibilité (retour au scénaroi 3), vous pouvez alors appeler, cette fois-ci pour un motif justifié, votre équipe réseau pour comprendre ce qui cloche. Ça leur fera un bon os à ronger :D
+En admettant que l’interception ne provoque pas d’erreur de certificat (retour au scénario 1), et que ça ne semble pas être un problème d’incompatibilité (retour au scénario 3), vous pouvez alors appeler, cette fois-ci pour un motif justifié, votre équipe réseau pour comprendre ce qui cloche. Ça leur fera un bon os à ronger :D
 
 # TL;DR
 
