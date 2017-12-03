@@ -134,7 +134,7 @@ Pour vous, ça fonctionne ! Vous avez, en gros :
 * réussi à ouvrir la session TCP vers votre service
 * annoncé les suites cryptographiques que votre client supporte (`Client Hello`)
 * le serveur a retenu l’une des suites (parmi celles qu’il supporte) (`Server Hello`)
-* le serveur vous a partagé sont certificat (qui contient sa clé publique et l’autorité de certification pour que vous puissiez vérifier à qui vous parlez) (`Certificate`)
+* le serveur vous a partagé son certificat (qui contient sa clé publique et l’autorité de certification pour que vous puissiez vérifier à qui vous parlez) (`Certificate`)
 * procédé à la génération des clés de session et à leur échange
 * conclut positivement l’échange de clés (les opérations de `change cipher`)
 
@@ -248,7 +248,7 @@ Il reste donc à la sécu à se pencher sur l’[excellente recommandation de l�
 * SHA : SHA-1 pour l’intégrité des échanges après la poignée de main
 * *note: n’étant pas un féru du milieu, j’espère ne pas m’être trompé dans la transcription. Pour les détails, c’est [la page 19 du guide v1.1-fr de l’ANSSI][anssi].*
 
-La recommandation de l’ANSSI vous signale que ce n’est pas la panacée, mais que ça peut être accepté dans certains cas.
+La recommandation de l’ANSSI vous signale que ce n’est pas la panacée, mais que ça peut être accepté dans certains cas. Il ne reste plus qu’à affaiblir la configuration du répartiteur (en veillant bien à l’ordre des suites cryptographiques : le cipher le moins bon doit être le dernier de la liste).
 
 La liste officielle des suites est éditée par l’[IANA][iana].
 
