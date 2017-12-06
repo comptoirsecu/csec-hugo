@@ -43,7 +43,7 @@ guests:
 
 ---
 
-Pour ce 47ème épisode, nous avons voulu échanger sur un sujet qui fait couler beaucoup d'encre, mais qu'on voit malheureusement peu maitrisé (#bullshit) : le Dark Web.
+Pour ce 47ème épisode, nous avons voulu échanger sur un sujet qui fait couler beaucoup d'encre, mais qu'on voit malheureusement peu maitrisé (#Bullshit) : le Dark Web.
 
 Ainsi, nous avons fait appel à Adrien Petit, qui travaille depuis de longues années sur ces différents réseaux pour qu'il nous éclaire sur ce monde qui semble si mystérieux et dangereux.
 
