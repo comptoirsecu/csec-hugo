@@ -20,9 +20,8 @@ tags:
  - Intel
 
 authors:
-  - justin
-  - morgan
   - lois
+  - morgan
 
 chaptermarks:
   - "00:01:30|Titre"
