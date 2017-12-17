@@ -178,7 +178,7 @@ Pensez à modifier les directives `--bind` et `--port` selon votre environnement
 C'est maintenant que les choses sérieuses commencent ! Pour les mauvais élèves qui ont sauté la courte partie théorique, le projet que vous avez cloné, respecte la structure décrite par Hugo. Les répertoires qui vont nous intéresser pour publier un article sont les suivants :
 
  - **content** qui regroupe l'ensemble des sections, parmi lesquelles, `blog` avec tous les articles.
- - **data** qui est utilisé pour stocker les fichiers de configurations, notamment le fichier `authors` pour les contributeurs.
+ - **data** pour les fichiers de configurations, notamment le fichier `authors` contenant les contributeurs.
  - **src** qui permet de placer les fichiers sources avant transformation par Gulp.
 
 
