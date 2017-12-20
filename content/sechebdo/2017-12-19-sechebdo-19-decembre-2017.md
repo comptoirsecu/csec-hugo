@@ -1,6 +1,6 @@
 ---
 title: '[SECHebdo] 19 Décembre 2017'
-subheadline: "Attaque ROBOT, Attaques sur HSTS & HPKP, ICS : FireEye & Triton, Security Planner, Cloud Inquisition, etc."
+subheadline: "Attaque ROBOT, Attaques sur HSTS & HPKP, ICS, c'est reparti : Triton / TRISIS, Security Planner, Cloud Inquisition, etc."
 publisher: comptoirsecu
 date: 2017-12-19
 image:  /images/covers/2017-12-19-sechebdo-2017-12-19-vignette.jpg
