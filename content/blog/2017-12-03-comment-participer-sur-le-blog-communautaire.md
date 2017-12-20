@@ -161,8 +161,8 @@ Une fois le clone terminé, la première chose à faire est de récupérer toute
 Ouvrez plusieurs terminaux, ou utilisez des utilitaires comme [screen](https://linux.die.net/man/1/screen) ou [tmux](https://linux.die.net/man/1/tmux) pour conserver un accès à la machine, car par défaut les processus Gulp et Hugo ne retournent pas l'invite de commande .
 
 ```Shell
-screen -dsm gulp-realtime gulp
-screen -dsm comptoirsecu-web hugo server --bind `hostname -I` --port 80 -b http://`hostname -I` —navigateToChanged --verboseLog --log --verbose
+gulp
+hugo server --bind `hostname -I` --port 80 -b http://`hostname -I` --navigateToChanged --verboseLog --log --verbose
 ```
 
 Pensez à modifier les directives `--bind` et `--port` selon votre environnement.
@@ -196,7 +196,7 @@ La première chose à faire est d'éditer le fichier de configuration `csec-hugo
   image: <votre_pseudo>.jpg
 ```
 
-__Notez__ que l'image de votre avatar étant générée et optimisée automatiquement par Gulp, la syntaxe du champ image __DOIT__ être au format .jpg et que votre pseudo __DOIT__ être écrit en minuscule. Ce qui n'est pas le cas pour le champ `<votre_pseudo>`, qui peut utiliser des majuscules.
+__Notez__ que l'image de votre avatar étant générée et optimisée automatiquement par Gulp, la syntaxe du champ image __DOIT__ être au format .jpg et que votre pseudo __DOIT__ être écrit en minuscule. Ce qui n'est pas le cas pour le champ `<votre_nom>`, qui peut utiliser des majuscules.
 
 
 
@@ -225,6 +225,7 @@ Dans le cas des images contenues dans les articles, une date est également ajou
 
 
 ### Écrire un article ###
+
 
 
 Pour commencer à écrire un article dupliquez l'un des fichiers `.md` existant dans le répertoire `content/blog/` en le renommant __avec__ la date et sans espace. C'est ce nom qui apparaitra dans l'URL du site et qui permettra d'identifier vos images plus facilement.
