@@ -1,5 +1,5 @@
 ---
-title: "Comment participer sur le blog communautaire ?"
+title: "Comment participer sur le blog communautaire"
 authors:
   - coink0in
 date: 2017-12-20
