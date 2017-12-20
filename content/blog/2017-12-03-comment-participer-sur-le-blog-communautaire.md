@@ -2,7 +2,7 @@
 title: "Comment participer sur le blog communautaire ?"
 authors:
   - coink0in
-date: 2017-12-03
+date: 2017-12-20
 image: /images/covers/2017-12-03-comment-participer-sur-le-blog-communautaire.jpg
 categories:
   - Article
