@@ -1,6 +1,6 @@
 ---
 title: '[SECHebdo] 12 Décembre 2017'
-subheadline: "SECHebdo - 12 Décembre  2017 : HP Keylogging, MailSploit, Retour Botconf, FCC & Net Neutrality, App chinoise & armée indienne, Combo List: 1,4 milliards d'identifiants, Slurp, etc."
+subheadline: "HP Keylogging, MailSploit, Retour Botconf, FCC & Net Neutrality, App chinoise & armée indienne, Combo List: 1,4 milliards d'identifiants, Slurp, etc."
 publisher: comptoirsecu
 date: 2017-12-13
 image:  /images/covers/2017-12-12-sechebdo-2017-12-12-vignette.jpg
