@@ -1,12 +1,12 @@
 ---
 title: '[SECHebdo] 12 Décembre 2017'
-subheadline: "SECHebdo - 12 Décembre  2017 : HP Keylogging, MailSploit, Retour Botconf, FCC & Net Neutrality, App chinoise & armée indienne, Combo List: 1,4 milliards d'identifiants, Slurp, etc."
+subheadline: "HP Keylogging, MailSploit, Retour Botconf, FCC & Net Neutrality, App chinoise & armée indienne, Combo List: 1,4 milliards d'identifiants, Slurp, etc."
 publisher: comptoirsecu
 date: 2017-12-13
 image:  /images/covers/2017-12-12-sechebdo-2017-12-12-vignette.jpg
 podcast:
     feed: https://podcast.comptoirsecu.fr/CSEC.SECHebdo.2017-12-12.mp3
-    description: "Épisode du XX XX 2017 - SECHebdo est une revue de l'actualité cybersécurité réalisé en live sur Youtube, généralement le mardi soir."
+    description: "Épisode du 12 Décembre 2017 - SECHebdo est une revue de l'actualité cybersécurité réalisé en live sur Youtube, généralement le mardi soir."
 
 categories:
  - Podcast
@@ -32,7 +32,7 @@ authors:
 
 guests:
   - swithak
-  
+
 chaptermarks:
   - "00:02:18|HP Keylogging"
   - "00:09:02|News de l'invité : SwitHak aka Mii - Retour Botconf"
