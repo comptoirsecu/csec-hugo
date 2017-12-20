@@ -17,7 +17,7 @@ tags:
 
 
 
-# Participer ? #
+# Participer ?
 
 
 
@@ -33,7 +33,7 @@ Pour résumer, il est nécessaire, pour créer son propre article, de respecter 
 
 
 
-# La théorie #
+# La théorie
 
 
 
@@ -47,7 +47,7 @@ L'ensemble étant disponible sur [le GitHub du Comptoir Sécu](https://github.co
 
 
 
-# La pratique #
+# La pratique
 
 
 
@@ -63,7 +63,7 @@ Commençons donc sur de bonnes bases avec un environnement virtuel dédié *(Vir
 
 
 
-### Les dépendances ###
+### Les dépendances
 
 
 
@@ -75,7 +75,7 @@ apt install git-core curl build-essential openssl libssl-dev
 ```
 
 
-### Nodejs & Npm ###
+### Nodejs & Npm
 
 
 
@@ -95,7 +95,7 @@ __Pour valider__ assurez-vous d'avoir les bonnes versions installées avec les c
 
 
 
-### Yarn & Gulp ###
+### Yarn & Gulp
 
 
 
@@ -113,7 +113,7 @@ __Vérifiez__ les versions que vous avez installées avec les commandes `yarn -v
 
 
 
-### Hugo serveur ###
+### Hugo serveur
 
 
 
@@ -141,7 +141,7 @@ __Vérifiez__ la version avec la commande `hugo -v`.
 
 
 
-### Clone & Run ! ###
+### Clone & Run !
 
 
 
@@ -171,7 +171,7 @@ Pensez à modifier les directives `--bind` et `--port` selon votre environnement
 
 
 
-# Le processus #
+# Le processus
 
 
 
