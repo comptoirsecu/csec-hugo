@@ -27,7 +27,7 @@ D'ailleurs, cet article est lui-même communautaire, vous êtes libre de le comp
 
 C'est grâce à la publication du code source, ainsi que la modification de la section article en blog communautaire, qu'il est maintenant possible de participer en publiant son propre article sur le Comptoir Sécu. Vous pouvez retrouver son principe et ses différentes motivations dans l'annonce de [l'ouverture du blog communautaire](/annonce/ouverture-du-blog-communautaire/).
 
-Pour résumer,, il est nécessaire, pour créer son propre article, de respecter quelques règles élémentaires et de faire une copie locale du site web.
+Pour résumer, il est nécessaire, pour créer son propre article, de respecter quelques règles élémentaires et de faire une copie locale du site web.
 
 <center>**Facile !** Mais parlons un peu de théorie, avant de détailler la pratique. </center>
 
@@ -212,7 +212,7 @@ Toutes les images que vous souhaitez ajouter doivent être placées dans un des 
 
 Par exemple, pour ajouter l'avatar décrit lors de la création de votre profil, placez l'image dans le répertoire `src/images/thumbnails` avec comme nom de fichier votre pseudo écrit en __minuscule__. \
 Puis lancez la commande `gulp img` pour générer automatiquement les différents formats d'image. L'image est réencodée au format `.jpg`, redimensionnée et déplacée dans le répertoire *static/images/thumbnails/*. \
-__Notez__ que l'image est réencodée, donc vous pouvez utiliser une image de base dans un autre format, comme svg, png, jpeg, etc .. *(Et que c'est foutu pour la stéganographie)*.
+__Notez__ que l'image est réencodée, donc vous pouvez utiliser une image de base dans un autre format, comme svg, png, jpeg, etc ..
 
 <center>*Vous avez maintenant un profil dans la section [contributeurs](/authors) !*</center>
 
