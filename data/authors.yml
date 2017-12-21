@@ -95,7 +95,6 @@ jil:
       Couteau Suisse qui aiguise son prochain outil : le décapsuleur. Joue à pacman avec le contrôle interne, fait converger péniblement un SI entier vers les bonnes pratiques.
   image: jil.jpg
 
-
 ptro46:
   name: Ptro46
   description: "Professionnel du développement logiciel je m'intéresse fortement à la sécurité sous l'angle du développement"
@@ -104,4 +103,4 @@ ptro46:
 coink0in:
   name: CoinK0in
   description: "Si ça ressemble à un canard, si ça nage comme un canard et si ça cancane comme un canard, c'est qu'il s'agit sans doute d'un canard."
-  image: CoinK0in.jpg
+  image: coink0in.jpg
