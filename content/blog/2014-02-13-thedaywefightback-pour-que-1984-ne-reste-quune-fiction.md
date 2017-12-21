@@ -12,7 +12,7 @@ image: /images/covers/2014-02-thedaywefightback.jpg
 categories:
   - Article
 tags:
-  - '#stopspying'
+  - Stopspying
   - "1984"
   - NSA
   - thedaywefightback

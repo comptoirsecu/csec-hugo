@@ -14,7 +14,7 @@ categories:
   - Podcast
   - Emission
 tags:
-  - '#Acronyme'
+  - Acronyme
   - ANSSI
   - celebgat
   - fappening
