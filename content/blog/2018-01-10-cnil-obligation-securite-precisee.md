@@ -3,7 +3,7 @@ title: "La CNIL précise l’obligation de sécurité"
 authors:
   - jil
 date: 2018-01-09
-image:  /images/covers/2018-01-09-orage-justice.jpg
+image:  /images/covers/2018-01-10-orage-justice.jpg
 categories:
   - Article
 tags:
