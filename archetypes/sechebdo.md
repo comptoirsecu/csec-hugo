@@ -1,12 +1,12 @@
 ---
-title: '[SECHebdo] XX XX 2017'
+title: '[SECHebdo] XX XX 2018'
 subheadline: ""
 publisher: comptoirsecu
 date: {{ dateFormat "2006-01-02" .Date }}
 image:  /images/covers/{{ dateFormat "2006-01-02" .Date }}-sechebdo-{{ dateFormat "2006-01-02" .Date }}-vignette.jpg
 podcast:
     feed: https://podcast.comptoirsecu.fr/CSEC.SECHebdo.{{ dateFormat "2006-01-02" .Date }}.mp3
-    description: "Épisode du XX XX 2017 - SECHebdo est une revue de l'actualité cybersécurité réalisé en live sur Youtube, généralement le mardi soir."
+    description: "Épisode du XX XX 2018 - SECHebdo est une revue de l'actualité cybersécurité réalisé en live sur Youtube, généralement le mardi soir."
 
 categories:
  - Podcast
