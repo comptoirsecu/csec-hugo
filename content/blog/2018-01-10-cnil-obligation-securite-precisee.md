@@ -62,7 +62,7 @@ Et collaborer avec la CNIL ne suffit pas à limiter le montant de l’amende. Un
 
 # Qui c’est qui va demander une rallonge de budget ? C’est bibi !
 
-Déjà qu’on a parfois du mal à recenser tous les sites qui collectent des données, il faut à présent les auditer de manière systématique et régulière. C’est l’occasion de préciser que si vous pouvez être tentés de vous appuyer sur des outils automatisés, il convient de comparer leur résultat à celui d’un pentester de chair et d’os, car je pense que la défense qui consisterait à s’abriter derrière les rapports des solutions automatisées s’avèrera insuffisante.
+Déjà qu’on a parfois du mal à recenser tous les sites qui collectent des données, il faut à présent les auditer de manière systématique et régulière. C’est l’occasion de préciser que si vous pouvez être tentés de vous appuyer sur des outils automatisés, il convient de comparer les résultats d’un échantillon à ceux d’un pentester de chair et d’os, car je pense que la défense qui consisterait à s’abriter derrière les rapports des solutions automatisées s’avèrera insuffisante.
 
 Mes pauvres pentesters, déjà que la plupart des sites vous font pleurer tant ils sont friables, en voilà une pelletée de plus qui s’en vient !
 
