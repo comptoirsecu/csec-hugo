@@ -32,13 +32,15 @@
         {{ end }}
         </p>
       </header>
-      {{ if or (eq .Section "video") (eq .Section "sechebdo") }}
-        <div class="responsive-embed widescreen">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ .Params.Video }}" frameborder="0" allowfullscreen></iframe>
-        </div>
-      {{ else }}
-      <img src="{{with .Params.image }}{{ . }}{{ else }}/images/default.jpg{{end}}" />
-      {{ end }}
+      <div class="card-section" id="article-media">
+        {{ if or (eq .Section "video") (eq .Section "sechebdo") }}
+          <div class="responsive-embed widescreen">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ .Params.Video }}" frameborder="0" allowfullscreen></iframe>
+          </div>
+        {{ else }}
+        <img src="{{with .Params.image }}{{ . }}{{ else }}/images/default.jpg{{end}}" />
+        {{ end }}
+      </div>
       <main class="card-section text-justify" id="article-content">
         {{ .Content }}
       </main>
