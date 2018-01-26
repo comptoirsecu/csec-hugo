@@ -3,7 +3,7 @@ title: "RGPD : le chiffrement ne vous absoudra pas"
 authors:
   - jil
 date: 2018-01-26
-image:  /images/covers/2018-01-26-banniere-rgpd-cnil.jpg
+image:  /images/covers/2018-01-26-banniere-gdpr-cnil.jpg
 categories:
   - Article
 tags:
