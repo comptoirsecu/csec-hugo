@@ -2,8 +2,8 @@
 title: "RGPD : le chiffrement ne vous absoudra pas"
 authors:
   - jil
-date: 2018-01-25
-image:  /images/covers/2018-01-25-<nom_de_votre_image_covers>.jpg
+date: 2018-01-26
+image:  /images/covers/2018-01-26-banniere-rgpd-cnil.jpg
 categories:
   - Article
 tags:
@@ -57,17 +57,22 @@ Le Législateur nous dit qu’il convient de limiter les risques de divulgation 
 
 On va donc retrouver cette notion dans l’article 32 relatif à la sécurité du traitement :
 
-> 1.   Compte tenu de l'état des connaissances, des coûts de mise en œuvre et de la nature, de la portée, du contexte et des finalités du traitement ainsi que des risques, dont le degré de probabilité et de gravité varie, pour les droits et libertés des personnes physiques, le responsable du traitement et le sous-traitant **mettent en œuvre les mesures techniques et organisationnelles appropriées afin de garantir un niveau de sécurité adapté au risque, y compris entre autres, selon les besoins**:
+> (1) Compte tenu de l'état des connaissances, des coûts de mise en œuvre et de la nature, de la portée, du contexte et des finalités du traitement ainsi que des risques, dont le degré de probabilité et de gravité varie, pour les droits et libertés des personnes physiques, le responsable du traitement et le sous-traitant **mettent en œuvre les mesures techniques et organisationnelles appropriées afin de garantir un niveau de sécurité adapté au risque, y compris entre autres, selon les besoins**:
+>
 > a) la pseudonymisation et *le chiffrement* des données à caractère personnel;
+>
 > b) des moyens permettant de garantir la confidentialité, l'intégrité, la disponibilité et la résilience constantes des systèmes et des services de traitement;
+>
 > c) des moyens permettant de rétablir la disponibilité des données à caractère personnel et l'accès à celles-ci dans des délais appropriés en cas d'incident physique ou technique;
+>
 > d) une procédure visant à tester, à analyser et à évaluer régulièrement l'efficacité des mesures techniques et organisationnelles pour assurer la sécurité du traitement.
 
 Le Législateur aurait difficilement pu prendre plus de gants à l’égard du chiffrement. 
 
 Toutefois, je pense que c’est surtout l’article 34, relatif à la notification des personnes, qui fait pousser les ailes de nos interlocuteurs :
 
-> 3.   La communication à la personne concernée visée au paragraphe 1 n'est pas nécessaire si l'une ou l'autre des conditions suivantes est remplie:
+> (3) La communication à la personne concernée visée au paragraphe 1 n'est pas nécessaire si l'une ou l'autre des conditions suivantes est remplie:
+> 
 > a) le responsable du traitement a mis en œuvre les mesures de protection techniques et organisationnelles appropriées et ces mesures ont été appliquées aux données à caractère personnel affectées par ladite violation, en particulier les mesures qui rendent les données à caractère personnel incompréhensibles pour toute personne qui n'est pas autorisée à y avoir accès, *telles que le chiffrement*;
 
 Là ! On le tient, le raccourci : « tu as chiffré, t’es sauvé, tu n’auras pas à communiquer ! » Que nenni ! Si les données volées sont inexploitables, et uniquement dans ce cas-là, tu es dispensé. Or, avec le chiffrement des fichiers sur le disque et une attaque par injection SQL, le chiffrement est ineffectif et communiquer, il faudra.
