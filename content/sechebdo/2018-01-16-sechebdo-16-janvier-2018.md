@@ -6,7 +6,7 @@ date: 2018-01-16
 image:  /images/covers/2018-01-16-sechebdo-vignette.jpg
 podcast:
     feed: https://podcast.comptoirsecu.fr/CSEC.SECHebdo.2018-01-16.mp3
-    description: "Épisode du XX XX 2018 - SECHebdo est une revue de l'actualité cybersécurité réalisé en live sur Youtube, généralement le mardi soir."
+    description: "Épisode du 16 Janvier 2018 - SECHebdo est une revue de l'actualité cybersécurité réalisé en live sur Youtube, généralement le mardi soir."
 
 categories:
  - Podcast
