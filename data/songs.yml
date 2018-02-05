@@ -648,3 +648,18 @@ polynation_sufi3:
   country: Pays-Bas
   image: polynation_sufi.jpg
 
+leprinceharry_chemistry:
+  artist: Le Prince Harry
+  song: Chemistry
+  album: Synthetic Love
+  uri: https://teenagemenopause.bandcamp.com/album/synthetic-love
+  country: France
+  image: syntheticlove.jpg
+
+floex_veronikasdream:
+  artist: Floex
+  song: Veronika's Dream
+  album: Zorya
+  uri: http://store.floex.cz/album/zorya
+  country: République Tchèque
+  image: floex_zorya.jpg
