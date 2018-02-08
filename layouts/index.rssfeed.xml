@@ -5,7 +5,7 @@
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:webfeeds="http://webfeeds.org/rss/1.0">
     <channel>
-        <atom:link href="{{ .Site.BaseURL }}/feed/podcast.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="{{ .Site.BaseURL }}/feed/all.xml" rel="self" type="application/rss+xml" />
         <link>{{ .Site.BaseURL }}</link>
         <language>fr</language>
         <managingEditor>{{ .Site.Params.Contact  | safeHTML }} ({{ .Site.Params.Author  | safeHTML }})</managingEditor>
