@@ -29,18 +29,20 @@ songs:
 guests:
   - felix_aime
 
-draft: true
+draft: false
 ---
 
-Pour ce 49ème épisode, nous avons voulu faire une émission sur la threat intelligence. Nous voyons beaucoup de sociétés nous vendant de la Threat Intelligence, on a de tout et n'importe quoi, et on a du mal à s'y retrouver.
+Pour ce 49ème épisode, nous avons voulu faire une émission sur la fameuse Threat Intelligence. Nous voyons beaucoup de sociétés nous parler de Threat Intelligence, on y voit de tout et n'importe quoi, et on a malheureusement du mal à s'y retrouver.
 
-Pour en parler sans #bullshit et avec une personne ayant une vraie expérience sur ce sujet, on a proposé à Félix Aimé, ancien de l'ANSSI au sein du Bureau Situation Analyse (BSA) et aujourd'hui chercheur au GreAT de Kaspersky. Et pour être honnête, on a été surpris au sein de l'équipe ! On vous laisse découvrir tout cela...
+Pour en parler sans #bullshit et avec une personne ayant une vraie expérience sur ce sujet, on a proposé à Félix Aimé de nous parler de sa vision et de son expérience sur le sujet. Il est un ancien du Bureau Situation Analyse (BSA) de l'ANSSI et aujourd'hui chercheur sécurité au sein de la célèbre équipe GReAT de Kaspersky Lab.
+
+On vous laisse découvrir tout cela, mais préparez vous à entendre un discours un peu différent de ce qu'on entend habituellement.
 
 Bonne écoute !
 
 {{< podigee >}}
 
 
-### Sources :
+### Source :
 
   * Photo de couverture de [Kevin](https://unsplash.com/@ikukevk)

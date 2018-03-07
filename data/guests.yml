@@ -417,5 +417,6 @@ jil:
 
 felix_aime:
   name: "Felix Aimé"
-  description: "A remplir"
+  description: "Security Researcher au sein de l'équipe GReAT de Kaspersky Lab"
   twitter: felixaime
+  images: felix_aime.png
