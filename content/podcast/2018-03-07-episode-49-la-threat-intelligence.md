@@ -19,9 +19,6 @@ authors:
   - youenn
   - lois
 
-drinks:
-  - delirium_nocturnum
-
 songs:
   - leprinceharry_chemistry
   - floex_veronikasdream
