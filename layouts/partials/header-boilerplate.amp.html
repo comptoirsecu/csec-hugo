@@ -76,10 +76,10 @@ a { color: #3498DB; text-decoration: none;}
 }
 </style>
 {{ if in .Params.categories "Podcast" }}
-  <script async custom-element="amp-audio" src="https://cdn.ampproject.org/v0/amp-audio-0.1.js"></script>
+  <script async custom-element="amp-audio" integrity="sha384-oLo3AfKSmyqOWjYN5Ss4YoMnFWovRdidK+yAFamoMTAdfDjYv+7KFkpyOVn1hE6E" crossorigin="anonymous"></script>
 {{ end }}
 {{ if or (eq .Section "video") (eq .Section "sechebdo") }}
-  <script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
+  <script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js" integrity="sha384-T3/WobuqOhGKBxOaLM++Je060a56T7jaUHyStIpu/snwgZOsBEgyz+40rLET4vuF" crossorigin="anonymous"></script>
 {{ end }}
 <script async custom-element="amp-analytics"
-    src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+    src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js" integrity="sha384-lScy2eAlAQX15nyg3FcxpbjtB5CPjiMvTXk+5efhUHN6WEOu5rFnc2Fh7wN0vmoL" crossorigin="anonymous"></script>

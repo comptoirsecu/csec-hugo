@@ -53,14 +53,10 @@
 </div>
 
 
-{{ if in (printf "%v" $.Site.BaseURL) "http://localhost" }}
-  <!-- utilisation d'un jquery local quand on dev pour ne pas bug quand on est hors-ligne -->
-  <script src="/js/jquery-2.1.4.min.js"></script>
-{{ else }}
-    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
-{{ end }}
-    <script src="/js/app.js"></script>
-    <script src="/js/foundation-start.js"></script>
-    <script async src="/js/google-analytics.js"></script>
+
+    <script src="/js/jquery-2.1.4.min.js" integrity="sha384-R4/ztc4ZlRqWjqIuvf6RX5yb/v90qNGx6fS48N0tRxiGkqveZETq72KgDVJCp2TC"></script>
+    <script src="/js/app.js" integrity="sha384-cWrDWgiTu8/eljl/qBmsXlEWxDCgGC56bDGTq68j287dsT4QU1Kb97IpyfWuK+aL"></script>
+    <script src="/js/foundation-start.js" integrity="sha384-qRDjLKBnurzIEk3LoUNl2PqqiI2LI+34U5RuRRHWvJeEw8XGQWNOea741DzP0/YB"></script>
+    <script async src="/js/google-analytics.js" integrity="sha384-mkMBSgSROifhsZ+tG29dfANM4eKln2ZjmqsjxMcsEaSH8uNVEiBjP5ZBvdXnxZr8"></script>
   </body>
 </html>
