@@ -1,7 +1,7 @@
 /*
   X-Frame-Options: DENY
 
-  X-XSS-Protection: 1; mode=block
+  X-XSS-Protection: 1; mode=block; report=https://comptoirsecu.report-uri.com/r/d/xss/enforce
 
   X-Content-Type-Options: nosniff
 
@@ -10,6 +10,9 @@
   Content-Security-Policy: default-src 'none'; base-uri 'self'; form-action 'none'; frame-ancestors 'none'; object-src 'none'; script-src 'self' 'unsafe-eval' comments.comptoirsecu.fr cdn.podigee.com cdn.podlove.org; connect-src 'self' comments.comptoirsecu.fr; font-src 'self' comments.comptoirsecu.fr fonts.gstatic.com cdn.podlove.org; img-src 'self' comments.comptoirsecu.fr i.ytimg.com *.gstatic.com; manifest-src 'self'; style-src 'self' 'unsafe-inline' comments.comptoirsecu.fr fonts.googleapis.com cdn.podlove.org; frame-src www.youtube.com cdn.podigee.com duckduckgo.com; report-uri https://comptoirsecu.report-uri.com/r/d/csp/enforce
 
   Strict-Transport-Security: max-age=86400
+
+  Expect-CT: max-age=0, report-uri="https://comptoirsecu.report-uri.com/r/d/ct/enforce
+
 */
 
   Link: <{{ "js/app.js" | relURL }}>; rel=preload; as=script
