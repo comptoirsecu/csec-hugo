@@ -7,7 +7,7 @@
 
   Referrer-Policy: strict-origin-when-cross-origin
 
-  Content-Security-Policy-Report-Only: default-src 'none'; base-uri 'self'; form-action 'none'; frame-ancestors 'none'; object-src 'none'; script-src 'self' comments.comptoirsecu.fr www.google-analytics.com cdn.podigee.com cdn.podlove.org; connect-src 'self' comments.comptoirsecu.fr www.google-analytics.com google-analytics.com; font-src 'self' comments.comptoirsecu.fr fonts.gstatic.com cdn.podlove.org; img-src 'self' comments.comptoirsecu.fr i.ytimg.com www.google-analytics.com *.gstatic.com; manifest-src 'self'; style-src 'self' comments.comptoirsecu.fr fonts.googleapis.com cdn.podlove.org; frame-src www.youtube.com cdn.podigee.com duckduckgo.com; report-uri https://comptoirsecu.report-uri.com/r/d/csp/wizard
+  Content-Security-Policy-Report-Only: default-src 'none'; base-uri 'self'; form-action 'none'; frame-ancestors 'none'; object-src 'none'; script-src 'self' 'unsafe-eval' comments.comptoirsecu.fr cdn.podigee.com cdn.podlove.org; connect-src 'self' comments.comptoirsecu.fr; font-src 'self' comments.comptoirsecu.fr fonts.gstatic.com cdn.podlove.org; img-src 'self' comments.comptoirsecu.fr i.ytimg.com *.gstatic.com; manifest-src 'self'; style-src 'self' 'unsafe-inline' comments.comptoirsecu.fr fonts.googleapis.com cdn.podlove.org; frame-src www.youtube.com cdn.podigee.com duckduckgo.com; report-uri https://comptoirsecu.report-uri.com/r/d/csp/wizard
 
   Strict-Transport-Security: max-age=86400
 */
