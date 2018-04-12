@@ -55,10 +55,10 @@
 {{- else -}}
   {{- $.Scratch.Set "file" "" -}}
 {{- end -}}
-<script>
-  window.podigee = {
+<script type="application/ld+json" id="podigee-settings">
+  {
           "options": {
-            "theme": "default",
+            "theme": "default"
           },
           "extensions": {
             "ChapterMarks": {
@@ -82,19 +82,23 @@
             "coverUrl": "{{ $.Site.BaseURL }}{{ $.Scratch.Get "cover" }}",
             "title": "{{ $.Scratch.Get "title" }}",
             "subtitle": "{{ $.Scratch.Get "subtitle" }}",
-            "description": "{{ $.Scratch.Get "description" }}",
+            "description": "{{ $.Scratch.Get "description" }}"
         {{ with $.Page.Params.chaptermarks }}
-            "chaptermarks": [
-              {{ range  . }}
-                {{ $entry := split . "|" }}
+            ,"chaptermarks": [
+              {{ $length := (len .)}}
+              {{ range $index, $element := . }}
+                {{ $entry := split $element "|" }}
                 {{ $start := index $entry 0 }}
                 {{ $chapter := index $entry 1 }}
-                { "start": "{{ $start }}", "title": "{{ $chapter }}"},
+                { "start": "{{ $start }}", "title": "{{ $chapter }}"}
+                {{ if ne (add $index 1) $length }},{{ end }}
               {{ end }}
-            ],
+            ]
         {{ end }}
           }
         }
 </script>
 
-<script class="podigee-podcast-player" src="https://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="podigee"></script>
+<script src="/js/podigee-get-settings.js"></script>
+
+<script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="podigee"></script>
