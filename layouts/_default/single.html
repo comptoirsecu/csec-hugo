@@ -33,7 +33,7 @@
         </p>
       </header>
       <div class="card-section" id="article-media">
-        {{ if or (eq .Section "video") (eq .Section "sechebdo") }}
+        {{ if and (or (eq .Section "video") (eq .Section "sechebdo")) (isset .Params "video") }}
           <div class="responsive-embed widescreen">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ .Params.Video }}" frameborder="0" allowfullscreen></iframe>
           </div>
