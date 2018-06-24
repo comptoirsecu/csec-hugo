@@ -4,6 +4,7 @@ public/
 Thumbs.db
 npm-debug.log
 node_modules/
+package-lock.json
 static/css/app.css
 static/js/app.js
 src/images/covers/*.{png,jpg,jpeg,gif,webp}
@@ -14,6 +15,5 @@ src/images/thumbnails/*.{png,jpg,jpeg,gif,webp}
 src/images/thumbnails/archive
 src/images/trash
 *~
-
 isso.cfg
 *.log

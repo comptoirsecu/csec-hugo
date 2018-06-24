@@ -19,6 +19,7 @@ addons:
 notifications:
   webhooks:
     urls:
+      # FIXME this is really not a good idea to put this here :D
       - https://discordapp.com/api/webhooks/347631273948479491/4wGTEwmPgA4AfTiHdIty2qszWdtNRve8LxRzfZqlgbIrbf7BSrJqg5zAa-szACKQSdD_/slack
     on_success: always # default: always
     on_failure: always # default: always
