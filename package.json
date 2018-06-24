@@ -10,7 +10,6 @@
   "author": "Le Comptoir Sécu",
   "license": "ISC",
   "dependencies": {
-    "gulp-cli": "^2.0.1",
     "sharp": "0.17.3"
   },
   "devDependencies": {
