@@ -2,7 +2,8 @@
 
 ## How to work locally
 
-Requirements : `docker`, `docker-compose`
+Requirements : `docker`, `docker-compose`.
+
 Build site and start a webserver + gulp watch:
 
     git clone https://github.com/comptoirsecu/csec-hugo.git
@@ -11,8 +12,13 @@ Build site and start a webserver + gulp watch:
 
 
 Check `docker-compose.yml` and docker/ folder for more information.
-Two container will be lauched: hugo server and yarn + gulp watch. No need to
-install anything else on your computer, container are self sufficient.
+Two containers get launched:
+
+  - hugo server
+  - yarn + gulp watch
+
+No need to install anything else on your computer, containers are self
+sufficient.
 
 If you need to use the hugo binary:
 
@@ -30,4 +36,4 @@ If you need to use anything else (gulp, yarn...):
     docker-compose run --rm csec-dependencies yarn update
 
 
-The docker-compose.yml will mount current folder in containers at runtime.
+`docker-compose` will mount current folder in containers at runtime.
