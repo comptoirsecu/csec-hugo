@@ -2,8 +2,8 @@ version: "3"
 services:
   csec-hugo:
     build: ./docker/hugo
-    depends_on:
-      - csec-dependencies
+    # depends_on:
+      # - csec-dependencies
     image: csec-hugo
     ports:
       - 1313:1313
