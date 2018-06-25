@@ -156,6 +156,7 @@ En somme, il n’y a pas de compromission apparente, mais il y a eu intrusion. C
 * cheval de Troie 
 * interception de trafic réseau
 * photo du message si le poste n’était pas verrouillé
+* intrusion sur site et copie du disque
 * sortilège de divination de niveau 9
 
 ## Piste 4 : compromission d’un accès administrateur
@@ -216,6 +217,8 @@ Le sujet est épineux, car la dépendance de l’entreprise aux courriels est te
 ## Tomber le domaine d’attaque
 
 Il y a des services spécialisés pour faire tomber un domaine ou des adresses mail utilisés par une fraude. Cela peut prendre du temps, et surtout, cela informe les attaquants de la détection de leur attaque. Vous perdez la capacité à détecter d’autres tentatives qui utiliseraient la même infrastructure.
+
+À défaut de prestataire connu, vous pouvez utilisez les formulaires de signalement des fournisseurs.
 
 À terme, il peut être utile de les faire tomber pour protéger vos clients de telles attaques. Tout est question de timing.
 
