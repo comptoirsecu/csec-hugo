@@ -84,6 +84,8 @@ Si l’incident est sérieux, vous aurez besoin d’assistance extérieure. Part
 
 (Si on pouvait glisser une estimation ici, ce serait bien. Sur un incident mail avec les logs, 5j; pour une analyse forensic d’un poste 5-8j ?)
 
+Si vous avez besoin de dégotter un prestataire, et que vous êtes en France, vous pouvez signaler votre situation sur [cybermalveillance](https://www.cybermalveillance.gouv.fr).
+
 
 # 4. Analyser la situation (simulant le chaos d’une réaction non procédurée)
 
@@ -145,7 +147,7 @@ Or, suspecter une compromission du réseau, c’est amenuiser ses chances de tro
 
 ### Tolérance avec les vieux
 
-Puisque les clients natifs des téléphones ne supportent pas l’authentification multifacteur, il existe un moyen de la contourner : le mot de passe d’application. Celui-ci est généré et donné à l’utilisateur, qui doit entrer le mot de passe dans son téléphone. Sauf que ce dernier, bourrinant à 4 auth/minute, est banni pour brute-force quand l’utilisateur saisit le mot de passe ; ce dernier apparaît alors comme invalide. L’utilisateur (et l’agent de l’assistance aussi) va stocker ce mot de passe aléatoire… sur son bureau. Aller à la case accès à distance.
+Puisque les clients natifs des téléphones ne supportent pas l’authentification multifacteur, il existe un moyen de la contourner : le mot de passe d’application. Celui-ci est généré et donné à l’utilisateur, qui doit entrer le mot de passe dans son téléphone. Sauf que ce dernier, bourrinant à 4 auth/minute, est banni pour brute-force quand l’utilisateur saisit le mot de passe ; celui-ci apparaît alors comme invalide. L’utilisateur (tout comme l’agent de l’assistance) va stocker ce mot de passe aléatoire… sur son bureau. Allez à la case accès à distance.
 
 ## L’impasse, le scénario APT 
 
