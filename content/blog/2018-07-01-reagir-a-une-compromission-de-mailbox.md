@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Kit de survie : réagir à une compromission de mailbox"
 authors:
   - jil
