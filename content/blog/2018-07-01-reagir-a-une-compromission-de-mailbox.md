@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Kit de survie : réagir à une compromission de mailbox"
 authors:
   - jil
@@ -82,8 +81,6 @@ L’usurpation d’identité peut-être un traumatisme pour une personne qui n�
 # 3. Ouvrir le tiroir-caisse
 
 Si l’incident est sérieux, vous aurez besoin d’assistance extérieure. Partagez la qualification de l’incident avec votre chef et confirmez les montants de dépense possible. La recherche de preuves est une activité chronophage, les tarifs journaliers sont élevés.
-
-(Si on pouvait glisser une estimation ici, ce serait bien. Sur un incident mail avec les logs, 5j; pour une analyse forensic d’un poste 5-8j ?)
 
 Si vous avez besoin de dégotter un prestataire, et que vous êtes en France, vous pouvez signaler votre situation sur [cybermalveillance](https://www.cybermalveillance.gouv.fr).
 
