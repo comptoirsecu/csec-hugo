@@ -2,8 +2,8 @@
 title: "Kit de survie : réagir à une compromission de mailbox"
 authors:
   - jil
-date: 2018-07-01
-image:  /images/covers/2018-07-01-banniere-mailbox.jpg
+date: 2018-06-29
+image:  /images/covers/2018-06-29-banniere-mailbox.jpg
 categories:
   - Article
 tags:
