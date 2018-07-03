@@ -28,7 +28,12 @@ guests:
   - k3nnyfr
 
 chaptermarks:
-  - "00:13:37|À Venir!"
+  - "00:02:25|Retour sur leHack(Anciennement la NDH)"
+  - "00:29:30|TicketMaster, Inbenta"
+  - "00:37:10|Air France fail"
+  - "00:41:10|RGPD: Déclinaison Californienne pour le 1er Janvier 2020"
+  - "00:48:00|ProtonMail sous le feu d'un DDoS"
+  - "00:52:32|Rançongiciels, une nouvelle mutation"
 
 video: "hK8DmFr3jNI"
 ---
