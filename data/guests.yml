@@ -420,3 +420,10 @@ felix_aime:
   description: "Security Researcher au sein de l'équipe GReAT de Kaspersky Lab"
   twitter: felixaime
   image: felix_aime.jpg
+
+
+k3nnyfr:
+  name: "K3nnyfr"
+  twitter: K3nnyfr
+  description: "Champion de France des Internets"
+  image: k3nnyfr.jpg
