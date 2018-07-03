@@ -5,7 +5,7 @@ publisher: comptoirsecu
 date: 2018-07-03
 image:  /images/covers/2018-07-03-sechebdo-2018-07-03-vignette.jpg
 podcast:
-    feed: https://podcasts.comptoirsecu.fr/SECHebdo/CSEC.SECHebdo.2018-07-03.mp3
+    feed: https://podcast.comptoirsecu.fr/CSEC.SECHebdo.2018-07-03.mp3
     description: "Épisode du 03 07 2018 - SECHebdo est une revue de l'actualité cybersécurité réalisée en live sur Youtube, généralement le mardi soir."
 
 categories:
