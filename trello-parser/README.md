@@ -26,6 +26,7 @@ Si plusieurs cards sont retournées par la recherche, l'app propose de choisir l
 	5ab904026969c4519bd7cff3         27 Mars 2018
 	Enter the selected ID:
 
+À la fin, ça sort un output.md dans le répertoire courant
 
 # Cross-compile
 
