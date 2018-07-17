@@ -170,7 +170,7 @@ func getHtmlTitle(url string) (title string) {
 	defer resp.Body.Close()
 
 	// Check content-type for surprises
-	if resp.Header.Get("Content-Type") != "text/html" {
+	if !strings.Contains(resp.Header.Get("Content-Type"), "text/html") {
 		log.Println("Not html resource, cannot get title")
 		title = url
 		return
