@@ -3,7 +3,7 @@ title: '[SECHebdo] 17 Juillet 2018'
 subheadline: "Coupe du monde et fraude, Site isolation, GRU Ops, MageCart et Inventa, VPN Filter, HTTP feature policy, CSAW Europe, etc."
 publisher: comptoirsecu
 date: 2018-07-17
-image:  /images/covers/2018-07-17-sechebdo-vignette.jpg
+image:  /images/covers/2018-07-17-sechebdo-2018-07-17-vignette.jpg
 podcast:
     feed: https://podcast.comptoirsecu.fr/CSEC.SECHebdo.2018-07-17.mp3
     description: "Épisode du 17 07 2018 - SECHebdo est une revue de l'actualité cybersécurité réalisée en live sur Youtube, généralement le mardi soir."
