@@ -96,14 +96,14 @@ type Checklist struct {
 		IDChecklist string      `json:"idChecklist"`
 		Name        string      `json:"name"`
 		NameData    interface{} `json:"nameData"`
-		Pos         int         `json:"pos"`
+		Pos         float64     `json:"pos"`
 		State       string      `json:"state"`
 	} `json:"checkItems"`
-	ID      string `json:"id"`
-	IDBoard string `json:"idBoard"`
-	IDCard  string `json:"idCard"`
-	Name    string `json:"name"`
-	Pos     int    `json:"pos"`
+	ID      string  `json:"id"`
+	IDBoard string  `json:"idBoard"`
+	IDCard  string  `json:"idCard"`
+	Name    string  `json:"name"`
+	Pos     float64 `json:"pos"`
 }
 
 // Topic structure stores the links section of the sechebdo md
