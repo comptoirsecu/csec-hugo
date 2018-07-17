@@ -14,8 +14,6 @@ Ouais, parce que j'ai la flemme d'intégrer la séquence d'autorisation.
 
 # Usage 
 
-Dans Trello, cocher les lignes des checklists **qu'il ne faut pas traiter** (ça tombe bien, elles apparaissent alors rayées sur Trello)
-
 	./parser -appid "******" -token "******" -card "3 juillet"
 
 Si plusieurs cards sont retournées par la recherche, l'app propose de choisir la bonne :

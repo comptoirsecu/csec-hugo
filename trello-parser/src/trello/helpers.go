@@ -121,13 +121,15 @@ func ParseChecklist(checklist string, appId, token string) (topic Topic) {
 	// Iterates over all checklists
 	for _, item := range record.CheckItems {
 		// Ignore checked items
-		if item.State == "complete" {
+		if !strings.HasPrefix(item.Name, "http") {
 			continue
 		}
 
 		link := trlink{}
 		link.URL = item.Name
+		log.Println("Fetching title for: ", link.URL)
 		link.Title = getHtmlTitle(link.URL)
+
 		topic.Links = append(topic.Links, link)
 		log.Println("Added link: ", item.Name)
 	}
@@ -166,11 +168,21 @@ func getHtmlTitle(url string) (title string) {
 		return
 	}
 	defer resp.Body.Close()
+
+	// Check content-type for surprises
+	if resp.Header.Get("Content-Type") != "text/html" {
+		log.Println("Not html resource, cannot get title")
+		title = url
+		return
+	}
+
 	body, err := ioutil.ReadAll(resp.Body)
 
 	r, _ := regexp.Compile("<title>([^<]+)</title>")
 	m := r.FindStringSubmatch(string(body))
-	title = m[1]
+	if len(m) > 0 {
+		title = m[1]
+	}
 
 	// Revert html entities
 	title = html.UnescapeString(m[1])
