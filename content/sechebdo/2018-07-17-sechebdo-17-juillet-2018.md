@@ -36,7 +36,7 @@ chaptermarks:
   - "00:49:40|Découverte de la semaine, Almanac 2018 de la cybersécurité"
   - "00:54:00|CSAW challenge"
   - "00:58:30|Assises de la sécurité 2018 et présentation du lauréat, Citalid"
-  - "01:00"40|Teasing meetup Comptoir Sécu sur Paris"
+  - "01:00:40|Teasing meetup Comptoir Sécu sur Paris"
   
 video: "hPjNriq-I8I"
 ---
