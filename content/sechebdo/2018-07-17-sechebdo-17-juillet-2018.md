@@ -27,8 +27,17 @@ authors:
   - swithak
 
 chaptermarks:
-  - "00:02:25|A faire"
-
+  - "00:03:05|Coupe du Monde 2018 de la fraude"
+  - "00:12:50|Chrome Site Isolation"
+  - "00:17:30|Mueller indictment, GRU ops uncovered"
+  - "00:28:05|Une dernière couche sur Inbenta... et Lookyloo"
+  - "00:38:30|Malware VPNFilter & Usine en Ukraine"
+  - "00:45:30|Nouveaux header sécu http avec Feature Policy"
+  - "00:49:40|Découverte de la semaine, Almanac 2018 de la cybersécurité"
+  - "00:54:00|CSAW challenge"
+  - "00:58:30|Assises de la sécurité 2018 et présentation du lauréat, Citalid"
+  - "01:00:40|Teasing meetup Comptoir Sécu sur Paris"
+  
 video: "hPjNriq-I8I"
 ---
 
