@@ -29,7 +29,14 @@ authors:
   - swithak
 
 chaptermarks:
-  - "00:03:05|A faire"
+  - "00:03:28|Errata"
+  - "00:04:50|Vulnérabilité Oracle WebLogic exploitée activement pour du XMR Mining"
+  - "00:12:00|Fuite de données médicales pour SingHealth"
+  - "00:17:36|Exchange Mailbox Auditing"
+  - "00:22:00|Google et le U2F"
+  - "00:44:55|Leak Supply Chain Level One Robotics"
+  - "00:51:40|Nouvelle vulnérabilité Bluetooth"
+  - "00:56:20|Découverte de la semaine: Malicious Life ou le podcast archéologique de la cybersécurité [EN]"
   
 video: "-4Dt-5r_fcI"
 ---
