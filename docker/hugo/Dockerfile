@@ -1,4 +1,6 @@
 FROM alpine:3.7
+ARG HUGO_GID=1000
+ARG HUGO_UID=1000
 LABEL description="Hugo container that builds and serve any hugo website."
 LABEL maintainer="youenn@comptoirsecu.fr"
 LABEL version="0.0.1"
@@ -15,8 +17,8 @@ RUN apk add --no-cache wget ca-certificates \
   && apk del wget ca-certificates
 
 ## Create user and file structure
-RUN addgroup -g 1000 hugo \
-  && adduser -u 1000 -G hugo -s /bin/sh -D hugo
+RUN addgroup -g $HUGO_GID hugo \
+  && adduser -u $HUGO_UID -G hugo -s /bin/sh -D hugo
 
 USER hugo
 WORKDIR /app
