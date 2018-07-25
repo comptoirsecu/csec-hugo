@@ -1,6 +1,6 @@
 ---
 title: '[SECHebdo] 24 Juillet 2018'
-subheadline: "WebLogic, Signapore Leaks, Google & Phishing, U2F, Leak Supply Chain, vuln Bluetooth, etc."
+subheadline: "WebLogic, Singapore Leaks, Google & Phishing, U2F, Leak Supply Chain, vuln Bluetooth, etc."
 publisher: comptoirsecu
 date: 2018-07-24
 image:  /images/covers/2018-07-24-sechebdo-vignette.jpg
