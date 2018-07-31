@@ -182,10 +182,12 @@ func getHtmlTitle(url string) (title string) {
 	m := r.FindStringSubmatch(string(body))
 	if len(m) > 0 {
 		title = m[1]
+	} else {
+		title = url
 	}
 
 	// Revert html entities
-	title = html.UnescapeString(m[1])
+	title = html.UnescapeString(title)
 
 	// Remove new lines (thank you YouTube for your ugly source code)
 	title = strings.Replace(title, "\n", "", -1)
