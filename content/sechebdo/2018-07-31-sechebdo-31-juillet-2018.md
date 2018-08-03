@@ -29,7 +29,15 @@ authors:
   - swithak
 
 chaptermarks:
-  - "00:03:28|A faire"
+  - "00:02:26|Equifax : et si peu importait l’insécurité ?"
+  - "00:07:43|Malvertising À Grande Échelle avec AdsTerra"
+  - "00:15:55|NetSpectre"
+  - "00:33:40|Minute RGPD"
+  - "00:41:10|Update rapide U2F"
+  - "00:49:55|Découverte de la semaine: #1 EvilGinx 2"
+  - "00:51:50|Découverte de la semaine: #2 Arsenal de sécurité AWS"
+  - "00:53:00|Découverte de la semaine: #3 Listing des connexions établies par Windows 10 Enterprise par défaut"
+  - "00:55:00|Découverte de la semaine: #4 Humble Bundle Cybersecurity 2"
   
 video: "Y5OSV9vVBmw"
 ---
@@ -48,7 +56,10 @@ A bientôt pour d'autres émissions/podcasts!
 
 *  EvilGinx 2
 	* [Evilginx 2 - Next Generation of Phishing 2FA Tokens](https://breakdev.org/evilginx-2-next-generation-of-phishing-2fa-tokens/)
-*  NetSpectre (~15 minutes)
+*  NetSpectre
+	* [Papier PDF](https://misc0110.net/web/files/netspectre.pdf)
+	* [Analyse du Papier](https://twitter.com/SwitHak/status/1022656471954272256)
+	* [Etude sur les probabilités de découverte d'exploitation dans la nature de NetSpectre](https://twitter.com/Magoo/status/1023281642331197440)
 *  Equifax : et si peu importait l'insécurité ?
 	* [After a Year, Equifax Remains Largely Unfazed by Historic Breach](http://www.govtech.com/security/A-Year-After-Data-Breach-Atlanta-Based-Equifax-Unbowed.html)
 *  Minute RGPD
