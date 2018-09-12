@@ -41,7 +41,7 @@ chaptermarks:
   - "00:34:30|L'extension Chrome de Mega, service de stockage en ligne, détournée"
   - "00:39:25|Protonmail a collaboré avec le FBI et la NCA pour faire tomber un groupe malveillant, Apophis"
   - "00:44:58|Découverte de la semaine: Intensive Crypto"
-  - "00:46:10|Soirée comptoir avant les Assises, indiquez-nous votre présence pour aider les organisateurs, Merci !
+  - "00:46:10|Soirée comptoir avant les Assises, indiquez-nous votre présence pour aider les organisateurs, Merci !"
   - "00:48:05|Présentation et ouverture des enregistrements pour Botconf"
   
 video: "jr3yYtUj6K0"
