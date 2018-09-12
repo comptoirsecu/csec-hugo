@@ -1,6 +1,6 @@
 ---
 title: '[SECHebdo] 11 Septembre 2018'
-subheadline: "Enum OpenSSH, 0day Windows, Struts, Retext NotPetya, Crypto Tink, PHP Packagist, AppStore RGPD, Google Mastercard, etc."
+subheadline: "0Day Tor, RGPD et LCEN, Lazarus, Leak British Airways, Hack Mega, Botconf, soirée comptoirsecu, etc."
 publisher: comptoirsecu
 date: 2018-09-11
 image:  /images/covers/2018-09-11-sechebdo-vignette.jpg
@@ -32,7 +32,17 @@ authors:
   - swithak
 
 chaptermarks:
-  - "00:02:12|A faire"
+  - "00:01:30|0Day Tor Browser"
+  - "00:07:18|RGPD LCEN"
+  - "00:10:22|Chrome retire les préfixes m et www"
+  - "00:15:58|Databreach chez British Airways, 380 000 utilisateurs concernés"
+  - "00:19:50|Directive Européenne Network and Information System Security"
+  - "00:22:28|Acte d'accusation portant sur le groupe Lazarus et les débats liés"
+  - "00:34:30|L'extension Chrome de Mega, service de stockage en ligne, détournée"
+  - "00:39:25|Protonmail a collaboré avec le FBI et la NCA pour faire tomber un groupe malveillant, Apophis"
+  - "00:44:58|Découverte de la semaine: Intensive Crypto"
+  - "00:46:10|Soirée comptoir avant les Assises, indiquez-nous votre présence pour aider les organisateurs, Merci !
+  - "00:48:05|Présentation et ouverture des enregistrements pour Botconf"
   
 video: "jr3yYtUj6K0"
 ---
