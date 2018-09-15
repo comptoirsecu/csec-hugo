@@ -3,7 +3,7 @@ title: "Le Comptoir à Paris : retrouvons nous !"
 subheadline: "Vous prendez bien une mousse ?"
 publisher: jil
 date: 2018-09-15
-image:  /images/covers/2018-09-15-annonce-before-paris
+image:  /images/covers/2018-09-15-annonce-before-paris.jpg
 
 ---
 
