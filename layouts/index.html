@@ -6,7 +6,7 @@
       {{ partial "live.html" .}}
     {{ end }}
 
-    {{ range $index, $annonce := first 3 (where .Data.Pages "Section" "annonce") }}
+    {{ range $index, $annonce := first 1 (where .Data.Pages "Section" "annonce") }}
         {{ if eq $index 0  }}
           {{ .Render "callout" }}
         {{ else }}
