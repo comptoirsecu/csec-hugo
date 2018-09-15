@@ -6,6 +6,13 @@
       {{ partial "live.html" .}}
     {{ end }}
 
+    {{ range $index, $annonce := first 3 (where .Data.Pages "Section" "annonce") }}
+        {{ if eq $index 0  }}
+          {{ .Render "callout" }}
+        {{ else }}
+          {{ .Render "oneline" }}
+        {{ end }}
+    {{ end }}
 
     <h2>Nos contenus récents</h2>
     <div class="row small-up-1 medium-up-2 large-up-3 align-left">
@@ -25,15 +32,6 @@
         </div>
       {{ end }}
     </div>
-
-
-    {{ range $index, $annonce := first 3 (where .Data.Pages "Section" "annonce") }}
-        {{ if eq $index 0  }}
-          {{ .Render "callout" }}
-        {{ else }}
-          {{ .Render "oneline" }}
-        {{ end }}
-    {{ end }}
 
 
     <h2 class="t1">Emissions et hors-séries</h2>
