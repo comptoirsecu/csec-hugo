@@ -55,7 +55,7 @@ notAlternative = true
 
 [mediaTypes]
   [mediaTypes."text/netlify"]
-  suffix = ""
+  suffixes = [""]
   delimiter = ""
 
 [outputs]
