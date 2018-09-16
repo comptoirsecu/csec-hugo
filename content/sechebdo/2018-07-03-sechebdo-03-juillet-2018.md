@@ -5,7 +5,7 @@ publisher: comptoirsecu
 date: 2018-07-03
 image:  /images/covers/2018-07-03-sechebdo-2018-07-03-vignette.jpg
 podcast:
-    feed: https://podcasts.comptoirsecu.fr/SECHebdo/CSEC.SECHebdo.2018-07-03.mp3
+    feed: https://podcast.comptoirsecu.fr/CSEC.SECHebdo.2018-07-03.mp3
     description: "Épisode du 03 07 2018 - SECHebdo est une revue de l'actualité cybersécurité réalisée en live sur Youtube, généralement le mardi soir."
 
 categories:
@@ -28,7 +28,12 @@ guests:
   - k3nnyfr
 
 chaptermarks:
-  - "00:13:37|À Venir!"
+  - "00:02:25|Retour sur leHack(Anciennement la NDH)"
+  - "00:29:30|TicketMaster, Inbenta"
+  - "00:37:10|Air France fail"
+  - "00:41:10|RGPD: Déclinaison Californienne pour le 1er Janvier 2020"
+  - "00:48:00|ProtonMail sous le feu d'un DDoS"
+  - "00:52:32|Rançongiciels, une nouvelle mutation"
 
 video: "hK8DmFr3jNI"
 ---
