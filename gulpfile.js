@@ -20,6 +20,7 @@ var sassPaths = [
   'src/scss/sassy-lists/stylesheets'
 ];
 var exec = require('child_process').exec;
+let uglifyes = require('gulp-uglify-es').default;
 
 
 
@@ -247,9 +248,8 @@ gulp.task('javascript:dev', function () {
 
 gulp.task('javascript:prod', function () {
   return gulp.src(javascript_src)
-    .pipe(plugins.babel({ presets: ['es2015']}))
     .pipe(plugins.concat('app.js'))
-    .pipe(plugins.uglify())
+    .pipe(uglifyes())
     .pipe(gulp.dest(javascript_dest));
 });
 
@@ -280,5 +280,5 @@ gulp.task('default', ['sass:dev', 'javascript:dev'], function() {
 });
 
 gulp.task('build', function(callback) {
-  runSequence('clean', ['sass:prod', 'javascript:prod'], 'hugo', 'css:prod', callback);
+  runSequence('clean', ['sass:prod', 'javascript:prod'] , 'hugo','css:prod', callback);
 });

@@ -30,6 +30,7 @@
     "gulp-sass": "^4.0.1",
     "gulp-shorthand": "^1.1.0",
     "gulp-uglify": "^3.0.0",
+    "gulp-uglify-es": "^1.0.4",
     "libvips": "0.0.2",
     "node-sass": "^4.9.0",
     "prettier": "^1.13.5",
