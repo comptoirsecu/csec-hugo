@@ -5,19 +5,23 @@
     {{ partial "meta-social.html" . }}
     <!-- <base href="{{ .Site.BaseURL }}"> -->
     <title>{{ .Title }} : Le Comptoir Sécu</title>
-    <link rel="canonical" href="{{ .Permalink }}">
+    <link rel="canonical" href="{{ .Permalink }}" />
     {{ with  .OutputFormats.Get "AMP" -}}
-    <link rel="amphtml" href="{{ .Permalink }}">
+    <link rel="amphtml" href="{{ .Permalink }}" />
     {{- end }}
     <link href="/feed/all.xml" rel="alternate" type="application/rss+xml" title="Le Comptoir Sécu - Toutes nos publications" />
     <link href="/feed/podcast.xml" rel="alternate" type="application/rss+xml" title="Le Comptoir Sécu - Nos podcasts" />
 
     {{ if .Site.Params.override_fonts }}
-      <link href='//fonts.googleapis.com/css?family={{ .Site.Params.fontbody | safeURL }}' rel='stylesheet' type='text/css'>
-      <link href='//fonts.googleapis.com/css?family={{ .Site.Params.fontheading  |  safeURL }}' rel='stylesheet' type='text/css'>
+      <link href='//fonts.googleapis.com/css?family={{ .Site.Params.fontbody | safeURL }}' rel='stylesheet' type='text/css' />
+      <link href='//fonts.googleapis.com/css?family={{ .Site.Params.fontheading  |  safeURL }}' rel='stylesheet' type='text/css' />
     {{ end }}
     <!-- todo: Hugo asset -->
-    <link rel="stylesheet" href="/css/app.css">
+    {{ $styleSass := resources.Get "scss/app.scss" }}
+    {{ $cssOptions := (dict "targetPath" "app.css" "outputStyle" "compressed" "enableSourceMap" true "includePaths" (slice "scss/foundation" "scss/normalize-scss/sass" "scss/sassy-lists/stylesheets")) }}
+    {{ $styleCSS := $styleSass | toCSS $cssOptions | postCSS | fingerprint }}
+    <link rel="stylesheet" href="{{ $styleCSS.Permalink }}" integrity="{{ $styleCSS.Data.Integrity }}" />
+
     {{ if .Site.Params.override_fonts }}
     <style>
       body {
