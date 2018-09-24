@@ -4,7 +4,6 @@
   "description": "ComptoirSécu website using Hugo and Semantic-ui",
   "main": "index.js",
   "scripts": {
-    "prepare": "./netlify-build-fix.sh",
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "yarn && gulp"
   },
