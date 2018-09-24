@@ -1,5 +1,8 @@
 var gulp = require('gulp');
 var plugins = require('gulp-load-plugins')();
+var css_dest = "static/css";
+var sass_src = "src/scss/app.scss";
+var runSequence = require('run-sequence');
 var img = {
   cover: {   src: "src/images/covers/",
             dst: "static/images/covers/" },
@@ -8,7 +11,15 @@ var img = {
   thumbnail: {   src: "src/images/thumbnails/",
             dst: "static/images/thumbnails/" },
   };
+
+var sassPaths = [
+  'src/scss/foundation',
+  'src/scss/normalize-scss/sass',
+  'src/scss/sassy-lists/stylesheets'
+];
 var exec = require('child_process').exec;
+let uglifyes = require('gulp-uglify-es').default;
+
 
 gulp.task('img', function(callback) {
   runSequence(['img:covers', 'img:thumbnails', 'img:misc'], ['img:covers:clean', 'img:thumbnails:clean', 'img:misc:clean'], callback);
@@ -157,6 +168,41 @@ gulp.task('img:covers', function() {
   .pipe(gulp.dest(img.cover.dst));
 });
 
+gulp.task('sass:dev', function() {
+  return gulp.src(sass_src)
+    .pipe(plugins.sass({
+      includePaths: sassPaths,
+      outputStyle: 'nested' // if css 'compressed' **file size**
+    })
+      .on('error', plugins.sass.logError))
+    .pipe(plugins.autoprefixer({
+      browsers: ['last 2 versions', 'ie >= 9']
+    }))
+    .pipe(gulp.dest(css_dest));
+});
+
+gulp.task('sass:prod', function() {
+  return gulp.src(sass_src)
+    .pipe(plugins.sass({
+      includePaths: sassPaths,
+      outputStyle: 'compressed' // if css 'compressed' **file size**
+    })
+      .on('error', plugins.sass.logError))
+    .pipe(plugins.autoprefixer({
+      browsers: ['last 2 versions', 'ie >= 9']
+    }))
+    .pipe(gulp.dest(css_dest));
+});
+
+
+gulp.task('css:prod', function() {
+  return gulp.src('public/css/app.css')
+  .pipe(plugins.purifycss(['./public/**/*.js', './public/**/*.html']))
+  .pipe(plugins.shorthand())
+  .pipe(plugins.csso())
+  .pipe(gulp.dest('public/css/'))
+});
+
 
 gulp.task('lint:html', function () {
   return gulp.src(['content/**/*.html', 'layout/**/*.html', 'public/**/*.html', 'archetypes/**/*.html'])
@@ -170,14 +216,20 @@ gulp.task('clean', function() {
 });
 
 
+
 gulp.task('hugo', function (cb) {
-  exec('hugo --gc --minify --cleanDestinationDir', function (err, stdout, stderr) {
+  exec('hugo --gc --minify', function (err, stdout, stderr) {
     console.log(stdout);
     console.log(stderr);
     cb(err);
   });
 });
 
+gulp.task('default', ['sass:dev', 'javascript:dev'], function() {
+  gulp.watch(['src/scss/**/*.scss'], ['sass:dev']);
+  gulp.watch(['src/js/enabled/**/*.js'], ['javascript:dev']);
+});
 
-gulp.task('default', ['build'])
-gulp.task('build', ['hugo']);
+gulp.task('build', function(callback) {
+  runSequence('clean', 'sass:prod' , 'hugo','css:prod', callback);
+});
