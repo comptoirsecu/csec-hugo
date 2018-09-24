@@ -50,7 +50,7 @@
         <itunes:category text="Technology">
             <itunes:category text="Tech News" />
         </itunes:category>
-        <rawvoice:frequency>Mensuel</rawvoice:frequency>
+        <rawvoice:frequency>Hebdomadaire</rawvoice:frequency>
         <rawvoice:subscribe
             feed="{{ .Site.BaseURL }}/feed/podcast.xml"
             itunes="https://itunes.apple.com/fr/podcast/id691497996"></rawvoice:subscribe>
@@ -66,17 +66,18 @@
             <!-- <comments>{{ .Permalink }}#comments</comments> -->
             <guid>{{ .Permalink }}</guid>
             <description>
-              {{chomp "<![CDATA[\n"}}{{ htmlUnescape .Content | replaceRE "(?m)(?s:<script.+?</script>)" ""| plainify }}{{chomp "]]>\n"}}
+              {{ .Summary | html }}
             </description>
-            <content:encoded>{{chomp "<![CDATA[\n"}}<img src="{{ $.Site.BaseURL }}{{ $img }}" class="webfeedsFeaturedVisual" /><br />{{ .Content | htmlUnescape | safeHTML }}{{chomp "]]>\n"}}</content:encoded>
+            <content type="html">{{chomp "<![CDATA[\n"}}<img src="{{ $.Site.BaseURL }}{{ $img }}" class="webfeedsFeaturedVisual" /><br />{{chomp "]]>\n"}}
+            {{ printf `<![CDATA[%s]]>` .Content | safeHTML }}
+            </content>
             <enclosure url="{{ .Params.podcast.feed }}" length="1" type="audio/mp3"/>
             <itunes:author>{{ $.Site.Params.Author }}</itunes:author>
             <itunes:explicit>No</itunes:explicit>
             <itunes:subtitle>{{chomp "<![CDATA[\n"}}{{ .Params.Subheadline }}{{chomp "]]>\n"}}</itunes:subtitle>
             <itunes:summary>
-                {{chomp "<![CDATA[\n"}}{{ htmlUnescape .Content  | plainify }}{{chomp "]]>\n"}}
+                {{ printf `<![CDATA[%s]]>` .Content | safeHTML }}
             </itunes:summary>
-            <!--<itunes:duration>{{ .Params.podcast.feed }}</itunes:duration>-->
             <itunes:keywords>{{chomp "<![CDATA[\n"}}{{ delimit .Params.tags ", " }}{{chomp "]]>\n"}}</itunes:keywords>
             {{ $img := or .Params.image "/images/covers/default.jpg" }}
             <itunes:image href="{{ $.Site.BaseURL }}{{ $img }}" />
