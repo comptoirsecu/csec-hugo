@@ -18,7 +18,7 @@ La nouvelle a défrayé la chronique : le dogme du mot de passe complexe de huit
 
 Le NIST l’a annoncé, [Troy Hunt][troy] l’a relayé, mais vous trouverez un article très intéressant du côté de la [Federal Trade Commission][ftc], avec de nombreux renvois utiles.
 
-[![Dilbert 10 Sept 2005](http://assets.amuniversal.com/e47ff0606d5001301d7a001dd8b71c47)][dilbert]
+[![Dilbert 10 Sept 2005](https://assets.amuniversal.com/e47ff0606d5001301d7a001dd8b71c47)][dilbert]
 
 # Ce que le NIST dit vraiment
 
@@ -80,7 +80,7 @@ Si vous disposez des capacités de détection qui vous permettent d’attribuer 
 
 Sans cela, je vous déconseille de le rendre systématique sauf à disposer d’un jeton à clic, tel que l’envoi de la séquence par une pression sur une Yubikey (norme OATH) ou la validation d’une notification mobile du Microsoft Authenticator (ne fonctionne que pour les authentifications Azure).
 
-[![Commitstrip password memory](http://www.commitstrip.com/wp-content/uploads/2015/08/Strip-Mots-de-passe-650-finalenglish1.jpg)][commitstrip]
+[![Commitstrip password memory](https://www.commitstrip.com/wp-content/uploads/2015/08/Strip-Mots-de-passe-650-finalenglish1.jpg)][commitstrip]
 
 # Je fais quoi avec tout ça ?
 

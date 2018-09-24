@@ -31,7 +31,7 @@ Les fuites continuent de sortir régulièrement, et pourtant la presse général
 
 Quelle est la réaction de nos politiques ? Une colère et une indignation affichée contre ces procédés. Que font-ils à part la moue devant les caméras ? Ils en profitent pour laisser passer des lois comme la LPM…
 
-{{< video "http://www.youtube.com/embed/TnDd5JmNFXE?feature=oembed" >}}
+{{< video "https://www.youtube.com/embed/TnDd5JmNFXE?feature=oembed" >}}
 
 Pendant que l’on « nourrit la plèbe » avec des articles sur Dieudonné ou les affaires de coucheries de notre président, rien ne s’améliore du côté de la surveillance de masse, bien au contraire.
 
@@ -41,7 +41,7 @@ Pour ceux qui pensent que cela ne les concerne pas, que ce combat se situe aux U
 
 Vous pensez toujours que vous n’avez rien à cacher ? Prenez au moins 5 minutes pour écouter cette chansonnette. La forme n’est peut-être pas des plus radieuses, mais le fond est là.
 
-{{< video "http://www.dailymotion.com/embed/video/x1bchsv" >}}
+{{< video "https://www.dailymotion.com/embed/video/x1bchsv" >}}
 
 J’enfoncerai le clou avec un petit point Godwin qui me tient à cœur, le Poème attribué à [Niemöller ](http://fr.wikipedia.org/wiki/Martin_Niem%C3%B6ller):
 
