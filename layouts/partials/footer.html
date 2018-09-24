@@ -52,13 +52,26 @@
   </div>
 </div>
 
+    {{ $jqueryJS := resources.Get "js/jquery-2.1.4.min.js" | fingerprint }}
+    <script type="text/javascript" src="{{ $jqueryJS.Permalink }}" integrity="{{ $jqueryJS.Data.Integrity }}"></script>
 
+    {{ $foundationCoreJS := resources.Get "js/foundation-enabled/foundation.core.js" }}
+    {{ $foundationUtilBoxJS := resources.Get "js/foundation-enabled/foundation.util.box.js" }}
+    {{ $foundationUtilKeyboardJS := resources.Get "js/foundation-enabled/foundation.util.keyboard.js" }}
+    {{ $foundationUtilMediaQueryJS := resources.Get "js/foundation-enabled/foundation.util.mediaQuery.js" }}
+    {{ $foundationUtilMotionJS := resources.Get "js/foundation-enabled/foundation.util.motion.js" }}
+    {{ $foundationUtilNestJS := resources.Get "js/foundation-enabled/foundation.util.nest.js" }}
+    {{ $foundationUtilTriggersJS := resources.Get "js/foundation-enabled/foundation.util.triggers.js" }}
+    {{ $foundationAccordionMenuJS := resources.Get "js/foundation-enabled/foundation.accordionMenu.js" }}
+    {{ $foundationdropdownMenuJS := resources.Get "js/foundation-enabled/foundation.dropdownMenu.js" }}
+    {{ $foundationResponsiveMenuJS := resources.Get "js/foundation-enabled/foundation.responsiveMenu.js" }}
+    {{ $foundationResponsiveToggleJS := resources.Get "js/foundation-enabled/foundation.responsiveToggle.js" }}
+    {{ $foundationTogglerJS := resources.Get "js/foundation-enabled/foundation.toggler.js" }}
+    {{ $foundationJS := slice $foundationCoreJS $foundationUtilBoxJS $foundationUtilKeyboardJS $foundationUtilMediaQueryJS $foundationUtilMotionJS $foundationUtilNestJS $foundationUtilTriggersJS $foundationAccordionMenuJS $foundationdropdownMenuJS $foundationResponsiveMenuJS $foundationResponsiveToggleJS $foundationTogglerJS | resources.Concat "js/app.js" | minify | fingerprint }}
 
-    <script src="/js/jquery-2.1.4.min.js" integrity="sha384-R4/ztc4ZlRqWjqIuvf6RX5yb/v90qNGx6fS48N0tRxiGkqveZETq72KgDVJCp2TC"></script>
-    <script src="/js/app.js"></script>
-    <script src="/js/foundation-start.js" integrity="sha384-qRDjLKBnurzIEk3LoUNl2PqqiI2LI+34U5RuRRHWvJeEw8XGQWNOea741DzP0/YB"></script>
-    <!--
-    <script async src="/js/google-analytics.js" integrity="sha384-mkMBSgSROifhsZ+tG29dfANM4eKln2ZjmqsjxMcsEaSH8uNVEiBjP5ZBvdXnxZr8"></script>
-  -->
+    <script type="text/javascript" src="{{ $foundationJS.Permalink }}" integrity="{{ $foundationJS.Data.Integrity }}"></script>
+
+    {{ $foundationBootstrapJS := resources.Get "js/foundation-start.js" | minify | fingerprint }}
+    <script type="text/javascript" src="{{ $foundationBootstrapJS.Permalink }}" integrity="{{ $foundationBootstrapJS.Data.Integrity }}"></script>
   </body>
 </html>

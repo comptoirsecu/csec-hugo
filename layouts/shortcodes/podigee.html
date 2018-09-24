@@ -98,7 +98,6 @@
           }
         }
 </script>
-
-<script src="/js/podigee-get-settings.js" integrity="sha384-SlCz3DnhCjxBou54KIXvtoi+28R28h+JtZCxbccso2Kvteia9HUZVi/KAgZv5eeu"></script>
-
+{{ $podigeejs := resources.Get "js/podigee-get-settings.js" | minify | fingerprint }}
+<script type="text/javascript" src="{{ $podigeejs.Permalink }}" integrity="{{ $podigeejs.Data.Integrity }}"></script>
 <script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="podigee"></script>

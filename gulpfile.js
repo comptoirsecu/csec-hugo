@@ -3,8 +3,6 @@ var plugins = require('gulp-load-plugins')();
 var css_dest = "static/css";
 var sass_src = "src/scss/app.scss";
 var runSequence = require('run-sequence');
-var javascript_src = ['src/js/enabled/foundation.core.js', 'src/js/enabled/foundation.util.*.js', 'src/js/enabled/*.js'];
-var javascript_dest = "static/js";
 var img = {
   cover: {   src: "src/images/covers/",
             dst: "static/images/covers/" },
@@ -22,33 +20,6 @@ var sassPaths = [
 var exec = require('child_process').exec;
 let uglifyes = require('gulp-uglify-es').default;
 
-
-
-gulp.task('sass:dev', function() {
-  return gulp.src(sass_src)
-    .pipe(plugins.sass({
-      includePaths: sassPaths,
-      outputStyle: 'nested' // if css 'compressed' **file size**
-    })
-      .on('error', plugins.sass.logError))
-    .pipe(plugins.autoprefixer({
-      browsers: ['last 2 versions', 'ie >= 9']
-    }))
-    .pipe(gulp.dest(css_dest));
-});
-
-gulp.task('sass:prod', function() {
-  return gulp.src(sass_src)
-    .pipe(plugins.sass({
-      includePaths: sassPaths,
-      outputStyle: 'compressed' // if css 'compressed' **file size**
-    })
-      .on('error', plugins.sass.logError))
-    .pipe(plugins.autoprefixer({
-      browsers: ['last 2 versions', 'ie >= 9']
-    }))
-    .pipe(gulp.dest(css_dest));
-});
 
 gulp.task('img', function(callback) {
   runSequence(['img:covers', 'img:thumbnails', 'img:misc'], ['img:covers:clean', 'img:thumbnails:clean', 'img:misc:clean'], callback);
@@ -239,26 +210,6 @@ gulp.task('lint:html', function () {
   .pipe(plugins.htmlhint.failReporter());
 });
 
-gulp.task('javascript:dev', function () {
-  return gulp.src(javascript_src)
-    .pipe(plugins.babel({ presets: ['es2015']}))
-    .pipe(plugins.concat('app.js'))
-    .pipe(gulp.dest(javascript_dest));
-});
-
-gulp.task('javascript:prod', function () {
-  return gulp.src(javascript_src)
-    .pipe(plugins.concat('app.js'))
-    .pipe(uglifyes())
-    .pipe(gulp.dest(javascript_dest));
-});
-
-gulp.task('html:prod', function() {
-  return gulp.src('public/**/*.html')
-    .pipe(plugins.htmlmin({collapseWhitespace: true}))
-    .pipe(gulp.dest('public'));
-});
-
 gulp.task('clean', function() {
   return gulp.src('public')
   .pipe(plugins.clean());
@@ -267,7 +218,7 @@ gulp.task('clean', function() {
 
 
 gulp.task('hugo', function (cb) {
-  exec('hugo', function (err, stdout, stderr) {
+  exec('hugo --gc --minify', function (err, stdout, stderr) {
     console.log(stdout);
     console.log(stderr);
     cb(err);
@@ -280,5 +231,5 @@ gulp.task('default', ['sass:dev', 'javascript:dev'], function() {
 });
 
 gulp.task('build', function(callback) {
-  runSequence('clean', ['sass:prod', 'javascript:prod'] , 'hugo','css:prod', callback);
+  runSequence('clean', 'sass:prod' , 'hugo','css:prod', callback);
 });

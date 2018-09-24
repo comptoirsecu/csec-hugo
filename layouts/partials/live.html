@@ -9,8 +9,9 @@
     </div>
   </div>
   <div class="show-for-large large-4">
-    <script async src="/js/discord-widget.js" integrity="sha384-ZiT/hMOrEhWg67GIB7T28L2YdRGctU2lPJo8xpJpRJcyGBDimSzMFtnV1WPx2PXL"></script>
 
+    {{ $discordJS := resources.Get "js/discord-widget.js" | minify | fingerprint }}
+    <script async type="text/javascript" src="{{ $discordJS.Permalink }}" integrity="{{ $discordJS.Data.Integrity }}"></script>
 
     <div class="discord-widget"></div>
   </div>

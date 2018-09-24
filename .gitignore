@@ -15,5 +15,6 @@ src/images/thumbnails/*.{png,jpg,jpeg,gif,webp}
 src/images/thumbnails/archive
 src/images/trash
 *~
+resources/*
 isso.cfg
 *.log
