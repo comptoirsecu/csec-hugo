@@ -10,7 +10,8 @@
   "author": "Le Comptoir Sécu",
   "license": "ISC",
   "dependencies": {
-    "autoprefixer": "^9.1.5"
+    "autoprefixer": "^9.1.5",
+    "run-sequence": "^2.2.1"
   },
   "devDependencies": {
     "gulp": "^3.9.1",

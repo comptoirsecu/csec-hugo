@@ -9,7 +9,7 @@ var img = {
             dst: "static/images/thumbnails/" },
   };
 var exec = require('child_process').exec;
-
+var runSequence = require('run-sequence');
 gulp.task('img', function(callback) {
   runSequence(['img:covers', 'img:thumbnails', 'img:misc'], ['img:covers:clean', 'img:thumbnails:clean', 'img:misc:clean'], callback);
 })
