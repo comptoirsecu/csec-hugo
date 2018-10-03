@@ -3,7 +3,7 @@ title: '[SECHebdo] 02 Octobre 2018'
 subheadline: "UEFI & Fancy Bear, Leak Facebook via View As, US National Cybersecurity Strategy, Directive NIS, FAcebook & 2FA, Pho Indictment, Loi IoT, etc."
 publisher: comptoirsecu
 date: 2018-10-02
-image:  /images/covers/2018-10-02-sechebdo-vignette.jpg
+image:  /images/covers/2018-10-03-sechebdo-2018-10-02-vignette.jpg
 podcast:
     feed: https://podcast.comptoirsecu.fr/CSEC.SECHebdo.2018-10-02.mp3
     description: "Épisode du 02 10 2018 - SECHebdo est une revue de l'actualité cybersécurité réalisée en live sur Youtube, généralement le mardi soir."
