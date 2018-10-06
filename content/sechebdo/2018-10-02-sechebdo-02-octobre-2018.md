@@ -28,7 +28,17 @@ authors:
   - swithak
 
 chaptermarks:
-  - "00:01:30|A faire"
+  - "00:01:30|UEFI & Fancy Bear"
+  - "00:09:20|Facebook et View As"
+  - "00:21:30|US National Cyber Strategy"
+  - "00:39:05|Directive NIS"
+  - "00:50:45|Facebook & 2FA"
+  - "00:57:20|Indictment Pho, NSA"
+  - "01:03:33|Port San Diego"
+  - "01:05:35|Loi IoT Californienne 2020"
+  - "01:08:10|ComCyber FR sur Twitter"
+  - "01:09:30|VPNFilter Partie 3"
+  - "01:09:30|Before Assises 2018 Ultime rappel !"
 
 video: "2269DNd2W3k"
 ---
