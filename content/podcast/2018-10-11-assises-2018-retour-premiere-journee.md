@@ -1,6 +1,6 @@
 ---
-title: "[Assises 2018] Nos retours sur la première journée"
-subheadline: "Un peu d'EBIOS pour votre déjeuner?"
+title: "[Assises 2018] Retours Jour 1"
+subheadline: "Un peu d'EBIOS pour votre déjeuner ?"
 publisher: comptoirsecu
 date: 2018-10-11
 image: /images/covers/2018-10-11-assises-2018.jpg
