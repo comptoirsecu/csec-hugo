@@ -3,6 +3,7 @@ title: "[Assises 2018] Nos retours sur la première journée"
 subheadline: "Un peu d'EBIOS pour votre déjeuner?"
 publisher: comptoirsecu
 date: 2018-10-11
+image: /images/covers/2018-10-11-assises-2018.jpg
 podcast:
   feed: https://podcast.comptoirsecu.fr/CSEC.EP49.2018-02-06.THREAT_INTEL.mp3
 categories:
@@ -30,8 +31,6 @@ authors:
 
 guests:
   - nadege_reynaud
-
-draft: false
 ---
 
 Une nouvelle année, de nouvelles Assises !
