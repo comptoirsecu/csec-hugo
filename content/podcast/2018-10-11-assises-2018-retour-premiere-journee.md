@@ -5,7 +5,7 @@ publisher: comptoirsecu
 date: 2018-10-11
 image: /images/covers/2018-10-11-assises-2018.jpg
 podcast:
-  feed: https://podcast.comptoirsecu.fr/CSEC.EP49.2018-02-06.THREAT_INTEL.mp3
+  feed: https://podcast.comptoirsecu.fr/CSEC.HS32.2018-10-11_ASSISES_jour1.mp3
 categories:
   - Podcast
   - Hors-Serie
