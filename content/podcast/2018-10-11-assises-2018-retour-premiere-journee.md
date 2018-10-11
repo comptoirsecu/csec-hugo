@@ -39,10 +39,11 @@ Grimaldi de Monaco, nous revenons sur la première journée de cette nouvelle
 édition des Assises de la Sécurité 2018.
 
 Au programme :
- - Les traditionnelles plénières d'ouverture
- - Quelques compléments d'information glanés lors de la conférence de presse de
+
+- Les traditionnelles plénières d'ouverture
+- Quelques compléments d'information glanés lors de la conférence de presse de
  Guillaume Poupard de l'ANSSI
- - Les conférences et tables rondes de l'après-midi
+- Les conférences et tables rondes de l'après-midi
 
 Bonne écoute, et à demain pour la suite :)
 
