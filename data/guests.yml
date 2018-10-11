@@ -7,7 +7,6 @@
 #   linkedin: https://www.linkedin.com/in/maitrisedescrises/
 #   email: test@example.com
 
-
 nadege_reynaud:
   name: Nadège Reynaud
   linkedin: https://www.linkedin.com/in/nad%C3%A8ge-r-5867949/
@@ -58,7 +57,6 @@ clement_notin:
   linkedin: https://www.linkedin.com/in/clementnotin/
   description: "Pentester / Auditeur en Sécurité des Systèmes d'Information"
   image: clement_notin.jpg
-
 
 farid_illikoud:
   name: Farid Illikoud
@@ -263,7 +261,6 @@ genma:
   uri: https://blog.genma.fr/
   image: genma.jpg
 
-
 korben:
   name: Korben
   description: "Blogger francophone renommé, traitant des sujets tech en général, avec un petit faible pour la cybersécurité"
@@ -277,7 +274,6 @@ jaysonstreet:
   twitter: jaysonstreet
   uri: http://awkwardhugs.org/
   image: jaysonstreet.jpg
-
 
 wilfrid_blanc:
   name: Wilfrid Blanc
@@ -420,7 +416,6 @@ felix_aime:
   description: "Security Researcher au sein de l'équipe GReAT de Kaspersky Lab"
   twitter: felixaime
   image: felix_aime.jpg
-
 
 k3nnyfr:
   name: "K3nnyfr"
