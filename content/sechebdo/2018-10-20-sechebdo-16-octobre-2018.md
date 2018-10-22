@@ -26,7 +26,12 @@ authors:
   - justin
 
 chaptermarks:
-  - "00:01:30|TODO"
+  - "00:01:00|TO BE COMPLETED"
+  - "00:01:20|Retour des assises - la galère"
+  - "00:10:27|Crowdstrike - Endpoint & Detection Response"
+  - "00:10:42|Wavestone - Cybersécu et COMEX, convaincre avec efficacité"
+  - "00:13:10|Juniper - Serious game"
+  - "00:38:45|Début des news de la semaine"
 
 video: "M-95UTyqPUI"
 ---
