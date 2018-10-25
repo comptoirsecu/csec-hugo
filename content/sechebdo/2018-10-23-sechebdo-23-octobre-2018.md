@@ -2,7 +2,7 @@
 title: '[SECHebdo] 23 Octobre 2018'
 subheadline: "Newsletter, recos ANSSI mobilité, CRASHOVERRIDE, TRITON, libssh, Blueimp jQuery File Upload, etc."
 publisher: comptoirsecu
-date: 2018-10-20
+date: 2018-10-23
 image:  /images/covers/2018-10-23-sechebdo-vignette.jpg
 podcast:
     feed: https://podcast.comptoirsecu.fr/CSEC.SECHebdo.2018-10-23.mp3
