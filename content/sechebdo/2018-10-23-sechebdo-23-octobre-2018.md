@@ -23,7 +23,7 @@ tags:
 
 authors:
   - jil
-  - mii
+  - swithak
 
 chaptermarks:
   - "00:01:00|Todo"
@@ -53,8 +53,8 @@ A bientôt pour d'autres émissions/podcasts!
 	* [Exploits/CVE-2018-9206 at master · lcashdol/Exploits · GitHub](https://github.com/lcashdol/Exploits/tree/master/CVE-2018-9206)
 	* [Vulnérabilité dans Blueimp jQuery-File-Upload – CERT-FR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-503/)
 *  Crashoverride
-	* [PDF Document](https://www.virusbulletin.com/uploads/pdf/conference_slides/2018/Slowik-VB2018-CRASHOVERRIDE.pdf)
-	* [PDF Document](https://dragos.com/media/CRASHOVERRIDE2018.pdf)
+	* [Anatomy of an ICS attack: CrashOverride](https://www.virusbulletin.com/uploads/pdf/conference_slides/2018/Slowik-VB2018-CRASHOVERRIDE.pdf)
+	* [Présentation](https://dragos.com/media/CRASHOVERRIDE2018.pdf)
 *  TRITON (ICS Attack)
 	* [TRITON Attribution: Russian Government-Owned Lab Most Likely BuiltCustom Intrusion Tools for TRITON Attackers « TRITON Attribution: Russian Government-Owned Lab Most Likely BuiltCustom Intrusion Tools for TRITON Attackers | FireEye Inc](https://www.fireeye.com/blog/threat-research/2018/10/triton-attribution-russian-government-owned-lab-most-likely-built-tools.html)
 
