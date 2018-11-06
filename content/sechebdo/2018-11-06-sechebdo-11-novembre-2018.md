@@ -13,13 +13,15 @@ categories:
  - SECHebdo
 
 tags:
+ - chiffrement
+ - SSD
+ - CIA 
  - Chine
- - RGPD
- - 42
- - Windows Defender
- - DoH
- - isitphish 
- - BGP
+ - Russie 
+ - géopolitique
+ - bleedingbit
+ - swordphish
+ - awareness
 
 authors:
   - jil
@@ -51,7 +53,7 @@ A bientôt pour d'autres émissions/podcasts!
 	* [The CIA's communications suffered a catastrophic compromise](https://www.yahoo.com/news/cias-communications-suffered-catastrophic-compromise-started-iran-090018710.html?.tsrc=fauxdal)
 	* [Jake Williams sur Twitter](https://twitter.com/MalwareJake/status/1058454939519848448)
 *  Chinese Indictment
-	* [PRC State-Owned Company, Taiwan Company, and Three Individuals Charged With Economic Espionage | OPA | Department of Justice](https://www.justice.gov/opa/pr/prc-state-owned-company-taiwan-company-and-three-individuals-charged-economic-espionage)
+	* [PRC State-Owned Company, Taiwan Company, and Three Individuals Charged With Economic Espionage - OPA - Department of Justice](https://www.justice.gov/opa/pr/prc-state-owned-company-taiwan-company-and-three-individuals-charged-economic-espionage)
 *  Beware Russia, don't fuck with U.S.
 	* [The Pentagon Has Prepared a Cyberattack Against Russia](https://www.thedailybeast.com/the-pentagon-has-prepared-a-cyber-attack-against-russia)
 	* [SwitHak sur Twitter](https://twitter.com/SwitHak/status/1058376298026942464)
@@ -64,7 +66,7 @@ A bientôt pour d'autres émissions/podcasts!
 *  Faites don d'un article au Comptoir Sécu : sur MageCart
 	* [BBC micro:bit vendor Kitronik says customers' deets nicked, fingers Magecart malware • The Register](https://www.theregister.co.uk/2018/11/02/kitronik_online_shop_malware/)
 *  Persian Stalker par Talos
-	* [Talos Blog || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence: Persian Stalker pillages Iranian users of Instagram and Telegram](https://blog.talosintelligence.com/2018/11/persian-stalker.html)
+	* [Talos Blog - Cisco Talos Intelligence Group - Comprehensive Threat Intelligence: Persian Stalker pillages Iranian users of Instagram and Telegram](https://blog.talosintelligence.com/2018/11/persian-stalker.html)
 *  Implémentation chiffrement SSD : tempête à l'horizon !
 	* [Doh! What My Encrypted Drive Can Be Unlocked By Anyone?](https://medium.com/asecuritysite-when-bob-met-alice/doh-what-my-encrypted-drive-can-be-unlocked-by-anyone-a495f6653581)
 	* [Microsoft Advisory](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180028)
@@ -72,11 +74,11 @@ A bientôt pour d'autres émissions/podcasts!
 *  Google, reCAPTCHAv3 et Javascript obligatoire
 	* [Google won't let you sign in if you disabled JavaScript in your browser | ZDNet](https://www.zdnet.com/article/google-wont-let-you-sign-in-if-you-disabled-javascript-in-your-browser/)
 	* [Google’s stealthy reCAPTCHA v3 detects humans – no questions asked – Naked Security](https://nakedsecurity.sophos.com/2018/10/31/googles-stealthy-recaptcha-v3-detects-humans-no-questions-asked/)
-	* [reCAPTCHA v3 | reCAPTCHA | Google Developers](https://developers.google.com/recaptcha/docs/v3)
+	* [reCAPTCHA v3 - reCAPTCHA - Google Developers](https://developers.google.com/recaptcha/docs/v3)
 *  Bleedingbit
-	* [Bleedingbit zero-day chip flaws may expose majority of enterprises to remote code execution attacks | ZDNet](https://www.zdnet.com/article/new-bleedingbit-zero-day-vulnerabilities-impact-majority-of-enterprises-at-the-chip-level/)
+	* [Bleedingbit zero-day chip flaws may expose majority of enterprises to remote code execution attacks - ZDNet](https://www.zdnet.com/article/new-bleedingbit-zero-day-vulnerabilities-impact-majority-of-enterprises-at-the-chip-level/)
 	* [BleedingBit Information from the Research Team - Armis Labs](https://armis.com/bleedingbit/)
-	* [Row brewing over BleedingBit Bluetooth hack | The Daily Swig](https://portswigger.net/daily-swig/row-brewing-over-bleedingbit-bluetooth-hack)
+	* [Row brewing over BleedingBit Bluetooth hack - The Daily Swig](https://portswigger.net/daily-swig/row-brewing-over-bleedingbit-bluetooth-hack)
 *  Vulnérabilité RCE dans la bibliothèque "commons-fileupload" (Struts 2 mais pas que)
 	* [Vulnérabilité dans Apache Struts – CERT-FR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2018-AVI-531/)
 	* [Immediately upgrade commons-fileupload to version 1.3.3 when running Struts 2.3.36 or prior](http://mail-archives.us.apache.org/mod_mbox/www-announce/201811.mbox/%3CCAMopvkMo8WiP%3DfqVQuZ1Fyx%3D6CGz0Epzfe0gG5XAqP1wdJCoBQ%40mail.gmail.com%3E)
