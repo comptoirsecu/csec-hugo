@@ -56,7 +56,7 @@ A bientôt pour d'autres émissions/podcasts!
 	* [PRC State-Owned Company, Taiwan Company, and Three Individuals Charged With Economic Espionage - OPA - Department of Justice](https://www.justice.gov/opa/pr/prc-state-owned-company-taiwan-company-and-three-individuals-charged-economic-espionage)
 *  Beware Russia, don't fuck with U.S.
 	* [The Pentagon Has Prepared a Cyberattack Against Russia](https://www.thedailybeast.com/the-pentagon-has-prepared-a-cyber-attack-against-russia)
-	* [SwitHak sur Twitter](https://twitter.com/SwitHak/status/1058376298026942464)
+	* [Analyse](https://twitter.com/SwitHak/status/1058376298026942464)
 *  Conférences
 	* [S'inscrire à l'événement - Normandie Cybersécurité](https://normandiecybersecurite.com/inscription/)
 	* [BLACK ALPS](http://blackalps.ch/)
