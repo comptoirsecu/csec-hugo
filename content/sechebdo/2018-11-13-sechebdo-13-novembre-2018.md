@@ -37,7 +37,7 @@ chaptermarks:
 video: "nUxrPHTNBLI"
 ---
 
-**Mise en garde : Suite à problème technique, Morgan à la voix de terminator durant tout l'épisode. On est vraiment désolé pour la gêne occasionée, le backup local a le même problème donc aucun moyen de corriger le tir, on fera mieux la semaine prochaine !**
+**Mise en garde : en raison d’un problème technique, Morgan à la voix de terminator durant tout l'épisode. On est vraiment désolé pour la gêne occasionée, le backup local a le même problème donc aucun moyen de corriger le tir, on fera mieux la semaine prochaine !**
 
 Nous venons de tourner un nouveau SECHebdo en live sur Youtube. Comme d'habitude, si vous avez raté l'enregistrement, vous pouvez le retrouver sur notre chaîne Youtube (vidéo ci-dessus) ou bien au format podcast audio:
 
