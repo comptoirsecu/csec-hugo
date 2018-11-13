@@ -55,7 +55,7 @@ A bientôt pour d'autres émissions/podcasts!
 	* [ParisCall supporters](https://www.diplomatie.gouv.fr/IMG/pdf/1_soutien_appel_paris_cle4c5edd.pdf)
 	* [ParisCall text](https://www.diplomatie.gouv.fr/IMG/pdf/paris_call_text_-_en_cle06f918.pdf)
 	* [IGF 2018- Day 2 - Salle I - English - YouTube](https://youtu.be/PxdSG6M8S4o)
-	* [Bâtir la paix et la sécurité internationale du cyberespace | Agence nationale de la sécurité des systÃ¨mes d'information](https://www.ssi.gouv.fr/agence/missions/lanssi-a-linternational/batir-la-paix-et-la-securite-internationale-du-cyberespace/)
+	* [Bâtir la paix et la sécurité internationale du cyberespace | Agence nationale de la sécurité des systèmes d'information](https://www.ssi.gouv.fr/agence/missions/lanssi-a-linternational/batir-la-paix-et-la-securite-internationale-du-cyberespace/)
 	* [Cyberattaques : Paris et Moscou en tête à tête - Libération](https://www.liberation.fr/planete/2018/11/11/cyberattaques-paris-et-moscou-en-tete-a-tete_1691473)
 	* [Cyberespace : « Chacun cherche à préserver ses capacités offensives » - Libération](https://www.liberation.fr/planete/2018/11/11/cyberespace-chacun-cherche-a-preserver-ses-capacites-offensives_1691460)
 	* [Cyberguerre : la diplomatie en quête d'un déclic - Libération](https://www.liberation.fr/planete/2018/11/11/cyberguerre-la-diplomatie-en-quete-d-un-declic_1691476)
