@@ -104,3 +104,8 @@ coink0in:
   name: CoinK0in
   description: "Si ça ressemble à un canard, si ça nage comme un canard et si ça cancane comme un canard, c'est qu'il s'agit sans doute d'un canard."
   image: coink0in.jpg
+
+a:
+  name: a.
+  description: "Juste un développeur qui s'intéresse à la sécurité informatique"
+  image: comptoirsecu.jpg
