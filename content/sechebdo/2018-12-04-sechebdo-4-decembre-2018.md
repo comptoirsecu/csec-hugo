@@ -16,7 +16,7 @@ tags:
  - Breach
  - Mariott
  - Kubernetes
- - Quora 
+ - Quora
  - GDPR
  - RGPD
 
@@ -31,7 +31,7 @@ chaptermarks:
 video: "asBfY9fTYUI"
 ---
 
-Nous venons de tourner un nouveau SECHebdo en live sur Youtube. Comme d'habitude, si vous avez raté l'enregistrement, vous pouvez le retrouver sur notre chaîne Youtube (vidéo ci-dessus) ou bien au format podcast audio:
+Nous venons de tourner un nouveau SECHebdo en live sur Youtube. Comme d'habitude, si vous avez raté l'enregistrement, vous pouvez le retrouver sur notre chaîne Youtube (vidéo ci-dessus) ou bien au format podcast audio :
 
 {{< chaptermarks >}}
 
@@ -52,7 +52,7 @@ A bientôt pour d'autres émissions/podcasts!
 *  Quora powné, 100M de compte dans la nature, avec mots de passe
 	* [Quora Security Update - The Quora Blog - Quora](https://blog.quora.com/Quora-Security-Update)
 	* [Quora Gets Hacked – 100 Million Users Data Stolen](https://thehackernews.com/2018/12/quora-hack.html)
-*  Vulnérabilité critique kubernete
+*  Vulnérabilité critique Kubernetes
 	* [Kubernetes Updates Patch Critical Privilege Escalation Bug](https://www.bleepingcomputer.com/news/security/kubernetes-updates-patch-critical-privilege-escalation-bug/)
 	* [CVE-2018-1002105: proxy request handling in kube-apiserver can leave vulnerable TCP connections · Issue #71411 · kubernetes/kubernetes · GitHub](https://github.com/kubernetes/kubernetes/issues/71411)
 	* [​Kubernetes' first major security hole discovered | ZDNet](https://www.zdnet.com/article/kubernetes-first-major-security-hole-discovered/)
