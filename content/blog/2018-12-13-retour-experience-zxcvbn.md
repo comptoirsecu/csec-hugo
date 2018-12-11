@@ -3,7 +3,7 @@ title: "Retour d’expérience sur une politique de mot de passe zxcvbn en entre
 authors:
   - jil
 date: 2018-12-13
-image:  /images/covers/2018-06-29-banniere-mailbox.jpg
+image:  /images/covers/2018-12-11-rex-zxcvbn-rajeev-mog.jpg
 categories:
   - Article
 tags:
