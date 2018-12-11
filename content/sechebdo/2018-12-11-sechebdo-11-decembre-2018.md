@@ -30,11 +30,13 @@ chaptermarks:
 video: "rH5r6qHtV-c"
 ---
 
+**Le MP3 arrive sous peu ! Le commit a été un peu hâtif ;)**
+
 Nous venons de tourner un nouveau SECHebdo en live sur Youtube. Comme d'habitude, si vous avez raté l'enregistrement, vous pouvez le retrouver sur notre chaîne Youtube (vidéo ci-dessus) ou bien au format podcast audio :
 
-{{< chaptermarks >}}
+<!-- {{< chaptermarks >}}
 
-{{< podigee >}}
+{{< podigee >}} -->
 
 Notre discord : <http://discord.comptoirsecu.fr>
 
