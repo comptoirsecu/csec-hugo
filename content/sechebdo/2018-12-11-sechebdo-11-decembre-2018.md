@@ -44,7 +44,17 @@ A bientôt pour d'autres émissions/podcasts!
 
 * BotConf
 	* [Site Officiel de la Conférence BotConf](https://www.botconf.eu/)
-  * [Twitter Officiel BotConf](https://twitter.com/Botconf/)
-  * [Chaine Officielle YouTube BotConfTV; là où seront mis en ligne les vidéos!!](https://www.youtube.com/user/BotConfTV/)
-  * [Programme de l'édition 2018; les liens des slides sont là !!](https://www.botconf.eu/botconf-2018/botconf-2018-schedule/)
+  	* [Twitter Officiel BotConf](https://twitter.com/Botconf/)
+  	* [Chaine Officielle YouTube BotConfTV; là où seront mis en ligne les vidéos!!](https://www.youtube.com/user/BotConfTV/)
+  	* [Programme de l'édition 2018; les liens des slides sont là !!](https://www.botconf.eu/botconf-2018/botconf-2018-schedule/)
 	* [Liste des sponsors BotConf 2018](https://www.botconf.eu/botconf-2018/botconf-2018-sponsors/)
+
+* Comptes rendus Botconf FR
+	* [Jour 1](http://www.n0secure.org/2018/12/botconf-2018-j1.html)
+	* [Jour 2](http://www.n0secure.org/2018/12/botconf-2018-j2.html)
+	* [Jour 3](http://www.n0secure.org/2018/12/botconf-2018-j3.html)
+	
+* Comptes rendus Botconf EN
+	* [Jour 1](https://blog.rootshell.be/2018/12/06/botconf-2018-wrap-up-day-1/)
+	* [Jour 2](https://blog.rootshell.be/2018/12/07/botconf-2018-wrap-up-day-2/)
+	* [Jour 3](https://blog.rootshell.be/2018/12/07/botconf-2018-wrap-up-day-3/)
