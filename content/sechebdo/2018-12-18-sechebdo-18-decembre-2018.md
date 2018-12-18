@@ -28,6 +28,9 @@ authors:
   - jil
   - swithak
 
+guests:
+  - hydraze
+
 chaptermarks:
   - "none"
 
