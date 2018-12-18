@@ -27,7 +27,6 @@ authors:
   - morgan
   - jil
   - swithak
-  - hydraze
 
 chaptermarks:
   - "none"
