@@ -422,3 +422,10 @@ k3nnyfr:
   twitter: K3nnyfr
   description: "Champion de France des Internets"
   image: k3nnyfr.jpg
+
+x0rz:
+  name: "x0rz"
+  twitter: x0rz
+  uri: https://0day.rocks
+  description: "Security Researcher & Cyber Observer"
+  image: x0rz.jpg
