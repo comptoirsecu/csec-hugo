@@ -26,11 +26,14 @@ authors:
   - jil
   - swithak
 
+guests:
+  - x0rz
+
 chaptermarks:
-  - "x0rz"
+  - "à faire"
 
 
-video: "YD3mWDcwrI"
+video: "yYD3mWDcwrI"
 ---
 
 Nous venons de tourner un nouveau SECHebdo en live sur Youtube. Comme d'habitude, si vous avez raté l'enregistrement, vous pouvez le retrouver sur notre chaîne Youtube (vidéo ci-dessus) ou bien au format podcast audio :
