@@ -26,8 +26,11 @@ authors:
   - jil
   - swithak
 
+guests:
+  - x0rz
+
 chaptermarks:
-  - "x0rz"
+  - "à faire"
 
 
 video: "YD3mWDcwrI"
