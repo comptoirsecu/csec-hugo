@@ -15,6 +15,8 @@ tags:
 
 Les gestes qui sauvent en cas de contamination d’un système ne sont plus ceux de naguère. Si vous n’avez pas de procédure de réaction à un incident de sécurité impliquant la compromission d’un poste de travail ou d’un serveur, ou que celle-ci ne comporte pas la collecte des éléments vitaux pour une analyste post-mortem, cet article est pour vous.
 
+**Avertissement :** *cet article a été conçu dans l’esprit d’une intervention à l’arrache dans un environnement qui n’a pas déployé de protocole de sécurité sur l’ensemble de ses implantations géographiques. Je ferai un autre article sur ce qu’il serait génial d’avoir. Sont notamment omises ici la collecte de preuve légale (matériel nécessaire indisponible) et la collecte passive de flux réseau ou d’informations en provenance des équipements réseau.*
+
 Je me concentre sur les systèmes Windows. Certains outils sont portables.
 
 # Vous ne serez pas seul
@@ -31,13 +33,18 @@ Très pratique en cas d’incendie, mais très dangereux à l’époque des disq
 
 ## Procéder à une copie intégrale du disque dur 
 
-Parfois nécessaire en cas de procédure judiciaire, mais souvent inutile et trop lent pour réagir à une attaque.
+La copie intégrale du disque est indiquée en cas de procédure judiciaire, pour lesquelles il faut suivre les procédure de collecte de preuve légale (write-blocker, trois copies, condensats, etc.). Tout incident peut prendre une tournure judiciaire. Vous aurez donc soin, si les ressources vous le permettent, de placer la machine sous séquestre après avoir effectué une première acquisition.
+
+La première collecte, dite sélective (*triage acquisition* en anglais), permet de constituer les éléments essentiels pour l’analyste. La deuxième, avec copie des disques, scellés et compagnie, est destinée au temps judiciaire. Les pratiques des forces de l’ordre ayant évolué, la première collecte, si elle est effectuée dans les règles de l’art (sur procédure, avec des outils encensés), ne réduira pas la qualité de la preuve constituée par la deuxième collecte.
+
 
 ## Commencer par déconnecter le réseau
 
 C’est un peu comme déterminer le côté duquel tombera une tartine. Ce sera de plus en plus une mauvaise idée, car le maliciel qui détecte une perte subite du réseau pourrait décider de saborder la mission. Bon courage pour le retrouver s’il disparaît de la mémoire.
 
-Cela ne veut pas pour autant dire qu’il faudrait laisser toutes les connexions au réseau actives. Simplement, il est préférable de commencer par d’autres étapes. De toute façon, le temps que vous identifiiez la bonne machine, vous n’êtes probablement plus à ça près. Si vous faites face à un péril imminent en provenance d’une machine, utilisez le pare-feu qui se trouve devant vos ressources à protéger pour ne filtrer que les flux qui vous menacent. L’idée est de ne surtout pas rompre la communication entre le maliciel et son C2. (Et là, j’entends déjà les hurlements, alors venez arguer sur [Discord][disord], et faites votre propre analyse de la menace).
+Cela ne veut pas pour autant dire qu’il faudrait laisser toutes les connexions au réseau actives. Simplement, il est préférable de commencer par d’autres étapes. De toute façon, le temps que vous identifiiez la bonne machine, vous n’êtes probablement plus à ça près : l’attaquant s’est déjà déplacé. Si vous faites face à un péril imminent en provenance d’une machine, utilisez le pare-feu qui se trouve devant vos ressources à protéger pour ne filtrer que les flux qui vous menacent. L’idée est de ne surtout pas rompre la communication entre le maliciel et son C2. (Et là, j’entends déjà les hurlements, alors venez arguer sur [Discord][disord], et faites votre propre analyse de la menace).
+
+Toutefois, plus vous serez confronté à un attaquant avancé, plus il aura mis en place de garde-fous, et l’exécution des outils ci-dessous indiqués sera détectée pour saborder le maliciel.
 
 # *Same player, shoot again*
 
@@ -69,7 +76,7 @@ Profitez-en pour récupérer la clé de déchiffrement du disque si vous l’ave
 1. Ouvrir votre chrono des opérations et noter les étapes au fur et à mesure, en mettant tous les commentaires qui traduisent ce qui se passe (du genre : pas de clé USB dispo, on va chercher les outils via `\\serveurTruc\muche` ; cela évitera d’égarer l’analyste sur de fausses pistes)
 1. Connecter la clé (à défaut, ouvrir le partage réseau)
 1. Exécuter DumpIt, qui va récolter la RAM. On commence par lui pour minimiser les changements qui interviennent sur le système dont on fait l’image.
-1. Si vous avez un IT sous la main : ouvrir une invite de commande en tant qu’administrateur. Sinon, faites une prise de main à distance, on a déjà la RAM (mais gare à ne pas divulguer vos identifiants, [`mstsc /restrictedAdmin`][restrictedadmin])
+1. Si vous avez un IT sous la main : ouvrir une invite de commande en tant qu’administrateur. Sinon, faites une prise de main à distance, on a déjà la RAM (mais gare à ne pas divulguer vos identifiants, [`mstsc /restrictedAdmin`][restrictedadmin] (nécessite une GPO au préalable))
 1. Exécuter CyLR. Il va copier tous les fichiers indiqués dans sa configuration (registre, profil utilisateur, journaux d’évènement, etc.)
 1. Éjecter proprement la clé
 1. Déconnecter le système du réseau 
@@ -80,13 +87,15 @@ Et maintenant, vous avez une clé USB que vous n’osez pas connecter ailleurs. 
 
 Dans la vraie vie, vous connectez la machine à un wifi qui dispose juste d’un accès internet et vous transférez tout sur un espace en ligne partagé, de préférence qui n’exige pas d’identifiants ou des identifiants dédiés à cette capture-ci (et, dans les deux cas, révoqués incontinent après le transfert).
 
-Dès réception, vos analystes vont vérifier les condensats et se mettre au travail. Gardez la machine cible sous la main, car ils pourraient revenir vers vous. Par exemple, si le maliciel a vidé les journaux d’évènements, ils vous demanderont de regarder ce qui se trouve dans les *volume shadow copy*, ne sait-on jamais. 
+Dès réception, vos analystes vont vérifier les condensats et se mettre au travail.
 
 Les artéfacts de Windows pourront quelques fois (de rares fois ?) permettre de corroborer la méthode d’infection. C’est assez probable s’il y a eu interaction avec l’utilisateur, et bien moins s’il n’y a que des appels système. D’où l’absolue nécessité de collecter la mémoire pendant que le maliciel est actif. C’est en la désossant qu’un analyste pourrait trouver des choses utiles.
 
 Vous pouvez également augmenter vos chances de succès en établissant une [politique de journalisation][eventlog].
 
 Si le succès de l’analyse n’est pas garanti, vous aurez au moins mis toutes les chances de votre côté pour comprendre ce qui se tramait réellement, voire vous faire une idée de qui vous en veut, et peut-être même ferez vous profiter la communauté de nouveaux IOCs.
+
+Enfin, comme indiqué dans l’avertissement, la méthode décrite ici est loin d’être géniale, elle n’est qu’un premier pas avant de déployer de vrais moyens de collecte.
 
 [PRIS]: https://www.ssi.gouv.fr/actualite/le-nouveau-referentiel-pris-pour-les-prestataires-de-reponse-aux-incidents-de-securite-est-maintenant-disponible/
 [discord]: http://discord.comptoirsecu.fr 
