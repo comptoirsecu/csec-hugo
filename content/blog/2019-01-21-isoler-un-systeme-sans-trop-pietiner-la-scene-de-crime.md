@@ -2,7 +2,7 @@
 title: "Kit de survie : isoler un système sans trop piétiner la scène du crime"
 authors:
   - jil
-date: 2019-01-21
+date: 2019-01-20
 image:  /images/covers/2019-01-14-banniere-forensics.jpg
 categories:
   - Article
