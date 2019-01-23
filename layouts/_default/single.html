@@ -24,7 +24,7 @@
              <a href="/authors/{{$a}}/#{{$a}}">{{ if $author.staff }}<span class="label"><i class="fa fa-beer"></i></span> {{ else }}<span class="label secondary"><i class="fa fa-users"></i></span> {{ end }}{{ $author.name }}</a>{{ if lt $i (sub $len 1) }}, {{ else }}{{ if lt $i $len }} et {{ end }}{{- end -}}
           {{ end -}},
         {{ else -}}
-          par <a href="/authors/comptoirsecu">l'équipe du Comptoir Sécu</a>
+          par <a href="/authors/#comptoirsecu">l'équipe du Comptoir Sécu</a>
         {{- end -}}
         {{- end -}}
         {{- if .Params.date -}}
