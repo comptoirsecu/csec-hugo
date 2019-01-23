@@ -9,4 +9,4 @@ Sur cette page vous retrouverez les personnes qui, bien que ne faisant pas parti
 - L'ensemble de nos auditeurs qui ont apporté leur pierre à l'édifice en contribuant directement à l'amélioration de notre site internet, à grand coup de Pull requests! Vous pouvez les retrouver sur [Cette page Github](https://github.com/comptoirsecu/csec-hugo/graphs/contributors)
 
 
-Au ComptoirSécu, on a pas de sous, donc à défaut de vous récompenser avec un gros chèque, on lève notre pinte à votre santé. Mieux, on se fera une joie de vous en offrir une si l'on a l'occasion de se croiser! Vous aurez également le droit de venir "derrière le comptoir", notre canal discord semi-privé, pour voir comment ça se passe dans les coulisses ;).
+Au ComptoirSécu, on n'a pas de sous, donc à défaut de vous récompenser avec un gros chèque, on lève notre pinte à votre santé. Mieux, on se fera une joie de vous en offrir une si l'on a l'occasion de se croiser! Vous aurez également le droit de venir "derrière le comptoir", notre canal discord semi-privé, pour voir comment ça se passe dans les coulisses ;).
