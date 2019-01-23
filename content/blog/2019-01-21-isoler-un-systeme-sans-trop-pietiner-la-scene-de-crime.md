@@ -25,7 +25,7 @@ Quand on a la classe (peut-être avec un étendard [PRIS, annexe 2][PRIS]), ou q
 
 # Pokéball, go !
 
-Récupérer les artéfacts, c’est un peu comme réussir à capturer un pokémon rare du temps des premiers jeux vidéo Pokémon (c’est-à-dire l’époque où l’on attendait du joueur un tant soit peu de talent, qu’il fallait affaiblir le Pokémon, mais pas trop, sinon on obtenait un cadavre, ni trop peu, car il te renvoyait ta pokéball dans les dents) : il faut capturer les bonnes choses au bon moment. Voyons de suite les fausses bonnes idées :
+Récupérer les artéfacts, c’est un peu comme réussir à capturer un pokémon rare du temps des premiers jeux vidéo éponymes (c’est-à-dire l’époque où l’on attendait du joueur un tant soit peu de talent, qu’il fallait affaiblir le Pokémon, mais pas trop, sinon on obtenait un cadavre, ni trop peu, car il te renvoyait ta pokéball dans les dents) : il faut capturer les bonnes choses au bon moment. Voyons de suite les fausses bonnes idées :
 
 ## Couper l’alimentation électrique
 
@@ -35,7 +35,7 @@ Très pratique en cas d’incendie, mais très dangereux à l’époque des disq
 
 La copie intégrale du disque est indiquée en cas de procédure judiciaire, pour lesquelles il faut suivre les procédure de collecte de preuve légale (write-blocker, trois copies, condensats, etc.). Tout incident peut prendre une tournure judiciaire. Vous aurez donc soin, si les ressources vous le permettent, de placer la machine sous séquestre après avoir effectué une première acquisition.
 
-La première collecte, dite sélective (*triage acquisition* en anglais), permet de constituer les éléments essentiels pour l’analyste. La deuxième, avec copie des disques, scellés et compagnie, est destinée au temps judiciaire. Les pratiques des forces de l’ordre ayant évolué, la première collecte, si elle est effectuée dans les règles de l’art (sur procédure, avec des outils encensés), ne réduira pas la qualité de la preuve constituée par la deuxième collecte.
+La première collecte, dite sélective (*triage acquisition* en anglais), permet de constituer les éléments essentiels pour l’analyste. La deuxième, avec copie des disques, scellés et compagnie, est destinée au temps judiciaire. Les pratiques des forces de l’ordre ayant évolué, la première collecte, si elle est effectuée dans les règles de l’art (sur procédure, avec des outils encensés par les experts), ne réduira pas la qualité de la preuve constituée par la deuxième collecte.
 
 
 ## Commencer par déconnecter le réseau
@@ -85,7 +85,7 @@ Profitez-en pour récupérer la clé de déchiffrement du disque si vous l’ave
 
 Et maintenant, vous avez une clé USB que vous n’osez pas connecter ailleurs. Dans le meilleur des mondes, vous avez un assainisseur tel que le [CIRCLean - USB key sanitizer][CIRCLean], ce qui vous permettra de transférer les données sur un autre disque avant de les transférer pour analyse. 
 
-Dans la vraie vie, vous connectez la machine à un wifi qui dispose juste d’un accès internet et vous transférez tout sur un espace en ligne partagé, de préférence qui n’exige pas d’identifiants ou des identifiants dédiés à cette capture-ci (et, dans les deux cas, révoqués incontinent après le transfert).
+Dans la vraie vie, vous connectez la machine à un wifi qui dispose juste d’un accès internet et vous transférez tout sur un espace en ligne partagé, de préférence qui n’exige pas d’identifiants ou des identifiants dédiés à cette capture-ci (et, dans les deux cas, révoqués aussitôt après le transfert).
 
 Dès réception, vos analystes vont vérifier les condensats et se mettre au travail.
 
