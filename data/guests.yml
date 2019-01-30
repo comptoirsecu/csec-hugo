@@ -429,3 +429,9 @@ x0rz:
   uri: https://0day.rocks
   description: "Security Researcher & Cyber Observer"
   image: x0rz.jpg
+
+z0vsky:
+    description: "TBD"
+    name: "z0vsky"
+    twitter: z0vsky
+    anonymous: true
