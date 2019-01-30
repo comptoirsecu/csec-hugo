@@ -24,6 +24,8 @@ authors:
   - lois
   - swithak
   - hydraze
+
+guests:
   - z0vsky
 
 chaptermarks:
