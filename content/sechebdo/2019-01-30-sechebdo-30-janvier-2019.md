@@ -23,9 +23,9 @@ authors:
   - morgan
   - lois
   - swithak
-  - hydraze
 
 guests:
+  - hydraze
   - z0vsky
 
 chaptermarks:
