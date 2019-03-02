@@ -46,16 +46,16 @@ Je le répète : prenez le temps de lire les docs. Les FAQ, les incompatibilité
 
 Il y a plusieurs manières d’exiger le MFA. Si vous avez les licences AAD Premium, vous pouvez définir ça dans la partie accès conditionnel d’Azure AD. Vous avez différents critères qui vous permettent de décider si vous exigez ou non le MFA. Toutefois, vous voudrez jouer avec ces politiques après avoir configuré vos utilisateurs (quelqu’un a-t-il réussi à déclencher un enrôlement depuis l’accès conditionnel ?)
 
-	Aparté sur la confiance dans le réseau local
+> **Aparté sur la confiance dans le réseau local**
 	
-	Il est parfois dit qu’on ne devrait exiger le deuxième facteur que depuis un lieu de connexion non maîtrisé. Quiconque a déjà vécu un test d’intrusion physique sait qu’il n’y a aucune raison de croire qu’un couple login,password fourni sur le réseau de l’entreprise provient de l’utilisateur concerné. Une fois que vous avez réussi à faire comprendre à l’utilisateur que le MFA est un procédé normal et régulier, exigez-le, quelle que soit l’origine de la connexion. Vous pourrez réduire le nombre d’occurrences avec Windows Hello for Business et le modern management de la flotte, où il deviendra possible de faire un choix basé sur la présence d’éléments de confiance (c’est bien le terminal connu pour cet utilisateur, son téléphone est à portée de Bluetooth et appairé, etc.).
+> Il est parfois dit qu’on ne devrait exiger le deuxième facteur que depuis un lieu de connexion non maîtrisé. Quiconque a déjà vécu un test d’intrusion physique sait qu’il n’y a aucune raison de croire qu’un couple login,password fourni sur le réseau de l’entreprise provient de l’utilisateur concerné. Une fois que vous avez réussi à faire comprendre à l’utilisateur que le MFA est un procédé normal et régulier, exigez-le, quelle que soit l’origine de la connexion. Vous pourrez réduire le nombre d’occurrences avec Windows Hello for Business et le modern management de la flotte, où il deviendra possible de faire un choix basé sur la présence d’éléments de confiance (c’est bien le terminal connu pour cet utilisateur, son téléphone est à portée de Bluetooth et appairé, etc.).
 
 
 À défaut de politique conditionnelle, le compte utilisateur peut être dans trois états :
 
-	* *disabled*
-	* *enabled* : à la prochaine connexion avec un client qui le supporte, la procédure d’enrôlement est déclenchée et l’utilisateur doit la réussir pour accéder au service. Entre temps, la connexion par couple login,password est autorisée (pour les clients mails et Skype notamment).
-	* *enforced* : plus d’authentification possible sans MFA ou application password. Un utilisateur qui réussit son enrôlement passe automatiquement de *Enabled* à *Enforced*.
+ * *disabled*
+ * *enabled* : à la prochaine connexion avec un client qui le supporte, la procédure d’enrôlement est déclenchée et l’utilisateur doit la réussir pour accéder au service. Entre temps, la connexion par couple login,password est autorisée (pour les clients mails et Skype notamment).
+ * *enforced* : plus d’authentification possible sans MFA ou application password. Un utilisateur qui réussit son enrôlement passe automatiquement de *Enabled* à *Enforced*.
 
 ## Numéro de téléphone de récupération ou uniquement la notification mobile ?
 
@@ -86,6 +86,3 @@ Il s’agit d’activer le processus d’enrôlement depuis l’interface d’ad
 ## À la main de l’utilisateur
 
 Il s’agit d’envoyer l’utilisateur sur https://aka.ms/setupMFA . Si vos utilisateurs ne jettent pas ça à poubelle comme lien dangereux, ils pourront choisir le moment de leur enrôlement. Cela pose un problème de gestion de la relance. Il faudra donc indiquer un ultimatum auquel vous activerez de fait l’enrôlement. Si c’était à refaire, cette méthode serait préférable.
-
-
-
