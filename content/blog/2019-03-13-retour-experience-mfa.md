@@ -16,11 +16,11 @@ tags:
 
 La transformation numérique des entreprises s’accompagne souvent d’un élargissement des facultés de connexion : il est non seulement possible d’accéder aux services depuis les locaux de l’entreprise, mais aussi depuis n’importe quel lieu, sans VPN. Cette tendance se dégage clairement dans le déploiement d’Office 365, mais aussi d’autres solutions fournies *as as service*.
 
-Dans ce contexte, et afin de limiter les conséquences d’une campagne d’hameçonnage réussie, l’authentification multifacteur (MFA) est de plus en plus généralisée à tous les utilisateurs. Cet article partage l’expérience des membres du Comptoir Sécu, et de leur point de vue.
+Dans ce contexte, et afin de limiter les conséquences d’une campagne d’hameçonnage réussie, l’authentification multifacteur (MFA) est de plus en plus généralisée à tous les utilisateurs. Cet article partage l’expérience des membres du Comptoir Sécu, et leur point de vue.
 
 # Les licences, mon capitaine !
 
-Vous pouvez activer l’authentification en deux étapes (formulation pour l’utilisateur final retenue par Microsoft) pour tous les utilisateurs d’Office 365. Cette faculté couvre uniquement l’authentification aux services O365 (ce qui est déjà pas mal ! Vous le payez déjà, pourquoi s’en priver ?).
+Vous pouvez activer l’authentification en deux étapes (formulation pour l’utilisateur final retenue par Microsoft) pour tous les utilisateurs d’Office 365. Cette faculté couvre uniquement l’authentification aux services O365 (ce qui est déjà pas mal ! Vous le payez, pourquoi s’en priver ?).
 
 Pour étendre le MFA à d’autres applications, il vous faudra les licences Azure AD Premium P1 ou supérieur. Les packs E3 EMS et — il me semble — Microsoft 365, contiennent une AAD P1 ; le pack E5 EMS, une AAD P2. Cela quelle que soit la topologie de déploiement.
 
@@ -30,11 +30,11 @@ La topologie de déploiement est un premier sujet à traiter. Parce que c’est 
 
 Vous pouvez faire d’Azure votre fournisseur d’identité (si quelqu’un a fait ça, venez nous dire ce que vous en pensez et ce que ça nécessite comme licences !) ou utiliser Active Directory Federation Services (ADFS) déployé en interne.
 
-L’ADFS est, à ma connaissance, le seul moyen de gérer un deuxième facteur différent de celui d’Azure, comme un certificat délivré par votre PKI sur une Yubikey. Si quelqu’un a joué avec ça, nous sommes preneurs d’un retour !
+L’ADFS est, à ma connaissance, le seul moyen de gérer un deuxième facteur différent de celui d’Azure, comme un certificat délivré par votre PKI sur une Yubikey. Si quelqu’un a joué avec ça, nous sommes également preneurs d’un retour !
 
 ## Oui, mais mon ADFS n’est pas encore en 2016
 
-L’intégration d’Azure MFA dans ADFS on prem est gérée convenablement à partir d’ADFS 2016. Votre ADFS interne décidera dans quels cas déclencher la demande du deuxième facteur, et délèguera le traitement à Azure AD. Cela signifie que si vous êtes à la ramasse avec votre version d’ADFS, vous pouvez déjà sécuriser l’accès à Office 365 en laissant Azure AD exiger le deuxième facteur pour l’utilisateur et, dans un deuxième temps, monter votre ADFS de version et étendre la même expérience de MFA aux autres services connectés à votre ADFS.
+L’intégration d’Azure MFA dans ADFS *on prem* est gérée convenablement à partir d’ADFS 2016. Votre ADFS interne décidera dans quels cas déclencher la demande du deuxième facteur, et délèguera le traitement à Azure AD. Cela signifie que si vous êtes à la ramasse avec votre version d’ADFS, vous pouvez déjà sécuriser l’accès à Office 365 en laissant Azure AD exiger le deuxième facteur pour l’utilisateur et, dans un deuxième temps, monter votre ADFS de version et étendre la même expérience de MFA aux autres services connectés à votre ADFS.
 
 # La configuration
 
@@ -51,7 +51,7 @@ Il y a plusieurs manières d’exiger le MFA. Si vous avez les licences AAD Prem
 > Il est parfois dit qu’on ne devrait exiger le deuxième facteur que depuis un lieu de connexion non maîtrisé. Quiconque a déjà vécu un test d’intrusion physique sait qu’il n’y a aucune raison de croire qu’un couple login,password fourni sur le réseau de l’entreprise provient de l’utilisateur concerné. Une fois que vous avez réussi à faire comprendre à l’utilisateur que le MFA est un procédé normal et régulier, exigez-le, quelle que soit l’origine de la connexion. Vous pourrez réduire le nombre d’occurrences avec Windows Hello for Business et le modern management de la flotte, où il deviendra possible de faire un choix basé sur la présence d’éléments de confiance (c’est bien le terminal connu pour cet utilisateur, son téléphone est à portée de Bluetooth et appairé, etc.).
 
 
-À défaut de politique conditionnelle, le compte utilisateur peut être dans trois états :
+Politique conditionnelle ou non, le compte utilisateur peut être dans trois états :
 
  * *disabled*
  * *enabled* : à la prochaine connexion avec un client qui le supporte, la procédure d’enrôlement est déclenchée et l’utilisateur doit la réussir pour accéder au service. Entre temps, la connexion par couple login,password est autorisée (pour les clients mails et Skype notamment).
@@ -59,7 +59,7 @@ Il y a plusieurs manières d’exiger le MFA. Si vous avez les licences AAD Prem
 
 ## Durée de vie du cookie navigateur
 
-Il est possible de laisser la possibilité à l’utilisateur, quand il est dans son navigateur, de ne pas avoir à éffectuer à nouveau l’authentification en deux étapes depuis ce navigateur pendant *n* jours. Dans un cas, 30 jours a été bien vécu par les utilisateurs.
+Il est possible de laisser l’utilisateur demander, quand il est dans son navigateur, de ne pas avoir à éffectuer à nouveau l’authentification en deux étapes depuis ce navigateur pendant *n* jours. Dans un cas, 30 jours a été bien vécu par les utilisateurs.
 
 À noter qu’à partir de Windows 10 1803, l’OS intègre mieux l’authentification à Office 365 et permet de ne pas exiger d’authentification tout court avec Edge.
 
@@ -77,7 +77,7 @@ La notification mobile devrait être positionnée comme moyen préféré, en par
 
 ## Pour ou contre les mots de passe d’application
 
-Un mot de passe d’application est une chaîne de lettres aléatoires qui permet de contourner le MFA. C’est nécessaire pour la compatibilité de vieux clients mails natifs des téléphones. Théoriquement, le mot de passe doit être saisi par l’utilisateur dans l’appli et il doit l’oublier. Sauf que, dans un souci de service, il pourrait venir y l’idée des agents du desk de le faire sauvegarder dans un fichier sur le bureau. Pourquoi ?
+Un mot de passe d’application est une chaîne de lettres aléatoires qui permet de contourner le MFA. C’est nécessaire pour la compatibilité de certains clients mails natifs des téléphones. Théoriquement, le mot de passe doit être saisi par l’utilisateur dans l’appli et il doit l’oublier. Sauf que, dans un souci de service, il pourrait venir y l’idée des agents du desk de le faire sauvegarder dans un fichier sur le bureau. Pourquoi ?
 
 Parce qu’une messagerie native se connecte toutes les 15 secondes pour vérifier la présence de nouveaux messages. Ce faisant, dès que l’utilisateur passe en statut *Enforced*, se produit une attaque par force brute qui verrouille le compte pour l’IP du téléphone. D’où il s’en suit que quand l’utilisateur entre le mot de passe d’application, ça ne fonctionne pas, et il pense l’avoir mal tapé, puis comprend que le système est bogué et que tout ça, ça lui casse les pieds. Il finit par noter ce foutu mot de passe. Et jamais ne le supprime. 
 
@@ -91,4 +91,4 @@ Il s’agit d’activer le processus d’enrôlement depuis l’interface d’ad
 
 ## À la main de l’utilisateur
 
-Il s’agit d’envoyer l’utilisateur sur https://aka.ms/setupMFA . Si vos utilisateurs ne jettent pas ça à poubelle comme lien dangereux, ils pourront choisir le moment de leur enrôlement. Cela pose un problème de gestion de la relance. Il faudra donc indiquer un ultimatum auquel vous activerez de fait l’enrôlement. Si c’était à refaire, cette méthode serait préférable.
+Il s’agit d’envoyer l’utilisateur sur https://aka.ms/setupMFA . Si vos utilisateurs ne jettent pas ça à poubelle comme lien dangereux, ils pourront choisir le moment de leur enrôlement. Cela pose un problème de gestion de la relance. Il faudra donc indiquer un ultimatum auquel vous activerez de fait l’enrôlement. Nous vous conseillons cette méthode.
