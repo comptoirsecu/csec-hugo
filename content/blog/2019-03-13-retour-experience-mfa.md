@@ -57,6 +57,12 @@ Il y a plusieurs manières d’exiger le MFA. Si vous avez les licences AAD Prem
  * *enabled* : à la prochaine connexion avec un client qui le supporte, la procédure d’enrôlement est déclenchée et l’utilisateur doit la réussir pour accéder au service. Entre temps, la connexion par couple login,password est autorisée (pour les clients mails et Skype notamment).
  * *enforced* : plus d’authentification possible sans MFA ou application password. Un utilisateur qui réussit son enrôlement passe automatiquement de *Enabled* à *Enforced*.
 
+## Durée de vie du cookie navigateur
+
+Il est possible de laisser la possibilité à l’utilisateur, quand il est dans son navigateur, de ne pas avoir à éffectuer à nouveau l’authentification en deux étapes depuis ce navigateur pendant *n* jours. Dans un cas, 30 jours a été bien vécu par les utilisateurs.
+
+À noter qu’à partir de Windows 10 1803, l’OS intègre mieux l’authentification à Office 365 et permet de ne pas exiger d’authentification tout court avec Edge.
+
 ## Numéro de téléphone de récupération ou uniquement la notification mobile ?
 
 Pas de numéro de téléphone pour vos comptes sensibles. Les attaques par portabilité de ligne opérateur sont fréquentes en attaque ciblée.
