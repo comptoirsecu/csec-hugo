@@ -4,7 +4,7 @@ authors:
   - jil
   - morgan
 date: 2019-03-13
-image:  /images/covers/2019-03-13-rex-mfa.jpg
+image:  /images/covers/2019-03-03-rex-mfa.jpg
 categories:
   - Article
 tags:
@@ -13,6 +13,8 @@ tags:
   - rex
   - azure
 ---
+
+*Avant-propos : l’article est centré sur l’environnement Microsoft, mais ne soyez point révulsé ! Il y a des choses à prendre pour tout le monde ;) Que ce soit Duo ou Okta ou d’autres…*
 
 La transformation numérique des entreprises s’accompagne souvent d’un élargissement des facultés de connexion : il est non seulement possible d’accéder aux services depuis les locaux de l’entreprise, mais aussi depuis n’importe quel lieu, sans VPN. Cette tendance se dégage clairement dans le déploiement d’Office 365, mais aussi d’autres solutions fournies *as as service*.
 
@@ -30,7 +32,7 @@ La topologie de déploiement est un premier sujet à traiter. Parce que c’est 
 
 Vous pouvez faire d’Azure votre fournisseur d’identité (si quelqu’un a fait ça, venez nous dire ce que vous en pensez et ce que ça nécessite comme licences !) ou utiliser Active Directory Federation Services (ADFS) déployé en interne.
 
-L’ADFS est, à ma connaissance, le seul moyen de gérer un deuxième facteur différent de celui d’Azure, comme un certificat délivré par votre PKI sur une Yubikey. Si quelqu’un a joué avec ça, nous sommes également preneurs d’un retour !
+L’ADFS est, à ma connaissance, le seul moyen de gérer un deuxième facteur différent de celui d’Azure, comme un certificat délivré par votre PKI sur un jeton physique (Yubikey, Feitan, Key-id, RSA). Si quelqu’un a joué avec ça, nous sommes également preneurs d’un retour !
 
 ## Oui, mais mon ADFS n’est pas encore en 2016
 
@@ -40,7 +42,7 @@ L’intégration d’Azure MFA dans ADFS *on prem* est gérée convenablement à
 
 ## Démarrer
 
-Dans le centre d’administration d’Office 365, sous le nouveau menu Configuration > Snap-ins, vous retrouverez l’accès au panneau de contrôle du MFA et les liens vers les docs. Prenez le temps de lire les docs.
+Dans le centre d’administration d’Office 365, sous le nouveau menu `Settings > Services & add-ins`, vous retrouverez l’accès au panneau de contrôle du MFA et les liens vers les docs. Prenez le temps de lire les docs.
 
 Je le répète : prenez le temps de lire les docs. Les FAQ, les incompatibilités, etc.
 
@@ -59,9 +61,9 @@ Politique conditionnelle ou non, le compte utilisateur peut être dans trois ét
 
 ## Durée de vie du cookie navigateur
 
-Il est possible de laisser l’utilisateur demander, quand il est dans son navigateur, de ne pas avoir à éffectuer à nouveau l’authentification en deux étapes depuis ce navigateur pendant *n* jours. Dans un cas, 30 jours a été bien vécu par les utilisateurs.
+Il est possible de laisser l’utilisateur demander, quand il est dans son navigateur, de ne pas avoir à effectuer à nouveau l’authentification en deux étapes depuis ce navigateur pendant *n* jours. Dans un cas, 30 jours a été bien vécu par les utilisateurs.
 
-À noter qu’à partir de Windows 10 1803, l’OS intègre mieux l’authentification à Office 365 et permet de ne pas exiger d’authentification tout court avec Edge.
+À noter qu’à partir de Windows 10 1803, l’OS intègre mieux l’authentification à Office 365 et permet de ne pas exiger d’authentification tout court avec Edge.
 
 ## Numéro de téléphone de récupération ou uniquement la notification mobile ?
 
@@ -71,7 +73,7 @@ Pour les autres, c’est mieux que rien. Surtout, cela permet de permettre d’a
 
 De plus, les restrictions chinoises en matière de chiffrement font que  Microsoft Authenticator n’est pas disponible en Chine. Or, l’option d’activer ou non les fonctionnalités de SMS ou appel téléphonique est globale.
 
-Vous devez aussi prendre en compte les personnes qui n’ont pas d’ordiphone, voire pas de téléphone mobile tout court (oui, cela existe, vous en avez au moins une dans votre périmètre, juste pour le bonheur de votre fonction). S’ils n’ont pas non plus de ligne de bureau joignable depuis l’extérieur, il ne sera pas possible de les déployer avec Azure MFA.
+Vous devez aussi prendre en compte les personnes qui n’ont pas d’ordiphone, voire pas de téléphone mobile tout court (ou qu’ils n’en ont pas de professionnel et ne veulent rien installer dessus pour le boulot, liberté que le droit français garantit). S’ils n’ont pas non plus de ligne de bureau joignable depuis l’extérieur, il ne sera pas possible de les déployer avec Azure MFA. Il faut donc prévoir un groupe d’utilisateurs qui n’auront pas de MFA et n’auront pas accès aux services depuis des zones non contrôlées.
 
 La notification mobile devrait être positionnée comme moyen préféré, en particulier si vous envisagez de bénéficier du monde sans mot de passe que prévoit Microsoft, où l’app mobile devient le premier facteur, et le mot de passe, le second. Cf. Windows Hello for Business.
 
@@ -87,8 +89,20 @@ La messagerie native d’iOS 11.x+ supporte l’authentification moderne d’Azu
 
 ## Dieu le veut !
 
-Il s’agit d’activer le processus d’enrôlement depuis l’interface d’admin. (Si quelqu’un a réussi à le déclencher en Powershell sans effet de bord, on est preneurs !). Les utilisateurs, qui n’auront pas lu votre communication géniale, vont se prendre la procédure dès le démarrage d’Outlook. Les rares (10-15%) qui savent lire le contenu de la fenêtre vont se débrouiller tout seuls. Les autres vont submerger le sevice desk.
+Il s’agit d’activer le processus d’enrôlement depuis l’interface d’admin. (Si quelqu’un a réussi à le déclencher en Powershell sans effet de bord, on est preneurs !). Les utilisateurs, qui n’auront pas lu votre communication géniale, vont se prendre la procédure dès le démarrage d’Outlook. Les rares (10-15%) qui savent lire le contenu de la fenêtre vont se débrouiller tout seuls. Les autres vont submerger le sevice desk. Il est donc essentiel de lottir votre déploiement.
 
 ## À la main de l’utilisateur
 
 Il s’agit d’envoyer l’utilisateur sur https://aka.ms/setupMFA . Si vos utilisateurs ne jettent pas ça à poubelle comme lien dangereux, ils pourront choisir le moment de leur enrôlement. Cela pose un problème de gestion de la relance. Il faudra donc indiquer un ultimatum auquel vous activerez de fait l’enrôlement. Nous vous conseillons cette méthode.
+
+# Le temps des regrets
+
+On aurait aimé proposer aux utilisateurs une période de transition, disons d’un mois, durant laquelle l’utilisateur aurait été sollicité à chaque connexion pour s’enrôler tout en gardant la faculté de reporter l’action.
+
+Il est nécessaire de jouer avec l’ADFS ou l’accès conditionnel pour restreindre l’enrôlement (*proof up*) au réseau interne de l’entreprise. Souvent, les solutions déclenchent l’inscription à la prochaine connexion, quelle qu’en soit l’origine. Par conséquent, si vous n’activez le MFA que depuis l’extérieur, il faudrait attendre que l’utilisateur se connecte une première fois dans une situation de nomadisme pour qu’il s’enrôle. Autant dire qu’un attaquant qui arrive entre temps enregistrera le MFA sur son device (ce qui permettra de récupérer après coup son device ID et de tenter de le poursuivre, mais ce sera trop tard).
+
+Il existe des personnes surmotivées qui, en survolant la communication globale, veulent activer tout de suite la protection. Plutôt que leur répondre d’apprendre à lire et d’attendre leur tour, il est préférable de leur offrir l’expérience en bêta, tout en veillant aux conséquences pour le service desk (s’assurer que les éventuels problèmes sont immédiatement remontés aux niveaux deux ou trois).
+
+Les applications mobiles ne fonctionnent pas, ou mal, sur les anciens OS. Si vos téléphones ont trois ans d’âge, veillez à bien tester !
+
+De manière générale, testez bien tous vos cas possibles sur votre périmètre, il y a forcément quelque chose qui va aller de travers.
