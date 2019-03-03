@@ -3,7 +3,7 @@ title: "Retour d’expérience sur le déploiement de l’authentification multi
 authors:
   - jil
   - morgan
-date: 2019-03-13
+date: 2019-03-03
 image:  /images/covers/2019-03-03-rex-mfa.jpg
 categories:
   - Article
