@@ -24,7 +24,7 @@ Dans ce contexte, et afin de limiter les conséquences d’une campagne d’hame
 
 Vous pouvez activer l’authentification en deux étapes (formulation pour l’utilisateur final retenue par Microsoft) pour tous les utilisateurs d’Office 365. Cette faculté couvre uniquement l’authentification aux services O365 (ce qui est déjà pas mal ! Vous le payez, pourquoi s’en priver ?).
 
-Pour étendre le MFA à d’autres applications, il vous faudra les licences Azure AD Premium P1 ou supérieur. Les packs E3 EMS et — il me semble — Microsoft 365, contiennent une AAD P1 ; le pack E5 EMS, une AAD P2. Cela quelle que soit la topologie de déploiement.
+Pour étendre le MFA à d’autres applications, il vous faudra les licences Azure AD Premium P1 ou supérieur. Le pack E3 EMS contient une AAD P1 ; le pack E5 EMS, une AAD P2. Cela quelle que soit la topologie de déploiement.
 
 # Topologie : ADFS à la maison ou Azure dans les nuages ?
 
