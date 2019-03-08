@@ -3,7 +3,7 @@ title: "Retour d’expérience sur le déploiement de l’authentification multi
 authors:
   - jil
   - morgan
-date: 2019-03-03
+date: 2019-03-08
 image:  /images/covers/2019-03-03-rex-mfa.jpg
 categories:
   - Article
@@ -14,7 +14,7 @@ tags:
   - azure
 ---
 
-*Avant-propos : l’article est centré sur l’environnement Microsoft, mais ne soyez point révulsé ! Il y a des choses à prendre pour tout le monde ;) Que ce soit Duo ou Okta ou d’autres…*
+*Avant-propos : l’article est centré sur l’environnement Microsoft, mais ne soyez point révulsé ! Il y a des choses à prendre pour tout le monde ;) Que ce soit Duo ou Okta ou d’autres… N’hésitez pas à enrichir l’article avec votre expérience : faites-nous en part sur Discord ou par courriel.*
 
 La transformation numérique des entreprises s’accompagne souvent d’un élargissement des facultés de connexion : il est non seulement possible d’accéder aux services depuis les locaux de l’entreprise, mais aussi depuis n’importe quel lieu, sans VPN. Cette tendance se dégage clairement dans le déploiement d’Office 365, mais aussi d’autres solutions fournies *as as service*.
 
