@@ -38,7 +38,7 @@ justin:
     image: justin-ganivet.jpg
     linkedin: https://www.linkedin.com/company-beta/3578276/
     staff: true
-    active: true
+    active: false
 
 lois:
     description: >
@@ -71,7 +71,7 @@ youenn:
     uri: 'http://ypiolet.fr'
     image: youenn-piolet.jpg
     staff: true
-    active: true
+    active: false
 
 simon:
     description: >
@@ -79,7 +79,7 @@ simon:
     name: Simon Lacoste
     linkedin: 'simonlacoste'
     image: simon-lacoste.jpg
-    staff: true
+    staff: false
     active: false
 
 swithak:
@@ -88,12 +88,16 @@ swithak:
   twitter: SwitHak
   uri: https://swithak.github.io/
   image: swithak.jpg
+  staff: true
+  active: true
 
 jil:
   name: Jil
   description: >
       Couteau Suisse qui aiguise son prochain outil : le décapsuleur. Joue à pacman avec le contrôle interne, pousse son SI à l'avant-garde des mesures de sécurité pertinentes.
   image: jil.jpg
+  staff: true
+  active: true
 
 ptro46:
   name: Ptro46
