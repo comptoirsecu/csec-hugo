@@ -119,7 +119,8 @@ galadrim:
   description: "Membre de l'organisation de BotConf"
   image: comptoirsecu.jpg
 
+
 das:
   name: das
-  description: "..."
+  description: "empty()"
   image: comptoirsecu.jpg
