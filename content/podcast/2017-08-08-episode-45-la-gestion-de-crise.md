@@ -5,7 +5,7 @@ publisher: comptoirsecu
 date: 2017-08-08
 image:  /images/covers/2017-08-08-gestion_crise.jpg
 podcast:
-  feed: https://podcast.comptoirsecu.fr/CSEC.EP45.2017-08-07.MAITRISE_DU_RISQUE.mp3
+  feed: https://podcasts.comptoirsecu.fr/CSEC.EP45.2017-08-07.MAITRISE_DU_RISQUE.mp3
 
 
 categories:

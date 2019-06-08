@@ -5,7 +5,7 @@ publisher: comptoirsecu
 date: 2017-10-29
 image:  /images/covers/2017-10-29-industrial_site.jpg
 podcast:
-  feed: https://podcast.comptoirsecu.fr/CSEC.EP48.2017-10-30.MONDE_INDUSTRIEL.mp3
+  feed: https://podcasts.comptoirsecu.fr/CSEC.EP48.2017-10-30.MONDE_INDUSTRIEL.mp3
 categories:
   - Podcast
   - Emission

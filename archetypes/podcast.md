@@ -5,7 +5,7 @@ publisher:
 date: {{ dateFormat "2006-01-02" .Date }}
 image:  /images/covers/{{ dateFormat "2006-01-02" .Date }}.jpg
 podcast:
-  feed: https://podcast.comptoirsecu.fr/FILE.mp3
+  feed: https://podcasts.comptoirsecu.fr/CSEC.EPXX.{{ dateFormat "2006-01-02" .Date }}.NOM_EPISODE.mp3
 categories:
   - Podcast
   - Emission

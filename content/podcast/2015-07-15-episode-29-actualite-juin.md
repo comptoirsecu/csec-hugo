@@ -7,7 +7,7 @@ date: 2015-07-15T15:26:41+00:00
 
 aliases: /2015/07/episode-29-actualite-juin/
 podcast:
-  feed: https://podcast.comptoirsecu.fr/CSEC.EP29.2015-07-15.ACTU_JUIN.mp3
+  feed: https://podcasts.comptoirsecu.fr/CSEC.EP29.2015-07-15.ACTU_JUIN.mp3
 views: 3650
 image: /images/covers/2015-07-hacked-team.jpg
 categories:

@@ -7,7 +7,7 @@ date: 2016-02-01T10:29:20+00:00
 
 aliases: /2016/02/fic2016-1-comptoirsecu-live-retour-sur-la-premiere-matinee/
 podcast:
-  feed: https://podcast.comptoirsecu.fr/CSEC.HS09.2016-01-25.FIC2016.Premi%c3%a8re_Matin%c3%a9e.mp3
+  feed: https://podcasts.comptoirsecu.fr/HORS_SERIE/CSEC.HS09.2016-01-25.FIC2016.Premi%c3%a8re_Matin%c3%a9e.mp3
 views: 1325
 image: /images/covers/2016-02-Capture.jpg
 categories:

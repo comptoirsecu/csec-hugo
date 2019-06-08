@@ -7,7 +7,7 @@ date: 2017-02-23T00:00:00+00:00
 video: "aGahC_-VCyQ"
 
 podcast:
-  feed: https://podcast.comptoirsecu.fr/CSEC.HS37.2017-02-22.SECHebdo_Fev_2017-4.mp3
+  feed: https://podcasts.comptoirsecu.fr/SECHebdo/CSEC.SECHebdo.2017-02-22.mp3
 aliases: /2017/02/sec-hebdo-fevrier-2017-4-logiclocker-pornhub-iot-occasion-speake-a-r-google-zero-libsodium-infidelite-uber-etc/
 image: /images/covers/2017-02-fev-4.jpg
 categories:

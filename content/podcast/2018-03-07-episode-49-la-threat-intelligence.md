@@ -5,7 +5,7 @@ publisher: comptoirsecu
 date: 2018-03-07
 image:  /images/covers/2018-03-06-threat_intel.jpg
 podcast:
-  feed: https://podcast.comptoirsecu.fr/CSEC.EP49.2018-02-06.THREAT_INTEL.mp3
+  feed: https://podcasts.comptoirsecu.fr/CSEC.EP49.2018-02-06.THREAT_INTEL.mp3
 categories:
   - Podcast
   - Emission

@@ -5,7 +5,7 @@ publisher: comptoirsecu
 date: {{ dateFormat "2006-01-02" .Date }}
 image:  /images/covers/{{ dateFormat "2006-01-02" .Date }}-sechebdo-{{ dateFormat "2006-01-02" .Date }}-vignette.jpg
 podcast:
-    feed: https://podcast.comptoirsecu.fr/CSEC.SECHebdo.{{ dateFormat "2006-01-02" .Date }}.mp3
+    feed: https://podcasts.comptoirsecu.fr/SECHebdo/CSEC.SECHebdo.{{ dateFormat "2006-01-02" .Date }}.mp3
     description: "Épisode du {{ dateFormat "02 01 2006" .Date }} - SECHebdo est une revue de l'actualité cybersécurité réalisée en live sur Youtube, généralement le mardi soir."
 
 categories:

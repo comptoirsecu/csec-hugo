@@ -8,7 +8,7 @@ date: 2015-10-04T18:06:45+00:00
 
 aliases: /2015/10/assises-2015-retour-sur-la-deuxieme-journee-en-direct-de-monaco/
 podcast:
-  feed: https://podcast.comptoirsecu.fr/CSEC.HS07.2015-10-04.ASSISES2015_JOUR2.mp3
+  feed: https://podcasts.comptoirsecu.fr/HORS_SERIE/CSEC.HS07.2015-10-04.ASSISES_JOUR2.mp3
 views: 2036
 image: /images/covers/2015-10-assies-com1.jpg
 categories:

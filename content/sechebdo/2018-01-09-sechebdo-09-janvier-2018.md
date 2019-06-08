@@ -5,7 +5,7 @@ publisher: comptoirsecu
 date: 2018-01-09
 image:  /images/covers/2018-01-09-sechebdo-2018-01-09-vignette.jpg
 podcast:
-    feed: https://podcast.comptoirsecu.fr/CSEC.SECHebdo.2018-01-09.mp3
+    feed: https://podcasts.comptoirsecu.fr/SECHebdo/CSEC.SECHebdo.2018-01-09.mp3
     description: "Épisode du 09 Janvier 2018 - SECHebdo est une revue de l'actualité cybersécurité réalisé en live sur Youtube, généralement le mardi soir."
 
 categories:

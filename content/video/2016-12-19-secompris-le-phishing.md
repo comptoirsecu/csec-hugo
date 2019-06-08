@@ -6,7 +6,7 @@ date: 2016-12-19T00:00:00+00:00
 aliases: /2016/12/secompris-le-phishing/
 teaser: "Episode pilote de cette nouvelle série intitulée 'SECompris'. Dans cet épisode je rappelle ce qu'est le phishing (aussi appelé hameçonnage voir... filoutage), quelles formes peut-il prendre, comment le détecter et comment s'en protéger."
 podcast:
-  feed: http://podcast.comptoirsecu.fr/CSEC.HS29.2016-12-19.SECompris_Le_Phishing.mp3
+  feed: http://podcasts.comptoirsecu.fr/SECompris/CSEC.SECompris.2016-12-19.PHISHING.mp3
 image: /images/covers/2016-12-vignette.jpg
 categories:
   - Podcast

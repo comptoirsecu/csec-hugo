@@ -9,7 +9,7 @@ video: "pJvi6gJYCVY"
 aliases: /2017/05/sechebdo-mai-2017-2-intel-amt-macronleaks-kryptonite-ss7-john-oliver-msmpeng/
 image: /images/covers/2017-05-sechebdo-2017-05-09-vignette.jpg
 podcast:
-    feed: https://podcast.comptoirsecu.fr/CSEC.SECHebdo.2017-05-09.mp3
+    feed: https://podcasts.comptoirsecu.fr/SECHebdo/CSEC.SECHebdo.2017-05-09.mp3
     description: "Épisode du 09 mai 2017 - SECHebdo est une revue de l'actualité cybersécurité réalisé en live sur Youtube, généralement le mardi soir."
 categories:
  - Podcast

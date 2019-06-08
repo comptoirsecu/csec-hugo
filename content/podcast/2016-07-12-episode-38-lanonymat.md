@@ -6,7 +6,7 @@ date: 2016-07-12T14:54:55+00:00
 
 aliases: /2016/07/episode-38-lanonymat/
 podcast:
-  feed: https://podcast.comptoirsecu.fr/CSEC.EP38.2016-07-11.ANONYMAT.mp3
+  feed: https://podcasts.comptoirsecu.fr/CSEC.EP38.2016-07-11.ANONYMAT.mp3
 views: 3983
 image: /images/covers/2016-07-anonymat.jpg
 categories:

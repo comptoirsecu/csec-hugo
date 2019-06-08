@@ -8,7 +8,7 @@ date: 2016-03-17T09:11:33+00:00
 aliases: /2016/03/sequana-crue-de-seine-jour-9-lequilibre-economique-et-social-dans-lentreprise/
 views: 2497
 podcast:
-  feed: https://podcast.comptoirsecu.fr/CSEC.HS21.2016-03-17.CRUE2016_09.mp3
+  feed: https://podcasts.comptoirsecu.fr/HORS_SERIE/CSEC.HS21.2016-03-17.CRUE2016_09.mp3
 image: /images/covers/2016-03-Zouave-du-Pont-de-l-Alma-3.jpg
 categories:
   - Podcast

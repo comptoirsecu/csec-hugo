@@ -8,7 +8,7 @@ date: 2014-05-11T23:21:43+00:00
 aliases: /2014/05/episode-18-la-continuite-dactivite/
 views: 3854
 podcast:
-  feed: https://podcast.comptoirsecu.fr/CSEC.EP18.2014-05-10.PCA.mp3
+  feed: https://podcasts.comptoirsecu.fr/CSEC.EP18.2014-05-10.PCA.mp3
 image: /images/covers/2014-05-46602302.jpg
 categories:
   - Podcast

@@ -7,7 +7,7 @@ date: 2015-11-05T12:11:52+00:00
 
 aliases: /2015/11/episode-32-actualite-octobre/
 podcast:
-  feed: https://podcast.comptoirsecu.fr/CSEC.EP32.2015-11-03.ACTU_OCTOBRE.mp3
+  feed: https://podcasts.comptoirsecu.fr/CSEC.EP32.2015-11-03.ACTU_OCTOBRE.mp3
 views: 2449
 image: /images/covers/2015-11-photo-original.jpg
 categories:
