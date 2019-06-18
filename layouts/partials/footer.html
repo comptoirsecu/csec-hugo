@@ -69,9 +69,9 @@
     {{ $foundationTogglerJS := resources.Get "js/foundation-enabled/foundation.toggler.js" }}
     {{ $foundationJS := slice $foundationCoreJS $foundationUtilBoxJS $foundationUtilKeyboardJS $foundationUtilMediaQueryJS $foundationUtilMotionJS $foundationUtilNestJS $foundationUtilTriggersJS $foundationAccordionMenuJS $foundationdropdownMenuJS $foundationResponsiveMenuJS $foundationResponsiveToggleJS $foundationTogglerJS | resources.Concat "js/app.js" | minify | fingerprint }}
 
-    <script type="text/javascript" src="{{ $foundationJS.Permalink }}" integrity="{{ $foundationJS.Data.Integrity }}"></script>
+    <script type="text/javascript" src="{{ $foundationJS.RelPermalink }}" integrity="{{ $foundationJS.Data.Integrity }}"></script>
 
     {{ $foundationBootstrapJS := resources.Get "js/foundation-start.js" | minify | fingerprint }}
-    <script type="text/javascript" src="{{ $foundationBootstrapJS.Permalink }}" integrity="{{ $foundationBootstrapJS.Data.Integrity }}"></script>
+    <script type="text/javascript" src="{{ $foundationBootstrapJS.RelPermalink }}" integrity="{{ $foundationBootstrapJS.Data.Integrity }}"></script>
   </body>
 </html>
