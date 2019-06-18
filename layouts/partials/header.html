@@ -20,7 +20,7 @@
     {{ $styleSass := resources.Get "scss/app.scss" }}
     {{ $cssOptions := (dict "targetPath" "app.css" "outputStyle" "compressed" "enableSourceMap" true "includePaths" (slice "scss/foundation" "scss/normalize-scss/sass" "scss/sassy-lists/stylesheets")) }}
     {{ $styleCSS := $styleSass | toCSS $cssOptions | postCSS | fingerprint }}
-    <link rel="stylesheet" href="{{ $styleCSS.Permalink }}" integrity="{{ $styleCSS.Data.Integrity }}" />
+    <link rel="stylesheet" href="{{ $styleCSS.RelPermalink }}" integrity="{{ $styleCSS.Data.Integrity }}" />
 
     {{ if .Site.Params.override_fonts }}
     <style>
