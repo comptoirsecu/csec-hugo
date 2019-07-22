@@ -65,6 +65,10 @@ La version non supportée consiste à coupler deux choses :
 
 Avec le temps, il est possible qu’il y ait des trous, mais c’est déjà un bon début. Rien ne vous empêche de nmap votre réseau interne pour vérifier.
 
+## Pour les riches 
+
+Si vous disposez d’une gestion centralisée du pare-feu par votre agent d’antivirus HIDS qui tabasse les 0-day mais pas WannaCry, vous devriez disposer d’une option élégante pour réaliser ce filtrage.
+
 # Est-ce tout ?
 
 Si ces deux mesures (réduction d’exposition et limitation de la connexion interpostes) sont implémentées, les seules cibles restantes sont vos serveurs. De base, vous pouvez désactiver SMBv1 sur tout ce qui n’est pas un serveur de fichiers. Pour ces derniers, vérifiez si vous avez des clients XP ou 2003. Si ce n’est pas le cas, vous pouvez aussi le couper.
