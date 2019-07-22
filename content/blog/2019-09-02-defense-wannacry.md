@@ -73,7 +73,7 @@ Si vous disposez d’une gestion centralisée du pare-feu par votre agent d’an
 
 Si ces deux mesures (réduction d’exposition et limitation de la connexion interpostes) sont implémentées, les seules cibles restantes sont vos serveurs. De base, vous pouvez désactiver SMBv1 sur tout ce qui n’est pas un serveur de fichiers. Pour ces derniers, vérifiez si vous avez des clients XP ou 2003. Si ce n’est pas le cas, vous pouvez aussi le couper.
 
-Pour rappel, l’application des GPO requiert l’accès au partage de fichier SYSVOL sur les contrôleurs de domaine. Un serveur 2003 aura besoin de SMBv1 pour trouver ses GPO. Si vous vivez dans un tel environnement, vous aurez intérêt à créer un réseau spécifique pour les serveurs grabataires afin de leur assigner dans les *Sites and services* un contrôleur de domaine unique, le seul à avoir SMBv1 d’activé, et que vous rendrez inaccessible des autres postes clients.
+Pour rappel, l’application des GPO requiert l’accès au partage de fichier SYSVOL sur les contrôleurs de domaine. Un serveur 2003 aura besoin de SMBv1 pour trouver ses GPO. Si vous vivez dans un tel environnement, vous aurez intérêt à créer un réseau spécifique pour les serveurs grabataires afin de leur assigner dans les *Sites and services* un contrôleur de domaine unique, le seul à avoir SMBv1 d’activé (de préférence un *read-only domain controller*), et que vous rendrez inaccessible des autres postes clients.
 
 
 [anssi-dmz]: https://www.ssi.gouv.fr/administration/guide/definition-dune-architecture-de-passerelle-dinterconnexion-securisee/
