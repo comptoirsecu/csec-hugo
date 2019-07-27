@@ -50,6 +50,8 @@ Si vos IPs ne sont pas contigües, entrez juste une IP.
 
 N’hésitez pas à chercher aussi des mots-clés liés à l’entreprise.
 
+[Censys][censys] est une alternative à Shodan.
+
 ## Limiter l’exposition
 
 Si vous trouvez quelque chose d’ouvert alors que, à tout hasard, vous êtes chez vous, vous avez trois options :
@@ -89,6 +91,7 @@ Pour rappel, l’application des GPO requiert l’accès au partage de fichiers 
 
 
 [anssi-dmz]: https://www.ssi.gouv.fr/administration/guide/definition-dune-architecture-de-passerelle-dinterconnexion-securisee/
+[censys]: https://censys.io
 [discord]: http://discord.comptoirsecu.fr
 [fix-fw]: https://gist.github.com/Jil/c2b6f957e01dcbe3f1f1f0e99cf8a1cc
 [nmap-top100]: https://nmap.org/book/nmap-services.html
