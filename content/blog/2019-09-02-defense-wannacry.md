@@ -27,6 +27,8 @@ On ne le répétera jamais assez : moins il y a de services en écoute sur Inter
 
 Pour cette étape, vous avez besoin de connaître les adresses IPs de vos connexions Internet. Une tâche plutôt simple en PME et bien galère dans une multinationale (boxes Internet installées en scred et connectées au réseau, bonjour !). 
 
+### Si j’suis sans le sou, mais que j’ai le temps
+
 Ensuite, pour rester dans les clous de la législation française, vous devez vérifier qui gère les Address Spaces par un whois et obtenir l’autorisation de scan auprès du gestionnaire. Vous devez aussi obtenir l’autorisation de scan auprès du fournisseur de votre point de sortie (qui émettra le scan). Ce serait dommage de perdre la connexion parce que votre fournisseur vous aura considéré comme un client compromis qui émet des scans. De plus, réalisez ce scan depuis un système tiers pour éviter toute blague de vos routeurs et pare-feux qui vous laisseraient passer parce que vous venez du réseau interne.
 
 Dans les faits, si vous émettez un scan ciblé, personne ne s’en inquiétera. Par contre, si vous scannez comme un goret des plages d’IP, vous risquez d’avoir des surprises.
@@ -37,6 +39,16 @@ Dans le cas qui nous intéresse, vous allez scanner les [100 ports les plus cour
 	nmap -sT -sU 127.0.0.1 -p 135,139,445,3389
 
 En remplaçant l’IP par vos cibles. 
+
+### Si j'ai de l’argent (ou que je suis prévoyant)
+
+Direction [Shodan.io](https://www.shodan.io/search). Il y a une braderie par an (au Black Friday, il me semble) durant laquelle le prix de l’abonnement de base descend sous les 10$. Pour avoir les résulats sur tout un réseau, il existe l’opérateur net :
+
+	net:10.1.2.3/26
+
+Si vos IPs ne sont pas contigües, entrez juste une IP. 
+
+N’hésitez pas à chercher aussi des mots-clés liés à l’entreprise.
 
 ## Limiter l’exposition
 
@@ -65,7 +77,7 @@ La version non supportée consiste à coupler deux choses :
 
 Avec le temps, il est possible qu’il y ait des trous, mais c’est déjà un bon début. Rien ne vous empêche de nmap votre réseau interne pour vérifier.
 
-## Pour les riches 
+## Si je suis bien lotti
 
 Si vous disposez d’une gestion centralisée du pare-feu par votre agent d’antivirus HIDS qui tabasse les 0-day mais pas WannaCry, vous devriez disposer d’une option élégante pour réaliser ce filtrage.
 
@@ -73,12 +85,13 @@ Si vous disposez d’une gestion centralisée du pare-feu par votre agent d’an
 
 Si ces deux mesures (réduction d’exposition et limitation de la connexion interpostes) sont implémentées, les seules cibles restantes sont vos serveurs. De base, vous pouvez désactiver SMBv1 sur tout ce qui n’est pas un serveur de fichiers. Pour ces derniers, vérifiez si vous avez des clients XP ou 2003. Si ce n’est pas le cas, vous pouvez aussi le couper.
 
-Pour rappel, l’application des GPO requiert l’accès au partage de fichier SYSVOL sur les contrôleurs de domaine. Un serveur 2003 aura besoin de SMBv1 pour trouver ses GPO. Si vous vivez dans un tel environnement, vous aurez intérêt à créer un réseau spécifique pour les serveurs grabataires afin de leur assigner dans les *Sites and services* un contrôleur de domaine unique, le seul à avoir SMBv1 d’activé (de préférence un *read-only domain controller*), et que vous rendrez inaccessible des autres postes clients.
+Pour rappel, l’application des GPO requiert l’accès au partage de fichiers SYSVOL sur les contrôleurs de domaine. Un serveur 2003 aura besoin de SMBv1 pour trouver ses GPO. Si vous vivez dans un tel environnement, vous aurez intérêt à créer un réseau spécifique pour les serveurs grabataires afin de leur assigner dans les *Sites and services* un contrôleur de domaine unique, le seul à avoir SMBv1 d’activé (de préférence un [*read-only domain controller*][rodc]), et que vous rendrez inaccessible des autres postes clients.
 
 
 [anssi-dmz]: https://www.ssi.gouv.fr/administration/guide/definition-dune-architecture-de-passerelle-dinterconnexion-securisee/
 [discord]: http://discord.comptoirsecu.fr
 [fix-fw]: https://gist.github.com/Jil/c2b6f957e01dcbe3f1f1f0e99cf8a1cc
 [nmap-top100]: https://nmap.org/book/nmap-services.html
+[rodc]:https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc772234(v=ws.10)
 [smbv1-disable]: https://support.microsoft.com/en-us/help/4034314/smbv1-is-not-installed-by-default-in-windows
 
