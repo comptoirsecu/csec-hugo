@@ -45,13 +45,13 @@ Les administrateurs d’une flotte de PC aiment pouvoir utiliser leur compte pou
 
 Généralement, on retrouve un groupe du domaine (du type « Admin_all_computers ») qui est poussé par GPO dans le groupe local Administrators de tous les postes clients du domaine. D’un point de vue technique, on gagne en souplesse en maintenabilité avec les [GPP et leur filtrage][gpp].
 
-Le hic, c’est que si la machine contaminée contient dans son antémémoire (*cache*) les identifiants d’un tel compte, il sera utilisé pour se propager. Ce qui bloquera la propagation sera le filtrage réseau (cf. *Contrer le déplacement latéral*) et l’interdiction de se connecter aux machines d’administration avec ces comptes (à défaut, l’attaquant atteindra le réseau d’administration et pourra pivoter sur toutes les autres machines). 
+Le hic, c’est que si la machine contaminée contient dans son antémémoire (*cache*) les identifiants d’un tel compte, il sera utilisé pour se propager. Les obstacles à la propagation seront le filtrage réseau (cf. *Contrer le déplacement latéral*) et l’interdiction de se connecter aux machines d’administration avec ces comptes (à défaut, l’attaquant atteindra le réseau d’administration et pourra pivoter sur toutes les autres machines). 
 
 Il existe plusieurs moyens de limiter ce risque.
 
 L’option la plus brutale consiste à retirer les droits administrateur aux administrateurs de la flotte et à ne leur laisser que les privilèges nécessaires à la prise de main à distance. Quand ils auront besoin d’une élévation, ils utiliseront le compte administrateur local dont le mot de passe est géré par LAPS (on y reviendra plus bas). Ils ne conserveront sur l’Active Directory que les droits pour gérer le join/leave de la machine au domaine. Haro garanti, car il faudra chaque fois aller chercher le mot de passe administrateur local.
 
-Pour limiter la capacité d’un attaquant à jouer avec les jetons Kerberos, AD 2008 a introduit l’option [*This account is sensitive and cannot be delegated*][nodelegation]. En gros, cela empêche d’utiliser le jeton auprès d’un autre service (sur la même machine ou ailleurs) qui, lorsqu’il accepte la session, va lancer un process qui s’exécute *en tant que* le compte indiqué dans le jeton. AD 2012 R2 a introduit un groupe [*Protected Users*][protectedusers] qui va plus loin : interdiction du NTLM, Digest, CredSSP, pas de mise en antémémoire des mots de passe, limitation des algorithmes de chiffrement utilisables, et les jetons ne sont valables que quatre heures. Ce paramètre engendre l’activation du premier (compte sensible ne pouvant être délégué).
+Pour limiter la capacité d’un attaquant à jouer avec les jetons Kerberos, AD 2008 a introduit l’option [*This account is sensitive and cannot be delegated*][nodelegation]. En gros, cela empêche d’utiliser le jeton auprès d’un autre service (sur la même machine ou ailleurs) qui, lorsqu’il accepte la session, va lancer un processus qui s’exécute *en tant que* le compte indiqué dans le jeton. AD 2012 R2 a introduit un groupe [*Protected Users*][protectedusers] qui va plus loin : interdiction du NTLM, Digest, CredSSP, pas de mise en antémémoire des mots de passe, limitation des algorithmes de chiffrement utilisables, et les jetons ne sont valables que quatre heures. Ce paramètre engendre l’activation du premier (compte sensible ne pouvant être délégué).
 
 ## Les comptes de service
 
@@ -66,8 +66,13 @@ Tous les comptes locaux devraient avoir des mots de passe propres à la machine.
 Comme c’est compliqué, AD 2012 R2 introduit [un SID spécial][sidlocal] à cet effet (ils ont été backportés sur Windows 2008 R2, KB2871997). Il permet d’interdire l’utilisation de comptes locaux à distance (*Deny access to this computer from the network*). L’article lié vous explique tout.
 
 
+# Conclusion
+
+La sécurité n’exige pas toujours des solutions coûteuses. Trop souvent, la bonne gestion de Windows est délaissée alors qu’elle apporte un niveau de protection supérieur contre les attaques automatisées.
+
 [builtin]: https://www.jasonfilley.com/display/JF/Active+Directory+Built-In+Groups+Self-Elevation
 [debug]: https://docs.microsoft.com/en-us/windows/security/threat-protection/security-policy-settings/debug-programs
+[discord]: http://discord.comptoirsecu.fr
 [gpp]: http://www.checkyourlogs.net/?p=22921
 [laps]: https://blogs.technet.microsoft.com/arnaud/2015/11/25/local-admin-password-solution-laps/
 [nodelegation]: https://blogs.technet.microsoft.com/poshchap/2015/05/01/security-focus-analysing-account-is-sensitive-and-cannot-be-delegated-for-privileged-accounts/
