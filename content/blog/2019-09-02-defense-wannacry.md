@@ -3,7 +3,7 @@ title: "Défense — WannaCry"
 authors:
   - jil
 date: 2019-09-02
-image:  /images/covers/2019-03-03-rex-mfa.jpg
+image:  /images/covers/2019-07-27-defense-wannacry.jpg
 categories:
   - Article
 tags:
