@@ -54,6 +54,7 @@ A bientôt pour d'autres émissions/podcasts!
 	* [Vendor Security Alliance](https://www.vendorsecurityalliance.org/)
 	* [CAIQ-Lite | Cloud Security Alliance](https://cloudsecurityalliance.org/artifacts/caiq-lite/)
 	* [Vendor Security Assessment – Vendor Risk Management – Third Party Vendor Security | Whistic](https://www.whistic.com/)
+	* [NoLimitSecu - Méthodologie d’évaluation du niveau de sécurité des prestataires de services IT](https://www.nolimitsecu.fr/methodologie-d-evaluation-du-niveau-de-securite-des-prestataires-de-services-it/)
 *  Conditional formatting dans Outlook
 	* [Identify Malicious Phishing Attacks with Outlook Conditional Formatting - Petri](https://www.petri.com/identify-malicious-phishing-attacks-outlook-conditional-formatting)
 *  Les US montrent qu'ils savent donner de grosses amendes suites a des data breach aussi!
