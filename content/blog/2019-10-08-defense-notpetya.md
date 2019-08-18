@@ -3,7 +3,7 @@ title: "Défense — NotPetya"
 authors:
   - jil
 date: 2019-10-08
-image:  /images/covers/2019-07-27-defense-wannacry.jpg
+image:  /images/covers/2019-08-18-defense-notpetya.jpg
 categories:
   - Article
 tags:
