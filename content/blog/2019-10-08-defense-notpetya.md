@@ -41,7 +41,7 @@ Tout comme WannaCry, il ne faut pas laisser la possibilité aux postes clients d
 
 Les administrateurs d’une flotte de PC aiment pouvoir utiliser leur compte pour devenir administrateurs de tout poste sur lequel ils interviennent. 
 
-À bon entendeur, rappelons que le compte utilisé au quotidien par un administrateur ne doit disposer d’aucun privilège. C’est un deuxième compte qui tient ses privilèges (et ceux-ci ne sont pas *Domain Admin* ni aucun groupe *built-in* d’Active Directory ; [plus d’infos ici][builtin]).
+À bon entendeur, rappelons que le compte utilisé au quotidien par un administrateur ne doit disposer d’aucun privilège. C’est un deuxième compte qui tient ses privilèges. De plus, en raison des droits inattendus que confère l’appartenance aux groupes *built-in* d’Active Directory, en particulier sur les contrôleurs de domaine, il ne faut jamais ajouter les administrateurs à ces groupes, mais créer des délégations spécifiques. Vous trouverez de plus amples informations [sur cet article][builtin]).
 
 Habituellement, on retrouve un groupe du domaine (du type « Admin_all_computers ») qui est poussé par GPO dans le groupe local Administrators de tous les postes clients du domaine. D’un point de vue technique, on gagne en souplesse en maintenabilité avec les [GPP et leur filtrage][gpp].
 
@@ -55,7 +55,7 @@ Pour limiter la capacité d’un attaquant à jouer avec les jetons Kerberos, AD
 
 ## Les comptes de service
 
-L’on trouve souvent les comptes de service des antivirus qui ont des privilèges exorbitants sur toutes les machines. Or, ils servent uniquement au déploiement de l’agent par la console centrale. Une fois l’antivirus installé, il s’exécute soit en *Local System* soit en *Network Service* et n’a plus besoin du compte. 
+L’on trouve souvent les comptes de service des antivirus qui ont des privilèges excessifs sur toutes les machines. Or, ils servent uniquement au déploiement de l’agent par la console centrale. Une fois l’antivirus installé, il s’exécute soit en *Local System* soit en *Network Service* et n’a plus besoin du compte. 
 
 Il s’avère délicat de supprimer ces comptes tout en conservant le support de l’antivirus. Je serais preneurs de sources officielles qui expliquent comment s’en passer, si jamais vous avez ça sous la main ;)
 
