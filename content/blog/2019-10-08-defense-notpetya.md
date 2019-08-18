@@ -68,7 +68,7 @@ Comme c’est compliqué, AD 2012 R2 introduit [un SID spécial][sidlocal] à ce
 
 # Conclusion
 
-La sécurité n’exige pas toujours des solutions coûteuses. Trop souvent, la bonne gestion de Windows est délaissée alors qu’elle apporte un très bon niveau de protection contre les attaques automatisées.
+La sécurité n’exige pas toujours des solutions coûteuses. Trop souvent, la bonne gestion de Windows est délaissée alors qu’elle apporte un très bon niveau de protection contre les attaques automatisées. Cela nécessite de sécuriser également l’Active Directory et de maintenir des compétences internes pour pérenniser sa bonne exploitation.
 
 [builtin]: https://www.jasonfilley.com/display/JF/Active+Directory+Built-In+Groups+Self-Elevation
 [debug]: https://docs.microsoft.com/en-us/windows/security/threat-protection/security-policy-settings/debug-programs
