@@ -15,13 +15,13 @@ Voici le deuxième billet d’une courte série axée sur la défense contre cer
 
 # NotPetya, résumé de ce qui nous importe
 
-NotPetya entre dans la catégorie des *wipers*, car sous l’image d’un rançongiciel, son seul dessein est la destruction à grande échelle du réseau contaminé. Il a été délivré par la mise à jour du logiciel de déclaration de taxes ukrainien MeDoc, sa chaîne de build ayant été compromise par un attaquant.
+NotPetya entre dans la catégorie des *wipers*, car sous les atours d’un rançongiciel, son seul dessein est la destruction à grande échelle de l’infrastructure atteinte. Il a été délivré par la mise à jour du logiciel de déclaration de taxes ukrainien MeDoc, sa chaîne de build ayant été compromise par un attaquant.
 
 NotPetya escalade ses privilèges pour récupérer les identifiants des comptes administrateurs en mémoire et tente de se délacer latéralement avec (à coup de `psexec` et `wmic`). De plus, il ne se prive pas du déplacement par EternalBlue, pour laquelle je vous renvoie à l’article [Défense — WannaCry][wannacry].
 
 # Contrer l’élévation ou le dump d’identifiants
 
-Un grand nombre de logiciels malveillants requièrent le privilège [SeDebugPrivilege][debug] qui permet de s’attacher à un processus qu’on ne possède pas. Rares sont les cas où vous avez besoin de déboguer des processus système. Le durcissement des postes et serveurs passe par une GPO : 
+Certains logiciels malveillants requièrent le privilège [SeDebugPrivilege][debug] qui permet de s’attacher à un processus qu’on ne possède pas. Rares sont les cas où vous avez besoin de déboguer des processus système (un cas connu est l’installation de MS SQL Server, privilège requis uniquement durant l’installation). Le durcissement des postes et serveurs passe par une GPO : 
 
 	Computer Configuration\Windows Settings\Security Settings\Local Policies\User Rights Assignment\Debug Programs
 
@@ -43,7 +43,7 @@ Les administrateurs d’une flotte de PC aiment pouvoir utiliser leur compte pou
 
 À bon entendeur, rappelons que le compte utilisé au quotidien par un administrateur ne doit disposer d’aucun privilège. C’est un deuxième compte qui tient ses privilèges (et ceux-ci ne sont pas *Domain Admin* ni aucun groupe *built-in* d’Active Directory ; [plus d’infos ici][builtin]).
 
-Généralement, on retrouve un groupe du domaine (du type « Admin_all_computers ») qui est poussé par GPO dans le groupe local Administrators de tous les postes clients du domaine. D’un point de vue technique, on gagne en souplesse en maintenabilité avec les [GPP et leur filtrage][gpp].
+Habituellement, on retrouve un groupe du domaine (du type « Admin_all_computers ») qui est poussé par GPO dans le groupe local Administrators de tous les postes clients du domaine. D’un point de vue technique, on gagne en souplesse en maintenabilité avec les [GPP et leur filtrage][gpp].
 
 Le hic, c’est que si la machine contaminée contient dans son antémémoire (*cache*) les identifiants d’un tel compte, il sera utilisé pour se propager. Les obstacles à la propagation seront le filtrage réseau (cf. *Contrer le déplacement latéral*) et l’interdiction de se connecter aux machines d’administration avec ces comptes (à défaut, l’attaquant atteindra le réseau d’administration et pourra pivoter sur toutes les autres machines). 
 
@@ -57,7 +57,7 @@ Pour limiter la capacité d’un attaquant à jouer avec les jetons Kerberos, AD
 
 L’on trouve souvent les comptes de service des antivirus qui ont des privilèges exorbitants sur toutes les machines. Or, ils servent uniquement au déploiement de l’agent par la console centrale. Une fois l’antivirus installé, il s’exécute soit en *Local System* soit en *Network Service* et n’a plus besoin du compte. 
 
-Il s’avère délicat de supprimer ces comptes tout en conservant le support de l’antivirus.
+Il s’avère délicat de supprimer ces comptes tout en conservant le support de l’antivirus. Je serais preneurs de sources officielles qui expliquent comment s’en passer, si jamais vous avez ça sous la main ;)
 
 ## Les comptes locaux 
 
@@ -68,7 +68,7 @@ Comme c’est compliqué, AD 2012 R2 introduit [un SID spécial][sidlocal] à ce
 
 # Conclusion
 
-La sécurité n’exige pas toujours des solutions coûteuses. Trop souvent, la bonne gestion de Windows est délaissée alors qu’elle apporte un niveau de protection supérieur contre les attaques automatisées.
+La sécurité n’exige pas toujours des solutions coûteuses. Trop souvent, la bonne gestion de Windows est délaissée alors qu’elle apporte un très bon niveau de protection contre les attaques automatisées.
 
 [builtin]: https://www.jasonfilley.com/display/JF/Active+Directory+Built-In+Groups+Self-Elevation
 [debug]: https://docs.microsoft.com/en-us/windows/security/threat-protection/security-policy-settings/debug-programs
