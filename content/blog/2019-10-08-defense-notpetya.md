@@ -9,6 +9,7 @@ categories:
 tags:
   - defense
   - notpetya
+draft: true
 ---
 
 Voici le deuxième billet d’une courte série axée sur la défense contre certains types de menaces. Mis bout à bout, ils ambitionnent de permettre au néophyte de comprendre comment construire sa défense en fonction des moyens dont il dispose, tout en limitant les discussions théologiques, pour lesquelles nous vous invitons sur [Discord][discord].

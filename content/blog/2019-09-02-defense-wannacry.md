@@ -2,7 +2,7 @@
 title: "Défense — WannaCry"
 authors:
   - jil
-date: 2019-09-02
+date: 2019-09-08
 image:  /images/covers/2019-07-27-defense-wannacry.jpg
 categories:
   - Article
