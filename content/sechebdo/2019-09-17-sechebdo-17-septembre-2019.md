@@ -13,7 +13,13 @@ categories:
  - SECHebdo
 
 tags:
- - 
+ - DoH
+ - BEC
+ - Fraude
+ - IoT
+ - SIM
+ - 3G
+ - GPRS
 
 authors:
   - jil
