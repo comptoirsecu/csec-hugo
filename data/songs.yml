@@ -663,3 +663,11 @@ floex_veronikasdream:
   uri: http://store.floex.cz/album/zorya
   country: République Tchèque
   image: floex_zorya.jpg
+
+tsturoyamashita_sparkle:
+  artist: Tatsuro Yamashita
+  song: Sparkle
+  album: For you
+  uri: https://www.discogs.com/Tatsuro-Yamashita-For-You/master/351396
+  country: Japon
+  image: foryou.jpg
