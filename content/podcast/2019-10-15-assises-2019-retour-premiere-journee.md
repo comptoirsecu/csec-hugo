@@ -3,7 +3,7 @@ title: "[Assises 2019] Retours sur la première journée"
 subheadline: "En presque-direct de Monaco"
 publisher: comptoirsecu
 date: 2019-10-15
-image: /images/covers/2019-10-assises2019.jpg
+image: /images/covers/2019-10-15-2019-10-assises2019.jpg
 podcast:
   feed: https://podcasts.comptoirsecu.fr/HORS_SERIE/CSEC.HS34.2019-10-14.ASSISES_jour1.m4a
 categories:
