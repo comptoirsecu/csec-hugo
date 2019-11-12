@@ -2,14 +2,13 @@
 title: "Défense — NotPetya"
 authors:
   - jil
-date: 2019-10-08
+date: 2019-11-12
 image:  /images/covers/2019-08-18-defense-notpetya.jpg
 categories:
   - Article
 tags:
   - defense
   - notpetya
-draft: true
 ---
 
 Voici le deuxième billet d’une courte série axée sur la défense contre certains types de menaces. Mis bout à bout, ils ambitionnent de permettre au néophyte de comprendre comment construire sa défense en fonction des moyens dont il dispose, tout en limitant les discussions théologiques, pour lesquelles nous vous invitons sur [Discord][discord].
