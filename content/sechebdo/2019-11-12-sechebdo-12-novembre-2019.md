@@ -68,3 +68,5 @@ A bientôt pour d'autres émissions/podcasts!
 	* [Intezer - PureLocker: New Ransomware-as-a-Service Being Used in Targeted Attacks Against Servers](https://www.intezer.com/blog-purelocker-ransomware-being-used-in-targeted-attacks-against-servers/)
 	* [Ransom_War_1 — TEHTRIS](https://tehtris.com/en/ransom-war-1/)
 	* [WIZARD SPIDER Adds New Features to Ryuk | CrowdStrike](https://www.crowdstrike.com/blog/wizard-spider-adds-new-feature-to-ryuk-ransomware/)
+* Conférence à venir (à laquelle nous offrirons une place la semaine prochaine)
+	* [RTFM.me](https://rtfm.re)
