@@ -44,25 +44,27 @@ A bientôt pour d'autres émissions/podcasts!
 
 ### Liste des sources :
 
-*  Hackback physique en Israël sur le Hamas
-	* [Loïs Samain via Twitter](https://twitter.com/lsamain/status/1125278162894622721)
-*  Poutine a signé sa loi controversée pour un « Internet souverain »
-	* [Vladimir Poutine promulgue une loi controversée pour un « Internet souverain »](https://www.01net.com/actualites/vladimir-poutine-promulgue-une-loi-controversee-pour-un-internet-souverain-1683889.html)
-*  Windows 10: Introducing the security configuration framework
-	* [Windows security configuration framework | Microsoft Docs](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-security-configuration-framework/windows-security-configuration-framework)
-*  Email digital signature spoofing
-	* [Over Dozen Popular Email Clients Found Vulnerable to Signature Spoofing Attacks](https://thehackernews.com/2019/04/email-signature-spoofing.html)
-*  Une vignette autocollante: la solution à nos problemes d'objets connectés?
-	* [Is a sticky label the answer to the IoT’s security problems? – Naked Security](https://nakedsecurity.sophos.com/2019/05/02/is-a-sticky-label-the-answer-to-the-iots-security-problems/)
-*  Découverte de la semaine: ASecure.cloud
-	* [asecure.cloud - Home](https://asecure.cloud/)
-*  Le couac de Firefox et l'impact sur Tor Browser
-	* [Mozilla bug throws Tor Browser users into chaos – Naked Security](https://nakedsecurity.sophos.com/2019/05/05/mozilla-bug-throws-tor-browser-users-into-chaos/)
-*  Double Pulsar Chinois
-	* [Buckeye: Espionage Outfit Used Equation Group Tools Prior to Shadow Brokers Leak | Symantec Blogs](https://www.symantec.com/blogs/threat-intelligence/buckeye-windows-zero-day-exploit)
-*  Fermeture Wall Street Market
-	* [Feds Bust Up Dark Web Hub Wall Street Market —  Krebs on Security](https://krebsonsecurity.com/2019/05/feds-bust-up-dark-web-hub-wall-street-market/)
-*  Vulnérabilités SAP
-	* [10KBLAZE SAP Exploits | Onapsis](https://www.onapsis.com/10kblaze)
-*  Hackfax
-	* [Faxploit: Sending Fax Back to the Dark Ages - Check Point Research](https://research.checkpoint.com/sending-fax-back-to-the-dark-ages/)
+*  Découverte De La Semaine: Doc Gitlab
+	* [Security Practices|GitLab](https://about.gitlab.com/handbook/security/)
+	* [PagerDuty | Real-Time Operations | Incident Response | On-Call | PagerDuty](https://www.pagerduty.com/)
+	* [Security|GitLab](https://about.gitlab.com/handbook/engineering/security/)
+*  Insider Threat: Trend Micro Et Twitter En Font Les Frais
+	* [Rogue TrendMicro Employee Sold Customer Data to Tech Support Scammers](https://thehackernews.com/2019/11/insider-threat-data-breach.html)
+	* [Two Former Twitter Employees Caught Spying On Users For Saudi Arabia](https://thehackernews.com/2019/11/twitter-spying-saudi-arabia.html)
+*  Corner vuln
+	* [https://support.microsoft.com/en-us/help/4506606/windows-10-version-1803-ending-nov-12-2019](https://support.microsoft.com/en-us/help/4506606/windows-10-version-1803-ending-nov-12-2019)
+	* [https://exchange.xforce.ibmcloud.com/vulnerabilities/167239](https://exchange.xforce.ibmcloud.com/vulnerabilities/167239)
+	* [Orange: 你用它上網，我用它進你內網! 中華電信數據機遠端代碼執行漏洞](https://blog.orange.tw/2019/11/HiNet-GPON-Modem-RCE.html)
+	* [Vulnérabilité dans Magento Commerce – CERT-FR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-550/)
+	* [Console window of FortiClient for Mac OS displays password in clear-text. | FortiGuard](https://fortiguard.com/psirt/FG-IR-19-227)
+	* [Multiples vulnérabilités dans les produits Cisco – CERT-FR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-548/)
+*  Nouvel article du comptoir: se protéger de NotPetya, peuchère !
+	* [Défense — NotPetya](https://comptoisecu.fr/blog/2019-10-08-defense-notpetya/)
+*  Instant GDPR
+	* [Le Conseil fédéral signe la nouvelle Convention du Conseil de l'Europe sur la protection des données](https://www.admin.ch/gov/fr/accueil/documentation/communiques.msg-id-76861.html)
+*  Alicem, le retour
+	* [Alicem : l’ANTS veut rassurer sur les risques liés au code à 6 chiffres et au clonage des téléphones](https://www.nextinpact.com/news/108384-alicem-lants-veut-rassurer-sur-risques-lies-au-code-a-6-chiffres-et-au-clonage-telephones.htm)
+*  Ransomware
+	* [Intezer - PureLocker: New Ransomware-as-a-Service Being Used in Targeted Attacks Against Servers](https://www.intezer.com/blog-purelocker-ransomware-being-used-in-targeted-attacks-against-servers/)
+	* [Ransom_War_1 — TEHTRIS](https://tehtris.com/en/ransom-war-1/)
+	* [WIZARD SPIDER Adds New Features to Ryuk | CrowdStrike](https://www.crowdstrike.com/blog/wizard-spider-adds-new-feature-to-ryuk-ransomware/)
