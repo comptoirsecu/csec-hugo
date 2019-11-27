@@ -61,4 +61,4 @@ A bientôt pour d'autres émissions/podcasts!
 	* [CVE-2019-12409: Default Configuration in Apache Solr Could Lead to Remote Code Execution - Blog | Tenable®](https://www.tenable.com/blog/cve-2019-12409-default-configuration-in-apache-solr-could-lead-to-remote-code-execution)
 	* [GitHub - jas502n/CVE-2019-12409: Apache Solr RCE (ENABLE_REMOTE_JMX_OPTS="true")](https://github.com/jas502n/CVE-2019-12409)
 	* [Pony Mail!](https://lists.apache.org/thread.html/6640c7e370fce2b74e466a605a46244ccc40666ad9e3064a4e04a85d@%3Csolr-user.lucene.apache.org%3E)
-	* [http://www.squid-cache.org/Advisories/SQUID-2019_11.txt](http://www.squid-cache.org/Advisories/SQUID-2019_11.txt)
+	* [SQUID-2019_11.txt](http://www.squid-cache.org/Advisories/SQUID-2019_11.txt)
