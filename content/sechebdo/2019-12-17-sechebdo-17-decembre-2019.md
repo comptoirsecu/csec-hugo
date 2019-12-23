@@ -46,30 +46,20 @@ A bientôt pour d'autres émissions/podcasts!
 
 ### Liste des sources :
 
-*  Découverte de la semaine: Calendrier de l'avent JAVASEC
-	* [Java Security Calendar 2019](https://www.ripstech.com/java-security-calendar-2019/)
-*  GDPR & Privacy
-	* [Avast Firefox Extensions Removed Possibly Due to Browsing Data Collection](https://news.softpedia.com/news/avast-firefox-extensions-removed-possibly-due-to-browsing-data-collection-528426.shtml)
-	* [Convicted murderer wins ‘right to be forgotten’ case – Naked Security](https://nakedsecurity.sophos.com/2019/12/02/convicted-murderer-wins-right-to-be-forgotten-case/)
-	* [Droit à l’oubli : le Conseil d’État donne le mode d’emploi](https://www.conseil-etat.fr/actualites/actualites/droit-a-l-oubli-le-conseil-d-etat-donne-le-mode-d-emploi)
-	* [GDPR Violation: German Privacy Regulator Fines 1&1 Telecom](https://www.databreachtoday.com/gdpr-violation-german-privacy-regulator-fines-11-telecom-a-13482)
-*  Trolldi - Stockage du mot de passe en clair chez PracticalPentestLabs
-	* [Practical Pentest Labs sur Twitter](https://twitter.com/ppentestlabs/status/1202906268991664128)
-	* [Practical Pentest Labs: Exploring Threat Models - DEV Community 👩‍💻👨‍💻](https://dev.to/kuhnertdm/practical-pentest-labs-exploring-threat-models-966)
-*  Fraude au président rondement menée
-	* ['Ultimate' MiTM Attack Steals $1M from Israeli Startup | Threatpost](https://threatpost.com/ultimate-mitm-attack-steals-1m-from-israeli-startup/150840/)
-	* [Incident Response Casefile – A successful BEC leveraging lookalike domains - Check Point Research](https://research.checkpoint.com/2019/incident-response-casefile-a-successful-bec-leveraging-lookalike-domains/)
-*  Ouverture billeterie pour CoRIIN 2020
-	* [Tickets : CoRIIN 2020 - Billetweb](https://www.billetweb.fr/coriin-2020)
-* Corner Vuln
-	* [OpenBSD patches authentication bypass, privilege escalation vulnerabilities | ZDNet](https://www.zdnet.com/article/openbsd-patches-severe-authentication-bypass-privilege-escalation-vulnerabilities/)
-	* [VMware Patches ESXi Vulnerability That Earned Hacker $200,000 | SecurityWeek.Com](https://www.securityweek.com/vmware-patches-esxi-vulnerability-earned-hacker-200000)
-	* [VMSA-2019-0022](https://www.vmware.com/security/advisories/VMSA-2019-0022.html)
-	* [authentication-vulnerabilities-openbsd.txt](https://www.qualys.com/2019/12/04/cve-2019-19521/authentication-vulnerabilities-openbsd.txt)
-	* [Zero Day Initiative — The December 2019 Security Update Review](https://www.zerodayinitiative.com/blog/2019/12/10/the-december-2019-security-update-review)
-	* [MSRC Release Notes 2019-Dec](https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2019-Dec)
-*  SIGSEGV2
-	* [Read The Fancy Manual | RTFM | French Hackers Community in Paris](https://rtfm.re/)
-*  Strandhogg
-	* [Unpatched Strandhogg Android Vulnerability Actively Exploited in the Wild](https://thehackernews.com/2019/12/strandhogg-android-vulnerability.html)
-	* [StrandHogg: Serious Android vulnerability leaves most apps vulnerable to attacks.](https://promon.co/security-news/strandhogg/)
+*  PlunderVolt
+	* [Plundervolt PDF](https://plundervolt.com/doc/plundervolt.pdf)
+	* [Plundervolt](https://plundervolt.com/)
+	* [Plundervolt – stealing secrets by starving your computer of voltage – Naked Security](https://nakedsecurity.sophos.com/2019/12/16/plundervolt-stealing-secrets-by-starving-your-computer-of-voltage/)
+*  Arrivée des SMS vérifiées avec Google
+	* [Google rolls out Verified SMS and Spam Protection in Android | ZDNet](https://www.zdnet.com/article/google-rolls-out-verified-sms-and-spam-protection-in-android/)
+	* [Google adds Verified SMS and anti-spam feature to Messages app – Naked Security](https://nakedsecurity.sophos.com/2019/12/16/google-adds-verified-sms-and-anti-spam-feature-to-messages-app/)
+	* [Safer conversations in Messages with Verified SMS and Spam Protection](https://www.blog.google/products/messages/safer-conversations-messages-verified-sms-and-spam-protection/)
+*  MFA forcé pour les dev d'extension Firefox, enfin!
+	* [Mozilla mandates 2FA security for Firefox developers – Naked Security](https://nakedsecurity.sophos.com/2019/12/17/mozilla-mandates-2fa-security-for-firefox-developers/)
+	* [Mozilla: Firefox Add-On Developers Must Use 2FA](https://www.bankinfosecurity.com/mozilla-firefox-add-on-developers-must-use-2fa-a-13511)
+*  Vol de données chez FB
+	* [Payroll Data of 29,000 Facebook Employees Stolen: Report](https://www.bankinfosecurity.com/payroll-data-29000-facebook-employees-stolen-report-a-13509)
+*  Proton calendar
+	* [How secure is ProtonCalendar? - ProtonMail Blog](https://protonmail.com/blog/protoncalendar-security-model/)
+*  Amazon Detective
+	* [Amazon Detective – Amazon Web Services](https://aws.amazon.com/fr/detective/)
