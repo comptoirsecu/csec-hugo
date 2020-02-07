@@ -1,5 +1,5 @@
 ---
-title: '[SECHebdo] 04 Janvier 2020'
+title: '[SECHebdo] 04 Février 2020'
 subheadline: "Ransomware à la queue leu-leu, Corner Vuln, Dataleak Microsoft, Office 365 Updates, Tool Forensics Mac, etc."
 publisher: comptoirsecu
 date: 2020-02-04
