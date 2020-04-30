@@ -622,7 +622,7 @@ leffe_rituel:
   description: "Leffe Rituel 9° est une bière de haute fermentation à la belle robe cuivrée. Ses arômes puissants lui donnent tout son caractère racé et prononcé."
 
 kg_mango_white:
-  name: "Mangot White"
+  name: "Mango White"
   type: Bière
   subtype: "Witbier / Blanche"
   country: France (Mieussy)
