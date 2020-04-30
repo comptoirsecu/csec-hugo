@@ -495,7 +495,7 @@ cocillana-ethyfin:
   description: "Médicament habituellement utilisé pour soulager la toux. On peut sentir son action en moins d'une heure ! Incroyable !"
 
 leffe_blonde:
-  name: Leffe
+  name: "Leffe Blonde"
   type: Bière
   subtype: Blonde
   country: Belgique
@@ -613,7 +613,7 @@ petite_soeur_biere_saison:
   description: "Bière de Saison Belge ou « Farmhouse ale » elle présente la particularité d’être plus houblonnée qu’une saison classique. Bière aux céréales multiples (orge et blé), avec le Chinook un houblon américain qui lui confère un arôme d’agrume. Une amertume marquée et des arômes riches entre houblon et céréale."
 
 leffe_rituel:
-  name: Leffe
+  name: "Leffe Rituel"
   type: Bière
   subtype: Rituel
   country: Belgique
@@ -627,7 +627,7 @@ kg_mango_white:
   subtype: "Witbier / Blanche"
   country: France (Mieussy)
   degree: 5
-  image: leffe_ritual.jpg
+  image: mangowhite.jpg
   description: "Mangues, coriandre, écorces d’orange, goût acidulé, corps mousseux qui colle à la langue, conjugué à une effervescence qui nettoie le palais : fringante, légère et désaltérante."
 
 karukera:
