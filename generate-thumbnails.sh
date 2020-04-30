@@ -27,8 +27,8 @@ for f in `ls ${PICPATH}/*.jpg`
 do
 	DESTFILE=`basename -- $f` 
 	DESTFILE=${DESTFILE%.*}
-	convert "${f}" -quality 40 -size 200x200 "${PREFIX}/static/images/thumbnails/${DESTFILE}.jpg"
+	convert "${f}" -quality 40 -resize 200x200 "${PREFIX}/static/images/thumbnails/${DESTFILE}.jpg"
 	ls "${PREFIX}/static/images/thumbnails/${DESTFILE}.jpg"
-	convert "${f}" -quality 40 -size 400x400 "${PREFIX}/static/images/thumbnails/${DESTFILE}-@2x.jpg"
+	convert "${f}" -quality 40 -resize 400x400 "${PREFIX}/static/images/thumbnails/${DESTFILE}-@2x.jpg"
 	ls "${PREFIX}/static/images/thumbnails/${DESTFILE}-@2x.jpg"
 done
