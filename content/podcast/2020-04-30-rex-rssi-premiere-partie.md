@@ -1,5 +1,5 @@
 ---
-title: "Retour d’expérience RSSI, partie I"
+title: "[Épisode 50] Retour d’expérience RSSI, partie I"
 subheadline: "Confidences"
 publisher: comptoirsecu
 date: 2020-04-30
