@@ -611,3 +611,29 @@ petite_soeur_biere_saison:
   country: France (Sartrouville)
   degree: 6.5
   description: "Bière de Saison Belge ou « Farmhouse ale » elle présente la particularité d’être plus houblonnée qu’une saison classique. Bière aux céréales multiples (orge et blé), avec le Chinook un houblon américain qui lui confère un arôme d’agrume. Une amertume marquée et des arômes riches entre houblon et céréale."
+
+leffe_rituel:
+  name: Leffe
+  type: Bière
+  subtype: Rituel
+  country: Belgique
+  degree: 9
+  image: leffe_ritual.jpg
+  description: "Leffe Rituel 9° est une bière de haute fermentation à la belle robe cuivrée. Ses arômes puissants lui donnent tout son caractère racé et prononcé."
+
+kg_mango_white:
+  name: "Mangot White"
+  type: Bière
+  subtype: "Witbier / Blanche"
+  country: France (Mieussy)
+  degree: 5
+  image: leffe_ritual.jpg
+  description: "Mangues, coriandre, écorces d’orange, goût acidulé, corps mousseux qui colle à la langue, conjugué à une effervescence qui nettoie le palais : fringante, légère et désaltérante."
+
+karukera:
+  name: "Karukera - Rhum hors d'âge - Cuvée Christophe Colomb 1493"
+  type: Rhum
+  country: Guadeloupe
+  degree: 45
+  image: karukera-cuvee-christophe-colomb.jpg
+  description: "Fruit d’un subtil assemblage de rhums hors d’âge, la Cuvée Christophe Colomb 1493 Karukera exprime au plus haut point le caractère riche des vieux rhums Karukera."

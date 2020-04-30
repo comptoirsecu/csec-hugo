@@ -8,6 +8,7 @@ podcast:
   feed: https://podcasts.comptoirsecu.fr/CSEC.EP50.2020-04-30.REX_RSSI_1.m4a
 categories:
   - Podcast
+  - Emission
 tags:
   - rex
   - ssi
@@ -20,6 +21,11 @@ authors:
   - swithak
   - jil
   - lois
+
+drinks:
+  - karukera
+  - kg_mango_white
+  - leffe_rituel
 
 songs:
   - animalcrossing
