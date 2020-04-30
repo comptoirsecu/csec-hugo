@@ -28,16 +28,16 @@ for f in `ls ${PICPATH}/*.jpg`
 do
 	DESTFILE=`basename -- $f` 
 	DESTFILE=${DESTFILE%.*}
-	convert "${f}" -quality 60 -resize 1920x1080 "${PREFIX}/static/images/covers/${DT}-${DESTFILE}.jpg"
+	convert "${f}" -quality 60 -resize 1920x -gravity center -background "#0a0a0a" -extent 1920x1080 "${PREFIX}/static/images/covers/${DT}-${DESTFILE}.jpg"
 	ls "${PREFIX}/static/images/covers/${DT}-${DESTFILE}.jpg"
-	convert "${f}" -quality 60 -resize 384x216 "${PREFIX}/static/images/covers/${DT}-${DESTFILE}-small.jpg"
+	convert "${f}" -quality 60 -resize 384x -gravity center -background "#0a0a0a" -extent 384x216 "${PREFIX}/static/images/covers/${DT}-${DESTFILE}-small.jpg"
 	ls "${PREFIX}/static/images/covers/${DT}-${DESTFILE}-small.jpg"
-	convert "${f}" -quality 60 -resize 640x360 "${PREFIX}/static/images/covers/${DT}-${DESTFILE}-medium.jpg"
+	convert "${f}" -quality 60 -resize 640x -gravity center -background "#0a0a0a" -extent 640x360 "${PREFIX}/static/images/covers/${DT}-${DESTFILE}-medium.jpg"
 	ls "${PREFIX}/static/images/covers/${DT}-${DESTFILE}-medium.jpg"
-	convert "${f}" -quality 60 -resize 1024x576 "${PREFIX}/static/images/covers/${DT}-${DESTFILE}-large.jpg"
+	convert "${f}" -quality 60 -resize 1024x -gravity center -background "#0a0a0a" -extent 1024x576 "${PREFIX}/static/images/covers/${DT}-${DESTFILE}-large.jpg"
 	ls "${PREFIX}/static/images/covers/${DT}-${DESTFILE}-large.jpg"
-	convert "${f}" -quality 60 -resize 640x360 "${PREFIX}/static/images/covers/${DT}-${DESTFILE}-medium.webp"
+	convert "${f}" -quality 60 -resize 640x -gravity center -background "#0a0a0a" -extent 640x360 "${PREFIX}/static/images/covers/${DT}-${DESTFILE}-medium.webp"
 	ls "${PREFIX}/static/images/covers/${DT}-${DESTFILE}-medium.webp"
-	convert "${f}" -quality 60 -resize 1024x576 "${PREFIX}/static/images/covers/${DT}-${DESTFILE}-large.webp"
+	convert "${f}" -quality 60 -resize 1024x -gravity center -background "#0a0a0a" -extent 1024x576 "${PREFIX}/static/images/covers/${DT}-${DESTFILE}-large.webp"
 	ls "${PREFIX}/static/images/covers/${DT}-${DESTFILE}-large.webp"
 done
