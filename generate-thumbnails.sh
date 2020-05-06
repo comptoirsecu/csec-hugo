@@ -23,12 +23,12 @@ done
 # Prepend prefix
 PICPATH=${PREFIX}/${PICPATH}
 
-for f in `ls ${PICPATH}/*.jpg`
+for f in `ls ${PICPATH}/*.*g`
 do
 	DESTFILE=`basename -- $f` 
 	DESTFILE=${DESTFILE%.*}
-	convert "${f}" -quality 40 -resize 200x200 "${PREFIX}/static/images/thumbnails/${DESTFILE}.jpg"
+	convert "${f}" -quality 40 -resize x200 -gravity center -background "#0a0a0a" -extent 200x200 "${PREFIX}/static/images/thumbnails/${DESTFILE}.jpg"
 	ls "${PREFIX}/static/images/thumbnails/${DESTFILE}.jpg"
-	convert "${f}" -quality 40 -resize 400x400 "${PREFIX}/static/images/thumbnails/${DESTFILE}-@2x.jpg"
+	convert "${f}" -quality 40 -resize x400 -gravity center -background "#0a0a0a" -extent 400x400 "${PREFIX}/static/images/thumbnails/${DESTFILE}-@2x.jpg"
 	ls "${PREFIX}/static/images/thumbnails/${DESTFILE}-@2x.jpg"
 done
