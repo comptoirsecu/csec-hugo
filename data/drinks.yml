@@ -637,3 +637,20 @@ karukera:
   degree: 45
   image: karukera-cuvee-christophe-colomb.jpg
   description: "Fruit d’un subtil assemblage de rhums hors d’âge, la Cuvée Christophe Colomb 1493 Karukera exprime au plus haut point le caractère riche des vieux rhums Karukera."
+
+neisson_xo:
+  name: "Neisson XO"
+  type: Rhum
+  country: Martinique
+  degree: 48.5
+  image: neisson_xo.jpg
+  description: "Le vieillissement est effectuée en fûts de chêne français et de Bourbon afin de favoriser l’évolution des arômes de maturité et de conférer au rhum cette gourmandise qui vous embrasse fougueusement. Il est l’assemblage de rhums âgés de 9 ans, 11 ans et 12 ans. Symbole de la tradition Neisson et de son renouveau, ce XO nous envoûte et nous offre une symphonie aromatique brillante."
+
+rochefort_10:
+  name: "Trappiste de Rochefort 10"
+  type: Bière
+  subtype: Brune
+  country: Belgique
+  degree: 11.3
+  image: rochefort_10.jpg
+  description: "Une bière trappiste belge au goût de prune et de cacao. Une Merveille de 11,3° !"
