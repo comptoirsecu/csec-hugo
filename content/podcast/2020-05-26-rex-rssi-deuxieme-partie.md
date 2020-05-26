@@ -2,8 +2,7 @@
 title: "[Épisode 51] Retour d’expérience d’un RSSI, partie 2"
 subheadline: "Causette"
 publisher: comptoirsecu
-date: 2020-05-28
-draft: true
+date: 2020-05-26
 image: /images/covers/2020-04-30-rex-rssi1.jpg
 podcast:
   feed: https://podcasts.comptoirsecu.fr/CSEC.EP51.2020-05-28.REX_RSSI_2.m4a
