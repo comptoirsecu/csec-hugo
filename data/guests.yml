@@ -440,3 +440,8 @@ aude:
     name: "Aude"
     anonymous: true
     description: Relier le droit international et la cybersécurité n'est pas impossible
+
+gwen:
+  name: Gwen
+  description: Gouru de la sécurité AD
+  anonymous: true
