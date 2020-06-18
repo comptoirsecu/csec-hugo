@@ -704,3 +704,14 @@ green_greens_blues:
   song: Green Greens Blues
   image: green-greens-blues.jpg
 
+skrillex:
+  artist: fraxiom
+  url: https://soundcloud.com/fraxiom/skrillex-scary-monsters-and-nice-sprites-cover
+  song: skrillex - scary monsters and nice sprites (cover)
+  image: skrillex.jpg
+
+july:
+  artist: amadea
+  url: https://soundcloud.com/user-734877341/july-cover-1
+  song: July (cover)
+  image: july-cover.jpg
