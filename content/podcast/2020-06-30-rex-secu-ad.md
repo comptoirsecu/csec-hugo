@@ -3,7 +3,7 @@ title: "[Épisode 52] Retour d’expérience sur la sécurité de l’Active Dir
 subheadline: "DNSAdmin, vous avez dit ?"
 publisher: comptoirsecu
 date: 2020-06-30
-image: /images/covers/2020-06-30-rex-secu-ad.jpg
+image: /images/covers/2020-07-07-rex-secu-ad.jpg
 draft: true
 podcast:
   feed: https://podcasts.comptoirsecu.fr/CSEC.EP52.2020-06-30.REX_AD.m4a
