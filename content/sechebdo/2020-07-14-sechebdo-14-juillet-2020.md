@@ -1,5 +1,5 @@
 ---
-title: '[SECHebdo] 14 juin 2020'
+title: '[SECHebdo] 14 juillet 2020'
 subheadline: "Menace interne et PI, défendre MS Exchange, Walkthrough MS Defender, Checklist qualité rapports, Rapport ANSSI, CornerVuln (gare !), etc."
 publisher: comptoirsecu
 date: 2020-07-14
