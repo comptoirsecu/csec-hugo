@@ -47,14 +47,14 @@ A bientôt pour d'autres émissions/podcasts!
 
 *  IP Theft
 	* [Protecting Automotive Intellectual Property from Insider Threats](https://www.slideshare.net/mobile/ChristinaLekatis/protecting-automotive-intellectual-property-from-insider-threats)
-	* [https](https://twitter.com/ChristinaLekati/status/1277988562097577985?s=19)
+	* [Twitter status](https://twitter.com/ChristinaLekati/status/1277988562097577985?s=19)
 *  Défendre MS Exchange 
 	* [Defending Exchange servers under attack - Microsoft Security](https://www.microsoft.com/security/blog/2020/06/24/defending-exchange-servers-under-attack/)
 *  walk-through exploit Ms defender
-	* [CVE-2020-1170 - Microsoft Windows Defender Elevation of Privilege Vulnerability | PS C:\Users\itm4n> _](https://itm4n.github.io/cve-2020-1170-windows-defender-eop/)
+	* [CVE-2020-1170 - Microsoft Windows Defender Elevation of Privilege Vulnerability](https://itm4n.github.io/cve-2020-1170-windows-defender-eop/)
 *  Checklist rapports de menace/incident
-	* [PDF Document](https://zeltser.com/media/docs/rating-sheet-threat-reports-info.pdf)
-	* [https](https://twitter.com/sansforensics/status/1278336070694944768)
+	* [Checklist](https://zeltser.com/media/docs/rating-sheet-threat-reports-info.pdf)
+	* [Twitter status](https://twitter.com/sansforensics/status/1278336070694944768)
 * CornerVuln
 	* En attente, y en a trop
 *  Rapport ANSSI
