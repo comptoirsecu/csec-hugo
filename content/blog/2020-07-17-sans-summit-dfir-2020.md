@@ -21,13 +21,13 @@ Les vidéos devaient être publiées sous deux semaines. Les supports ne sont t�
 
 La conférence est diffusée depuis les États-Unis d’Amérique, bousculés par la pandémie et les mouvements sociaux. Les keynotes parlent de richesse culturelle, de la relative rareté des analystes forensics et de la nécessité d’apporter ces compétences où l’argent n’afflue pas : les ONG, les prévenus sans le sou pour leur défense, les écoles, etc. Lee Whitfield, dans un talk dédié aux conséquences de l’absence d’analyste forensic sur la liberté des prévenus (Track 2), basé sur des cas réels et son expérience, revient sur la tentation de laisser passer l’émoi du sentiment d’injustice et de revenir à sa vie. L’appel à la contribution volontaire pour une meilleure société est lancé. Pour protéger des vies.
 
-Il est question aussi de renforcer les pratiques scientifiques dans la pratique. De contribuer davantage au partage des connaissances en structurant les publications. De limiter les biais. Il y a une keynote *Learning at scale* qui revient du 
+Il est question aussi de renforcer les pratiques scientifiques dans la pratique. De contribuer davantage au partage des connaissances en structurant les publications. De limiter les biais.
 
 Et sinon, vous ai-je dit qu’il fallait contribuer à la communauté ? 
 
-Le SANS Institute lance son premier camp d’été pour les ados, filles comme garçons. L’[agenda](summer-camp) devrait nous inspirer en Europe également.
+Le SANS Institute lance son premier camp d’été pour les ados, filles comme garçons. L’[agenda][summer-camp] devrait nous inspirer en Europe également.
 
-Mais vraiment, contribuez !
+Mais vraiment, contribuez ! (oui, ils ont insisté, insisté, insisté)
 
 # Jour 1
 
@@ -59,7 +59,7 @@ Excellent parcours des artéfacts clés sur Windows pour retracer l’activité 
 
 *Écouté en fond*
 
-Présentation des évolutions d’Autopsy, de la conviction que nous sommes encore à l’âge de pierre pour rendre les analyses accessibles. Dévoilement de leur nouvel outil DFIR [Cyber-Triage](cybertriage) qui a l’air vraiment accessible et pourrait permettre un premier triage à quelqu’un qui ne serait que sommairement formé à l’inforensique. 
+Présentation des évolutions d’Autopsy, de la conviction que nous sommes encore à l’âge de pierre pour rendre les analyses accessibles. Dévoilement de leur nouvel outil DFIR [Cyber-Triage][cybertriage] qui a l’air vraiment accessible et pourrait permettre un premier triage à quelqu’un qui ne serait que sommairement formé à l’inforensique. 
 
 
 ## Healthy Android Exams: Timelining Digital Wellbeing Data
@@ -74,15 +74,15 @@ Cf. l’intro. Il avait peur que les keynotes enlèvent le caractère particulie
 
 Par des reversers de FireEye/Mandiant. Outil d’analyse statique d’un binaire pour sortir un résultat humainement lisible des capacités utilisées (par ex : télécharger depuis une URL). Permet à un analyste de voir si ça colle ou cloche avec son investigation sans avoir à appeler d’office le reverser. L’outil fonctionne mieux que prévu, sauf contre les binaires qui découpent une fonctionnalité dans plusieurs fonctions, si j’en crois les discussions sur Discord.
 
-Un grand appel à la communauté pour enrichir les modules d’analyse. [Blog post ici](capa).
+Un grand appel à la communauté pour enrichir les modules d’analyse. [Blog post ici][capa].
 
 # Jour 2, main Track
 
 ## Help! We Need an Adult! Engaging an External IR Team
 
-Par Lizz Waddell, Incident Commander de Talos. Inclure le « quand appeler de l’aide » dans le plan de réponse à incident et les raisons pour lesquelles les appeler (voir slides). Faites de préférence vos courses avant pour préparer le jour où ils vont débarquer et savoir combien ça va vous coûter. Définir la portée de leur engagement et leur objectif (root cause, lateral movement, data exfiltration, etc). En cas de déplacement sur site, quel site ? Quel niveau de vérification avant d’autoriser l’accès ? Préparer aussi la relation avec l’assureur (encore faut-il savoir que la société est assurée, hein, les RSSI…). Les logs, c’est bien, mais nom d’une pipe ! En UTC, vos logs ! Ça vous coûtera très cher sinon (mais on ne saura pas pourquoi). 
+Par Lizz Waddell, Incident Commander de Talos. Inclure le « quand appeler de l’aide » dans le plan de réponse à incident et les raisons pour lesquelles les appeler (voir slides). Faites de préférence vos courses avant pour préparer le jour où ils vont débarquer et savoir combien ça va vous coûter. Définir la portée de leur engagement et leur objectif (root cause, lateral movement, data exfiltration, etc). En cas de déplacement sur site, quel site ? Quel niveau de vérification avant d’autoriser l’accès ? Préparer aussi la relation avec l’assureur (encore faut-il savoir que la société est assurée, hein, les RSSI…). Les logs, c’est bien, mais nom d’une pipe ! En UTC, vos logs ! Ça vous coûtera très cher sinon (car tout prendra plus de temps, et des erreurs seront commises par les analystes). 
 
-Cette présentation est un trésor pour préparer la réponse à incident. Parmi les discussions Discord, un rappel du plan pour éviter que toute l’équipe IR soit off à cause du COVID.
+Cette présentation est un trésor pour préparer la réponse à incident. Parmi les discussions Discord, un rappel du plan pour éviter que toute l’équipe IR soit off à cause du COVID, savoir ne pas s’engager quand on n’a pas ce qu’il faut pour travailler. Bonne discussion sur les playbooks également.
 
 ## Forensic Analysis of the Apple HomePod and the Apple HomeKit Environment 
 
@@ -100,11 +100,11 @@ Rien de plus que le titre, c’est dommage. Il y avait des exemples sur l’util
 
 ## From Threat Research to Organizational Threat Detection
 
-Modélisation de la menace avec les frameworks : Microsoft STRIDE or PASTA. C’est fantastique, mais pas actionnable. Donc, en fait, on prend un schéma d’architecture pour modéliser le système susceptible d’être attaqué et on liste ses frontières comme les TTPs susceptibles d’être utilisées contre lui. 
+Modélisation de la menace avec les frameworks : Microsoft STRIDE or PASTA. C’est fantastique, mais on en vient vite à la réalité : on prend un schéma d’architecture pour modéliser le système susceptible d’être attaqué et on liste ses frontières comme les TTPs susceptibles d’être utilisées contre lui. 
 
 ## DFIR To Go
 
-Discussion avec les organisateurs sur le déroulement de l’évènement (magnifiquement géré, il faut dire).
+Discussion avec les organisateurs sur le déroulement de l’évènement (magnifiquement géré, il faut le dire).
 
 ## Cyber Sleuth: Education and Immersion for the Next Generation
 
@@ -169,7 +169,7 @@ Démo de Magnet pour AWS et Azure, avec une intro sur les services de base AWS.
 
 # Conclusion
 
-Sans qu’on ait eu le plaisir des évènements SANS dans un lieu unique, cela a été l’occasion de réunir beaucoup de monde, parmi lesquels de nombreuses personnes qui n’auraient pas pu faire le voyage ni payer l’entrée. 
+Sans qu’on ait eu le plaisir des évènements SANS dans un lieu unique, cela a été l’occasion de réunir beaucoup de monde, parmi lesquels de nombreuses personnes qui n’auraient pas pu faire le voyage ni payer l’entrée. Les prochains summit, pandémie oblige, seront probablement virtuels, jusqu’à pouvoir revenir en vrai, et peut-être conservera-t-on les serveurs Discord éphémères.
 
 [summer-camp]: https://www.sans.org/cyber-camp
 [cybertriage]: https://cybertriage.com
