@@ -21,7 +21,7 @@ Les vidéos devaient être publiées sous deux semaines. Les supports ne sont t�
 
 La conférence est diffusée depuis les États-Unis d’Amérique, bousculés par la pandémie et les mouvements sociaux. Les keynotes parlent de richesse culturelle, de la relative rareté des analystes forensics et de la nécessité d’apporter ces compétences où l’argent n’afflue pas : les ONG, les prévenus sans le sou pour leur défense, les écoles, etc. Lee Whitfield, dans un talk dédié aux conséquences de l’absence d’analyste forensic sur la liberté des prévenus (Track 2), basé sur des cas réels et son expérience, revient sur la tentation de laisser passer l’émoi du sentiment d’injustice et de revenir à sa vie. L’appel à la contribution volontaire pour une meilleure société est lancé. Pour protéger des vies.
 
-Il est question aussi de renforcer les pratiques scientifiques dans la pratique. De contribuer davantage au partage des connaissances en structurant les publications. De limiter les biais.
+Il est question aussi de renforcer les méthodes scientifiques dans la pratique. De contribuer davantage au partage des connaissances en structurant les publications. De limiter les biais.
 
 Et sinon, vous ai-je dit qu’il fallait contribuer à la communauté ? 
 
