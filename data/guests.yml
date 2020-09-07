@@ -445,3 +445,24 @@ gwen:
   name: Gwen
   description: Gouru de la sécurité AD
   anonymous: true
+
+arnaud_jumelet:
+  name: "Arnaud Jumelet"
+  twitter: Arnaud_Jumelet
+  linkedin: https://www.linkedin.com/in/arnaudjumelet/
+  description: "National Security Officer chez Microsoft France"
+  image: arnaud_jumelet.jpg
+
+alexandre_demilly:
+  name: "Alexandre Demilly"
+  uri: https://www.wakers.fr
+  linkedin: https://www.linkedin.com/in/alexandre-demilly-7472bab5/
+  description: "CEO de la société de conseil Wakers"
+  anonymous: true 
+
+jean_marc:
+  name: "Jean Marc"
+  twitter: clusif
+  uri: https://clusif.fr
+  description: "Travaille dans la sécurité d'un grand groupe. Administrateur du Clusif et anime son groupe de travail Office 365"
+  anonymous: true
