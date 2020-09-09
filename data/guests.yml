@@ -457,8 +457,8 @@ alexandre_demilly:
   name: "Alexandre Demilly"
   uri: https://www.wakers.fr
   linkedin: https://www.linkedin.com/in/alexandre-demilly-7472bab5/
-  description: "CEO de la société de conseil Wakers"
-  anonymous: true 
+  description: "CEO & Cloud solutions Architect WAKERS"
+  image: alexandre_demilly.jpg
 
 jean_marc:
   name: "Jean Marc"
