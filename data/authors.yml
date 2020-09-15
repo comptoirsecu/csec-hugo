@@ -94,10 +94,11 @@ swithak:
 jil:
   name: Jil
   description: >
-      Couteau Suisse qui aiguise son prochain outil : le décapsuleur. Joue à pacman avec le contrôle interne, pousse son SI à l'avant-garde des mesures de sécurité pertinentes.
+      Ex RSSI et gourou, écrivain quand il trouve le temps, s'amuse à présent dans la ligue DFIR avec une passion pour le Threat Hunting.
   image: jil.jpg
   staff: true
   active: true
+  twitter: "Abraraccourcix"
 
 ptro46:
   name: Ptro46

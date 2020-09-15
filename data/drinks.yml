@@ -695,3 +695,29 @@ tempel:
   country: Suède
   image: tempel.jpg
   description: "Une bière locale vers chez Morgan"
+
+tempel_green:
+  name: "Tempel Brygghus Green Mist"
+  type: Bière
+  country: Suède
+  image: tempel_green_mist.jpg
+  description: "Une bière au citron, locale vers chez Morgan"
+
+kg_blackipa:
+  name: "K&G Green Valley Black IPA"
+  type: Bière
+  subtype: Brune
+  country: France (Haute-Savoie)
+  image: kg_green_valley_BlackIPA.jpg
+  description: "Bière brune pure malt"
+
+reimonenq:
+  name: "Reimonenq - Rhum hors d'âge - RQL - 18 ans"
+  type: Rhum
+  country: Guadeloupe
+  degree: 44
+  image: reimonenq.jpg
+  description: "Ce rhum hors d’âge est issu d'une seule cuvée de rhums de la distillerie Reimonenq en Guadeloupe et n'a donc subi aucun assemblage. Ce 18 ans d'âge compte parmi les rhums de la plus haute qualité détenu par Reimonenq. Mis en fût en 1999, embouteillé en 2017."
+
+
+ 
