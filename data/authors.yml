@@ -125,3 +125,12 @@ das:
   description: "Développeur aigri passé du côté obscur du pentest"
   image: das.jpg
   uri: https://www.root-me.org/das
+
+laluka:
+  name: laluka
+  description: >
+      Think, Love, Share !
+      Mi-hackeur, mi-chat, suivant l'heure 🙃
+  twitter: "thelaluka"
+  image: laluka.jpg
+  uri: https://thinkloveshare.com/
