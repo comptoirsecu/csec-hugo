@@ -33,7 +33,7 @@ justin:
     email: justin@comptoirsecu.fr
     name: Justin Ganivet
     twitter: "izura"
-    youtube: 'UCe-0FAoHZyDLPMLHnYAuXsw'
+    youtube: "UCe-0FAoHZyDLPMLHnYAuXsw"
     youtube_name: "Le Point Sécu"
     image: justin-ganivet.jpg
     linkedin: https://www.linkedin.com/company-beta/3578276/
@@ -68,7 +68,7 @@ youenn:
     email: youenn@comptoirsecu.fr
     name: Youenn Piolet
     twitter: "schematicwizard"
-    uri: 'http://ypiolet.fr'
+    uri: http://ypiolet.fr
     image: youenn-piolet.jpg
     staff: true
     active: false
@@ -77,7 +77,7 @@ simon:
     description: >
         Ancien membre du Comptoir
     name: Simon Lacoste
-    linkedin: 'simonlacoste'
+    linkedin: https://www.linkedin.com/in/simonlacoste/
     image: simon-lacoste.jpg
     staff: false
     active: false
@@ -128,9 +128,8 @@ das:
 
 laluka:
   name: laluka
-  description: >
-      Think, Love, Share !<br/>
-      Mi-hackeur, mi-chat, suivant l'heure 🙃
+  linkedin: https://www.linkedin.com/in/%F0%9F%99%83-louka-jacques-chevallier-6b2460125/
+  description: "Think, Love, Share !<br>Mi-hackeur, mi-chat, suivant l'heure 🙃"
   twitter: "thelaluka"
   image: laluka.jpg
   uri: https://thinkloveshare.com/

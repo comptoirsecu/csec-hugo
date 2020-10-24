@@ -23,7 +23,7 @@
     {{ end }}
   </div>
   <div class="card-section card-desc">
-    {{ with .value.description }}
+    {{ with .value.description | safeHTML }}
     <p>{{ . }}</p>
     {{ end }}
   </div>
