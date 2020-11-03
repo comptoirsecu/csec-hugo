@@ -719,5 +719,30 @@ reimonenq:
   image: reimonenq.jpg
   description: "Ce rhum hors d’âge est issu d'une seule cuvée de rhums de la distillerie Reimonenq en Guadeloupe et n'a donc subi aucun assemblage. Ce 18 ans d'âge compte parmi les rhums de la plus haute qualité détenu par Reimonenq. Mis en fût en 1999, embouteillé en 2017."
 
+calvinus:
+  name: "Calvinus blonde non filtrée"
+  type: Bière
+  country: Suisse
+  image: calvinus.jpg
+  description: "Bière blonde d’autrefois, bio, non filtrée, contenant eau de source, orge, houblons et levure, tous issus de l’agriculture biologique."
 
- 
+depaz_3374:
+  name: Depaz - Rhum hors d'âge - Brut de fût 3374 - Millésime 2004 - 70cl - 58°
+  type: Rhum
+  country: Martinique
+  image: depaz-2004-brut-de-fut-3374.jpg
+  description: "Cette cuvée, proposée en édition limitée (1 357 bouteilles), a bénéficié d’un vieillissement de 14 ans en fût n° 3374, temps pendant lequel elle a pu déployer une vaste gamme de notes complexes et gourmandes, qui en font l’attrait et la richesse."
+
+lagunita:
+  name: "Lagunita IPA"
+  type: Bière
+  country: USA
+  image: lagunita.jpg
+  description: "Il paraît qu'ils font des bières"
+
+snorri:
+  name: "Snorri"
+  type: Bière
+  country: Islande
+  image: snorri.jpg
+  description: "Unfiltered, slightly cloudy ale brewed with Icelandic barley and organic Icelandic thyme in honor of Snorri Sturluson, chieftain at Borg, the manor our brewery is named after. The pungent aroma of the thyme juxtaposes the fresh, fruity taste, giving Snorri a unique character."
