@@ -29,8 +29,8 @@ drinks:
   - snorri
 
 songs:
-  - frogleap-fatbottomedgirls
-  - taylor-dragonroost
+  - danvasc_witcher
+  - rachelhardy_castemere
 
 ---
 
