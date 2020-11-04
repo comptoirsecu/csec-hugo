@@ -466,3 +466,15 @@ jean_marc:
   uri: https://clusif.fr
   description: "Travaille dans la sécurité d'un grand groupe. Administrateur du Clusif et anime son groupe de travail Office 365"
   anonymous: true
+
+jordane_pinto:
+  name: Jordane Pinto
+  description: Architecte sécurité (construit sans doute des miradors)
+  linkedin: https://www.linkedin.com/in/jordane-pinto-80053214
+  anonymous: true
+
+thomas_burnouf:
+  name: Thomas Burnouf
+  description: Responsable d'un pôle du SOC
+  image: thomas_burnouf.jpg
+  linkedin: https://fr.linkedin.com/in/thomas-burnouf-1303b060
