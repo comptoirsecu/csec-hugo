@@ -2,7 +2,7 @@
 title: "[Épisode 54] Mise en œuvre d'un SIEM"
 subheadline: "SIEM, ô mon amour !"
 publisher: comptoirsecu
-date: 2020-10-04
+date: 2020-11-04
 image: /images/covers/2020-11-03-implem_siem.jpg
 podcast:
   feed: https://podcasts.comptoirsecu.fr/CSEC.EP54-2020-10-04.IMPLEM_SIEM.m4a
