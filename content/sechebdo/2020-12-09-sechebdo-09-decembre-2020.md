@@ -18,7 +18,7 @@ tags:
  - IP
 
 authors:
-  - siwthak
+  - swithak
   - jil
   - laluka
   
