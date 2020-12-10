@@ -1,5 +1,5 @@
 ---
-title: '[SECHebdo] 09 novembre 2020'
+title: '[SECHebdo] 09 décembre 2020'
 subheadline: "FireEye, RCE Teams, Deno, Burp Proxy Toggler, McAfee Criminality Report, CornerVuln, etc."
 publisher: comptoirsecu
 date: 2020-12-09
