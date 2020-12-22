@@ -30,7 +30,7 @@ SolarWinds est une société États-Unienne qui développe des logiciels permett
 
 ## Et alors ? On en voit tous les jours, des logiciels pourris upstream, non ?
 
-Cette campagne est une orfèvrerie. Le code intégré à Orion respecte totalement les pratiques de développement du logiciel. Le fonctionnement de la porte dérobée utilise des fichiers de configuration. Elle tente subrepticement de désactiver certains produits de sécurité sans laisser de trace. Teardrop, le deuxième étage de l’attaque, est un implant Cobalt-Strike qui
+Cette campagne est une orfèvrerie. Le code intégré à Orion respecte totalement les pratiques de développement du logiciel. Le fonctionnement de la porte dérobée utilise des fichiers de configuration. Elle communique avec son C2 en se fondant dans le protocole Orion Improvement Program. Elle tente subrepticement de désactiver certains produits de sécurité sans laisser de trace. Teardrop, le deuxième étage de l’attaque, serait un dropper Cobalt-Strike résidant uniquement en mémoire. Il démarre un service, lit sa configuration depuis un fichier JPEG et vérifie la présence d’une clé de registre. Une fois Cobalt-Strike opérationnel, il communique vers un autre C2, et nous sommes presque de retour en terrain connu. Presque, car cet attaquant aurait extrait le certificat de signature des jetons ADFS pour pouvoir forger ses propres jetons valides et se connecter aux ressources dont l’accès est contrôlé par ce service de fédération d’identités.
 
 ## Cibles et portée de la campagne
 
