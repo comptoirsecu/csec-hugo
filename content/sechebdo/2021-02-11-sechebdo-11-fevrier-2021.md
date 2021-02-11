@@ -1,5 +1,5 @@
 ---
-title: '[SECHebdo] 11 janvier 2021'
+title: '[SECHebdo] 11 février 2021'
 subheadline: "FireJail, The Great Suspender, Leak ProjektRed, SCADA & VNC, Rançongiciel, Corner Vuln, Github1s, etc."
 publisher: comptoirsecu
 date: 2021-02-11
