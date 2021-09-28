@@ -746,3 +746,31 @@ snorri:
   country: Islande
   image: snorri.jpg
   description: "Unfiltered, slightly cloudy ale brewed with Icelandic barley and organic Icelandic thyme in honor of Snorri Sturluson, chieftain at Borg, the manor our brewery is named after. The pungent aroma of the thyme juxtaposes the fresh, fruity taste, giving Snorri a unique character."
+
+demon:
+  name: "Bière du démon"
+  type: Bière
+  country: France
+  image: demon.jpg 
+  description: C'est fort !
+
+camdentown:
+  name: Camden Town Ambrée
+  type: Bière
+  country: Royaume-Uni
+  image: camden-town.jpg
+  description: Importée avant le Brexit :]
+
+laurent_perrier:
+  name: Champagne Laurent-Perrier
+  type: Champagne
+  country: France
+  image: laurent-perrier.jpg 
+  description: Nul besoin d'épiloguer.
+
+valaisane:
+  name: Valaisane
+  type: Bière 
+  country: Suisse 
+  image: valaisane.jpg
+  description: Un goût de voyage ?
