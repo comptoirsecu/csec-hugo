@@ -12,6 +12,9 @@ categories:
 tags:
   - SOC
   - SIEM
+  - Incident Reponse
+  - CSIRT
+  - CERT
 
 authors:
   - swithak
