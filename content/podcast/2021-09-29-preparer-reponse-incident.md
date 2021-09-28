@@ -31,8 +31,8 @@ drinks:
   - valaisane
 
 songs:
-  - danvasc_witcher
-  - rachelhardy_castemere
+  - troll_bridge
+  - ori_whisps
 
 ---
 
