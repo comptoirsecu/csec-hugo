@@ -478,3 +478,15 @@ thomas_burnouf:
   description: Responsable d'un pôle du SOC
   image: thomas_burnouf.jpg
   linkedin: https://fr.linkedin.com/in/thomas-burnouf-1303b060
+
+jean_marc_david_boudet:
+  name: Jean-Marc David-Boudet
+  description: Grand défenseur du SI, forensique et accompagnement SOC
+  linkedin: https://www.linkedin.com/in/jean-marc-david/
+  image: jm_dboudet.jpg
+
+vincent_nguyen:
+  name: Vincent Nguyen 
+  description: Ancien responsable CERT Wavestone, désormais à son compte en gestion de crise, réponse à incident
+  image: vincent_nguyen.jpg
+  linkedin: https://www.linkedin.com/in/vincent-nguyen-20640411/
