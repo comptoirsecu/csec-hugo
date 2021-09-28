@@ -2,8 +2,8 @@
 title: "[Épisode 55] Préparer sa réponse à incident"
 subheadline: "Men in black are coming"
 publisher: comptoirsecu
-date: 2021-09-29
-image: /images/covers/2021-09-29-incident-response.jpg
+date: 2021-09-28
+image: /images/covers/2021-09-28-ep55.jpg
 podcast:
   feed: https://podcasts.comptoirsecu.fr/CSEC.EP55.2021-09-28.PREPARE_IR.m4a
 categories:
