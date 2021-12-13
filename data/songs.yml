@@ -763,3 +763,28 @@ troll_bridge:
   url: https://www.youtube.com/watch?v=V7v_TdLviUE
   song: The Troll Bridge Ending
   image: troll-bridge.jpg
+
+last_length:
+  artist: Colm R. McGuinness
+  song: The Last Length (Original Song) Colm R.4 McGuinness
+  url: https://www.youtube.com/watch?v=rU8N1U5mYzw
+
+pippin_song:
+  artist: Colm R. McGuinness
+  song: Pippin's Song ('Edge of Night') Lord of the Rings Cover
+  url: https://www.youtube.com/watch?v=GcAwVhtuDLs
+
+ehrling_adventure:
+  artist: Ehrling
+  song: Ehrling - Adventure
+  url: https://www.youtube.com/watch?v=c9Yrf9OILvI&t=0s
+
+it_aint_over:
+  artist: Vendredi
+  song: Vendredi - It Ain't Over (feat. Sphere)
+  url: https://www.youtube.com/watch?v=rAL4r4nC8Nw
+
+the_last_of_us:
+  artist: Eliott Tordo
+  song: The Last Of Us Main Theme - Fingerstyle Guitar + All instruments Cinematic Cover by Eliott Tordo
+  url: https://www.youtube.com/watch?v=6zfq1Xyga74
