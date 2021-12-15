@@ -69,14 +69,14 @@
               {{ .Summary | html }}
             </description>
             <content type="html">{{chomp "<![CDATA[\n"}}<img src="{{ $.Site.BaseURL }}{{ $img }}" class="webfeedsFeaturedVisual" /><br />{{chomp "]]>\n"}}
-            {{ printf `<![CDATA[%s]]>` .Content | plainify }}
+            {{ printf `<![CDATA[%s]]>` .Content | safeHTML }}
             </content>
             <enclosure url="{{ .Params.podcast.feed }}" length="1" type="audio/x-m4a"/>
             <itunes:author>{{ $.Site.Params.Author }}</itunes:author>
             <itunes:explicit>No</itunes:explicit>
             <itunes:subtitle>{{chomp "<![CDATA[\n"}}{{ .Params.Subheadline }}{{chomp "]]>\n"}}</itunes:subtitle>
             <itunes:summary>
-                {{ printf `<![CDATA[%s]]>` .Content | plainify }}
+                {{ printf `<![CDATA[%s]]>` .Content | safeHTML }}
             </itunes:summary>
             <itunes:keywords>{{chomp "<![CDATA[\n"}}{{ delimit .Params.tags ", " }}{{chomp "]]>\n"}}</itunes:keywords>
             {{ $img := or .Params.image "/images/covers/default.jpg" }}
