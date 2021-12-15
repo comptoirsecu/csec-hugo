@@ -5,7 +5,7 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "fr"
 copyright = "© 2017 Le Comptoir Sécu"
 paginate = 12
-rssLimit = 50
+rssLimit = 100
 enableRobotsTXT = true
 disableAliases = true
 
@@ -60,7 +60,7 @@ notAlternative = true
 
 [outputs]
 home = [ "HTML", "podcastFeed", "Headers", "Redirects", "RSSFeed"]
-page = [ "HTML", "AMP"]
+page = [ "HTML", "AMP", "RSS"]
 
 
 [taxonomies]
