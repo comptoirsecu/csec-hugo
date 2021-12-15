@@ -1,4 +1,3 @@
-{{ with $.Page.OutputFormats.Get "html" }}
 {{- if .Get "title" -}}
   {{- $.Scratch.Set "title" (.Get "title") -}}
 {{- else if $.Page.Params.Podcast.Title -}}
@@ -102,4 +101,3 @@
 {{ $podigeejs := resources.Get "js/podigee-get-settings.js" | minify | fingerprint }}
 <script type="text/javascript" src="{{ $podigeejs.Permalink }}" integrity="{{ $podigeejs.Data.Integrity }}"></script>
 <script class="podigee-podcast-player" src="//cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="podigee"></script>
-{{end}}
