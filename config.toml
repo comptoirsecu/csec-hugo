@@ -60,7 +60,7 @@ notAlternative = true
 
 [outputs]
 home = [ "HTML", "podcastFeed", "Headers", "Redirects", "RSSFeed"]
-page = [ "HTML", "AMP", "RSS"]
+page = [ "HTML", "AMP"]
 
 
 [taxonomies]

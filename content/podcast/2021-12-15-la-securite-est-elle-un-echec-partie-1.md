@@ -1,8 +1,8 @@
 ---
 title: "[Épisode 56] La sécurité est-elle un échec ? Partie 1"
-subheadline: "Regarde dans ton rétro et contemple"
+subheadline: "Regarde dans ton rétro et contemple les cendres"
 publisher: comptoirsecu
-date: 2021-12-15
+date: 2021-12-17
 image: /images/covers/2021-12-15-echec-1.jpg
 podcast:
   feed: https://podcasts.comptoirsecu.fr/CSEC.EP56.2021-12-15.ECHEC_1.m4a
