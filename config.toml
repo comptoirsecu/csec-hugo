@@ -5,7 +5,7 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "fr"
 copyright = "© 2017 Le Comptoir Sécu"
 paginate = 12
-rssLimit = 50
+rssLimit = 100
 enableRobotsTXT = true
 disableAliases = true
 

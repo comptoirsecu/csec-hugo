@@ -490,3 +490,8 @@ vincent_nguyen:
   description: Ancien responsable CERT Wavestone, désormais à son compte en gestion de crise, réponse à incident
   image: vincent_nguyen.jpg
   linkedin: https://www.linkedin.com/in/vincent-nguyen-20640411/
+
+newsoft:
+  name: Nicolas Ruff
+  descripteur: Vieux baroudeur de la sécu, membre du pocast No Limit Sécu
+  anonymous: true
