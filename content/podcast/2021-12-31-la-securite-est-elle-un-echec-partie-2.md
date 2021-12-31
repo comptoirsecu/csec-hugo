@@ -22,7 +22,7 @@ guests:
   - newsoft
 
 songs:
-  - last_length
+  - ehrling_adventure
 
 ---
 
