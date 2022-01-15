@@ -30,4 +30,4 @@ En cette fin d'année 2021, nous regardons dans le retroviseur pour voir si la s
 
 {{< podigee >}}
 
-Crédits photo :  Mikhail Nilov
+
