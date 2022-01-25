@@ -2,7 +2,7 @@
 title: "[Épisode 59] La sécurité est-elle un échec ? Partie 4"
 subheadline: "Morgan fait la loi !"
 publisher: comptoirsecu
-date: 2022-01-15
+date: 2022-01-26
 image: /images/covers/2022-01-26-ep59.jpg
 podcast:
   feed: https://podcasts.comptoirsecu.fr/CSEC.EP59.2022-01-26.ECHEC_4.m4a
