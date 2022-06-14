@@ -60,6 +60,6 @@ A bientôt pour d'autres émissions/podcasts!
 *  Vol de données chez FB
 	* [Payroll Data of 29,000 Facebook Employees Stolen: Report](https://www.bankinfosecurity.com/payroll-data-29000-facebook-employees-stolen-report-a-13509)
 *  Proton calendar
-	* [How secure is ProtonCalendar? - ProtonMail Blog](https://protonmail.com/blog/protoncalendar-security-model/)
+	* [How secure is ProtonCalendar? - ProtonMail Blog](https://proton.me/blog/protoncalendar-security-model/)
 *  Amazon Detective
 	* [Amazon Detective – Amazon Web Services](https://aws.amazon.com/fr/detective/)
