@@ -6,7 +6,7 @@ date: 2016-09-16T19:16:37+00:00
 
 aliases: /2016/09/ndh2016-2-interview-inverse-avec-jp-gaulier/
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/HORS_SERIE/CSEC.HS24.2016-07-02.NDH2k16_Jpgaulier.mp3
+  feed: https://podcasts.comptoirsecu.fr/podcasts/HORS_SERIE/CSEC.HS24.2016-07-02.NDH2k16_Jpgaulier.mp3
 views: 871
 image: /images/covers/2016-09-ndh2k16.jpg
 categories:

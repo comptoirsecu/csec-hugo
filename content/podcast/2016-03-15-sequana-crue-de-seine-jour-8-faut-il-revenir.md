@@ -7,7 +7,7 @@ date: 2016-03-15T09:00:50+00:00
 
 aliases: /2016/03/sequana-crue-de-seine-jour-8-faut-il-revenir/
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/HORS_SERIE/CSEC.HS20.2016-03-16.CRUE2016_08.mp3
+  feed: https://podcasts.comptoirsecu.fr/podcasts/HORS_SERIE/CSEC.HS20.2016-03-16.CRUE2016_08.mp3
 views: 1841
 image: /images/covers/2016-03-paris_inondation.jpg
 categories:

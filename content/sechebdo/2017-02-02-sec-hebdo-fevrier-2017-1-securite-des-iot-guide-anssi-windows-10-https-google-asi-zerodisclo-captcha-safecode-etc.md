@@ -8,7 +8,7 @@ video: "6Tzb-Shm2QI"
 
 aliases: /2017/02/sec-hebdo-fevrier-2017-1-securite-des-iot-guide-anssi-windows-10-https-google-asi-zerodisclo-captcha-safecode-etc/
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/SECHebdo/CSEC.SECHebdo.2017-02-02.mp3
+  feed: https://podcasts.comptoirsecu.fr/podcasts/SECHebdo/CSEC.SECHebdo.2017-02-02.mp3
 image: /images/covers/2017-02-2017-02-02-vignette.jpg
 categories:
   - Podcast

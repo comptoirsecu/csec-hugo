@@ -7,7 +7,7 @@ date: 2016-09-16T19:26:26+00:00
 
 aliases: /2016/09/ndh2016-3-securite-du-protocole-zigbee-avec-renaud-lifchitz/
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/HORS_SERIE/CSEC.HS25.2016-07-02.NDH2k16_Renaud_Lifchitz.mp3
+  feed: https://podcasts.comptoirsecu.fr/podcasts/HORS_SERIE/CSEC.HS25.2016-07-02.NDH2k16_Renaud_Lifchitz.mp3
 views: 1478
 image: /images/covers/2016-09-ndh2k16.jpg
 categories:

@@ -9,7 +9,7 @@ video: "QJYbFlBPmDE"
 aliases: /2017/05/sechebdo-mai-2017-1-2fa-evilginx-justicier-hajime-rancon-netflix-bgpmon-nomx-shadow-brokers-shodan-etc/
 image: /images/covers/2017-05-sechebdo-2017-05-01.jpg
 podcast:
-    feed: https://podcasts.comptoirsecu.fr/SECHebdo/CSEC.SECHebdo.2017-05-03.mp3
+    feed: https://podcasts.comptoirsecu.fr/podcasts/SECHebdo/CSEC.SECHebdo.2017-05-03.mp3
     description: "Épisode du 02 mai 2017 - SECHebdo est une revue de l'actualité cybersécurité réalisé en live sur Youtube, généralement le mardi soir."
 categories:
   - Podcast

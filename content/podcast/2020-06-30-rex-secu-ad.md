@@ -5,7 +5,7 @@ publisher: comptoirsecu
 date: 2020-07-07
 image: /images/covers/2020-07-07-rex-secu-ad.jpg
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/CSEC.EP52.2020-06-30.REX_AD.m4a
+  feed: https://podcasts.comptoirsecu.fr/podcasts/CSEC.EP52.2020-06-30.REX_AD.m4a
 categories:
   - Podcast
   - Emission

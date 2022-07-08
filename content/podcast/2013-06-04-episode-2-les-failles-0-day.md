@@ -6,7 +6,7 @@ date: 2013-06-04T00:00:00+00:00
 aliases: /2013/06/podcast-episode-2-les-failles-0-day/
 
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/CSEC.EP02.2013-06-04.ZERODAY.mp3
+  feed: https://podcasts.comptoirsecu.fr/podcasts/CSEC.EP02.2013-06-04.ZERODAY.mp3
 
 categories:
   - Podcast

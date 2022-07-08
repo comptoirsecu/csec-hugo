@@ -8,7 +8,7 @@ date: 2014-10-12T17:30:13+00:00
 aliases: /2014/10/episode-hs-les-assises-de-la-securite-2014/
 views: 6225
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/HORS_SERIE/CSEC.HS03.2014-10-12.ASSISES.mp3
+  feed: https://podcasts.comptoirsecu.fr/podcasts/HORS_SERIE/CSEC.HS03.2014-10-12.ASSISES.mp3
 image: /images/covers/2014-10-811130317_138042_3712114333708565266.jpg
 categories:
   - Podcast

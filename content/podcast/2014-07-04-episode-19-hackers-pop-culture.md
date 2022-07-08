@@ -8,7 +8,7 @@ date: 2014-07-04T17:12:59+00:00
 aliases: /2014/07/episode-19-hackers-pop-culture/
 views: 4711
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/CSEC.EP19.2014-07-02.HACKERS_CULTURE_POP.mp3
+  feed: https://podcasts.comptoirsecu.fr/podcasts/CSEC.EP19.2014-07-02.HACKERS_CULTURE_POP.mp3
 image: /images/covers/2014-05-hackers001.jpg
 categories:
   - Podcast

@@ -8,7 +8,7 @@ date: 2016-03-11T09:32:27+00:00
 aliases: /2016/03/sequana-crue-de-seine-jour-5-teletravail-et-sites-de-repli/
 views: 3624
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/HORS_SERIE/CSEC.HS18.2016-03-11.CRUE2016_05.mp3
+  feed: https://podcasts.comptoirsecu.fr/podcasts/HORS_SERIE/CSEC.HS18.2016-03-11.CRUE2016_05.mp3
 image: /images/covers/2016-03-Crue-Seine-1-cop-Slasher-fun.jpg
 categories:
   - Podcast

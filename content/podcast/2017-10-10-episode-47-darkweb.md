@@ -5,7 +5,7 @@ publisher: comptoirsecu
 date: 2017-10-10
 image:  /images/covers/2017-10-10-darkweb.jpg
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/CSEC.EP47.2017-10-10.DARKWEB.mp3
+  feed: https://podcasts.comptoirsecu.fr/podcasts/CSEC.EP47.2017-10-10.DARKWEB.mp3
 categories:
   - Podcast
   - Emission

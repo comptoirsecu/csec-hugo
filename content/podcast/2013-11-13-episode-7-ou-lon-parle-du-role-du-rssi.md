@@ -8,7 +8,7 @@ date: 2013-11-13T09:50:40+00:00
 aliases: /2013/11/episode-7-ou-lon-parle-du-role-du-rssi/
 views: 2991
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/CSEC.EP07.2013-11-13.RSSI.mp3
+  feed: https://podcasts.comptoirsecu.fr/podcasts/CSEC.EP07.2013-11-13.RSSI.mp3
 categories:
   - Podcast
   - Emission

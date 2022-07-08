@@ -5,7 +5,7 @@ publisher: comptoirsecu
 date: 2022-01-15
 image: /images/covers/2022-01-15-ep58.jpg
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/CSEC.EP58.2022-01-12.ECHEC_3.m4a
+  feed: https://podcasts.comptoirsecu.fr/podcasts/CSEC.EP58.2022-01-12.ECHEC_3.m4a
 categories:
   - Podcast
   - Emission

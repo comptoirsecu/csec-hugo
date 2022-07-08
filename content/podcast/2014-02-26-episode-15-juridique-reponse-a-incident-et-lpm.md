@@ -9,7 +9,7 @@ date: 2014-02-26T10:00:21+00:00
 aliases: /2014/02/episode-15-juridique-reponse-a-incident-et-lpm/
 views: 5598
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/CSEC.EP15.2014-02-25.REPONSE_A_INCIDENTS.mp3
+  feed: https://podcasts.comptoirsecu.fr/podcasts/CSEC.EP15.2014-02-25.REPONSE_A_INCIDENTS.mp3
 image: /images/covers/2014-02-Nike_libation_Apollo_Louvre_Ma965.jpg
 categories:
   - Podcast

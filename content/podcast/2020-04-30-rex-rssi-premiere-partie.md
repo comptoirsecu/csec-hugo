@@ -5,7 +5,7 @@ publisher: comptoirsecu
 date: 2020-04-30
 image: /images/covers/2020-04-30-rex-rssi1.jpg
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/CSEC.EP50.2020-04-30.REX_RSSI_1.m4a
+  feed: https://podcasts.comptoirsecu.fr/podcasts/CSEC.EP50.2020-04-30.REX_RSSI_1.m4a
 categories:
   - Podcast
   - Emission

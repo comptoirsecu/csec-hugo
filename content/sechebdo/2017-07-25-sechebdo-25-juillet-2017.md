@@ -5,7 +5,7 @@ subheadline: "AlphaBay, Hansa, Orpheus Lyre, Briar, etc."
 date: 2017-07-25
 image:  /images/covers/2017-07-25.jpg
 podcast:
-    feed: https://podcasts.comptoirsecu.fr/SECHebdo/CSEC.SECHebdo.2017-07-25.mp3
+    feed: https://podcasts.comptoirsecu.fr/podcasts/SECHebdo/CSEC.SECHebdo.2017-07-25.mp3
     description: "Épisode du 25 juillet 2017 - SECHebdo est une revue de l'actualité cybersécurité réalisé en live sur Youtube, généralement le mardi soir."
 categories:
  - Podcast

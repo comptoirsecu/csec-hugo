@@ -5,7 +5,7 @@ publisher: comptoirsecu
 date: 2020-11-11
 image:  /images/covers/2020-11-11-sechebdo-vignette.jpg
 podcast:
-    feed: https://podcasts.comptoirsecu.fr/SECHebdo/CSEC.SECHebdo.2020-11-11.m4a
+    feed: https://podcasts.comptoirsecu.fr/podcasts/SECHebdo/CSEC.SECHebdo.2020-11-11.m4a
     description: "Épisode du 11 11 2020 - SECHebdo est une revue de l'actualité cybersécurité réalisée en live sur Youtube, généralement le mercredi soir."
 
 categories:

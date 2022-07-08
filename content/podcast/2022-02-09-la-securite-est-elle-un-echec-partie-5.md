@@ -5,7 +5,7 @@ publisher: comptoirsecu
 date: 2022-02-09
 image: /images/covers/2022-02-09-ep60.jpg
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/CSEC.EP60.2022-02-10.ECHEC_5.m4a
+  feed: https://podcasts.comptoirsecu.fr/podcasts/CSEC.EP60.2022-02-10.ECHEC_5.m4a
 categories:
   - Podcast
   - Emission
