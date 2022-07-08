@@ -7,7 +7,7 @@ date: 2016-03-14T09:00:49+00:00
 
 aliases: /2016/03/sequana-crue-de-seine-jour-6-la-crise-dans-la-duree/
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/HORS_SERIE/CSEC.HS18.2016-03-14.CRUE2016_06.mp3
+  feed: https://podcasts.comptoirsecu.fr/podcasts/HORS_SERIE/CSEC.HS18.2016-03-14.CRUE2016_06.mp3
 views: 2074
 image: /images/covers/2016-03-Crue-Seine-3-cop-slasher-fun1.jpg
 categories:

@@ -5,7 +5,7 @@ publisher: comptoirsecu
 date: 2022-01-26
 image: /images/covers/2022-01-26-ep59.jpg
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/CSEC.EP59.2022-01-26.ECHEC_4.m4a
+  feed: https://podcasts.comptoirsecu.fr/podcasts/CSEC.EP59.2022-01-26.ECHEC_4.m4a
 categories:
   - Podcast
   - Emission

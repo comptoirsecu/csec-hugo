@@ -5,7 +5,7 @@ publisher: comptoirsecu
 date: 2019-12-17
 image:  /images/covers/2019-12-17-sechebdo-vignette.jpg
 podcast:
-    feed: https://podcasts.comptoirsecu.fr/SECHebdo/CSEC.SECHebdo.2019-12-17.m4a
+    feed: https://podcasts.comptoirsecu.fr/podcasts/SECHebdo/CSEC.SECHebdo.2019-12-17.m4a
     description: "Épisode du 17 12 2019 - SECHebdo est une revue de l'actualité cybersécurité réalisée en live sur Youtube, généralement le mardi soir."
 
 categories:

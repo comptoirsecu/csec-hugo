@@ -5,7 +5,7 @@ publisher: comptoirsecu
 date: 2017-10-03
 image:  /images/covers/2017-10-04-sechebdo-2017-10-03-vignette.jpg
 podcast:
-    feed: https://podcasts.comptoirsecu.fr/SECHebdo/CSEC.SECHebdo.2017-10-03.mp3
+    feed: https://podcasts.comptoirsecu.fr/podcasts/SECHebdo/CSEC.SECHebdo.2017-10-03.mp3
     description: "Épisode du 03 Octobre 2017 - SECHebdo est une revue de l'actualité cybersécurité réalisé en live sur Youtube, généralement le mardi soir."
 
 categories:

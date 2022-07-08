@@ -7,7 +7,7 @@ date: 2016-02-15T10:16:48+00:00
 
 aliases: /2016/02/fic2016-3-nolimitsecu/
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/HORS_SERIE/CSEC.HS11.2016-01-25.FIC2016.NOLIMIT_SECU.mp3
+  feed: https://podcasts.comptoirsecu.fr/podcasts/HORS_SERIE/CSEC.HS11.2016-01-25.FIC2016.NOLIMIT_SECU.mp3
 views: 1439
 image: /images/covers/2016-02-Capture.jpg
 categories:

@@ -6,7 +6,7 @@ date: 2016-10-31T22:42:42+00:00
 
 aliases: /2016/10/episode-39-mirai-le-botnet-dobjets-connectes/
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/CSEC.EP39.2016-10-31.MIRAI.mp3
+  feed: https://podcasts.comptoirsecu.fr/podcasts/CSEC.EP39.2016-10-31.MIRAI.mp3
 views: 2540
 
 image: /images/covers/2016-10-mirai.jpg

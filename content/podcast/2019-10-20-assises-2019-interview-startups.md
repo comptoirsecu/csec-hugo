@@ -5,7 +5,7 @@ publisher: comptoirsecu
 date: 2019-10-20
 image: /images/covers/2019-10-15-2019-10-assises2019.jpg
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/HORS_SERIE/CSEC.HS35.2019-10-16.ASSISES_STARTUPS.m4a
+  feed: https://podcasts.comptoirsecu.fr/podcasts/HORS_SERIE/CSEC.HS35.2019-10-16.ASSISES_STARTUPS.m4a
 categories:
   - Podcast
   - Hors-Serie

@@ -7,7 +7,7 @@ date: 2014-04-16T11:44:51+00:00
 
 aliases: /2014/04/episode-17-bring-your-own-suze/
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/CSEC.EP17.2014-04-15.BYOS.mp3
+  feed: https://podcasts.comptoirsecu.fr/podcasts/CSEC.EP17.2014-04-15.BYOS.mp3
 views: 15663
 image: /images/covers/2014-04-suze.jpg
 categories:

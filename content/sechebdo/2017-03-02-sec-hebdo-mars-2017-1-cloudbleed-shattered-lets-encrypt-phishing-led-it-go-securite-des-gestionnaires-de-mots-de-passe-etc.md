@@ -8,7 +8,7 @@ video: "iMxqFpOtuvw"
 
 aliases: /2017/03/sec-hebdo-mars-2017-1-cloudbleed-shattered-lets-encrypt-phishing-led-it-go-securite-des-gestionnaires-de-mots-de-passe-etc/
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/SECHebdo/CSEC.SECHebdo.2017-03-02.mp3
+  feed: https://podcasts.comptoirsecu.fr/podcasts/SECHebdo/CSEC.SECHebdo.2017-03-02.mp3
 image: /images/covers/2017-03-mars-2017-1.jpg
 categories:
   - Podcast

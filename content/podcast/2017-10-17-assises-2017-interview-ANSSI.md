@@ -5,7 +5,7 @@ publisher: comptoirsecu
 date: 2017-10-17
 image: /images/covers/2017-10-17-anssi_assises.jpg
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/HORS_SERIE/CSEC.HS31.2017-10-14.ASSISES_ANSSI.mp3
+  feed: https://podcasts.comptoirsecu.fr/podcasts/HORS_SERIE/CSEC.HS31.2017-10-14.ASSISES_ANSSI.mp3
 categories:
   - Podcast
   - Hors-Serie

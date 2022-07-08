@@ -5,7 +5,7 @@ publisher: comptoirsecu
 date: 2017-10-12
 image: /images/covers/2017-10-12-assises2017.jpg
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/HORS_SERIE/CSEC.HS29.2017-10-12.ASSISES_jour1.mp3
+  feed: https://podcasts.comptoirsecu.fr/podcasts/HORS_SERIE/CSEC.HS29.2017-10-12.ASSISES_jour1.mp3
 categories:
   - Podcast
   - Hors-Serie

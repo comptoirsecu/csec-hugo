@@ -6,7 +6,7 @@ date: 2017-06-14
 
 image: /images/covers/2017-06-14.jpg
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/CSEC.EP44.2017-05-29.JEUX_VIDEO-3.mp3
+  feed: https://podcasts.comptoirsecu.fr/podcasts/CSEC.EP44.2017-05-29.JEUX_VIDEO-3.mp3
 
 
 aliases: /2017/06/episode-44-la-securite-dans-le-monde-du-jeux-video-partie-33-lanti-piratage/

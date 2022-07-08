@@ -5,7 +5,7 @@ publisher: comptoirsecu
 date: 2021-12-31
 image: /images/covers/2021-12-31-echec-2.jpg
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/CSEC.EP57.2021-12-31.ECHEC_2.m4a
+  feed: https://podcasts.comptoirsecu.fr/podcasts/CSEC.EP57.2021-12-31.ECHEC_2.m4a
 categories:
   - Podcast
   - Emission

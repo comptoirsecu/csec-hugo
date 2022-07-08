@@ -6,7 +6,7 @@ date: 2016-09-16T18:55:43+00:00
 
 aliases: /2016/09/ndh2016-1-securite-et-vie-prive-sous-windows-10/
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/HORS_SERIE/CSEC.HS23.2016-07-02.NDH2k16_Windows10.mp3
+  feed: https://podcasts.comptoirsecu.fr/podcasts/HORS_SERIE/CSEC.HS23.2016-07-02.NDH2k16_Windows10.mp3
 views: 923
 image: /images/covers/2016-09-ndh2k16.jpg
 categories:

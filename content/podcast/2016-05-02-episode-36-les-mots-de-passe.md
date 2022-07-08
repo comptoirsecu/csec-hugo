@@ -7,7 +7,7 @@ date: 2016-05-02T19:26:21+00:00
 
 aliases: /2016/05/episode-36-les-mots-de-passe/
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/CSEC.EP36.2016-05-02.MOTS_DE_PASSE.mp3
+  feed: https://podcasts.comptoirsecu.fr/podcasts/CSEC.EP36.2016-05-02.MOTS_DE_PASSE.mp3
 views: 8044
 image: /images/covers/2016-05-mots-de-passe.jpg
 

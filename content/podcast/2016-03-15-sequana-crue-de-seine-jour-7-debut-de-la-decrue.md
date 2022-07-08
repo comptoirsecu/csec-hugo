@@ -7,7 +7,7 @@ date: 2016-03-15T09:00:05+00:00
 
 aliases: /2016/03/sequana-crue-de-seine-jour-7-debut-de-la-decrue/
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/HORS_SERIE/CSEC.HS19.2016-03-15.CRUE2016_07.mp3
+  feed: https://podcasts.comptoirsecu.fr/podcasts/HORS_SERIE/CSEC.HS19.2016-03-15.CRUE2016_07.mp3
 
 views: 1816
 image: /images/covers/2016-03-jet-seine-1.jpg

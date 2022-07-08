@@ -6,7 +6,7 @@ date: 2016-10-12T21:40:50+00:00
 
 aliases: /2016/10/assises-2016-retour-global-avec-nolimitsecu/
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/HORS_SERIE/CSEC.HS28.2016-10-12.ASSISES_NoLimitSecu.mp3
+  feed: https://podcasts.comptoirsecu.fr/podcasts/HORS_SERIE/CSEC.HS28.2016-10-12.ASSISES_NoLimitSecu.mp3
 views: 1363
 
 image: /images/covers/2016-10-assises2016.jpg

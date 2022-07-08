@@ -8,7 +8,7 @@ date: 2014-01-14T10:00:13+00:00
 aliases: /2014/01/episode-11-ou-lon-parle-de-scada-et-des-objets-connectes/
 views: 2903
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/CSEC.EP11.2014-01-13.SCADA.mp3
+  feed: https://podcasts.comptoirsecu.fr/podcasts/CSEC.EP11.2014-01-13.SCADA.mp3
 image: /images/covers/2014-01-5307999284_4e7cc2766a_o.jpg
 categories:
   - Podcast

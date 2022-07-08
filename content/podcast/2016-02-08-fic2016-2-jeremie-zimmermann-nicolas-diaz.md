@@ -7,7 +7,7 @@ date: 2016-02-08T08:49:58+00:00
 
 aliases: /2016/02/fic2016-2-jeremie-zimmermann-nicolas-diaz/
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/HORS_SERIE/CSEC.HS10.2016-01-25.FIC2016.JEREMIE_ZIMMERMANN_NICOLAS_DIAZ.mp3
+  feed: https://podcasts.comptoirsecu.fr/podcasts/HORS_SERIE/CSEC.HS10.2016-01-25.FIC2016.JEREMIE_ZIMMERMANN_NICOLAS_DIAZ.mp3
 views: 1583
 image: /images/covers/2016-02-Capture.jpg
 categories:

@@ -6,7 +6,7 @@ date: 2015-06-05T09:43:11+00:00
 
 aliases: /2015/06/episode-27-actualite-mai/
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/CSEC.EP27.2015-06-05.ACTU_MAI.mp3
+  feed: https://podcasts.comptoirsecu.fr/podcasts/CSEC.EP27.2015-06-05.ACTU_MAI.mp3
 views: 5187
 image: /images/covers/2015-06-Ransomware_FBI.jpg
 categories:

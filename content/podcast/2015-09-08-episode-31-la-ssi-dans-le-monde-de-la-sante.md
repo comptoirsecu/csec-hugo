@@ -8,7 +8,7 @@ date: 2015-09-08T20:12:26+00:00
 aliases: /2015/09/episode-31-la-ssi-dans-le-monde-de-la-sante/
 views: 4211
 podcast:
-  feed: https://podcasts.comptoirsecu.fr/CSEC.EP31.2015-09-08.SANTE.mp3
+  feed: https://podcasts.comptoirsecu.fr/podcasts/CSEC.EP31.2015-09-08.SANTE.mp3
 image: /images/covers/2015-09-pgssi-s.jpg
 categories:
   - Podcast
