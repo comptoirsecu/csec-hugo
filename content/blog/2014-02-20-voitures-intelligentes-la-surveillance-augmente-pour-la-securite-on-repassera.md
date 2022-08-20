@@ -19,8 +19,6 @@ tags:
 ---
 Le COSI (Comité permanent de la sécurité intérieure), ayant pour but de renforcer la coopération entre les différentes polices d’Europe, a récemment adopté un [programme 2014-2020](http://www.statewatch.org/news/2014/jan/eu-enlets-wp-2014-2020.pdf).
 
-![Course-poursuite-mortelle_article_landscape_pm_v8](/images/misc/2014-02-Course-poursuite-mortelle_article_landscape_pm_v8.jpg)
-
 Mise à part quelques sections faisant tiquer comme un projet de partage des connaissances sur les systèmes vidéos pour améliorer la surveillance, on tombe là-dessus :
 
 > Remote Stopping Vehicles
