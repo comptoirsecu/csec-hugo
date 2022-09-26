@@ -119,6 +119,11 @@ galadrim:
   name: Galadrim
   description: "Membre de l'organisation de BotConf"
   image: comptoirsecu.jpg
+  
+woundride:
+  name: woundride
+  description: "TODO"
+  image: comptoirsecu.jpg
 
 das:
   name: das
