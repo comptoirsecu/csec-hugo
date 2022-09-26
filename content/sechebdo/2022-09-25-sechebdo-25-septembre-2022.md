@@ -5,7 +5,7 @@ publisher: comptoirsecu
 date: 2022-09-25
 image:  /images/covers/2022-09-25-sechebdo-2022-09-25-vignette.jpg
 podcast:
-    feed: https://podcasts.comptoirsecu.fr/SECHebdo/CSEC.SECHebdo.2022-09-25.m4a
+    feed: https://podcasts.comptoirsecu.fr/podcasts/SECHebdo/CSEC.SECHebdo.2022-09-25.m4a
     description: "Épisode du 2022-09-25 - SECActu est une revue de l'actualité cybersécurité réalisée en live sur Youtube, en général une fois par mois."
 
 categories:
@@ -28,7 +28,7 @@ chaptermarks:
 
 Nous venons de tourner un nouveau SECHebdo en live sur Youtube. Comme d'habitude, si vous avez raté l'enregistrement, vous pouvez le retrouver sur notre chaîne Youtube (vidéo ci-dessus) ou bien au format podcast audio:
 
-{{ < podigee > }}
+{{< podigee >}}
 
 Notre discord : <http://discord.comptoirsecu.fr>
 
