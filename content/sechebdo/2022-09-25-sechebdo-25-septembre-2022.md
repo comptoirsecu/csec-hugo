@@ -3,7 +3,7 @@ title: '[SECActu] 25 Sept 2022'
 subheadline: "MFA under attack, CHSF, OCD, Priorisation IR, Teams Tokens, Albanie, etc."
 publisher: comptoirsecu
 date: 2022-09-25
-image:  /images/covers/2022-09-25-sechebdo-2022-09-25-vignette.jpg
+image:  /images/covers/2022-09-25-sechebdo-vignette.jpg
 podcast:
     feed: https://podcasts.comptoirsecu.fr/podcasts/SECHebdo/CSEC.SECHebdo.2022-09-25.m4a
     description: "Épisode du 2022-09-25 - SECActu est une revue de l'actualité cybersécurité réalisée en live sur Youtube, en général une fois par mois."
