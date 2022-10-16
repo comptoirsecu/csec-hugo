@@ -5,7 +5,7 @@ publisher: comptoirsecu
 date: 2022-10-16
 image:  /images/covers/2022-10-16-sechebdo-vignette.jpg
 podcast:
-    feed: https://podcasts.comptoirsecu.fr/SECHebdo/CSEC.SECHebdo.2022-10-16.m4a
+    feed: https://podcasts.comptoirsecu.fr/podcasts/SECHebdo/CSEC.SECHebdo.2022-10-16.m4a
     description: "Épisode du 2022-10-16 - SEC Actu est une revue de l'actualité cybersécurité réalisée en live sur Youtube, quand on voit des choses intéressantes."
 
 categories:
