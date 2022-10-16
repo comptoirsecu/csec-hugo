@@ -3,7 +3,7 @@ title: '[SECActu] 16 Oct 2022'
 subheadline: "Exchange, Uber, Implant ESX Bad VIB(E)S,  PassKeys, Assises de la sécurité, etc."
 publisher: comptoirsecu
 date: 2022-10-16
-image:  /images/covers/2022-10-16-sechebdo-vignette.jpg
+image:  /images/covers/2022-10-16-secactu-vignette.jpg
 podcast:
     feed: https://podcasts.comptoirsecu.fr/podcasts/SECHebdo/CSEC.SECHebdo.2022-10-16.m4a
     description: "Épisode du 2022-10-16 - SEC Actu est une revue de l'actualité cybersécurité réalisée en live sur Youtube, quand on voit des choses intéressantes."
@@ -34,7 +34,7 @@ chaptermarks:
 
 Nous venons de tourner un nouveau SECActu en live sur Discord. Comme d'habitude, si vous avez raté l'enregistrement, vous pouvez le retrouver sur vos lecteurs de podcast préférés, ou ci-dessous :
 
-{{ &lt;podigee&gt; }}
+{{ <podigee> }}
 
 Notre discord : <http://discord.comptoirsecu.fr>
 
