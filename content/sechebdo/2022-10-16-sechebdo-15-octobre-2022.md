@@ -23,6 +23,9 @@ authors:
   - morgan
   - lois
   - woundride
+  
+guests:
+  - newsoft
 
 chaptermarks:
   - "00:01:30|Todo"
