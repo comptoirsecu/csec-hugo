@@ -122,8 +122,8 @@ galadrim:
   
 woundride:
   name: woundride
-  description: "TODO"
-  image: comptoirsecu.jpg
+  description: "Il nous donne plein de news"
+  image: woundride.jpg
 
 das:
   name: das
