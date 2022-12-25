@@ -408,7 +408,7 @@ alexandre_industriel:
 
 jil:
   name: Jil
-  description: "Couteau Suisse qui aiguise son prochain outil : le décapsuleur. Joue à pacman avec le contrôle interne, fait converger péniblement un SI entier vers les bonnes pratiques."
+  description: "Jouait à pacman avec le contrôle interne. À présent, construit un donjon débordant de pièges pour les attaquants afin de les conduire au bûcher !"
   image: jil.jpg
 
 felix_aime:
@@ -493,5 +493,20 @@ vincent_nguyen:
 
 newsoft:
   name: Nicolas Ruff
-  descripteur: Vieux baroudeur de la sécu, membre du pocast No Limit Sécu
+  description: Vieux baroudeur de la sécu, membre du pocast No Limit Sécu
   anonymous: true
+
+michel_dubois:
+  name: Michel Dubois
+  description: "Michel Dubois est directeur scientifique et technique au sein de la direction de la cybersécurité du Groupe La Poste. Ingénieur en informatique, titulaire d’un mastère spécialisé en Sécurité des Systèmes d’information et docteur en cryptologie, Michel a exercé pendant près de trente ans des fonctions de responsable de la SSI au sein du Ministère des Armées. Il est, par ailleurs enseignant et chercheur associé au sein du laboratoire Confiance Numérique et Sécurité de l'ESIEA à Laval. Il est membre du CESIN et du CLUSIF"
+  anonymous: true
+
+mgb:
+  name: Marie-Gabrielle Bertran
+  anonymous: true
+  description: "Doctorante au sein de l’IFG Lab et chercheuse à GEODE"
+
+kelian:
+  name: Kélian Sanz Pascual
+  anonymous: true
+  description: "Analyste géopolitique, spécialiste de l'espace post-soviétique et du cyberespace russophone chez CASSINI Conseil et chargé de recherche au centre GEODE"
