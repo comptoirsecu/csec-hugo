@@ -16,12 +16,10 @@ tags:
 authors:
   - swithak
   - jil
-  - lois
 
 guests:
   - mgb
   - kelian
-  - felix_aime
 
 songs:
   - smoke_on_the_water
@@ -29,7 +27,7 @@ songs:
 
 ---
 
-Revue de la capacité informatinnelle de la Russie et son expression, entre autres, dans la guerre d'Ukraine.
+Revue de la capacité informationnelle de la Russie et son expression, entre autres, dans la guerre d'Ukraine.
 
 Les débats sont ouverts sur le [Discord du Comptoir](https://discord.comptoirsecu.fr) !
 
