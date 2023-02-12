@@ -41,8 +41,8 @@ A bientôt pour d'autres émissions/podcasts!
 *  Point Ukraine - Russie
     * [3 Key Takeaways From Our New Russia-Ukraine War Report | Flashpoint](https://flashpoint.io/blog/3-key-takeaways-from-russia-ukraine-war-report/)
     * [Russian &#39;hacktivists&#39; briefly knock German websites offline | Reuters](https://www.reuters.com/world/europe/russian-hacktivists-briefly-knock-german-websites-offline-2023-01-25/)
-    * [https](https://twitter.com/sekoia_io/status/1617536283081084928)
-    * [https](https://twitter.com/SwitHak/status/1623820971504181249)
+    * [Twitter Sekoia](https://twitter.com/sekoia_io/status/1617536283081084928)
+    * [Twitter SwitHak](https://twitter.com/SwitHak/status/1623820971504181249)
     * [PDF Document](https://www.hhs.gov/sites/default/files/killnet-analyst-note.pdf)
 * ESXi &#43; panorama
 *  Qbot
