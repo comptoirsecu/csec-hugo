@@ -16,8 +16,8 @@ tags:
  -
 
 authors:
-  - jil
-  - siwthak
+  - Jil
+  - swithak
   - woundride
 
 chaptermarks:
