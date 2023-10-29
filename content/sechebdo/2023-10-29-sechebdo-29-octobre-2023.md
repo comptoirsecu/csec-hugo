@@ -18,9 +18,9 @@ tags:
  - Pegasus
 
 authors:
-  - Jil
+  - jil
   - woundride
-  - Blafarus
+  - blafarus
 
 chaptermarks:
   - "00:01:30|Todo"
