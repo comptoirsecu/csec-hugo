@@ -56,13 +56,13 @@ A bientôt pour d'autres émissions/podcasts!
     * [	The evolution of Windows authentication | Windows IT Pro Blog](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/the-evolution-of-windows-authentication/ba-p/3926848)
     * [Disabling NTLM Authentication Guide – part 1 – Prerequisites – Will&#39;s Tech Blog](https://willssysadmintechblog.wordpress.com/2023/08/22/disabling-ntlm-authentication-guide-part-1/)
 *  Sécurisation AD
-    * [PDF Document](https://www.ssi.gouv.fr/uploads/IMG/pdf/NP_ActiveDirectory_NoteTech.pdf)
-    * [401 Unauthorized](https://www.cert.ssi.gouv.fr/dur/CERTFR-2020-DUR-001/)
+    * [Note technique](https://www.ssi.gouv.fr/uploads/IMG/pdf/NP_ActiveDirectory_NoteTech.pdf)
+    * [Durciessement AD](https://www.cert.ssi.gouv.fr/dur/CERTFR-2020-DUR-001/)
     * [Recommandations pour l’administration sécurisée des SI reposant sur AD | ANSSI](https://cyber.gouv.fr/publications/recommandations-pour-ladministration-securisee-des-si-reposant-sur-ad)
-    * [401 Unauthorized](https://cert.ssi.gouv.fr/uploads/ad_checklist.html)
+    * [Contrôles](https://cert.ssi.gouv.fr/uploads/ad_checklist.html)
 *  Corner vuln
     * [Citrix Bleed: Leaking Session Tokens with CVE-2023-4966](https://www.assetnote.io/resources/research/citrix-bleed-leaking-session-tokens-with-cve-2023-4966)
-    * [401 Unauthorized](https://cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-012/)
+    * [Alerte CERT-FR](https://cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-012/)
 *  arrestations
     * [Ragnar Locker ransomware gang taken down by international police swoop | Europol](https://www.europol.europa.eu/media-press/newsroom/news/ragnar-locker-ransomware-gang-taken-down-international-police-swoop)
     * [Commandement de la Gendarmerie dans le cyberespace • ComCyberGEND on LinkedIn: #eurojust #europol | 27 comments](https://www.linkedin.com/posts/comcybergend_eurojust-europol-ugcPost-7121449437117194240-gAxt)
