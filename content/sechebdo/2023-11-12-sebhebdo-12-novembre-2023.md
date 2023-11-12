@@ -1,6 +1,6 @@
 ---
 title: '[SECActu] 12 Nov 2023'
-subheadline: "RSSI au tirbunal, Executive Order sur l&#39;IA, Bundle de données de contact, Implémentation OAuth, Kaspersky vs APT, CornerVuln, etc..."
+subheadline: "RSSI au tirbunal, Executive Order sur l'IA, Bundle de données de contact, Implémentation OAuth, Kaspersky vs APT, CornerVuln, etc..."
 publisher: comptoirsecu
 date: 2023-11-12
 image:  /images/covers/2023-11-12-secactu-vignette.jpg
