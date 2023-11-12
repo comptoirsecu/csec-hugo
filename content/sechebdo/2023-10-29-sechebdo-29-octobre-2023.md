@@ -53,7 +53,7 @@ A bientôt pour d'autres émissions/podcasts!
 *  OPENSSF liste les paquets malveillants
     * [Introducing OpenSSF’s Malicious Packages Repository - Open Source Security Foundation](https://openssf.org/blog/2023/10/12/introducing-openssfs-malicious-packages-repository/)
 *  Vers la fin de NTLM
-    * [	The evolution of Windows authentication | Windows IT Pro Blog](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/the-evolution-of-windows-authentication/ba-p/3926848)
+    * [The evolution of Windows authentication | Windows IT Pro Blog](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/the-evolution-of-windows-authentication/ba-p/3926848)
     * [Disabling NTLM Authentication Guide – part 1 – Prerequisites – Will&#39;s Tech Blog](https://willssysadmintechblog.wordpress.com/2023/08/22/disabling-ntlm-authentication-guide-part-1/)
 *  Sécurisation AD
     * [Note technique](https://www.ssi.gouv.fr/uploads/IMG/pdf/NP_ActiveDirectory_NoteTech.pdf)
