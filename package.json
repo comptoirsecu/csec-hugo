@@ -21,6 +21,6 @@
     "gulp-responsive": "git+https://github.com/comptoirsecu/gulp-responsive.git",
     "libvips": "0.0.2",
     "postcss-cli": "^6.0.0",
-    "sharp": "0.20.8"
+    "sharp": "0.32.6"
   }
 }
