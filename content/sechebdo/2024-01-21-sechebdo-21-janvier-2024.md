@@ -26,7 +26,7 @@ chaptermarks:
 
 Nous venons de tourner un nouveau SECActu en live sur Discord. Comme d'habitude, si vous avez raté l'enregistrement, vous pouvez le retrouver sur vos lecteurs de podcast préférés, ou ci-dessous :
 
-{{&lt; podigee &gt;}}
+{{< podigee >}}
 
 Notre discord : <http://discord.comptoirsecu.fr>
 
