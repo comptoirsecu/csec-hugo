@@ -42,7 +42,8 @@ A bientôt pour d'autres émissions/podcasts!
 * La Suède victime de cyberattaques dans le contexte de son appartenance à l'OTAN
     * [Cybersécurité : en Suède, une attaque de hackeurs russes paralyse une partie du pays](https://www.latribune.fr/economie/international/cybersecurite-en-suede-une-attaque-de-hackeurs-russes-paralysent-une-partie-du-pays-988588.html)
 *  Protection contre le deepfake
-    * [https://www.technologyreview.com/2024/01/29/1087325/three-ways-we-can-fight-deepfake-porn-taylors-version/?truid=cbf7bf9af6ea46498c3ee52ccdd9b5c0](https://www.technologyreview.com/2024/01/29/1087325/three-ways-we-can-fight-deepfake-porn-taylors-version/?truid=cbf7bf9af6ea46498c3ee52ccdd9b5c0)
+    * [Technology Review - Tailoy Swift](https://www.technologyreview.com/2024/01/29/1087325/three-ways-we-can-fight-deepfake-porn-taylors-version/?truid=cbf7bf9af6ea46498c3ee52ccdd9b5c0)
+	* [Viédo de sensibilisation partage images enfants](https://youtu.be/F4WZ_k0vUDM?si=kpVY1oLYWmlNolu-)
 *  Arnaque au président et deepfake
     * [Finance worker pays out $25 million after video call with deepfake ‘chief financial officer’ | CNN](https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html)
 *  Stockage de données sur du verre
