@@ -43,7 +43,7 @@ A bientôt pour d'autres émissions/podcasts!
     * [Cybersécurité : en Suède, une attaque de hackeurs russes paralyse une partie du pays](https://www.latribune.fr/economie/international/cybersecurite-en-suede-une-attaque-de-hackeurs-russes-paralysent-une-partie-du-pays-988588.html)
 *  Protection contre le deepfake
     * [Technology Review - Tailoy Swift](https://www.technologyreview.com/2024/01/29/1087325/three-ways-we-can-fight-deepfake-porn-taylors-version/?truid=cbf7bf9af6ea46498c3ee52ccdd9b5c0)
-	* [Viédo de sensibilisation partage images enfants](https://youtu.be/F4WZ_k0vUDM?si=kpVY1oLYWmlNolu-)
+	* [Vidéo de sensibilisation partage images enfants](https://youtu.be/F4WZ_k0vUDM?si=kpVY1oLYWmlNolu-)
 *  Arnaque au président et deepfake
     * [Finance worker pays out $25 million after video call with deepfake ‘chief financial officer’ | CNN](https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html)
 *  Stockage de données sur du verre
@@ -67,10 +67,10 @@ A bientôt pour d'autres émissions/podcasts!
 *  Corner Vuln
     * [CVE-2024-21412: Water Hydra Targets Traders with Microsoft Defender SmartScreen Zero-Day](https://www.trendmicro.com/en_us/research/24/b/cve202421412-water-hydra-targets-traders-with-windows-defender-s.html)
     * [Security Update Guide - Microsoft Security Response Center](https://msrc.microsoft.com/update-guide/fr-fr/advisory/CVE-2024-21410)
-    * [401 Unauthorized](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-005/)
-    * [401 Unauthorized](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-004/)
-    * [401 Unauthorized](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-001/)
-    * [Security Advisory](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2024-0003)
+    * [CERTFR-2024-ALE-005](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-005/)
+    * [CERTFR-2024-ALE-004](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-004/)
+    * [CERTFR-2024-ALE-001](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-001/)
+    * [Security Advisory Sonicwall](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2024-0003)
 *  Nouvelle fonctionnalité dans Suricata 8 en dev
     * [8.12. Flow Keywords — Suricata 8.0.0-dev documentation](https://docs.suricata.io/en/latest/rules/flow-keywords.html#flow-bytes-toserver)
     * [8.12. Flow Keywords — Suricata 8.0.0-dev documentation](https://docs.suricata.io/en/latest/rules/flow-keywords.html#flow-bytes-toclient)
