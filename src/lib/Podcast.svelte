@@ -1,10 +1,9 @@
 <script lang="ts">
     import { Button, AccordionItem, Accordion } from 'flowbite-svelte';
     import { ClapperboardPlaySolid, DownloadSolid } from 'flowbite-svelte-icons';
-    import { onMount } from 'svelte';
     import SvelteMarkdown from 'svelte-markdown'
 
-    let readerHidden = $state(false);
+    let readerHidden = $state(true);
     let props = $props();
     const title = props.data.metadata.title;
     const subtitle = props.data.metadata.subtitle ?? '';
@@ -25,13 +24,6 @@
     });
     props.data.metadata.guests?.forEach(guest => {
         guests.push(guest.name);
-    });
-
-    let credits = '';
-
-    onMount(() => {
-        // Hide all the things only when the client has Javascript so that non-js clients can still see the content
-        readerHidden = true;
     });
 </script>   
 
