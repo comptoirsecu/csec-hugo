@@ -1,10 +1,6 @@
-module.exports = {
-    plugins: {
-        autoprefixer: {
-            browsers: [
-                "last 2 versions",
-                "Explorer >= 9",
-            ]
-        }
-    },
-}
+export default {
+  plugins: {
+    tailwindcss: {},
+    autoprefixer: {}
+  }
+};
