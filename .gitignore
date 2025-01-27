@@ -17,3 +17,5 @@ src/images/trash
 *~
 isso.cfg
 *.log
+.svelte-kit/
+build/

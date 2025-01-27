@@ -5,8 +5,8 @@
 	export const prerender = true; // Build static pages
 	let { children } = $props();
 
-	let b1Style: string = '';
-	let b2Style: string = '';
+	let b1Style: string = $state('');
+	let b2Style: string = $state('');
 	if(page.url.pathname == '/') {
 		b1Style = "text-slate-400"
 	} else if(page.url.pathname == '/sechebdo') {
