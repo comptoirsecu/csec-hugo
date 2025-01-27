@@ -47,7 +47,7 @@
                 </audio>
                 {/if}
             </div>
-            <Accordion>
+            <Accordion defaultClass="text-black">
             <AccordionItem open paddingDefault="p-2" paddingFlush="py-2">
                 <span slot="header">Contenu</span>
                 <SvelteMarkdown source={description} />
