@@ -10,6 +10,7 @@
     const url = props.data.metadata.podcast.feed;
     const description = props.data.content.description;
     const links = props.data.content.links;
+    const songs = props.data.metadata.songs ?? null;
     const tags = props.data.metadata.tags.map(tag => `#${tag}`).join(', ');
 
     function formatDate (dateString: string) {
@@ -66,6 +67,16 @@
                     {guests.join(', ')}
                 </p>
             </AccordionItem>
+            {#if songs}
+            <AccordionItem paddingDefault="p-2" paddingFlush="py-2">
+                <span slot="header">Musiques</span>
+                <ul class="list-disc list-inside">
+                    {#each songs as song}
+                    <li><a href="{song.url}">{song.song} ({song.artist})</a></li>
+                    {/each}
+                </ul>
+            </AccordionItem>
+            {/if}
             </Accordion>
         </div>
     </div>

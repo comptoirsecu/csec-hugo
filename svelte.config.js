@@ -17,7 +17,7 @@ const config = {
 
 export default config;*/
 
-import adapter from '@sveltejs/adapter-netlify';
+import adapter from '@sveltejs/adapter-static';
 
 export default {
 	kit: {
