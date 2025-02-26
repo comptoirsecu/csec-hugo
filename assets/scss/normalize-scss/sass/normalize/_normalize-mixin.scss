@@ -1,3 +1,5 @@
+$-normalize-include: null;
+$-normalize-exclude: null;
 // Helper function for the normalize() mixin.
 @function _normalize-include($section, $exclude: null) {
   // Initialize the global variables needed by this function.

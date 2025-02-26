@@ -8,7 +8,7 @@ date: 2017-03-22T00:00:00+00:00
 aliases: /2017/03/episode-41-le-siem-le-soc/
 podcast:
   feed: https://podcasts.comptoirsecu.fr/podcasts/CSEC.EP41.2017-03-21.SOC_SIEM.mp3
-image: /images/covers/2017-03-SOC.jpg
+image: /images/covers/2013-12-TEASER.EP101.jpg 
 categories:
   - Podcast
   - Emission
