@@ -94,6 +94,12 @@ guest = "guests"
           weight = 22
           identifier = "article"
           url = "/blog/"
+      [[menu.left]]
+          name= "CISOned Opinions"
+          parent = "blog"
+          weight = 23
+          identifier = "cisoned_opinion"
+          url="https://blog.hmorgan.net"
   [[menu.left]]
       name = "Podcasts"
       pre = "fa-microphone"
@@ -177,17 +183,6 @@ guest = "guests"
           weight = 64
           identifier = "musiques"
           url="/songs/"
-  [[menu.left]]
-      name= "Blog"
-      pre = "fa-blog"
-      weight = 70
-      identifier = "blog-perso"
-      [[menu.left]]
-          name= "CISOned Opinions"
-          parent = "blog-perso"
-          weight = 71
-          identifier = "cisoned_opinion"
-          url="https://blog.hmorgan.net"
   [[menu.right]]
       name= "Recherche"
       pre = "fa-search"
