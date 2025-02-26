@@ -178,28 +178,16 @@ guest = "guests"
           identifier = "musiques"
           url="/songs/"
   [[menu.left]]
-      name= "Newsletter"
-      pre = "fa-envelope"
+      name= "Blog"
+      pre = "fa-blog"
       weight = 70
-      identifier = "newsletter"
+      identifier = "blog"
       [[menu.left]]
-          name= "Dernière occurence"
-          parent = "newsletter"
+          name= "CISOned Opinions"
+          parent = "blog"
           weight = 71
-          identifier = "newsletter_latest"
-          url="https://news.infosecgur.us/latest"
-      [[menu.left]]
-          name= "Archives"
-          parent = "newsletter"
-          weight = 72
-          identifier = "newsletter_archive"
-          url="https://news.infosecgur.us/"
-      [[menu.left]]
-          name= "S'inscrire"
-          parent = "newsletter"
-          weight = 73
-          identifier = "newsletter_register"
-          url="https://news.infosecgur.us/register"
+          identifier = "cisoned_opinion"
+          url="https://blog.hmorgan.net"
   [[menu.right]]
       name= "Recherche"
       pre = "fa-search"
