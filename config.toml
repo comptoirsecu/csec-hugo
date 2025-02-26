@@ -181,10 +181,10 @@ guest = "guests"
       name= "Blog"
       pre = "fa-blog"
       weight = 70
-      identifier = "blog"
+      identifier = "blog-perso"
       [[menu.left]]
           name= "CISOned Opinions"
-          parent = "blog"
+          parent = "blog-perso"
           weight = 71
           identifier = "cisoned_opinion"
           url="https://blog.hmorgan.net"
