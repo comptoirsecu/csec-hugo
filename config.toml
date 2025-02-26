@@ -15,6 +15,7 @@ pagerSize = 12
 [params]
 # leave empty string when no upcoming live, else put youtube ID
 live = "" 
+disablePostCSS = true
 
 override_fonts = true
 fontbody = "Roboto"

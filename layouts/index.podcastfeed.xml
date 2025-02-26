@@ -18,8 +18,8 @@
         <managingEditor>{{ .Site.Params.Contact }} ({{ .Site.Params.Author }})</managingEditor>
         <webMaster>{{ .Site.Params.Contact }} ({{ .Site.Params.Author }})</webMaster>
         <copyright>{{ .Site.Copyright }}</copyright>
-        <pubDate>{{ dateFormat "2006-01-02T15:04:05-07:00" .Site.LastChange }}</pubDate>
-        <lastBuildDate>{{ dateFormat "2006-01-02T15:04:05-07:00" .Site.LastChange }}</lastBuildDate>
+        <pubDate>{{ dateFormat "2006-01-02T15:04:05-07:00" .Site.Lastmod }}</pubDate>
+        <lastBuildDate>{{ dateFormat "2006-01-02T15:04:05-07:00" .Site.Lastmod }}</lastBuildDate>
         <itunes:author>{{ .Site.Params.Author }}</itunes:author>
         <title>{{ .Site.Title }} - Podcasts</title>
         <webfeeds:cover image="{{ .Site.BaseURL }}/images/hero-blue.jpg" />
